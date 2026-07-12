@@ -28,7 +28,7 @@ export function Hero({ onTypewriterComplete }: HeroProps) {
         {/* Text */}
         <div className="flex-1 text-center md:text-start space-y-5">
           {/* Greeting pill */}
-          <span className="inline-block px-4 py-1.5 rounded-full border border-white/[0.06] bg-white/[0.03] backdrop-blur-sm text-base text-text-secondary">
+          <span dir="ltr" className="inline-block px-4 py-1.5 rounded-full border border-white/[0.06] bg-white/[0.03] backdrop-blur-sm text-base text-text-secondary">
             {t('greeting')}
           </span>
 
