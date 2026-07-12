@@ -1,0 +1,251 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "work": "Work",
+    "articles": "Articles",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Alexandros Tsardoulias",
+    "title": "AI-Native Software Engineer & Marketing Specialist",
+    "description": "I combine technology and marketing to build products with substance.",
+    "cta": "See my work",
+    "ctaSecondary": "Get in touch"
+  },
+  "home": {
+    "summaries": {
+      "about": {
+        "heading": "About me",
+        "description": "Who I am, what I've studied, where I've worked."
+      },
+      "work": {
+        "heading": "What I do",
+        "description": "Services and completed projects."
+      },
+      "articles": {
+        "heading": "Articles",
+        "description": "Thoughts on AI, marketing, and technology."
+      },
+      "contact": {
+        "heading": "Contact",
+        "description": "Find me on social media."
+      }
+    }
+  },
+  "about": {
+    "heading": "About me",
+    "description": "A blend of engineering rigor and marketing intuition. I build AI-native products, write code that matters, and help businesses find their voice in the digital space.",
+    "cta": "See my work",
+    "bio": {
+      "paragraph1": "I'm Alexandros Tsardoulias, an AI-Native Software Engineer and Marketing Specialist. I combine technical expertise with strategic thinking to create solutions that work in the real world.",
+      "paragraph2": "My philosophy is simple: less is more. I prefer clean, functional code and measured design over bloated solutions. I believe technology should serve people — not the other way around.",
+      "paragraph3": "I'm currently focused on how artificial intelligence is changing the way we work, communicate, and create. I write code, analyze data, and build products with meaning."
+    },
+    "education": {
+      "heading": "Education",
+      "items": [
+        {
+          "year": "2020 — 2024",
+          "institution": "Athens University of Economics and Business",
+          "degree": "Bachelor's in Computer Science",
+          "description": "TODO: add details"
+        }
+      ]
+    },
+    "work": {
+      "heading": "Work Experience",
+      "items": [
+        {
+          "year": "2023 — Present",
+          "company": "Freelance",
+          "role": "Software Engineer & Marketing Specialist",
+          "description": "TODO: add details"
+        }
+      ]
+    }
+  },
+  "work": {
+    "heading": "What I do",
+    "description": "From full-stack web apps to go-to-market strategy — I deliver end-to-end solutions. Every project starts with understanding your goals and ends with measurable results.",
+    "cta": "Read my articles",
+    "services": {
+      "heading": "Services",
+      "items": [
+        {
+          "name": "Web Development",
+          "description": "Custom web apps with Next.js, React, and TypeScript. Fast, responsive, and SEO-optimized."
+        },
+        {
+          "name": "Web App Development",
+          "description": "Full-stack web applications with modern frameworks, databases, and cloud infrastructure."
+        },
+        {
+          "name": "Mobile App Development",
+          "description": "Cross-platform mobile apps using React Native and Expo for iOS and Android."
+        },
+        {
+          "name": "Go-To-Market Strategy",
+          "description": "Strategic planning for product launches — positioning, messaging, and go-to-market execution."
+        },
+        {
+          "name": "Marketing Automation",
+          "description": "Automated marketing workflows, email sequences, and lead nurturing systems."
+        },
+        {
+          "name": "Marketing Consulting",
+          "description": "Strategic marketing advisory for startups and small businesses — growth, retention, analytics."
+        },
+        {
+          "name": "Forward-Deployed Engineering",
+          "description": "Embedded engineering solutions — I work alongside your team to solve technical challenges on site."
+        },
+        {
+          "name": "Workflow Automation",
+          "description": "Custom automation solutions to streamline repetitive tasks and business processes."
+        },
+        {
+          "name": "AI & Tech Consulting",
+          "description": "Advisory on AI integration, tooling, architecture, and scaling for modern businesses."
+        },
+        {
+          "name": "Copywriting",
+          "description": "Persuasive, conversion-focused copy for landing pages, emails, ads, and product descriptions."
+        },
+        {
+          "name": "Content Writing",
+          "description": "Articles, blog posts, and long-form content that educates and engages your audience."
+        },
+        {
+          "name": "Technical Documentation",
+          "description": "Clear, comprehensive documentation for APIs, SDKs, and developer-facing products."
+        }
+      ]
+    },
+    "completed": {
+      "heading": "Completed Projects",
+      "items": [
+        {
+          "title": "How AI Is Changing Marketing",
+          "date": "2026-06-15",
+          "category": "Technology",
+          "excerpt": "An analysis of how AI tools are transforming digital marketing.",
+          "slug": "ai-marketing-2026"
+        },
+        {
+          "title": "Modern Web Development in 2026",
+          "date": "2026-05-20",
+          "category": "Technology",
+          "excerpt": "The tools, frameworks, and practices I use for web development today.",
+          "slug": "modern-web-dev"
+        }
+      ]
+    }
+  },
+  "articles": {
+    "heading": "Articles",
+    "description": "Thoughts on AI, software engineering, and modern marketing. I write about what I build, what I learn, and where technology is heading.",
+    "cta": "Get in touch",
+    "filter": {
+      "all": "All",
+      "label": "Category"
+    },
+    "empty": "No articles in this category.",
+    "readMore": "Read more",
+    "backToList": "← Back to articles"
+  },
+  "contact": {
+    "heading": "Contact",
+    "description": "Let's talk. Whether you have a project in mind, a question, or just want to connect — I'm here.",
+    "subtitle": "You can find me on:",
+    "links": [
+      {
+        "platform": "Instagram",
+        "url": "https://instagram.com/alexistdev",
+        "label": "Instagram — @alexistdev"
+      },
+      {
+        "platform": "Email",
+        "url": "mailto:hello@alexist.dev",
+        "label": "Email — hello@alexist.dev"
+      },
+      {
+        "platform": "X (Twitter)",
+        "url": "https://x.com/alexistdev",
+        "label": "X — @alexistdev"
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "https://linkedin.com/in/atsardoulias",
+        "label": "LinkedIn — /in/atsardoulias"
+      },
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/alexistdev",
+        "label": "GitHub — @alexistdev"
+      },
+      {
+        "platform": "Substack",
+        "url": "https://alexistdev.substack.com",
+        "label": "Substack — alexistdev"
+      },
+      {
+        "platform": "Facebook",
+        "url": "https://facebook.com/alexistdev",
+        "label": "Facebook — @alexistdev"
+      },
+      {
+        "platform": "Threads",
+        "url": "https://threads.net/@alexistdev",
+        "label": "Threads — @alexistdev"
+      },
+      {
+        "platform": "Reddit",
+        "url": "https://reddit.com/user/alexistdev",
+        "label": "Reddit — u/alexistdev"
+      },
+      {
+        "platform": "Discord",
+        "url": "https://discord.gg/alexistdev",
+        "label": "Discord — @alexistdev"
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© {year} Alexandros Tsardoulias",
+    "builtWith": "Built with Next.js & Tailwind",
+    "backToTop": "Top"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark",
+    "toggle": "Toggle theme"
+  },
+  "language": {
+    "label": "Language",
+    "el": "Ελληνικά",
+    "en": "English",
+    "ru": "Русский",
+    "de": "Deutsch",
+    "fr": "Français",
+    "it": "Italiano",
+    "es": "Español",
+    "tr": "Türkçe",
+    "pl": "Polski",
+    "uk": "Українська",
+    "nl": "Nederlands"
+  },
+  "common": {
+    "loading": "Loading…",
+    "error": "Something went wrong.",
+    "retry": "Try again",
+    "back": "← Back",
+    "readMore": "Read more"
+  },
+  "404": {
+    "title": "404 — Page not found",
+    "message": "The page you're looking for doesn't exist.",
+    "backHome": "← Back to home"
+  }
+}

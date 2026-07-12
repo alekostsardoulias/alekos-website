@@ -1,0 +1,341 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+
+/* ── Dark-only Design System ── */
+:root {
+  /* Surface hierarchy */
+  --surface-primary: #050508;
+  --surface-secondary: #0a0a10;
+  --surface-elevated: #0f0f18;
+  --surface-tint: rgba(255, 255, 255, 0.02);
+
+  /* Text hierarchy */
+  --text-primary: #f0f0f5;
+  --text-secondary: #a0a0b0;
+  --text-tertiary: #606070;
+
+  /* Borders */
+  --border-default: rgba(255, 255, 255, 0.06);
+  --border-subtle: rgba(255, 255, 255, 0.03);
+
+  /* Neon accent — purple */
+  --accent-purple: #a855f7;
+  --accent-purple-muted: rgba(168, 85, 247, 0.10);
+  --accent-purple-border: rgba(168, 85, 247, 0.20);
+
+  /* Neon accent — blue */
+  --accent-blue: #3b82f6;
+  --accent-blue-muted: rgba(59, 130, 246, 0.10);
+  --accent-blue-border: rgba(59, 130, 246, 0.20);
+
+  /* Gradient */
+  --accent-gradient: linear-gradient(135deg, #a855f7, #6366f1, #3b82f6);
+
+  /* Backward compat — existing components use --accent-warm */
+  --accent-warm: #a855f7;
+  --accent-warm-muted: rgba(168, 85, 247, 0.10);
+  --accent-warm-border: rgba(168, 85, 247, 0.20);
+  --color-accent: #a0a0b0;
+
+  /* Glass-morphism */
+  --glass-bg: rgba(255, 255, 255, 0.03);
+  --glass-border: rgba(255, 255, 255, 0.06);
+  --glass-hover-bg: rgba(255, 255, 255, 0.05);
+  --glass-blur: 16px;
+
+  /* Glow / shadow */
+  --glow-purple: 0 0 30px rgba(168, 85, 247, 0.15);
+  --glow-blue: 0 0 30px rgba(59, 130, 246, 0.15);
+  --glow-strong: 0 0 60px rgba(168, 85, 247, 0.25);
+
+  /* Radii */
+  --radius: 0.75rem;
+  --radius-button: 0.5rem;
+
+  /* Transitions */
+  --default-transition-duration: 200ms;
+  --default-transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+
+  /* ── shadcn/ui compatible mappings ── */
+  --background: var(--surface-primary);
+  --foreground: var(--text-primary);
+  --card: var(--surface-secondary);
+  --card-foreground: var(--text-primary);
+  --popover: var(--surface-elevated);
+  --popover-foreground: var(--text-primary);
+  --primary: var(--accent-purple);
+  --primary-foreground: #f0f0f5;
+  --secondary: var(--surface-elevated);
+  --secondary-foreground: var(--text-primary);
+  --muted: var(--border-default);
+  --muted-foreground: var(--text-secondary);
+  --accent: var(--accent-purple-muted);
+  --accent-foreground: var(--text-primary);
+  --destructive: oklch(0.704 0.191 22.216);
+  --destructive-foreground: #f0f0f5;
+  --border: var(--border-default);
+  --input: var(--border-default);
+  --ring: var(--accent-purple);
+
+  /* Charts */
+  --chart-1: #a855f7;
+  --chart-2: #6366f1;
+  --chart-3: #3b82f6;
+  --chart-4: #8b5cf6;
+  --chart-5: #06b6d4;
+
+  /* Sidebar */
+  --sidebar: var(--surface-secondary);
+  --sidebar-foreground: var(--text-primary);
+  --sidebar-primary: var(--accent-purple);
+  --sidebar-primary-foreground: #f0f0f5;
+  --sidebar-accent: var(--accent-purple-muted);
+  --sidebar-accent-foreground: var(--text-primary);
+  --sidebar-border: var(--border-default);
+  --sidebar-ring: var(--accent-purple);
+}
+
+/* ── Tailwind v4 theme bridge ── */
+@theme inline {
+  /* Surface & text */
+  --color-background: var(--surface-primary);
+  --color-foreground: var(--text-primary);
+  --color-muted: var(--text-secondary);
+  --color-surface-primary: var(--surface-primary);
+  --color-surface-secondary: var(--surface-secondary);
+  --color-surface-elevated: var(--surface-elevated);
+  --color-surface-tint: var(--surface-tint);
+  --color-text-primary: var(--text-primary);
+  --color-text-secondary: var(--text-secondary);
+  --color-text-tertiary: var(--text-tertiary);
+  --color-border: var(--border-default);
+  --color-border-default: var(--border-default);
+  --color-border-subtle: var(--border-subtle);
+
+  /* Accent — legacy compat */
+  --color-accent: var(--color-accent);
+  --color-accent-warm: var(--accent-warm);
+  --color-accent-warm-muted: var(--accent-warm-muted);
+  --color-accent-warm-border: var(--accent-warm-border);
+
+  /* Accent — new neon tokens */
+  --color-accent-purple: var(--accent-purple);
+  --color-accent-purple-muted: var(--accent-purple-muted);
+  --color-accent-purple-border: var(--accent-purple-border);
+  --color-accent-blue: var(--accent-blue);
+  --color-accent-blue-muted: var(--accent-blue-muted);
+  --color-accent-blue-border: var(--accent-blue-border);
+  --color-accent-gradient: var(--accent-gradient);
+
+  /* Glass tokens */
+  --color-glass-bg: var(--glass-bg);
+  --color-glass-border: var(--glass-border);
+  --color-glass-hover-bg: var(--glass-hover-bg);
+
+  /* Glow shadows */
+  --shadow-glow-purple: var(--glow-purple);
+  --shadow-glow-blue: var(--glow-blue);
+  --shadow-glow-strong: var(--glow-strong);
+
+  /* shadcn/ui token bridge */
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+
+  /* Chart colors */
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+
+  /* Sidebar */
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+
+  /* Radii */
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+  --radius-2xl: calc(var(--radius) * 1.8);
+  --radius-3xl: calc(var(--radius) * 2.2);
+  --radius-4xl: calc(var(--radius) * 2.6);
+
+  /* Typography */
+  --font-sans: var(--font-sans);
+}
+
+/* ── Reduced-motion aware animations ── */
+@media (prefers-reduced-motion: no-preference) {
+  @theme {
+    --animate-fade-up: fade-up 0.5s ease-out both;
+    --animate-scale-in: scale-in 0.3s ease-out both;
+    --animate-glow-pulse: glow-pulse 3s ease-in-out infinite;
+    --animate-gradient-shift: gradient-shift 4s ease-in-out infinite;
+    --animate-float: float 6s ease-in-out infinite;
+  }
+
+  @keyframes fade-up {
+    from {
+      opacity: 0;
+      transform: translateY(16px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  @keyframes scale-in {
+    from {
+      opacity: 0;
+      transform: scale(0.95);
+    }
+    to {
+      opacity: 1;
+      transform: scale(1);
+    }
+  }
+
+  @keyframes glow-pulse {
+    0%, 100% {
+      opacity: 0.6;
+    }
+    50% {
+      opacity: 1;
+    }
+  }
+
+  @keyframes gradient-shift {
+    0%, 100% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+  }
+
+  @keyframes float {
+    0%, 100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-8px);
+    }
+  }
+}
+
+/* ── Morph animations (always active) ── */
+@keyframes morph-circle {
+  0%, 100% { transform: scale(0.5); opacity: 0.3; }
+  50% { transform: scale(1.4); opacity: 1; }
+}
+@keyframes morph-line {
+  0%, 100% { transform: rotate(0deg) scaleX(0.5); opacity: 0.3; }
+  50% { transform: rotate(180deg) scaleX(1.4); opacity: 1; }
+}
+@keyframes morph-square {
+  0%, 100% { transform: scale(0.4) rotate(0deg); opacity: 0.2; }
+  50% { transform: scale(1.3) rotate(45deg); opacity: 0.9; }
+}
+@keyframes morph-orb {
+  0%, 100% { transform: translateX(-8px) scale(0.5); opacity: 0.2; }
+  25% { transform: translateY(-8px) scale(1.2); opacity: 1; }
+  50% { transform: translateX(8px) scale(0.6); opacity: 0.4; }
+  75% { transform: translateY(8px) scale(1); opacity: 0.8; }
+}
+
+@keyframes zoom-in {
+  0% { transform: scale(0); opacity: 0; }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+/* ── Gradient text utility ── */
+@utility text-gradient {
+  background-image: var(--accent-gradient);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+/* ── Base layer ── */
+@layer base {
+  body {
+    @apply bg-background text-foreground font-sans;
+  }
+  * {
+    @apply border-border;
+    outline-color: var(--ring);
+    outline-width: 1px;
+  }
+  html {
+    @apply font-sans;
+    font-size: 112.5%;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-sans font-bold tracking-tight;
+  }
+  h1, h2 {
+    text-wrap: balance;
+  }
+}
+
+/* ── Custom cursor (disabled on touch & reduced-motion) ── */
+@media (hover: hover) and (any-pointer: fine) {
+  .has-custom-cursor,
+  .has-custom-cursor * {
+    cursor: none !important;
+  }
+}
+
+.custom-cursor-dot {
+  position: fixed;
+  width: 8px;
+  height: 8px;
+  border-radius: 9999px;
+  background: var(--accent-purple);
+  pointer-events: none;
+  z-index: 9999;
+  transform: translate3d(0, 0, 0);
+  will-change: transform;
+}
+
+.custom-cursor-ring {
+  position: fixed;
+  width: 22px;
+  height: 22px;
+  border-radius: 9999px;
+  border: 1px solid var(--accent-purple);
+  background: transparent;
+  box-shadow: 0 0 12px var(--accent-purple-muted);
+  pointer-events: none;
+  z-index: 9998;
+  transform: translate3d(0, 0, 0);
+  will-change: transform, width, height;
+  transition: width 160ms ease, height 160ms ease;
+}
+
+.custom-cursor-ring.is-interactive {
+  width: 36px;
+  height: 36px;
+  border-color: var(--accent-purple);
+  background: var(--accent-purple-muted);
+}
