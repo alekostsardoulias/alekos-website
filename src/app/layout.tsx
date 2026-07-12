@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import { Geist, Geist_Mono } from 'next/font/google';
 import './globals.css';
+import { cn } from "@/lib/utils";
 
 const geistSans = Geist({
   subsets: ['latin', 'latin-ext'],
@@ -24,5 +25,9 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
-  return <>{children}</>;
+  return (
+    <html lang="en" suppressHydrationWarning className={cn("dark", "h-full", "antialiased", geistSans.variable, geistMono.variable, "font-sans")}>
+      <body className="min-h-full flex flex-col">{children}</body>
+    </html>
+  );
 }
