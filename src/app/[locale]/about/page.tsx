@@ -35,15 +35,11 @@ export default async function AboutPage() {
     <PageLayout>
       <HeroSection headingKey="heading" headingNamespace="about">
         <div className="mt-6 space-y-4 rounded-xl border border-white/[0.06] bg-white/[0.02] backdrop-blur-sm p-5">
-          <p className="text-base lg:text-lg leading-relaxed text-muted">
-            {t('bio.paragraph1')}
-          </p>
-          <p className="text-base lg:text-lg leading-relaxed text-muted">
-            {t('bio.paragraph2')}
-          </p>
-          <p className="text-base lg:text-lg leading-relaxed text-muted">
-            {t('bio.paragraph3')}
-          </p>
+          {(t.raw('bio.paragraphs') as string[]).map((paragraph, i) => (
+            <p key={i} className="text-base lg:text-lg leading-relaxed text-muted">
+              {paragraph}
+            </p>
+          ))}
         </div>
       </HeroSection>
 
