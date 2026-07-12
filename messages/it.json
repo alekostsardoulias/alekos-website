@@ -13,5 +13,630 @@
     "description": "Aiuto founder, startup, PMI e ONG a raggiungere i loro obiettivi unendo tecnologia, filosofia, strategia di crescita e migliori pratiche di comunicazione.",
     "cta": "Il mio lavoro",
     "ctaSecondary": "Contattami"
+  },
+  "home": {
+    "summaries": {
+      "about": {
+        "heading": "Chi sono",
+        "description": "Chi sono, cosa ho studiato, dove ho lavorato."
+      },
+      "work": {
+        "heading": "Cosa faccio",
+        "description": "Servizi e progetti completati."
+      },
+      "articles": {
+        "heading": "Articoli",
+        "description": "Riflessioni su AI, marketing e tecnologia."
+      },
+      "contact": {
+        "heading": "Contatti",
+        "description": "Trovami sui social media."
+      }
+    },
+    "servicesOverview": {
+      "heading": "Cosa faccio",
+      "items": [
+        {
+          "title": "Sviluppo Software",
+          "description": "App web e mobile su misura per le tue esigenze. Veloci, responsive, ottimizzate nei costi, pronte per la SEO."
+        },
+        {
+          "title": "Marketing & Growth",
+          "description": "Strategia go-to-market, automazione del marketing, copy e content writing e campagne orientate alla conversione che producono risultati."
+        },
+        {
+          "title": "AI & Automazione",
+          "description": "Integrazione AI, automazione dei workflow e sistemi intelligenti che fanno crescere il tuo business."
+        },
+        {
+          "title": "Strategia & Consulenza",
+          "description": "Consulenza tecnica, decisioni architetturali e strategia di prodotto per aziende moderne."
+        }
+      ]
+    },
+    "featured": {
+      "heading": "Lavori in evidenza",
+      "viewProject": "Vedi progetto",
+      "items": [
+        {
+          "title": "Come l'IA sta cambiando il marketing",
+          "category": "Tecnologia",
+          "description": "Un'analisi di come gli strumenti di IA stanno trasformando le strategie di marketing digitale nel 2026."
+        },
+        {
+          "title": "Sviluppo web moderno nel 2026",
+          "category": "Tecnologia",
+          "description": "Gli strumenti, i framework e le pratiche che utilizzo per lo sviluppo web oggi."
+        },
+        {
+          "title": "Case study: Redesign e-commerce",
+          "category": "Case Study",
+          "description": "Come ho ridisegnato una piattaforma e-commerce per una migliore UX e il 40% di conversioni in più."
+        }
+      ],
+      "cta": {
+        "heading": "Lavoriamo insieme",
+        "subtitle": "Hai un progetto in mente? Costruiamo qualcosa di grande.",
+        "button": "Contattami"
+      }
+    },
+    "stats": {
+      "heading": "In numeri",
+      "items": [
+        {
+          "value": "50+",
+          "label": "Progetti Completati"
+        },
+        {
+          "value": "5+",
+          "label": "Anni di Esperienza"
+        },
+        {
+          "value": "100+",
+          "label": "Strumenti & Tecnologie"
+        },
+        {
+          "value": "200+",
+          "label": "Articoli Scritti"
+        }
+      ]
+    }
+  },
+  "about": {
+    "heading": "Chi sono",
+    "description": "Un mix di rigore ingegneristico e intuito marketing. Creo prodotti AI-native, scrivo codice che conta e aiuto le aziende a trovare la propria voce nello spazio digitale.",
+    "cta": "Il mio lavoro",
+    "bio": {
+      "paragraph1": "Sono Alexandros Tsardoulias, un AI-Native Software Engineer e Marketing Specialist. Combino competenze tecniche e pensiero strategico per creare soluzioni che funzionano nel mondo reale.",
+      "paragraph2": "La mia filosofia è semplice: meno è meglio. Preferisco codice pulito e funzionale e design misurato rispetto a soluzioni gonfiate. Credo che la tecnologia debba servire le persone — non il contrario.",
+      "paragraph3": "Attualmente mi concentro su come l'intelligenza artificiale sta cambiando il modo in cui lavoriamo, comunichiamo e creiamo. Scrivo codice, analizzo dati e costruisco prodotti con significato."
+    },
+    "education": {
+      "heading": "Formazione",
+      "items": [
+        {
+          "year": "2020 — 2024",
+          "institution": "Athens University of Economics and Business",
+          "degree": "Bachelor's in Computer Science",
+          "description": "TODO: add details"
+        }
+      ]
+    },
+    "work": {
+      "heading": "Esperienza lavorativa",
+      "items": [
+        {
+          "year": "2023 — Present",
+          "company": "Freelance",
+          "role": "Software Engineer & Marketing Specialist",
+          "description": "TODO: add details"
+        }
+      ]
+    },
+    "tools": {
+      "heading": "Tecnologie & Strumenti",
+      "allLabel": "Tutti",
+      "empty": "Nessuno strumento trovato in questa categoria.",
+      "categories": [
+        "Linguaggi di Programmazione",
+        "Front-End & UI/UX",
+        "Back-End/Database",
+        "DevOps & CI/CD",
+        "Marketing & Analytics",
+        "Design & Creatività",
+        "Strumenti IA",
+        "Gestione Progetti"
+      ],
+      "items": [
+        {
+          "name": "React",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Next.js",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "TypeScript",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Tailwind CSS",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "HTML/CSS",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "JavaScript",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Vue.js",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Astro",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Svelte",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Framer Motion",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "shadcn/ui",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Radix UI",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Node.js",
+          "category": "Back-End/Database"
+        },
+        {
+          "name": "Express",
+          "category": "Back-End/Database"
+        },
+        {
+          "name": "Python",
+          "category": "Back-End/Database"
+        },
+        {
+          "name": "FastAPI",
+          "category": "Back-End/Database"
+        },
+        {
+          "name": "REST APIs",
+          "category": "Back-End/Database"
+        },
+        {
+          "name": "GraphQL",
+          "category": "Back-End/Database"
+        },
+        {
+          "name": "tRPC",
+          "category": "Back-End/Database"
+        },
+        {
+          "name": "Prisma",
+          "category": "Back-End/Database"
+        },
+        {
+          "name": "Django",
+          "category": "Back-End/Database"
+        },
+        {
+          "name": "LLMs",
+          "category": "Strumenti IA"
+        },
+        {
+          "name": "OpenAI API",
+          "category": "Strumenti IA"
+        },
+        {
+          "name": "LangChain",
+          "category": "Strumenti IA"
+        },
+        {
+          "name": "RAG",
+          "category": "Strumenti IA"
+        },
+        {
+          "name": "Vector Databases",
+          "category": "Strumenti IA"
+        },
+        {
+          "name": "Prompt Engineering",
+          "category": "Strumenti IA"
+        },
+        {
+          "name": "Midjourney",
+          "category": "Strumenti IA"
+        },
+        {
+          "name": "Stable Diffusion",
+          "category": "Strumenti IA"
+        },
+        {
+          "name": "Claude",
+          "category": "Strumenti IA"
+        },
+        {
+          "name": "AI Agents",
+          "category": "Strumenti IA"
+        },
+        {
+          "name": "Docker",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Git",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "GitHub Actions",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Vercel",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Linux",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Nginx",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "CI/CD",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Supabase",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Cloudflare",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "PostgreSQL",
+          "category": "Back-End/Database"
+        },
+        {
+          "name": "MongoDB",
+          "category": "Back-End/Database"
+        },
+        {
+          "name": "Redis",
+          "category": "Back-End/Database"
+        },
+        {
+          "name": "SQLite",
+          "category": "Back-End/Database"
+        },
+        {
+          "name": "Supabase DB",
+          "category": "Back-End/Database"
+        },
+        {
+          "name": "MySQL",
+          "category": "Back-End/Database"
+        },
+        {
+          "name": "TypeScript",
+          "category": "Linguaggi di Programmazione"
+        },
+        {
+          "name": "JavaScript",
+          "category": "Linguaggi di Programmazione"
+        },
+        {
+          "name": "Python",
+          "category": "Linguaggi di Programmazione"
+        },
+        {
+          "name": "HTML/CSS",
+          "category": "Linguaggi di Programmazione"
+        },
+        {
+          "name": "SQL",
+          "category": "Linguaggi di Programmazione"
+        },
+        {
+          "name": "Bash",
+          "category": "Linguaggi di Programmazione"
+        },
+        {
+          "name": "Markdown",
+          "category": "Linguaggi di Programmazione"
+        },
+        {
+          "name": "Figma",
+          "category": "Design & Creatività"
+        },
+        {
+          "name": "Canva",
+          "category": "Design & Creatività"
+        },
+        {
+          "name": "Adobe Photoshop",
+          "category": "Design & Creatività"
+        },
+        {
+          "name": "UI/UX Design",
+          "category": "Design & Creatività"
+        },
+        {
+          "name": "Responsive Design",
+          "category": "Design & Creatività"
+        },
+        {
+          "name": "Design Systems",
+          "category": "Design & Creatività"
+        },
+        {
+          "name": "Google Analytics",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "SEO",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Meta Ads",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Google Ads",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Email Marketing",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Content Strategy",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Copywriting",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "A/B Testing",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Social Media Marketing",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "VS Code",
+          "category": "Gestione Progetti"
+        },
+        {
+          "name": "Notion",
+          "category": "Gestione Progetti"
+        },
+        {
+          "name": "Slack",
+          "category": "Gestione Progetti"
+        },
+        {
+          "name": "Zapier",
+          "category": "Gestione Progetti"
+        },
+        {
+          "name": "n8n",
+          "category": "Gestione Progetti"
+        },
+        {
+          "name": "Make (Integromat)",
+          "category": "Gestione Progetti"
+        },
+        {
+          "name": "Obsidian",
+          "category": "Gestione Progetti"
+        },
+        {
+          "name": "Linear",
+          "category": "Gestione Progetti"
+        }
+      ]
+    }
+  },
+  "work": {
+    "heading": "Cosa faccio",
+    "description": "Dalle applicazioni web full-stack alla strategia go-to-market — offro soluzioni end-to-end. Ogni progetto inizia con la comprensione dei tuoi obiettivi e termina con risultati misurabili.",
+    "cta": "Leggi i miei articoli",
+    "services": {
+      "heading": "Services",
+      "items": [
+        {
+          "name": "Web Development",
+          "description": "Custom web apps with Next.js, React, and TypeScript. Fast, responsive, and SEO-optimized."
+        },
+        {
+          "name": "Web App Development",
+          "description": "Full-stack web applications with modern frameworks, databases, and cloud infrastructure."
+        },
+        {
+          "name": "Mobile App Development",
+          "description": "Cross-platform mobile apps using React Native and Expo for iOS and Android."
+        },
+        {
+          "name": "Go-To-Market Strategy",
+          "description": "Strategic planning for product launches — positioning, messaging, and go-to-market execution."
+        },
+        {
+          "name": "Marketing Automation",
+          "description": "Automated marketing workflows, email sequences, and lead nurturing systems."
+        },
+        {
+          "name": "Marketing Consulting",
+          "description": "Strategic marketing advisory for startups and small businesses — growth, retention, analytics."
+        },
+        {
+          "name": "Forward-Deployed Engineering",
+          "description": "Embedded engineering solutions — I work alongside your team to solve technical challenges on site."
+        },
+        {
+          "name": "Workflow Automation",
+          "description": "Custom automation solutions to streamline repetitive tasks and business processes."
+        },
+        {
+          "name": "AI & Tech Consulting",
+          "description": "Advisory on AI integration, tooling, architecture, and scaling for modern businesses."
+        },
+        {
+          "name": "Copywriting",
+          "description": "Persuasive, conversion-focused copy for landing pages, emails, ads, and product descriptions."
+        },
+        {
+          "name": "Content Writing",
+          "description": "Articles, blog posts, and long-form content that educates and engages your audience."
+        },
+        {
+          "name": "Technical Documentation",
+          "description": "Clear, comprehensive documentation for APIs, SDKs, and developer-facing products."
+        }
+      ]
+    },
+    "completed": {
+      "heading": "Completed Projects",
+      "items": [
+        {
+          "title": "How AI Is Changing Marketing",
+          "date": "2026-06-15",
+          "category": "Technology",
+          "excerpt": "An analysis of how AI tools are transforming digital marketing.",
+          "slug": "ai-marketing-2026"
+        },
+        {
+          "title": "Modern Web Development in 2026",
+          "date": "2026-05-20",
+          "category": "Technology",
+          "excerpt": "The tools, frameworks, and practices I use for web development today.",
+          "slug": "modern-web-dev"
+        }
+      ]
+    }
+  },
+  "articles": {
+    "heading": "Articoli",
+    "description": "Riflessioni su AI, ingegneria del software e marketing moderno. Scrivo di ciò che costruisco, di ciò che imparo e di dove sta andando la tecnologia.",
+    "cta": "Contattami",
+    "filter": {
+      "all": "Tutti",
+      "label": "Categoria"
+    },
+    "empty": "Nessun articolo in questa categoria.",
+    "readMore": "Leggi di più",
+    "backToList": "← Torna agli articoli"
+  },
+  "contact": {
+    "heading": "Contatti",
+    "description": "Parliamone. Che tu abbia un progetto in mente, una domanda o voglia solo connetterti — sono qui.",
+    "subtitle": "Puoi trovarmi su:",
+    "links": [
+      {
+        "platform": "Instagram",
+        "url": "https://instagram.com/alexistdev",
+        "label": "Instagram — @alexistdev"
+      },
+      {
+        "platform": "X (Twitter)",
+        "url": "https://x.com/alexistdev",
+        "label": "X — @alexistdev"
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "https://linkedin.com/in/atsardoulias",
+        "label": "LinkedIn — /in/atsardoulias"
+      },
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/alexistdev",
+        "label": "GitHub — @alexistdev"
+      },
+      {
+        "platform": "Substack",
+        "url": "https://alexistdev.substack.com",
+        "label": "Substack — alexistdev"
+      },
+      {
+        "platform": "Facebook",
+        "url": "https://facebook.com/alexistdev",
+        "label": "Facebook — @alexistdev"
+      },
+      {
+        "platform": "Threads",
+        "url": "https://threads.net/@alexistdev",
+        "label": "Threads — @alexistdev"
+      },
+      {
+        "platform": "Reddit",
+        "url": "https://reddit.com/user/alexistdev",
+        "label": "Reddit — u/alexistdev"
+      },
+      {
+        "platform": "Email",
+        "url": "mailto:hello@alexist.dev",
+        "label": "Email — hello@alexist.dev"
+      },
+      {
+        "platform": "Discord",
+        "url": "https://discord.gg/alexistdev",
+        "label": "Discord — @alexistdev"
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© {year} Alexandros Tsardoulias",
+    "builtWith": "Realizzato con Next.js & Tailwind",
+    "backToTop": "Torna su"
+  },
+  "theme": {
+    "light": "Chiaro",
+    "dark": "Scuro",
+    "toggle": "Cambia tema"
+  },
+  "language": {
+    "label": "Lingua",
+    "el": "Ελληνικά",
+    "en": "English",
+    "ru": "Русский",
+    "de": "Deutsch",
+    "fr": "Français",
+    "it": "Italiano",
+    "es": "Español",
+    "tr": "Türkçe",
+    "pl": "Polski",
+    "nl": "Nederlands",
+    "ua": "Українська",
+    "il": "עברית",
+    "ae": "العربية"
+  },
+  "common": {
+    "loading": "Caricamento…",
+    "error": "Qualcosa è andato storto.",
+    "retry": "Riprova",
+    "back": "← Indietro",
+    "readMore": "Leggi di più"
+  },
+  "404": {
+    "title": "404 — Pagina non trovata",
+    "message": "La pagina che stai cercando non esiste.",
+    "backHome": "← Torna alla home"
   }
 }

@@ -148,82 +148,310 @@
         "Διαχείριση Έργων"
       ],
       "items": [
-        {"name":"React","category":"Front-End & UI/UX"},
-        {"name":"Next.js","category":"Front-End & UI/UX"},
-        {"name":"TypeScript","category":"Front-End & UI/UX"},
-        {"name":"Tailwind CSS","category":"Front-End & UI/UX"},
-        {"name":"HTML/CSS","category":"Front-End & UI/UX"},
-        {"name":"JavaScript","category":"Front-End & UI/UX"},
-        {"name":"Vue.js","category":"Front-End & UI/UX"},
-        {"name":"Astro","category":"Front-End & UI/UX"},
-        {"name":"Svelte","category":"Front-End & UI/UX"},
-        {"name":"Framer Motion","category":"Front-End & UI/UX"},
-        {"name":"shadcn/ui","category":"Front-End & UI/UX"},
-        {"name":"Radix UI","category":"Front-End & UI/UX"},
-        {"name":"Node.js","category":"Back-End/Βάσεις Δεδομένων"},
-        {"name":"Express","category":"Back-End/Βάσεις Δεδομένων"},
-        {"name":"Python","category":"Back-End/Βάσεις Δεδομένων"},
-        {"name":"FastAPI","category":"Back-End/Βάσεις Δεδομένων"},
-        {"name":"REST APIs","category":"Back-End/Βάσεις Δεδομένων"},
-        {"name":"GraphQL","category":"Back-End/Βάσεις Δεδομένων"},
-        {"name":"tRPC","category":"Back-End/Βάσεις Δεδομένων"},
-        {"name":"Prisma","category":"Back-End/Βάσεις Δεδομένων"},
-        {"name":"Django","category":"Back-End/Βάσεις Δεδομένων"},
-        {"name":"LLMs","category":"Εργαλεία AI"},
-        {"name":"OpenAI API","category":"Εργαλεία AI"},
-        {"name":"LangChain","category":"Εργαλεία AI"},
-        {"name":"RAG","category":"Εργαλεία AI"},
-        {"name":"Vector Databases","category":"Εργαλεία AI"},
-        {"name":"Prompt Engineering","category":"Εργαλεία AI"},
-        {"name":"Midjourney","category":"Εργαλεία AI"},
-        {"name":"Stable Diffusion","category":"Εργαλεία AI"},
-        {"name":"Claude","category":"Εργαλεία AI"},
-        {"name":"AI Agents","category":"Εργαλεία AI"},
-        {"name":"Docker","category":"DevOps & CI/CD"},
-        {"name":"Git","category":"DevOps & CI/CD"},
-        {"name":"GitHub Actions","category":"DevOps & CI/CD"},
-        {"name":"Vercel","category":"DevOps & CI/CD"},
-        {"name":"Linux","category":"DevOps & CI/CD"},
-        {"name":"Nginx","category":"DevOps & CI/CD"},
-        {"name":"CI/CD","category":"DevOps & CI/CD"},
-        {"name":"Supabase","category":"DevOps & CI/CD"},
-        {"name":"Cloudflare","category":"DevOps & CI/CD"},
-        {"name":"PostgreSQL","category":"Back-End/Βάσεις Δεδομένων"},
-        {"name":"MongoDB","category":"Back-End/Βάσεις Δεδομένων"},
-        {"name":"Redis","category":"Back-End/Βάσεις Δεδομένων"},
-        {"name":"SQLite","category":"Back-End/Βάσεις Δεδομένων"},
-        {"name":"Supabase DB","category":"Back-End/Βάσεις Δεδομένων"},
-        {"name":"MySQL","category":"Back-End/Βάσεις Δεδομένων"},
-        {"name":"TypeScript","category":"Γλώσσες Προγραμματισμού"},
-        {"name":"JavaScript","category":"Γλώσσες Προγραμματισμού"},
-        {"name":"Python","category":"Γλώσσες Προγραμματισμού"},
-        {"name":"HTML/CSS","category":"Γλώσσες Προγραμματισμού"},
-        {"name":"SQL","category":"Γλώσσες Προγραμματισμού"},
-        {"name":"Bash","category":"Γλώσσες Προγραμματισμού"},
-        {"name":"Markdown","category":"Γλώσσες Προγραμματισμού"},
-        {"name":"Figma","category":"Σχεδίαση & Δημιουργικό"},
-        {"name":"Canva","category":"Σχεδίαση & Δημιουργικό"},
-        {"name":"Adobe Photoshop","category":"Σχεδίαση & Δημιουργικό"},
-        {"name":"UI/UX Design","category":"Σχεδίαση & Δημιουργικό"},
-        {"name":"Responsive Design","category":"Σχεδίαση & Δημιουργικό"},
-        {"name":"Design Systems","category":"Σχεδίαση & Δημιουργικό"},
-        {"name":"Google Analytics","category":"Marketing & Analytics"},
-        {"name":"SEO","category":"Marketing & Analytics"},
-        {"name":"Meta Ads","category":"Marketing & Analytics"},
-        {"name":"Google Ads","category":"Marketing & Analytics"},
-        {"name":"Email Marketing","category":"Marketing & Analytics"},
-        {"name":"Content Strategy","category":"Marketing & Analytics"},
-        {"name":"Copywriting","category":"Marketing & Analytics"},
-        {"name":"A/B Testing","category":"Marketing & Analytics"},
-        {"name":"Social Media Marketing","category":"Marketing & Analytics"},
-        {"name":"VS Code","category":"Διαχείριση Έργων"},
-        {"name":"Notion","category":"Διαχείριση Έργων"},
-        {"name":"Slack","category":"Διαχείριση Έργων"},
-        {"name":"Zapier","category":"Διαχείριση Έργων"},
-        {"name":"n8n","category":"Διαχείριση Έργων"},
-        {"name":"Make (Integromat)","category":"Διαχείριση Έργων"},
-        {"name":"Obsidian","category":"Διαχείριση Έργων"},
-        {"name":"Linear","category":"Διαχείριση Έργων"}
+        {
+          "name": "React",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Next.js",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "TypeScript",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Tailwind CSS",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "HTML/CSS",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "JavaScript",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Vue.js",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Astro",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Svelte",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Framer Motion",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "shadcn/ui",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Radix UI",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Node.js",
+          "category": "Back-End/Βάσεις Δεδομένων"
+        },
+        {
+          "name": "Express",
+          "category": "Back-End/Βάσεις Δεδομένων"
+        },
+        {
+          "name": "Python",
+          "category": "Back-End/Βάσεις Δεδομένων"
+        },
+        {
+          "name": "FastAPI",
+          "category": "Back-End/Βάσεις Δεδομένων"
+        },
+        {
+          "name": "REST APIs",
+          "category": "Back-End/Βάσεις Δεδομένων"
+        },
+        {
+          "name": "GraphQL",
+          "category": "Back-End/Βάσεις Δεδομένων"
+        },
+        {
+          "name": "tRPC",
+          "category": "Back-End/Βάσεις Δεδομένων"
+        },
+        {
+          "name": "Prisma",
+          "category": "Back-End/Βάσεις Δεδομένων"
+        },
+        {
+          "name": "Django",
+          "category": "Back-End/Βάσεις Δεδομένων"
+        },
+        {
+          "name": "LLMs",
+          "category": "Εργαλεία AI"
+        },
+        {
+          "name": "OpenAI API",
+          "category": "Εργαλεία AI"
+        },
+        {
+          "name": "LangChain",
+          "category": "Εργαλεία AI"
+        },
+        {
+          "name": "RAG",
+          "category": "Εργαλεία AI"
+        },
+        {
+          "name": "Vector Databases",
+          "category": "Εργαλεία AI"
+        },
+        {
+          "name": "Prompt Engineering",
+          "category": "Εργαλεία AI"
+        },
+        {
+          "name": "Midjourney",
+          "category": "Εργαλεία AI"
+        },
+        {
+          "name": "Stable Diffusion",
+          "category": "Εργαλεία AI"
+        },
+        {
+          "name": "Claude",
+          "category": "Εργαλεία AI"
+        },
+        {
+          "name": "AI Agents",
+          "category": "Εργαλεία AI"
+        },
+        {
+          "name": "Docker",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Git",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "GitHub Actions",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Vercel",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Linux",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Nginx",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "CI/CD",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Supabase",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Cloudflare",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "PostgreSQL",
+          "category": "Back-End/Βάσεις Δεδομένων"
+        },
+        {
+          "name": "MongoDB",
+          "category": "Back-End/Βάσεις Δεδομένων"
+        },
+        {
+          "name": "Redis",
+          "category": "Back-End/Βάσεις Δεδομένων"
+        },
+        {
+          "name": "SQLite",
+          "category": "Back-End/Βάσεις Δεδομένων"
+        },
+        {
+          "name": "Supabase DB",
+          "category": "Back-End/Βάσεις Δεδομένων"
+        },
+        {
+          "name": "MySQL",
+          "category": "Back-End/Βάσεις Δεδομένων"
+        },
+        {
+          "name": "TypeScript",
+          "category": "Γλώσσες Προγραμματισμού"
+        },
+        {
+          "name": "JavaScript",
+          "category": "Γλώσσες Προγραμματισμού"
+        },
+        {
+          "name": "Python",
+          "category": "Γλώσσες Προγραμματισμού"
+        },
+        {
+          "name": "HTML/CSS",
+          "category": "Γλώσσες Προγραμματισμού"
+        },
+        {
+          "name": "SQL",
+          "category": "Γλώσσες Προγραμματισμού"
+        },
+        {
+          "name": "Bash",
+          "category": "Γλώσσες Προγραμματισμού"
+        },
+        {
+          "name": "Markdown",
+          "category": "Γλώσσες Προγραμματισμού"
+        },
+        {
+          "name": "Figma",
+          "category": "Σχεδίαση & Δημιουργικό"
+        },
+        {
+          "name": "Canva",
+          "category": "Σχεδίαση & Δημιουργικό"
+        },
+        {
+          "name": "Adobe Photoshop",
+          "category": "Σχεδίαση & Δημιουργικό"
+        },
+        {
+          "name": "UI/UX Design",
+          "category": "Σχεδίαση & Δημιουργικό"
+        },
+        {
+          "name": "Responsive Design",
+          "category": "Σχεδίαση & Δημιουργικό"
+        },
+        {
+          "name": "Design Systems",
+          "category": "Σχεδίαση & Δημιουργικό"
+        },
+        {
+          "name": "Google Analytics",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "SEO",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Meta Ads",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Google Ads",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Email Marketing",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Content Strategy",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Copywriting",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "A/B Testing",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Social Media Marketing",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "VS Code",
+          "category": "Διαχείριση Έργων"
+        },
+        {
+          "name": "Notion",
+          "category": "Διαχείριση Έργων"
+        },
+        {
+          "name": "Slack",
+          "category": "Διαχείριση Έργων"
+        },
+        {
+          "name": "Zapier",
+          "category": "Διαχείριση Έργων"
+        },
+        {
+          "name": "n8n",
+          "category": "Διαχείριση Έργων"
+        },
+        {
+          "name": "Make (Integromat)",
+          "category": "Διαχείριση Έργων"
+        },
+        {
+          "name": "Obsidian",
+          "category": "Διαχείριση Έργων"
+        },
+        {
+          "name": "Linear",
+          "category": "Διαχείριση Έργων"
+        }
       ]
     },
     "philosophy": {
@@ -251,34 +479,94 @@
     "services": {
       "heading": "Υπηρεσίες",
       "items": [
-        {"name":"Web Development","description":"Custom web εφαρμογές με Next.js, React, και TypeScript. Γρήγορες, responsive, και SEO-optimized."},
-        {"name":"Web App Development","description":"Full-stack web εφαρμογές με σύγχρονα frameworks, βάσεις δεδομένων και cloud υποδομές."},
-        {"name":"Mobile App Development","description":"Cross-platform mobile εφαρμογές με React Native και Expo για iOS και Android."},
-        {"name":"Go-To-Market Strategy","description":"Στρατηγικός σχεδιασμός για λανσαρίσματα προϊόντων — positioning, messaging, και εκτέλεση GTM."},
-        {"name":"Marketing Automation","description":"Αυτοματοποιημένες ροές marketing, email sequences, και συστήματα lead nurturing."},
-        {"name":"Marketing Consulting","description":"Στρατηγική συμβουλευτική marketing για startups και μικρές επιχειρήσεις — growth, retention, analytics."},
-        {"name":"Forward-Deployed Engineering","description":"Ενσωματωμένες τεχνικές λύσεις — δουλεύω δίπλα στην ομάδα σου για να λύνω τεχνικές προκλήσεις on site."},
-        {"name":"Workflow Automation","description":"Custom λύσεις αυτοματοποίησης για να απλοποιούν επαναλαμβανόμενες εργασίες και επιχειρησιακές διαδικασίες."},
-        {"name":"AI & Tech Consulting","description":"Συμβουλευτική για ενσωμάτωση AI, εργαλεία, αρχιτεκτονική και scaling για σύγχρονες επιχειρήσεις."},
-        {"name":"Copywriting","description":"Πειστικό, conversion-focused copy για landing pages, emails, διαφημίσεις και περιγραφές προϊόντων."},
-        {"name":"Content Writing","description":"Άρθρα, blog posts, και long-form content που εκπαιδεύει και εμπλέκει το κοινό σου."},
-        {"name":"Technical Documentation","description":"Σαφής, ολοκληρωμένη τεκμηρίωση για APIs, SDKs, και developer-facing προϊόντα."}
+        {
+          "name": "Web Development",
+          "description": "Custom web εφαρμογές με Next.js, React, και TypeScript. Γρήγορες, responsive, και SEO-optimized."
+        },
+        {
+          "name": "Web App Development",
+          "description": "Full-stack web εφαρμογές με σύγχρονα frameworks, βάσεις δεδομένων και cloud υποδομές."
+        },
+        {
+          "name": "Mobile App Development",
+          "description": "Cross-platform mobile εφαρμογές με React Native και Expo για iOS και Android."
+        },
+        {
+          "name": "Go-To-Market Strategy",
+          "description": "Στρατηγικός σχεδιασμός για λανσαρίσματα προϊόντων — positioning, messaging, και εκτέλεση GTM."
+        },
+        {
+          "name": "Marketing Automation",
+          "description": "Αυτοματοποιημένες ροές marketing, email sequences, και συστήματα lead nurturing."
+        },
+        {
+          "name": "Marketing Consulting",
+          "description": "Στρατηγική συμβουλευτική marketing για startups και μικρές επιχειρήσεις — growth, retention, analytics."
+        },
+        {
+          "name": "Forward-Deployed Engineering",
+          "description": "Ενσωματωμένες τεχνικές λύσεις — δουλεύω δίπλα στην ομάδα σου για να λύνω τεχνικές προκλήσεις on site."
+        },
+        {
+          "name": "Workflow Automation",
+          "description": "Custom λύσεις αυτοματοποίησης για να απλοποιούν επαναλαμβανόμενες εργασίες και επιχειρησιακές διαδικασίες."
+        },
+        {
+          "name": "AI & Tech Consulting",
+          "description": "Συμβουλευτική για ενσωμάτωση AI, εργαλεία, αρχιτεκτονική και scaling για σύγχρονες επιχειρήσεις."
+        },
+        {
+          "name": "Copywriting",
+          "description": "Πειστικό, conversion-focused copy για landing pages, emails, διαφημίσεις και περιγραφές προϊόντων."
+        },
+        {
+          "name": "Content Writing",
+          "description": "Άρθρα, blog posts, και long-form content που εκπαιδεύει και εμπλέκει το κοινό σου."
+        },
+        {
+          "name": "Technical Documentation",
+          "description": "Σαφής, ολοκληρωμένη τεκμηρίωση για APIs, SDKs, και developer-facing προϊόντα."
+        }
       ]
     },
     "process": {
       "heading": "Πώς Δουλεύω",
       "steps": [
-        {"title":"Discovery","description":"Κατανοώ τους στόχους σου, το κοινό, και τι σημαίνει επιτυχία για το project σου."},
-        {"title":"Strategy","description":"Σχεδιάζω την προσέγγιση, επιλέγω τα κατάλληλα εργαλεία και χαράζω την πορεία προς το launch."},
-        {"title":"Execution","description":"Χτίζω με ακρίβεια — καθαρό κώδικα, προσεγμένο design, και τακτικά updates."},
-        {"title":"Delivery","description":"Launch, μέτρηση, και βελτιώσεις. Παραμένω δίπλα σου για να βεβαιωθώ ότι όλα δουλεύουν."}
+        {
+          "title": "Discovery",
+          "description": "Κατανοώ τους στόχους σου, το κοινό, και τι σημαίνει επιτυχία για το project σου."
+        },
+        {
+          "title": "Strategy",
+          "description": "Σχεδιάζω την προσέγγιση, επιλέγω τα κατάλληλα εργαλεία και χαράζω την πορεία προς το launch."
+        },
+        {
+          "title": "Execution",
+          "description": "Χτίζω με ακρίβεια — καθαρό κώδικα, προσεγμένο design, και τακτικά updates."
+        },
+        {
+          "title": "Delivery",
+          "description": "Launch, μέτρηση, και βελτιώσεις. Παραμένω δίπλα σου για να βεβαιωθώ ότι όλα δουλεύουν."
+        }
       ]
     },
     "completed": {
       "heading": "Ολοκληρωμένα Projects",
       "items": [
-        {"title":"Πώς η AI αλλάζει το Marketing","date":"2026-06-15","category":"marketing","excerpt":"Μια ανάλυση για το πώς τα εργαλεία τεχνητής νοημοσύνης μεταμορφώνουν το ψηφιακό marketing.","slug":"ai-marketing-2026"},
-        {"title":"Modern Web Development το 2026","date":"2026-05-20","category":"τεχνολογία","excerpt":"Τα εργαλεία, frameworks, και πρακτικές που χρησιμοποιώ για web development σήμερα.","slug":"modern-web-dev"}
+        {
+          "title": "Πώς η AI αλλάζει το Marketing",
+          "date": "2026-06-15",
+          "category": "marketing",
+          "excerpt": "Μια ανάλυση για το πώς τα εργαλεία τεχνητής νοημοσύνης μεταμορφώνουν το ψηφιακό marketing.",
+          "slug": "ai-marketing-2026"
+        },
+        {
+          "title": "Modern Web Development το 2026",
+          "date": "2026-05-20",
+          "category": "τεχνολογία",
+          "excerpt": "Τα εργαλεία, frameworks, και πρακτικές που χρησιμοποιώ για web development σήμερα.",
+          "slug": "modern-web-dev"
+        }
       ]
     }
   },
@@ -286,7 +574,10 @@
     "heading": "Άρθρα",
     "description": "Σκέψεις για AI, software engineering, και σύγχρονο marketing. Γράφω για ό,τι χτίζω, ό,τι μαθαίνω, και το πού πηγαίνει η τεχνολογία.",
     "cta": "Επικοινώνησε μαζί μου",
-    "filter": {"all":"Όλα","label":"Κατηγορία"},
+    "filter": {
+      "all": "Όλα",
+      "label": "Κατηγορία"
+    },
     "empty": "Δεν υπάρχουν άρθρα σε αυτή την κατηγορία.",
     "readMore": "Διάβασε περισσότερα",
     "readingTime": "{minutes} λεπτά ανάγνωσης",
@@ -296,18 +587,62 @@
     "heading": "Επικοινωνία",
     "description": "Ας τα πούμε. Είτε έχεις ένα project στο μυαλό σου, μια ερώτηση, ή απλά θέλεις να συνδεθούμε — είμαι εδώ.",
     "subtitle": "Μπορείς να με βρεις στα παρακάτω:",
-    "emailCTA": {"heading":"Ας Τα Πούμε","button":"Στείλε μου Email","responseTime":"Συνήθως απαντάω εντός 24 ωρών"},
+    "emailCTA": {
+      "heading": "Ας Τα Πούμε",
+      "button": "Στείλε μου Email",
+      "responseTime": "Συνήθως απαντάω εντός 24 ωρών"
+    },
     "links": [
-      {"platform":"Instagram","url":"https://instagram.com/alexistdev","label":"Instagram — @alexistdev"},
-      {"platform":"X (Twitter)","url":"https://x.com/alexistdev","label":"X — @alexistdev"},
-      {"platform":"LinkedIn","url":"https://linkedin.com/in/atsardoulias","label":"LinkedIn — /in/atsardoulias"},
-      {"platform":"GitHub","url":"https://github.com/alexistdev","label":"GitHub — @alexistdev"},
-      {"platform":"Substack","url":"https://alexistdev.substack.com","label":"Substack — alexistdev"},
-      {"platform":"Facebook","url":"https://facebook.com/alexistdev","label":"Facebook — @alexistdev"},
-      {"platform":"Threads","url":"https://threads.net/@alexistdev","label":"Threads — @alexistdev"},
-      {"platform":"Reddit","url":"https://reddit.com/user/alexistdev","label":"Reddit — u/alexistdev"},
-      {"platform":"Email","url":"mailto:hello@alexist.dev","label":"Email — hello@alexist.dev"},
-      {"platform":"Discord","url":"https://discord.gg/alexistdev","label":"Discord — @alexistdev"}
+      {
+        "platform": "Instagram",
+        "url": "https://instagram.com/alexistdev",
+        "label": "Instagram — @alexistdev"
+      },
+      {
+        "platform": "X (Twitter)",
+        "url": "https://x.com/alexistdev",
+        "label": "X — @alexistdev"
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "https://linkedin.com/in/atsardoulias",
+        "label": "LinkedIn — /in/atsardoulias"
+      },
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/alexistdev",
+        "label": "GitHub — @alexistdev"
+      },
+      {
+        "platform": "Substack",
+        "url": "https://alexistdev.substack.com",
+        "label": "Substack — alexistdev"
+      },
+      {
+        "platform": "Facebook",
+        "url": "https://facebook.com/alexistdev",
+        "label": "Facebook — @alexistdev"
+      },
+      {
+        "platform": "Threads",
+        "url": "https://threads.net/@alexistdev",
+        "label": "Threads — @alexistdev"
+      },
+      {
+        "platform": "Reddit",
+        "url": "https://reddit.com/user/alexistdev",
+        "label": "Reddit — u/alexistdev"
+      },
+      {
+        "platform": "Email",
+        "url": "mailto:hello@alexist.dev",
+        "label": "Email — hello@alexist.dev"
+      },
+      {
+        "platform": "Discord",
+        "url": "https://discord.gg/alexistdev",
+        "label": "Discord — @alexistdev"
+      }
     ]
   },
   "footer": {
@@ -315,8 +650,37 @@
     "builtWith": "Χτισμένο με Next.js & Tailwind",
     "backToTop": "Επιστροφή στην κορυφή"
   },
-  "theme": {"light":"Φωτεινό","dark":"Σκοτεινό","toggle":"Αλλαγή θέματος"},
-  "language": {"label":"Γλώσσα","el":"Ελληνικά","en":"Αγγλικά","ru":"Ρωσικά","de":"Γερμανικά","fr":"Γαλλικά","it":"Ιταλικά","es":"Ισπανικά","tr":"Τουρκικά","pl":"Πολωνικά","nl":"Ολλανδικά","ua":"Ουκρανικά","il":"עברית","ae":"العربية"},
-  "common": {"loading":"Φόρτωση…","error":"Κάτι πήγε στραβά.","retry":"Δοκίμασε ξανά","back":"← Πίσω","readMore":"Διάβασε περισσότερα"},
-  "404": {"title":"404 — Η σελίδα δεν βρέθηκε","message":"Η σελίδα που ψάχνεις δεν υπάρχει.","backHome":"← Πίσω στην αρχική"}
+  "theme": {
+    "light": "Φωτεινό",
+    "dark": "Σκοτεινό",
+    "toggle": "Αλλαγή θέματος"
+  },
+  "language": {
+    "label": "Γλώσσα",
+    "el": "Ελληνικά",
+    "en": "Αγγλικά",
+    "ru": "Ρωσικά",
+    "de": "Γερμανικά",
+    "fr": "Γαλλικά",
+    "it": "Ιταλικά",
+    "es": "Ισπανικά",
+    "tr": "Τουρκικά",
+    "pl": "Πολωνικά",
+    "nl": "Ολλανδικά",
+    "ua": "Ουκρανικά",
+    "il": "עברית",
+    "ae": "العربية"
+  },
+  "common": {
+    "loading": "Φόρτωση…",
+    "error": "Κάτι πήγε στραβά.",
+    "retry": "Δοκίμασε ξανά",
+    "back": "← Πίσω",
+    "readMore": "Διάβασε περισσότερα"
+  },
+  "404": {
+    "title": "404 — Η σελίδα δεν βρέθηκε",
+    "message": "Η σελίδα που ψάχνεις δεν υπάρχει.",
+    "backHome": "← Πίσω στην αρχική"
+  }
 }
