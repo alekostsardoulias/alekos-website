@@ -54,6 +54,32 @@
         }
       ]
     },
+    "featured": {
+      "heading": "Featured Work",
+      "viewProject": "View project",
+      "items": [
+        {
+          "title": "How AI Is Changing Marketing",
+          "category": "Technology",
+          "description": "An analysis of how AI tools are transforming digital marketing strategies in 2026."
+        },
+        {
+          "title": "Modern Web Development in 2026",
+          "category": "Technology",
+          "description": "The tools, frameworks, and practices I use for web development today."
+        },
+        {
+          "title": "E-Commerce Redesign Case Study",
+          "category": "Case Study",
+          "description": "How I redesigned an e-commerce platform for better UX and 40% higher conversion."
+        }
+      ],
+      "cta": {
+        "heading": "Let's Work Together",
+        "subtitle": "Have a project in mind? Let's build something great.",
+        "button": "Get in Touch"
+      }
+    },
     "stats": {
       "heading": "By the Numbers",
       "items": [
