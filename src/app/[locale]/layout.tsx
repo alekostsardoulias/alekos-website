@@ -54,17 +54,20 @@ export default async function LocaleLayout({ children, params }: Props) {
 
   setRequestLocale(locale);
   const messages = await getMessages();
+  const isRTL = locale === 'il' || locale === 'ae';
 
   return (
-    <ThemeProvider>
-      <CustomCursor />
-      <NextIntlClientProvider locale={locale} messages={messages}>
-        <Navigation />
-        <PageTransition>
-          <main className="flex-1">{children}</main>
-        </PageTransition>
-        <Footer />
-      </NextIntlClientProvider>
-    </ThemeProvider>
+    <div dir={isRTL ? 'rtl' : 'ltr'} lang={locale}>
+      <ThemeProvider>
+        <CustomCursor />
+        <NextIntlClientProvider locale={locale} messages={messages}>
+          <Navigation />
+          <PageTransition>
+            <main className="flex-1">{children}</main>
+          </PageTransition>
+          <Footer />
+        </NextIntlClientProvider>
+      </ThemeProvider>
+    </div>
   );
 }

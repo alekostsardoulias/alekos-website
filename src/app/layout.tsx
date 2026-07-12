@@ -27,13 +27,6 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning className={cn("dark", "h-full", "antialiased", geistSans.variable, geistMono.variable, "font-sans")}>
-      <head>
-        <script
-          dangerouslySetInnerHTML={{
-            __html: '(function(){try{var m=document.cookie.match(/(^|;)\\s*NEXT_LOCALE\\s*=\\s*([^;]+)/);var l=m?m.pop():"en";var r=["il","ae"].includes(l)?"rtl":"ltr";document.documentElement.dir=r;document.documentElement.lang=l}catch(e){}})()',
-          }}
-        />
-      </head>
       <body className="min-h-full flex flex-col">{children}</body>
     </html>
   );
