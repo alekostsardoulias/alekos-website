@@ -32,10 +32,10 @@ export function PageTransition({ children, onLoadingComplete }: PageTransitionPr
       return;
     }
 
-    // 2-second loading phase
+    // 1200ms loading phase
     const loadingTimer = setTimeout(() => {
       setPhase('fading');
-    }, 2000);
+    }, 1200);
 
     return () => clearTimeout(loadingTimer);
   }, [onLoadingComplete]);
@@ -66,14 +66,13 @@ export function PageTransition({ children, onLoadingComplete }: PageTransitionPr
     return () => clearTimeout(enterTimer);
   }, [phase]);
 
-  // On route change (after initial load), show loader for 1s
+  // On route change (after initial load), show loader for 1200ms
   useEffect(() => {
     if (!completedRef.current) return;
-    // Show the morphing loader on navigation
     setPhase('loading');
     const navLoadTimer = setTimeout(() => {
       setPhase('fading');
-    }, 1000);
+    }, 1200);
     return () => clearTimeout(navLoadTimer);
   }, [pathname]);
 
