@@ -16,14 +16,14 @@ export function WorkTimeline() {
   return (
     <section>
       <h2 className="text-xl font-semibold text-foreground mb-6">
-        <BriefcaseBusiness size={20} className="inline mr-2" aria-hidden="true" />
+        <BriefcaseBusiness size={20} className="inline me-2" aria-hidden="true" />
         {t('heading')}
       </h2>
       <div className="space-y-4">
         {items.map((item, i) => (
           <div
             key={i}
-            className="rounded-xl border border-white/[0.06] bg-white/[0.02] backdrop-blur-sm p-5 border-l-2 border-purple-400/20 animate-fade-up transition-colors duration-200 hover:border-white/[0.12]"
+            className="rounded-xl border border-white/[0.06] bg-white/[0.02] backdrop-blur-sm p-5 border-s-2 border-purple-400/20 animate-fade-up transition-colors duration-200 hover:border-white/[0.12]"
             style={{ animationDelay: `${i * 100}ms` }}
           >
             <span className="inline-block px-3 py-1 rounded-full text-xs font-medium bg-purple-500/10 text-purple-300 border border-purple-500/20 mb-3">

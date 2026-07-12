@@ -34,7 +34,7 @@ export function PageSummaries() {
           <Card className="transition-colors duration-200 h-full">
             <CardHeader>
               <CardTitle className="text-lg group-hover:text-accent transition-colors">
-                {Icon && <Icon size={16} className="inline-block mr-1.5" aria-hidden="true" />}
+                {Icon && <Icon size={16} className="inline-block me-1.5" aria-hidden="true" />}
                 {t(`${key}.heading`)}
               </CardTitle>
             </CardHeader>

@@ -8,12 +8,29 @@ import { Navigation } from '@/components/navigation';
 import { Footer } from '@/components/footer';
 import { PageTransition } from '@/components/page-transition';
 import { SITE_URL } from '@/lib/config';
+import { cn } from '@/lib/utils';
 import type { Metadata } from 'next';
+import { Geist, Geist_Mono } from 'next/font/google';
+import '../globals.css';
+
+const geistSans = Geist({
+  subsets: ['latin', 'latin-ext'],
+  display: 'swap',
+  variable: '--font-sans',
+});
+
+const geistMono = Geist_Mono({
+  subsets: ['latin', 'latin-ext'],
+  display: 'swap',
+  variable: '--font-mono',
+});
 
 type Props = {
   children: React.ReactNode;
   params: Promise<{ locale: string }>;
 };
+
+const RTL_LOCALES = ['il', 'ae'];
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params;
@@ -54,17 +71,27 @@ export default async function LocaleLayout({ children, params }: Props) {
 
   setRequestLocale(locale);
   const messages = await getMessages();
+  const dir = RTL_LOCALES.includes(locale) ? 'rtl' : 'ltr';
 
   return (
-    <ThemeProvider>
-      <CustomCursor />
-      <NextIntlClientProvider locale={locale} messages={messages}>
-        <Navigation />
-        <PageTransition>
-          <main className="flex-1">{children}</main>
-        </PageTransition>
-        <Footer />
-      </NextIntlClientProvider>
-    </ThemeProvider>
+    <html
+      lang={locale}
+      dir={dir}
+      suppressHydrationWarning
+      className={cn("dark", "h-full", "antialiased", geistSans.variable, geistMono.variable, "font-sans")}
+    >
+      <body className="min-h-full flex flex-col">
+        <ThemeProvider>
+          <CustomCursor />
+          <NextIntlClientProvider locale={locale} messages={messages}>
+            <Navigation />
+            <PageTransition>
+              <main className="flex-1">{children}</main>
+            </PageTransition>
+            <Footer />
+          </NextIntlClientProvider>
+        </ThemeProvider>
+      </body>
+    </html>
   );
 }

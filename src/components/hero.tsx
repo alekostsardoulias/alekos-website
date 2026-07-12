@@ -26,7 +26,7 @@ export function Hero({ onTypewriterComplete }: HeroProps) {
       {/* ── Content ── */}
       <div className="relative z-10 flex flex-col md:flex-row items-center gap-12 md:gap-16 lg:gap-24 w-full max-w-6xl px-6">
         {/* Text */}
-        <div className="flex-1 text-center md:text-left space-y-5">
+        <div className="flex-1 text-center md:text-start space-y-5">
           {/* Greeting pill */}
           <span className="inline-block px-4 py-1.5 rounded-full border border-white/[0.06] bg-white/[0.03] backdrop-blur-sm text-base text-text-secondary">
             {t('greeting')}
@@ -34,7 +34,7 @@ export function Hero({ onTypewriterComplete }: HeroProps) {
 
           {/* Name */}
           <h1 className="text-5xl md:text-6xl lg:text-7xl xl:text-8xl font-bold tracking-tight text-balance">
-            <span className="bg-gradient-to-r from-purple-400 via-pink-400 to-blue-400 bg-clip-text text-transparent">
+            <span className="bg-gradient-to-r rtl:bg-gradient-to-l from-purple-400 via-pink-400 to-blue-400 bg-clip-text text-transparent">
               <Typewriter
                 text={t('name')}
                 onComplete={onTypewriterComplete}

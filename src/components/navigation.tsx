@@ -55,7 +55,7 @@ export function Navigation() {
             );
           })}
 
-          <div className="flex items-center gap-3 ml-4 pl-4 border-l border-white/[0.08]">
+          <div className="flex items-center gap-3 ms-4 ps-4 border-s border-white/[0.08]">
             {/* Language selector */}
             <LanguageSelector />
           </div>

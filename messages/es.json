@@ -623,7 +623,9 @@
     "tr": "Türkçe",
     "pl": "Polski",
     "nl": "Nederlands",
-    "ua": "Українська"
+    "ua": "Українська",
+    "il": "עברית",
+    "ae": "العربية"
   },
   "common": {
     "loading": "Cargando…",

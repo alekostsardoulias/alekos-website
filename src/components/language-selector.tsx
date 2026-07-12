@@ -21,10 +21,12 @@ const FLAG_MAP: Record<string, string> = {
   tr: '🇹🇷',
   pl: '🇵🇱',
   ua: '🇺🇦',
+  ae: '🇦🇪',
+  il: '🇮🇱',
   nl: '🇳🇱',
 };
 
-const LOCALES = ['en', 'el', 'ru', 'de', 'fr', 'it', 'es', 'tr', 'pl', 'ua', 'nl'] as const;
+const LOCALES = ['en', 'el', 'ru', 'de', 'fr', 'it', 'es', 'tr', 'pl', 'ua', 'nl', 'il', 'ae'] as const;
 
 export function LanguageSelector() {
   const t = useTranslations('language');
@@ -51,10 +53,10 @@ export function LanguageSelector() {
             onClick={() => handleSelect(loc)}
             className={loc === locale ? 'font-medium' : ''}
           >
-            <span className="mr-2">{FLAG_MAP[loc]}</span>
+            <span className="me-2">{FLAG_MAP[loc]}</span>
             {t(loc)}
             {loc === locale && (
-              <span className="ml-auto text-muted" aria-hidden="true">✓</span>
+              <span className="ms-auto text-muted" aria-hidden="true">✓</span>
             )}
           </DropdownMenuItem>
         ))}
