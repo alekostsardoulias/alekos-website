@@ -1,9 +1,19 @@
 'use client';
 
-import { useState, useEffect, useRef, type ReactNode } from 'react';
+import { createContext, useContext, useState, useEffect, useRef, type ReactNode } from 'react';
 import { usePathname } from '@/i18n/navigation';
 
 type Phase = 'loading' | 'fading' | 'complete' | 'entering';
+
+interface PageLoadingState {
+  isLoadingComplete: boolean;
+}
+
+const PageLoadingContext = createContext<PageLoadingState>({ isLoadingComplete: true });
+
+export function usePageLoading() {
+  return useContext(PageLoadingContext);
+}
 
 interface PageTransitionProps {
   children: ReactNode;
@@ -76,7 +86,10 @@ export function PageTransition({ children, onLoadingComplete }: PageTransitionPr
     return () => clearTimeout(navLoadTimer);
   }, [pathname]);
 
+  const isLoadingComplete = phase === 'complete' || phase === 'entering';
+
   return (
+    <PageLoadingContext.Provider value={{ isLoadingComplete }}>
     <div className="relative">
       {/* Loading overlay - covers content area (below nav) */}
       {(phase === 'loading' || phase === 'fading') && (
@@ -115,5 +128,6 @@ export function PageTransition({ children, onLoadingComplete }: PageTransitionPr
         {children}
       </div>
     </div>
+    </PageLoadingContext.Provider>
   );
 }

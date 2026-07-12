@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, useEffect, useRef } from 'react';
+import { usePageLoading } from '@/components/page-transition';
 
 interface TypewriterProps {
   text: string;
@@ -19,12 +20,15 @@ export function Typewriter({
   const [isComplete, setIsComplete] = useState(false);
   const indexRef = useRef(0);
   const onCompleteRef = useRef(onComplete);
+  const { isLoadingComplete } = usePageLoading();
 
   useEffect(() => {
     onCompleteRef.current = onComplete;
   }, [onComplete]);
 
   useEffect(() => {
+    if (!isLoadingComplete) return;
+
     // Check reduced motion preference
     if (typeof window !== 'undefined' && window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
       requestAnimationFrame(() => {
@@ -60,7 +64,7 @@ export function Typewriter({
     }, speed);
 
     return () => clearInterval(interval);
-  }, [text, speed]);
+  }, [text, speed, isLoadingComplete]);
 
   if (!text) return null;
 
