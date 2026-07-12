@@ -7,10 +7,10 @@
     "contact": "Contact"
   },
   "hero": {
-    "greeting": "Hi, I'm",
+    "greeting": "Hello, World! I'm",
     "name": "Alexandros Tsardoulias",
     "title": "AI-Native Software Engineer & Marketing Specialist",
-    "description": "I combine technology and marketing to build products with substance.",
+    "description": "I help Founders, Startups, SMEs and NGOs achieve their goals by bridging technology, philosophy, growth strategy and best communication practices.",
     "cta": "See my work",
     "ctaSecondary": "Get in touch"
   },
@@ -37,12 +37,12 @@
       "heading": "What I Do",
       "items": [
         {
-          "title": "Web Development",
-          "description": "Custom web apps with Next.js, React, and TypeScript. Fast, responsive, and SEO-optimized."
+          "title": "Software Development",
+          "description": "Custom web and mobile apps tailored for your needs. Fast, responsive, cost-optimized, SEO-ready."
         },
         {
           "title": "Marketing & Growth",
-          "description": "Go-to-market strategy, marketing automation, and conversion-focused campaigns that drive results."
+          "description": "Go-to-market strategy, marketing automation, copy and content writing, and conversion-focused campaigns that drive results."
         },
         {
           "title": "AI & Automation",
@@ -83,10 +83,10 @@
     "stats": {
       "heading": "By the Numbers",
       "items": [
-        { "value": "12+", "label": "Services Offered" },
-        { "value": "4+", "label": "Years Experience" },
-        { "value": "20+", "label": "Technologies" },
-        { "value": "10+", "label": "Articles Written" }
+        { "value": "50+", "label": "Projects Completed" },
+        { "value": "5+", "label": "Years of Experience" },
+        { "value": "100+", "label": "Tools & Technologies" },
+        { "value": "200+", "label": "Articles Written" }
       ]
     }
   },

@@ -7,10 +7,10 @@
     "contact": "Contact"
   },
   "hero": {
-    "greeting": "Hi, I'm",
+    "greeting": "Hello, World! I'm",
     "name": "Alexandros Tsardoulias",
     "title": "AI-Native Software Engineer & Marketing Specialist",
-    "description": "I combine technology and marketing to build products with substance.",
+    "description": "Kuruculara, girişimlere, KOBİ'lere ve STK'lara teknoloji, felsefe, büyüme stratejisi ve en iyi iletişim uygulamalarını birleştirerek hedeflerine ulaşmalarında yardımcı oluyorum.",
     "cta": "See my work",
     "ctaSecondary": "Get in touch"
   },
@@ -32,6 +32,36 @@
         "heading": "Contact",
         "description": "Find me on social media."
       }
+    },
+    "servicesOverview": {
+      "heading": "What I Do",
+      "items": [
+        {
+          "title": "Yazılım Geliştirme",
+          "description": "İhtiyaçlarınıza özel web ve mobil uygulamalar. Hızlı, duyarlı, maliyet optimize edilmiş, SEO'ya hazır."
+        },
+        {
+          "title": "Marketing & Growth",
+          "description": "Go-to-market stratejisi, pazarlama otomasyonu, metin ve içerik yazarlığı ve sonuç odaklı dönüşüm kampanyaları."
+        },
+        {
+          "title": "AI & Automation",
+          "description": "AI integration, workflow automation, and intelligent systems that scale your business."
+        },
+        {
+          "title": "Strategy & Consulting",
+          "description": "Technical advisory, architecture decisions, and product strategy for modern businesses."
+        }
+      ]
+    },
+    "stats": {
+      "heading": "By the Numbers",
+      "items": [
+        { "value": "50+", "label": "Tamamlanan Proje" },
+        { "value": "5+", "label": "Yıllık Deneyim" },
+        { "value": "100+", "label": "Araç ve Teknoloji" },
+        { "value": "200+", "label": "Yazılmış Makale" }
+      ]
     }
   },
   "about": {

@@ -7,10 +7,10 @@
     "contact": "Contact"
   },
   "hero": {
-    "greeting": "Hi, I'm",
+    "greeting": "Hello, World! I'm",
     "name": "Alexandros Tsardoulias",
     "title": "AI-Native Software Engineer & Marketing Specialist",
-    "description": "I combine technology and marketing to build products with substance.",
+    "description": "Aiuto founder, startup, PMI e ONG a raggiungere i loro obiettivi unendo tecnologia, filosofia, strategia di crescita e migliori pratiche di comunicazione.",
     "cta": "See my work",
     "ctaSecondary": "Get in touch"
   },
@@ -32,6 +32,36 @@
         "heading": "Contact",
         "description": "Find me on social media."
       }
+    },
+    "servicesOverview": {
+      "heading": "What I Do",
+      "items": [
+        {
+          "title": "Sviluppo Software",
+          "description": "App web e mobile su misura per le tue esigenze. Veloci, responsive, ottimizzate nei costi, pronte per la SEO."
+        },
+        {
+          "title": "Marketing & Growth",
+          "description": "Strategia go-to-market, automazione del marketing, copy e content writing e campagne orientate alla conversione che producono risultati."
+        },
+        {
+          "title": "AI & Automation",
+          "description": "AI integration, workflow automation, and intelligent systems that scale your business."
+        },
+        {
+          "title": "Strategy & Consulting",
+          "description": "Technical advisory, architecture decisions, and product strategy for modern businesses."
+        }
+      ]
+    },
+    "stats": {
+      "heading": "By the Numbers",
+      "items": [
+        { "value": "50+", "label": "Progetti Completati" },
+        { "value": "5+", "label": "Anni di Esperienza" },
+        { "value": "100+", "label": "Strumenti & Tecnologie" },
+        { "value": "200+", "label": "Articoli Scritti" }
+      ]
     }
   },
   "about": {

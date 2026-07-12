@@ -7,10 +7,10 @@
     "contact": "Επικοινωνία"
   },
   "hero": {
-    "greeting": "Γεια, είμαι ο",
+    "greeting": "Hello, World! I'm",
     "name": "Αλέξανδρος Τσαρδούλιας",
     "title": "AI-Native Software Engineer & Marketing Specialist",
-    "description": "Συνδυάζω τεχνολογία και marketing για να χτίζω προϊόντα που έχουν ουσία.",
+    "description": "Βοηθώ founders, startups, ΜμΕ και ΜΚΟ να πετύχουν τους στόχους τους συνδυάζοντας τεχνολογία, φιλοσοφία, growth strategy και βέλτιστες πρακτικές επικοινωνίας.",
     "cta": "Δες τη δουλειά μου",
     "ctaSecondary": "Επικοινώνησε μαζί μου"
   },
@@ -37,12 +37,12 @@
       "heading": "Τι Κάνω",
       "items": [
         {
-          "title": "Web Development",
-          "description": "Custom web εφαρμογές με Next.js, React, και TypeScript. Γρήγορες, responsive, και SEO-optimized."
+          "title": "Ανάπτυξη Λογισμικού",
+          "description": "Custom web και mobile εφαρμογές προσαρμοσμένες στις ανάγκες σου. Γρήγορες, responsive, cost-optimized, SEO-ready."
         },
         {
           "title": "Marketing & Growth",
-          "description": "Στρατηγική go-to-market, marketing automation, και conversion-focused καμπάνιες που φέρνουν αποτελέσματα."
+          "description": "Στρατηγική go-to-market, marketing automation, copy και content writing, και conversion-focused καμπάνιες που φέρνουν αποτελέσματα."
         },
         {
           "title": "AI & Automation",
@@ -83,10 +83,10 @@
     "stats": {
       "heading": "Με Αριθμούς",
       "items": [
-        { "value": "12+", "label": "Υπηρεσίες" },
-        { "value": "4+", "label": "Χρόνια Εμπειρίας" },
-        { "value": "20+", "label": "Τεχνολογίες" },
-        { "value": "10+", "label": "Άρθρα" }
+        { "value": "50+", "label": "Ολοκληρωμένα Έργα" },
+        { "value": "5+", "label": "Χρόνια Εμπειρίας" },
+        { "value": "100+", "label": "Εργαλεία & Τεχνολογίες" },
+        { "value": "200+", "label": "Άρθρα" }
       ]
     }
   },
