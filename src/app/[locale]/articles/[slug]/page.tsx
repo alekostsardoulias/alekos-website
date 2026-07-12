@@ -3,18 +3,13 @@ import { getTranslations } from 'next-intl/server';
 import { Link } from '@/i18n/navigation';
 import { PageLayout } from '@/components/page-layout';
 import { Button } from '@/components/ui/button';
-import { getAllContent, getArticleBySlug } from '@/lib/articles';
+import { getArticleBySlug } from '@/lib/articles';
 import type { Metadata } from 'next';
+
+export const dynamic = 'force-dynamic';
 
 interface ArticlePageProps {
   params: Promise<{ slug: string; locale: string }>;
-}
-
-export async function generateStaticParams() {
-  const articles = getAllContent();
-  return articles.map((article) => ({
-    slug: article.slug,
-  }));
 }
 
 export async function generateMetadata({
