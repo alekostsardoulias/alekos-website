@@ -83,10 +83,22 @@
     "stats": {
       "heading": "Rakamlarla",
       "items": [
-        { "value": "50+", "label": "Tamamlanan Proje" },
-        { "value": "5+", "label": "Yıllık Deneyim" },
-        { "value": "100+", "label": "Araç ve Teknoloji" },
-        { "value": "200+", "label": "Yazılmış Makale" }
+        {
+          "value": "50+",
+          "label": "Tamamlanan Proje"
+        },
+        {
+          "value": "5+",
+          "label": "Yıllık Deneyim"
+        },
+        {
+          "value": "100+",
+          "label": "Araç ve Teknoloji"
+        },
+        {
+          "value": "200+",
+          "label": "Yazılmış Makale"
+        }
       ]
     }
   },
@@ -125,84 +137,321 @@
       "heading": "Teknolojiler ve Araçlar",
       "allLabel": "Tümü",
       "empty": "Bu kategoride araç bulunamadı.",
-      "categories": ["Programlama Dilleri", "Front-End & UI/UX", "Back-End/Veritabanları", "DevOps & CI/CD", "Marketing & Analytics", "Tasarım ve Yaratıcılık", "Yapay Zeka Araçları", "Proje Yönetimi"],
+      "categories": [
+        "Programlama Dilleri",
+        "Front-End & UI/UX",
+        "Back-End/Veritabanları",
+        "DevOps & CI/CD",
+        "Marketing & Analytics",
+        "Tasarım ve Yaratıcılık",
+        "Yapay Zeka Araçları",
+        "Proje Yönetimi"
+      ],
       "items": [
-        { "name": "React", "category": "Front-End & UI/UX" },
-        { "name": "Next.js", "category": "Front-End & UI/UX" },
-        { "name": "TypeScript", "category": "Front-End & UI/UX" },
-        { "name": "Tailwind CSS", "category": "Front-End & UI/UX" },
-        { "name": "HTML/CSS", "category": "Front-End & UI/UX" },
-        { "name": "JavaScript", "category": "Front-End & UI/UX" },
-        { "name": "Vue.js", "category": "Front-End & UI/UX" },
-        { "name": "Astro", "category": "Front-End & UI/UX" },
-        { "name": "Svelte", "category": "Front-End & UI/UX" },
-        { "name": "Framer Motion", "category": "Front-End & UI/UX" },
-        { "name": "shadcn/ui", "category": "Front-End & UI/UX" },
-        { "name": "Radix UI", "category": "Front-End & UI/UX" },
-        { "name": "Node.js", "category": "Back-End/Veritabanları" },
-        { "name": "Express", "category": "Back-End/Veritabanları" },
-        { "name": "Python", "category": "Back-End/Veritabanları" },
-        { "name": "FastAPI", "category": "Back-End/Veritabanları" },
-        { "name": "REST APIs", "category": "Back-End/Veritabanları" },
-        { "name": "GraphQL", "category": "Back-End/Veritabanları" },
-        { "name": "tRPC", "category": "Back-End/Veritabanları" },
-        { "name": "Prisma", "category": "Back-End/Veritabanları" },
-        { "name": "Django", "category": "Back-End/Veritabanları" },
-        { "name": "LLMs", "category": "Yapay Zeka Araçları" },
-        { "name": "OpenAI API", "category": "Yapay Zeka Araçları" },
-        { "name": "LangChain", "category": "Yapay Zeka Araçları" },
-        { "name": "RAG", "category": "Yapay Zeka Araçları" },
-        { "name": "Vector Databases", "category": "Yapay Zeka Araçları" },
-        { "name": "Prompt Engineering", "category": "Yapay Zeka Araçları" },
-        { "name": "Midjourney", "category": "Yapay Zeka Araçları" },
-        { "name": "Stable Diffusion", "category": "Yapay Zeka Araçları" },
-        { "name": "Claude", "category": "Yapay Zeka Araçları" },
-        { "name": "AI Agents", "category": "Yapay Zeka Araçları" },
-        { "name": "Docker", "category": "DevOps & CI/CD" },
-        { "name": "Git", "category": "DevOps & CI/CD" },
-        { "name": "GitHub Actions", "category": "DevOps & CI/CD" },
-        { "name": "Vercel", "category": "DevOps & CI/CD" },
-        { "name": "Linux", "category": "DevOps & CI/CD" },
-        { "name": "Nginx", "category": "DevOps & CI/CD" },
-        { "name": "CI/CD", "category": "DevOps & CI/CD" },
-        { "name": "Supabase", "category": "DevOps & CI/CD" },
-        { "name": "Cloudflare", "category": "DevOps & CI/CD" },
-        { "name": "PostgreSQL", "category": "Back-End/Veritabanları" },
-        { "name": "MongoDB", "category": "Back-End/Veritabanları" },
-        { "name": "Redis", "category": "Back-End/Veritabanları" },
-        { "name": "SQLite", "category": "Back-End/Veritabanları" },
-        { "name": "Supabase DB", "category": "Back-End/Veritabanları" },
-        { "name": "MySQL", "category": "Back-End/Veritabanları" },
-        { "name": "TypeScript", "category": "Programlama Dilleri" },
-        { "name": "JavaScript", "category": "Programlama Dilleri" },
-        { "name": "Python", "category": "Programlama Dilleri" },
-        { "name": "HTML/CSS", "category": "Programlama Dilleri" },
-        { "name": "SQL", "category": "Programlama Dilleri" },
-        { "name": "Bash", "category": "Programlama Dilleri" },
-        { "name": "Markdown", "category": "Programlama Dilleri" },
-        { "name": "Figma", "category": "Tasarım ve Yaratıcılık" },
-        { "name": "Canva", "category": "Tasarım ve Yaratıcılık" },
-        { "name": "Adobe Photoshop", "category": "Tasarım ve Yaratıcılık" },
-        { "name": "UI/UX Design", "category": "Tasarım ve Yaratıcılık" },
-        { "name": "Responsive Design", "category": "Tasarım ve Yaratıcılık" },
-        { "name": "Design Systems", "category": "Tasarım ve Yaratıcılık" },
-        { "name": "Google Analytics", "category": "Marketing & Analytics" },
-        { "name": "SEO", "category": "Marketing & Analytics" },
-        { "name": "Meta Ads", "category": "Marketing & Analytics" },
-        { "name": "Google Ads", "category": "Marketing & Analytics" },
-        { "name": "Email Marketing", "category": "Marketing & Analytics" },
-        { "name": "Content Strategy", "category": "Marketing & Analytics" },
-        { "name": "Copywriting", "category": "Marketing & Analytics" },
-        { "name": "A/B Testing", "category": "Marketing & Analytics" },
-        { "name": "Social Media Marketing", "category": "Marketing & Analytics" },
-        { "name": "VS Code", "category": "Proje Yönetimi" },
-        { "name": "Notion", "category": "Proje Yönetimi" },
-        { "name": "Slack", "category": "Proje Yönetimi" },
-        { "name": "Zapier", "category": "Proje Yönetimi" },
-        { "name": "n8n", "category": "Proje Yönetimi" },
-        { "name": "Make (Integromat)", "category": "Proje Yönetimi" },
-        { "name": "Obsidian", "category": "Proje Yönetimi" },
-        { "name": "Linear", "category": "Proje Yönetimi" }
+        {
+          "name": "React",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Next.js",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "TypeScript",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Tailwind CSS",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "HTML/CSS",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "JavaScript",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Vue.js",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Astro",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Svelte",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Framer Motion",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "shadcn/ui",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Radix UI",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Node.js",
+          "category": "Back-End/Veritabanları"
+        },
+        {
+          "name": "Express",
+          "category": "Back-End/Veritabanları"
+        },
+        {
+          "name": "Python",
+          "category": "Back-End/Veritabanları"
+        },
+        {
+          "name": "FastAPI",
+          "category": "Back-End/Veritabanları"
+        },
+        {
+          "name": "REST APIs",
+          "category": "Back-End/Veritabanları"
+        },
+        {
+          "name": "GraphQL",
+          "category": "Back-End/Veritabanları"
+        },
+        {
+          "name": "tRPC",
+          "category": "Back-End/Veritabanları"
+        },
+        {
+          "name": "Prisma",
+          "category": "Back-End/Veritabanları"
+        },
+        {
+          "name": "Django",
+          "category": "Back-End/Veritabanları"
+        },
+        {
+          "name": "LLMs",
+          "category": "Yapay Zeka Araçları"
+        },
+        {
+          "name": "OpenAI API",
+          "category": "Yapay Zeka Araçları"
+        },
+        {
+          "name": "LangChain",
+          "category": "Yapay Zeka Araçları"
+        },
+        {
+          "name": "RAG",
+          "category": "Yapay Zeka Araçları"
+        },
+        {
+          "name": "Vector Databases",
+          "category": "Yapay Zeka Araçları"
+        },
+        {
+          "name": "Prompt Engineering",
+          "category": "Yapay Zeka Araçları"
+        },
+        {
+          "name": "Midjourney",
+          "category": "Yapay Zeka Araçları"
+        },
+        {
+          "name": "Stable Diffusion",
+          "category": "Yapay Zeka Araçları"
+        },
+        {
+          "name": "Claude",
+          "category": "Yapay Zeka Araçları"
+        },
+        {
+          "name": "AI Agents",
+          "category": "Yapay Zeka Araçları"
+        },
+        {
+          "name": "Docker",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Git",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "GitHub Actions",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Vercel",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Linux",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Nginx",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "CI/CD",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Supabase",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Cloudflare",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "PostgreSQL",
+          "category": "Back-End/Veritabanları"
+        },
+        {
+          "name": "MongoDB",
+          "category": "Back-End/Veritabanları"
+        },
+        {
+          "name": "Redis",
+          "category": "Back-End/Veritabanları"
+        },
+        {
+          "name": "SQLite",
+          "category": "Back-End/Veritabanları"
+        },
+        {
+          "name": "Supabase DB",
+          "category": "Back-End/Veritabanları"
+        },
+        {
+          "name": "MySQL",
+          "category": "Back-End/Veritabanları"
+        },
+        {
+          "name": "TypeScript",
+          "category": "Programlama Dilleri"
+        },
+        {
+          "name": "JavaScript",
+          "category": "Programlama Dilleri"
+        },
+        {
+          "name": "Python",
+          "category": "Programlama Dilleri"
+        },
+        {
+          "name": "HTML/CSS",
+          "category": "Programlama Dilleri"
+        },
+        {
+          "name": "SQL",
+          "category": "Programlama Dilleri"
+        },
+        {
+          "name": "Bash",
+          "category": "Programlama Dilleri"
+        },
+        {
+          "name": "Markdown",
+          "category": "Programlama Dilleri"
+        },
+        {
+          "name": "Figma",
+          "category": "Tasarım ve Yaratıcılık"
+        },
+        {
+          "name": "Canva",
+          "category": "Tasarım ve Yaratıcılık"
+        },
+        {
+          "name": "Adobe Photoshop",
+          "category": "Tasarım ve Yaratıcılık"
+        },
+        {
+          "name": "UI/UX Design",
+          "category": "Tasarım ve Yaratıcılık"
+        },
+        {
+          "name": "Responsive Design",
+          "category": "Tasarım ve Yaratıcılık"
+        },
+        {
+          "name": "Design Systems",
+          "category": "Tasarım ve Yaratıcılık"
+        },
+        {
+          "name": "Google Analytics",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "SEO",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Meta Ads",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Google Ads",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Email Marketing",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Content Strategy",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Copywriting",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "A/B Testing",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Social Media Marketing",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "VS Code",
+          "category": "Proje Yönetimi"
+        },
+        {
+          "name": "Notion",
+          "category": "Proje Yönetimi"
+        },
+        {
+          "name": "Slack",
+          "category": "Proje Yönetimi"
+        },
+        {
+          "name": "Zapier",
+          "category": "Proje Yönetimi"
+        },
+        {
+          "name": "n8n",
+          "category": "Proje Yönetimi"
+        },
+        {
+          "name": "Make (Integromat)",
+          "category": "Proje Yönetimi"
+        },
+        {
+          "name": "Obsidian",
+          "category": "Proje Yönetimi"
+        },
+        {
+          "name": "Linear",
+          "category": "Proje Yönetimi"
+        }
       ]
     }
   },
@@ -373,8 +622,8 @@
     "es": "Español",
     "tr": "Türkçe",
     "pl": "Polski",
-    "uk": "Українська",
-    "nl": "Nederlands"
+    "nl": "Nederlands",
+    "ua": "Українська"
   },
   "common": {
     "loading": "Yükleniyor…",

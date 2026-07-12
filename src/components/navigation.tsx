@@ -32,7 +32,7 @@ export function Navigation() {
           className="text-xl font-semibold tracking-tight bg-gradient-to-r from-purple-400 to-blue-400 bg-clip-text text-transparent hover:opacity-80 transition-opacity"
           onClick={handleNavClick}
         >
-          {locale === 'el' ? 'Αλέξανδρος Τσαρδούλιας' : locale === 'ru' ? 'Александр Цардулиас' : locale === 'uk' ? 'Александрс Цардуліас' : 'Alexandros Tsardoulias'}
+          {locale === 'el' ? 'Αλέξανδρος Τσαρδούλιας' : locale === 'ru' ? 'Александр Цардулиас' : locale === 'ua' ? 'Александрс Цардуліас' : 'Alexandros Tsardoulias'}
         </Link>
 
         {/* Desktop navigation */}

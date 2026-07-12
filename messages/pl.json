@@ -83,10 +83,22 @@
     "stats": {
       "heading": "W liczbach",
       "items": [
-        { "value": "50+", "label": "Zrealizowanych Projektów" },
-        { "value": "5+", "label": "Lat Doświadczenia" },
-        { "value": "100+", "label": "Narzędzi i Technologii" },
-        { "value": "200+", "label": "Napisanych Artykułów" }
+        {
+          "value": "50+",
+          "label": "Zrealizowanych Projektów"
+        },
+        {
+          "value": "5+",
+          "label": "Lat Doświadczenia"
+        },
+        {
+          "value": "100+",
+          "label": "Narzędzi i Technologii"
+        },
+        {
+          "value": "200+",
+          "label": "Napisanych Artykułów"
+        }
       ]
     }
   },
@@ -125,84 +137,321 @@
       "heading": "Technologie i Narzędzia",
       "allLabel": "Wszystkie",
       "empty": "Nie znaleziono narzędzi w tej kategorii.",
-      "categories": ["Języki Programowania", "Front-End & UI/UX", "Back-End/Bazy Danych", "DevOps & CI/CD", "Marketing & Analytics", "Design i Kreatywność", "Narzędzia AI", "Zarządzanie Projektami"],
+      "categories": [
+        "Języki Programowania",
+        "Front-End & UI/UX",
+        "Back-End/Bazy Danych",
+        "DevOps & CI/CD",
+        "Marketing & Analytics",
+        "Design i Kreatywność",
+        "Narzędzia AI",
+        "Zarządzanie Projektami"
+      ],
       "items": [
-        { "name": "React", "category": "Front-End & UI/UX" },
-        { "name": "Next.js", "category": "Front-End & UI/UX" },
-        { "name": "TypeScript", "category": "Front-End & UI/UX" },
-        { "name": "Tailwind CSS", "category": "Front-End & UI/UX" },
-        { "name": "HTML/CSS", "category": "Front-End & UI/UX" },
-        { "name": "JavaScript", "category": "Front-End & UI/UX" },
-        { "name": "Vue.js", "category": "Front-End & UI/UX" },
-        { "name": "Astro", "category": "Front-End & UI/UX" },
-        { "name": "Svelte", "category": "Front-End & UI/UX" },
-        { "name": "Framer Motion", "category": "Front-End & UI/UX" },
-        { "name": "shadcn/ui", "category": "Front-End & UI/UX" },
-        { "name": "Radix UI", "category": "Front-End & UI/UX" },
-        { "name": "Node.js", "category": "Back-End/Bazy Danych" },
-        { "name": "Express", "category": "Back-End/Bazy Danych" },
-        { "name": "Python", "category": "Back-End/Bazy Danych" },
-        { "name": "FastAPI", "category": "Back-End/Bazy Danych" },
-        { "name": "REST APIs", "category": "Back-End/Bazy Danych" },
-        { "name": "GraphQL", "category": "Back-End/Bazy Danych" },
-        { "name": "tRPC", "category": "Back-End/Bazy Danych" },
-        { "name": "Prisma", "category": "Back-End/Bazy Danych" },
-        { "name": "Django", "category": "Back-End/Bazy Danych" },
-        { "name": "LLMs", "category": "Narzędzia AI" },
-        { "name": "OpenAI API", "category": "Narzędzia AI" },
-        { "name": "LangChain", "category": "Narzędzia AI" },
-        { "name": "RAG", "category": "Narzędzia AI" },
-        { "name": "Vector Databases", "category": "Narzędzia AI" },
-        { "name": "Prompt Engineering", "category": "Narzędzia AI" },
-        { "name": "Midjourney", "category": "Narzędzia AI" },
-        { "name": "Stable Diffusion", "category": "Narzędzia AI" },
-        { "name": "Claude", "category": "Narzędzia AI" },
-        { "name": "AI Agents", "category": "Narzędzia AI" },
-        { "name": "Docker", "category": "DevOps & CI/CD" },
-        { "name": "Git", "category": "DevOps & CI/CD" },
-        { "name": "GitHub Actions", "category": "DevOps & CI/CD" },
-        { "name": "Vercel", "category": "DevOps & CI/CD" },
-        { "name": "Linux", "category": "DevOps & CI/CD" },
-        { "name": "Nginx", "category": "DevOps & CI/CD" },
-        { "name": "CI/CD", "category": "DevOps & CI/CD" },
-        { "name": "Supabase", "category": "DevOps & CI/CD" },
-        { "name": "Cloudflare", "category": "DevOps & CI/CD" },
-        { "name": "PostgreSQL", "category": "Back-End/Bazy Danych" },
-        { "name": "MongoDB", "category": "Back-End/Bazy Danych" },
-        { "name": "Redis", "category": "Back-End/Bazy Danych" },
-        { "name": "SQLite", "category": "Back-End/Bazy Danych" },
-        { "name": "Supabase DB", "category": "Back-End/Bazy Danych" },
-        { "name": "MySQL", "category": "Back-End/Bazy Danych" },
-        { "name": "TypeScript", "category": "Języki Programowania" },
-        { "name": "JavaScript", "category": "Języki Programowania" },
-        { "name": "Python", "category": "Języki Programowania" },
-        { "name": "HTML/CSS", "category": "Języki Programowania" },
-        { "name": "SQL", "category": "Języki Programowania" },
-        { "name": "Bash", "category": "Języki Programowania" },
-        { "name": "Markdown", "category": "Języki Programowania" },
-        { "name": "Figma", "category": "Design i Kreatywność" },
-        { "name": "Canva", "category": "Design i Kreatywność" },
-        { "name": "Adobe Photoshop", "category": "Design i Kreatywność" },
-        { "name": "UI/UX Design", "category": "Design i Kreatywność" },
-        { "name": "Responsive Design", "category": "Design i Kreatywność" },
-        { "name": "Design Systems", "category": "Design i Kreatywność" },
-        { "name": "Google Analytics", "category": "Marketing & Analytics" },
-        { "name": "SEO", "category": "Marketing & Analytics" },
-        { "name": "Meta Ads", "category": "Marketing & Analytics" },
-        { "name": "Google Ads", "category": "Marketing & Analytics" },
-        { "name": "Email Marketing", "category": "Marketing & Analytics" },
-        { "name": "Content Strategy", "category": "Marketing & Analytics" },
-        { "name": "Copywriting", "category": "Marketing & Analytics" },
-        { "name": "A/B Testing", "category": "Marketing & Analytics" },
-        { "name": "Social Media Marketing", "category": "Marketing & Analytics" },
-        { "name": "VS Code", "category": "Zarządzanie Projektami" },
-        { "name": "Notion", "category": "Zarządzanie Projektami" },
-        { "name": "Slack", "category": "Zarządzanie Projektami" },
-        { "name": "Zapier", "category": "Zarządzanie Projektami" },
-        { "name": "n8n", "category": "Zarządzanie Projektami" },
-        { "name": "Make (Integromat)", "category": "Zarządzanie Projektami" },
-        { "name": "Obsidian", "category": "Zarządzanie Projektami" },
-        { "name": "Linear", "category": "Zarządzanie Projektami" }
+        {
+          "name": "React",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Next.js",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "TypeScript",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Tailwind CSS",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "HTML/CSS",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "JavaScript",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Vue.js",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Astro",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Svelte",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Framer Motion",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "shadcn/ui",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Radix UI",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Node.js",
+          "category": "Back-End/Bazy Danych"
+        },
+        {
+          "name": "Express",
+          "category": "Back-End/Bazy Danych"
+        },
+        {
+          "name": "Python",
+          "category": "Back-End/Bazy Danych"
+        },
+        {
+          "name": "FastAPI",
+          "category": "Back-End/Bazy Danych"
+        },
+        {
+          "name": "REST APIs",
+          "category": "Back-End/Bazy Danych"
+        },
+        {
+          "name": "GraphQL",
+          "category": "Back-End/Bazy Danych"
+        },
+        {
+          "name": "tRPC",
+          "category": "Back-End/Bazy Danych"
+        },
+        {
+          "name": "Prisma",
+          "category": "Back-End/Bazy Danych"
+        },
+        {
+          "name": "Django",
+          "category": "Back-End/Bazy Danych"
+        },
+        {
+          "name": "LLMs",
+          "category": "Narzędzia AI"
+        },
+        {
+          "name": "OpenAI API",
+          "category": "Narzędzia AI"
+        },
+        {
+          "name": "LangChain",
+          "category": "Narzędzia AI"
+        },
+        {
+          "name": "RAG",
+          "category": "Narzędzia AI"
+        },
+        {
+          "name": "Vector Databases",
+          "category": "Narzędzia AI"
+        },
+        {
+          "name": "Prompt Engineering",
+          "category": "Narzędzia AI"
+        },
+        {
+          "name": "Midjourney",
+          "category": "Narzędzia AI"
+        },
+        {
+          "name": "Stable Diffusion",
+          "category": "Narzędzia AI"
+        },
+        {
+          "name": "Claude",
+          "category": "Narzędzia AI"
+        },
+        {
+          "name": "AI Agents",
+          "category": "Narzędzia AI"
+        },
+        {
+          "name": "Docker",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Git",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "GitHub Actions",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Vercel",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Linux",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Nginx",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "CI/CD",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Supabase",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Cloudflare",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "PostgreSQL",
+          "category": "Back-End/Bazy Danych"
+        },
+        {
+          "name": "MongoDB",
+          "category": "Back-End/Bazy Danych"
+        },
+        {
+          "name": "Redis",
+          "category": "Back-End/Bazy Danych"
+        },
+        {
+          "name": "SQLite",
+          "category": "Back-End/Bazy Danych"
+        },
+        {
+          "name": "Supabase DB",
+          "category": "Back-End/Bazy Danych"
+        },
+        {
+          "name": "MySQL",
+          "category": "Back-End/Bazy Danych"
+        },
+        {
+          "name": "TypeScript",
+          "category": "Języki Programowania"
+        },
+        {
+          "name": "JavaScript",
+          "category": "Języki Programowania"
+        },
+        {
+          "name": "Python",
+          "category": "Języki Programowania"
+        },
+        {
+          "name": "HTML/CSS",
+          "category": "Języki Programowania"
+        },
+        {
+          "name": "SQL",
+          "category": "Języki Programowania"
+        },
+        {
+          "name": "Bash",
+          "category": "Języki Programowania"
+        },
+        {
+          "name": "Markdown",
+          "category": "Języki Programowania"
+        },
+        {
+          "name": "Figma",
+          "category": "Design i Kreatywność"
+        },
+        {
+          "name": "Canva",
+          "category": "Design i Kreatywność"
+        },
+        {
+          "name": "Adobe Photoshop",
+          "category": "Design i Kreatywność"
+        },
+        {
+          "name": "UI/UX Design",
+          "category": "Design i Kreatywność"
+        },
+        {
+          "name": "Responsive Design",
+          "category": "Design i Kreatywność"
+        },
+        {
+          "name": "Design Systems",
+          "category": "Design i Kreatywność"
+        },
+        {
+          "name": "Google Analytics",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "SEO",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Meta Ads",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Google Ads",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Email Marketing",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Content Strategy",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Copywriting",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "A/B Testing",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Social Media Marketing",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "VS Code",
+          "category": "Zarządzanie Projektami"
+        },
+        {
+          "name": "Notion",
+          "category": "Zarządzanie Projektami"
+        },
+        {
+          "name": "Slack",
+          "category": "Zarządzanie Projektami"
+        },
+        {
+          "name": "Zapier",
+          "category": "Zarządzanie Projektami"
+        },
+        {
+          "name": "n8n",
+          "category": "Zarządzanie Projektami"
+        },
+        {
+          "name": "Make (Integromat)",
+          "category": "Zarządzanie Projektami"
+        },
+        {
+          "name": "Obsidian",
+          "category": "Zarządzanie Projektami"
+        },
+        {
+          "name": "Linear",
+          "category": "Zarządzanie Projektami"
+        }
       ]
     }
   },
@@ -373,8 +622,8 @@
     "es": "Español",
     "tr": "Türkçe",
     "pl": "Polski",
-    "uk": "Українська",
-    "nl": "Nederlands"
+    "nl": "Nederlands",
+    "ua": "Українська"
   },
   "common": {
     "loading": "Ładowanie…",

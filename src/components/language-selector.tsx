@@ -20,11 +20,11 @@ const FLAG_MAP: Record<string, string> = {
   es: '🇪🇸',
   tr: '🇹🇷',
   pl: '🇵🇱',
-  uk: '🇺🇦',
+  ua: '🇺🇦',
   nl: '🇳🇱',
 };
 
-const LOCALES = ['en', 'el', 'ru', 'de', 'fr', 'it', 'es', 'tr', 'pl', 'uk', 'nl'] as const;
+const LOCALES = ['en', 'el', 'ru', 'de', 'fr', 'it', 'es', 'tr', 'pl', 'ua', 'nl'] as const;
 
 export function LanguageSelector() {
   const t = useTranslations('language');
