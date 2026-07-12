@@ -1,40 +1,40 @@
 {
   "nav": {
-    "home": "Home",
-    "about": "About",
-    "work": "Work",
-    "articles": "Articles",
-    "contact": "Contact"
+    "home": "Главная",
+    "about": "Обо мне",
+    "work": "Услуги",
+    "articles": "Статьи",
+    "contact": "Контакты"
   },
   "hero": {
     "greeting": "Hello, World! I'm",
     "name": "Alexandros Tsardoulias",
     "title": "AI-Native Software Engineer & Marketing Specialist",
     "description": "Я помогаю основателям, стартапам, малому и среднему бизнесу и НКО достигать своих целей, объединяя технологии, философию, стратегию роста и лучшие практики коммуникации.",
-    "cta": "See my work",
-    "ctaSecondary": "Get in touch"
+    "cta": "Мои работы",
+    "ctaSecondary": "Связаться"
   },
   "home": {
     "summaries": {
       "about": {
-        "heading": "About me",
-        "description": "Who I am, what I've studied, where I've worked."
+        "heading": "Обо мне",
+        "description": "Кто я, что я изучал, где я работал."
       },
       "work": {
-        "heading": "What I do",
-        "description": "Services and completed projects."
+        "heading": "Что я делаю",
+        "description": "Услуги и завершённые проекты."
       },
       "articles": {
-        "heading": "Articles",
-        "description": "Thoughts on AI, marketing, and technology."
+        "heading": "Статьи",
+        "description": "Мысли об ИИ, маркетинге и технологиях."
       },
       "contact": {
-        "heading": "Contact",
-        "description": "Find me on social media."
+        "heading": "Контакты",
+        "description": "Найди меня в соцсетях."
       }
     },
     "servicesOverview": {
-      "heading": "What I Do",
+      "heading": "Что я делаю",
       "items": [
         {
           "title": "Разработка ПО",
@@ -45,12 +45,12 @@
           "description": "Стратегия go-to-market, автоматизация маркетинга, копирайтинг и написание контента, а также кампании, ориентированные на конверсию, которые приносят результаты."
         },
         {
-          "title": "AI & Automation",
-          "description": "AI integration, workflow automation, and intelligent systems that scale your business."
+          "title": "ИИ & Автоматизация",
+          "description": "Интеграция ИИ, автоматизация рабочих процессов и интеллектуальные системы, которые масштабируют ваш бизнес."
         },
         {
-          "title": "Strategy & Consulting",
-          "description": "Technical advisory, architecture decisions, and product strategy for modern businesses."
+          "title": "Стратегия и Консалтинг",
+          "description": "Технические консультации, архитектурные решения и продуктовая стратегия для современного бизнеса."
         }
       ]
     },
@@ -81,7 +81,7 @@
       }
     },
     "stats": {
-      "heading": "By the Numbers",
+      "heading": "В цифрах",
       "items": [
         { "value": "50+", "label": "Завершённых Проектов" },
         { "value": "5+", "label": "Лет Опыта" },
@@ -91,16 +91,16 @@
     }
   },
   "about": {
-    "heading": "About me",
-    "description": "A blend of engineering rigor and marketing intuition. I build AI-native products, write code that matters, and help businesses find their voice in the digital space.",
-    "cta": "See my work",
+    "heading": "Обо мне",
+    "description": "Сочетание инженерной точности и маркетинговой интуиции. Я создаю AI-native продукты, пишу код, который имеет значение, и помогаю бизнесу найти свой голос в цифровом пространстве.",
+    "cta": "Мои работы",
     "bio": {
-      "paragraph1": "I'm Alexandros Tsardoulias, an AI-Native Software Engineer and Marketing Specialist. I combine technical expertise with strategic thinking to create solutions that work in the real world.",
-      "paragraph2": "My philosophy is simple: less is more. I prefer clean, functional code and measured design over bloated solutions. I believe technology should serve people — not the other way around.",
-      "paragraph3": "I'm currently focused on how artificial intelligence is changing the way we work, communicate, and create. I write code, analyze data, and build products with meaning."
+      "paragraph1": "Я Александрос Цардулиас, AI-Native Software Engineer и Marketing Specialist. Я сочетаю техническую экспертизу со стратегическим мышлением для создания решений, работающих в реальном мире.",
+      "paragraph2": "Моя философия проста: меньше значит больше. Я предпочитаю чистый, функциональный код и продуманный дизайн раздутым решениям. Я верю, что технология должна служить людям — а не наоборот.",
+      "paragraph3": "Сейчас я сосредоточен на том, как искусственный интеллект меняет то, как мы работаем, общаемся и создаём. Я пишу код, анализирую данные и создаю продукты со смыслом."
     },
     "education": {
-      "heading": "Education",
+      "heading": "Образование",
       "items": [
         {
           "year": "2020 — 2024",
@@ -111,7 +111,7 @@
       ]
     },
     "work": {
-      "heading": "Work Experience",
+      "heading": "Опыт работы",
       "items": [
         {
           "year": "2023 — Present",
@@ -124,7 +124,7 @@
     "tools": {
       "heading": "Технологии и инструменты",
       "allLabel": "Все",
-      "empty": "В этой категории ничего не найдено.",
+      "empty": "Инструменты в этой категории не найдены.",
       "categories": ["Языки Программирования", "Front-End & UI/UX", "Back-End/Базы Данных", "DevOps & CI/CD", "Marketing & Analytics", "Дизайн и Креатив", "Инструменты ИИ", "Управление Проектами"],
       "items": [
         { "name": "React", "category": "Front-End & UI/UX" },
@@ -207,98 +207,98 @@
     }
   },
   "work": {
-    "heading": "What I do",
-    "description": "From full-stack web apps to go-to-market strategy — I deliver end-to-end solutions. Every project starts with understanding your goals and ends with measurable results.",
-    "cta": "Read my articles",
+    "heading": "Что я делаю",
+    "description": "От full-stack веб-приложений до стратегии go-to-market — я предоставляю комплексные решения. Каждый проект начинается с понимания ваших целей и заканчивается измеримыми результатами.",
+    "cta": "Читать мои статьи",
     "services": {
-      "heading": "Services",
+      "heading": "Услуги",
       "items": [
         {
-          "name": "Web Development",
-          "description": "Custom web apps with Next.js, React, and TypeScript. Fast, responsive, and SEO-optimized."
+          "name": "Веб-разработка",
+          "description": "Индивидуальные веб-приложения на Next.js, React и TypeScript. Быстрые, адаптивные, оптимизированные для SEO."
         },
         {
-          "name": "Web App Development",
-          "description": "Full-stack web applications with modern frameworks, databases, and cloud infrastructure."
+          "name": "Разработка веб-приложений",
+          "description": "Full-stack веб-приложения с современными фреймворками, базами данных и облачной инфраструктурой."
         },
         {
-          "name": "Mobile App Development",
-          "description": "Cross-platform mobile apps using React Native and Expo for iOS and Android."
+          "name": "Разработка мобильных приложений",
+          "description": "Кроссплатформенные мобильные приложения на React Native и Expo для iOS и Android."
         },
         {
-          "name": "Go-To-Market Strategy",
-          "description": "Strategic planning for product launches — positioning, messaging, and go-to-market execution."
+          "name": "Стратегия Go-To-Market",
+          "description": "Стратегическое планирование запусков продуктов — позиционирование, месседжинг и реализация go-to-market."
         },
         {
-          "name": "Marketing Automation",
-          "description": "Automated marketing workflows, email sequences, and lead nurturing systems."
+          "name": "Автоматизация маркетинга",
+          "description": "Автоматизированные маркетинговые процессы, цепочки писем и системы взращивания лидов."
         },
         {
-          "name": "Marketing Consulting",
-          "description": "Strategic marketing advisory for startups and small businesses — growth, retention, analytics."
+          "name": "Маркетинговый консалтинг",
+          "description": "Стратегическая маркетинговая поддержка для стартапов и малого бизнеса — рост, удержание, аналитика."
         },
         {
-          "name": "Forward-Deployed Engineering",
-          "description": "Embedded engineering solutions — I work alongside your team to solve technical challenges on site."
+          "name": "Forward-Deployed инженерия",
+          "description": "Встроенные инженерные решения — работаю бок о бок с вашей командой для решения технических задач на месте."
         },
         {
-          "name": "Workflow Automation",
-          "description": "Custom automation solutions to streamline repetitive tasks and business processes."
+          "name": "Автоматизация процессов",
+          "description": "Индивидуальные решения по автоматизации для оптимизации повторяющихся задач и бизнес-процессов."
         },
         {
-          "name": "AI & Tech Consulting",
-          "description": "Advisory on AI integration, tooling, architecture, and scaling for modern businesses."
+          "name": "Консалтинг по ИИ и технологиям",
+          "description": "Консультации по интеграции ИИ, инструментам, архитектуре и масштабированию для современного бизнеса."
         },
         {
-          "name": "Copywriting",
-          "description": "Persuasive, conversion-focused copy for landing pages, emails, ads, and product descriptions."
+          "name": "Копирайтинг",
+          "description": "Убедительные, ориентированные на конверсию тексты для лендингов, писем, рекламы и описаний продуктов."
         },
         {
-          "name": "Content Writing",
-          "description": "Articles, blog posts, and long-form content that educates and engages your audience."
+          "name": "Написание контента",
+          "description": "Статьи, блог-посты и длинный контент, который обучает и вовлекает вашу аудиторию."
         },
         {
-          "name": "Technical Documentation",
-          "description": "Clear, comprehensive documentation for APIs, SDKs, and developer-facing products."
+          "name": "Техническая документация",
+          "description": "Чёткая, полная документация для API, SDK и продуктов, ориентированных на разработчиков."
         }
       ]
     },
     "completed": {
-      "heading": "Completed Projects",
+      "heading": "Завершённые проекты",
       "items": [
         {
-          "title": "How AI Is Changing Marketing",
+          "title": "Как ИИ меняет маркетинг",
           "date": "2026-06-15",
-          "category": "Technology",
-          "excerpt": "An analysis of how AI tools are transforming digital marketing.",
+          "category": "Технологии",
+          "excerpt": "Анализ того, как инструменты ИИ трансформируют цифровой маркетинг.",
           "slug": "ai-marketing-2026"
         },
         {
-          "title": "Modern Web Development in 2026",
+          "title": "Современная веб-разработка в 2026",
           "date": "2026-05-20",
-          "category": "Technology",
-          "excerpt": "The tools, frameworks, and practices I use for web development today.",
+          "category": "Технологии",
+          "excerpt": "Инструменты, фреймворки и практики, которые я использую для веб-разработки сегодня.",
           "slug": "modern-web-dev"
         }
       ]
     }
   },
   "articles": {
-    "heading": "Articles",
-    "description": "Thoughts on AI, software engineering, and modern marketing. I write about what I build, what I learn, and where technology is heading.",
-    "cta": "Get in touch",
+    "heading": "Статьи",
+    "description": "Мысли об ИИ, разработке ПО и современном маркетинге. Я пишу о том, что создаю, чему учусь и куда движется технология.",
+    "cta": "Связаться",
     "filter": {
-      "all": "All",
-      "label": "Category"
+      "all": "Все",
+      "label": "Категория"
     },
-    "empty": "No articles in this category.",
-    "readMore": "Read more",
-    "backToList": "← Back to articles"
+    "empty": "Нет статей в этой категории.",
+    "readMore": "Читать далее",
+    "backToList": "← Назад к статьям"
   },
   "contact": {
-    "heading": "Contact",
-    "description": "Let's talk. Whether you have a project in mind, a question, or just want to connect — I'm here.",
-    "subtitle": "You can find me on:",
+    "heading": "Контакты",
+    "description": "Давайте поговорим. Будь то проект, вопрос или просто желание связаться — я здесь.",
+    "subtitle": "Меня можно найти на:",
     "links": [
       {
         "platform": "Instagram",
@@ -354,16 +354,16 @@
   },
   "footer": {
     "copyright": "© {year} Alexandros Tsardoulias",
-    "builtWith": "Built with Next.js & Tailwind",
-    "backToTop": "Top"
+    "builtWith": "Создано с Next.js и Tailwind",
+    "backToTop": "Наверх"
   },
   "theme": {
-    "light": "Light",
-    "dark": "Dark",
-    "toggle": "Toggle theme"
+    "light": "Светлая",
+    "dark": "Тёмная",
+    "toggle": "Сменить тему"
   },
   "language": {
-    "label": "Language",
+    "label": "Язык",
     "el": "Ελληνικά",
     "en": "English",
     "ru": "Русский",
@@ -377,15 +377,15 @@
     "nl": "Nederlands"
   },
   "common": {
-    "loading": "Loading…",
-    "error": "Something went wrong.",
-    "retry": "Try again",
-    "back": "← Back",
-    "readMore": "Read more"
+    "loading": "Загрузка…",
+    "error": "Что-то пошло не так.",
+    "retry": "Попробовать снова",
+    "back": "← Назад",
+    "readMore": "Читать далее"
   },
   "404": {
-    "title": "404 — Page not found",
-    "message": "The page you're looking for doesn't exist.",
-    "backHome": "← Back to home"
+    "title": "404 — Страница не найдена",
+    "message": "Страница, которую вы ищете, не существует.",
+    "backHome": "← На главную"
   }
 }

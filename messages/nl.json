@@ -1,9 +1,9 @@
 {
   "nav": {
     "home": "Home",
-    "about": "About",
-    "work": "Work",
-    "articles": "Articles",
+    "about": "Over mij",
+    "work": "Diensten",
+    "articles": "Artikelen",
     "contact": "Contact"
   },
   "hero": {
@@ -11,30 +11,30 @@
     "name": "Alexandros Tsardoulias",
     "title": "AI-Native Software Engineer & Marketing Specialist",
     "description": "Ik help oprichters, startups, MKB-bedrijven en NGO's hun doelen te bereiken door technologie, filosofie, groeistrategie en best practices op het gebied van communicatie te verbinden.",
-    "cta": "See my work",
-    "ctaSecondary": "Get in touch"
+    "cta": "Mijn werk",
+    "ctaSecondary": "Neem contact op"
   },
   "home": {
     "summaries": {
       "about": {
-        "heading": "About me",
-        "description": "Who I am, what I've studied, where I've worked."
+        "heading": "Over mij",
+        "description": "Wie ik ben, wat ik heb gestudeerd, waar ik heb gewerkt."
       },
       "work": {
-        "heading": "What I do",
-        "description": "Services and completed projects."
+        "heading": "Wat ik doe",
+        "description": "Diensten en afgeronde projecten."
       },
       "articles": {
-        "heading": "Articles",
-        "description": "Thoughts on AI, marketing, and technology."
+        "heading": "Artikelen",
+        "description": "Gedachten over AI, marketing en technologie."
       },
       "contact": {
         "heading": "Contact",
-        "description": "Find me on social media."
+        "description": "Vind mij op sociale media."
       }
     },
     "servicesOverview": {
-      "heading": "What I Do",
+      "heading": "Wat ik doe",
       "items": [
         {
           "title": "Softwareontwikkeling",
@@ -45,12 +45,12 @@
           "description": "Go-to-marketstrategie, marketingautomatisering, copy- en contentwriting en conversiegerichte campagnes die resultaten opleveren."
         },
         {
-          "title": "AI & Automation",
-          "description": "AI integration, workflow automation, and intelligent systems that scale your business."
+          "title": "AI & Automatisering",
+          "description": "AI-integratie, workflow-automatisering en intelligente systemen die uw bedrijf laten groeien."
         },
         {
-          "title": "Strategy & Consulting",
-          "description": "Technical advisory, architecture decisions, and product strategy for modern businesses."
+          "title": "Strategie & Consultancy",
+          "description": "Technisch advies, architectuurbeslissingen en productstrategie voor moderne bedrijven."
         }
       ]
     },
@@ -81,7 +81,7 @@
       }
     },
     "stats": {
-      "heading": "By the Numbers",
+      "heading": "In cijfers",
       "items": [
         { "value": "50+", "label": "Afgeronde Projecten" },
         { "value": "5+", "label": "Jaar Ervaring" },
@@ -91,16 +91,16 @@
     }
   },
   "about": {
-    "heading": "About me",
-    "description": "A blend of engineering rigor and marketing intuition. I build AI-native products, write code that matters, and help businesses find their voice in the digital space.",
-    "cta": "See my work",
+    "heading": "Over mij",
+    "description": "Een mix van technische precisie en marketingintuïtie. Ik bouw AI-native producten, schrijf code die ertoe doet en help bedrijven hun stem te vinden in de digitale ruimte.",
+    "cta": "Mijn werk",
     "bio": {
-      "paragraph1": "I'm Alexandros Tsardoulias, an AI-Native Software Engineer and Marketing Specialist. I combine technical expertise with strategic thinking to create solutions that work in the real world.",
-      "paragraph2": "My philosophy is simple: less is more. I prefer clean, functional code and measured design over bloated solutions. I believe technology should serve people — not the other way around.",
-      "paragraph3": "I'm currently focused on how artificial intelligence is changing the way we work, communicate, and create. I write code, analyze data, and build products with meaning."
+      "paragraph1": "Ik ben Alexandros Tsardoulias, een AI-Native Software Engineer en Marketing Specialist. Ik combineer technische expertise met strategisch denken om oplossingen te creëren die in de echte wereld werken.",
+      "paragraph2": "Mijn filosofie is eenvoudig: minder is meer. Ik geef de voorkeur aan schone, functionele code en doordacht design boven opgeblazen oplossingen. Ik geloof dat technologie mensen moet dienen — niet andersom.",
+      "paragraph3": "Ik richt me momenteel op hoe kunstmatige intelligentie de manier verandert waarop we werken, communiceren en creëren. Ik schrijf code, analyseer data en bouw producten met betekenis."
     },
     "education": {
-      "heading": "Education",
+      "heading": "Opleiding",
       "items": [
         {
           "year": "2020 — 2024",
@@ -111,7 +111,7 @@
       ]
     },
     "work": {
-      "heading": "Work Experience",
+      "heading": "Werkervaring",
       "items": [
         {
           "year": "2023 — Present",
@@ -207,11 +207,11 @@
     }
   },
   "work": {
-    "heading": "What I do",
-    "description": "From full-stack web apps to go-to-market strategy — I deliver end-to-end solutions. Every project starts with understanding your goals and ends with measurable results.",
-    "cta": "Read my articles",
+    "heading": "Wat ik doe",
+    "description": "Van full-stack webapps tot go-to-marketstrategie — ik lever end-to-end oplossingen. Elk project begint met het begrijpen van uw doelen en eindigt met meetbare resultaten.",
+    "cta": "Lees mijn artikelen",
     "services": {
-      "heading": "Services",
+      "heading": "Diensten",
       "items": [
         {
           "name": "Web Development",
@@ -284,21 +284,21 @@
     }
   },
   "articles": {
-    "heading": "Articles",
-    "description": "Thoughts on AI, software engineering, and modern marketing. I write about what I build, what I learn, and where technology is heading.",
-    "cta": "Get in touch",
+    "heading": "Artikelen",
+    "description": "Gedachten over AI, softwareontwikkeling en moderne marketing. Ik schrijf over wat ik bouw, wat ik leer en waar technologie naartoe gaat.",
+    "cta": "Neem contact op",
     "filter": {
-      "all": "All",
-      "label": "Category"
+      "all": "Alles",
+      "label": "Categorie"
     },
-    "empty": "No articles in this category.",
-    "readMore": "Read more",
-    "backToList": "← Back to articles"
+    "empty": "Geen artikelen in deze categorie.",
+    "readMore": "Lees meer",
+    "backToList": "← Terug naar artikelen"
   },
   "contact": {
     "heading": "Contact",
-    "description": "Let's talk. Whether you have a project in mind, a question, or just want to connect — I'm here.",
-    "subtitle": "You can find me on:",
+    "description": "Laten we praten. Of je nu een project in gedachten hebt, een vraag, of gewoon contact wilt maken — ik ben er.",
+    "subtitle": "Je kunt me vinden op:",
     "links": [
       {
         "platform": "Instagram",
@@ -354,16 +354,16 @@
   },
   "footer": {
     "copyright": "© {year} Alexandros Tsardoulias",
-    "builtWith": "Built with Next.js & Tailwind",
-    "backToTop": "Top"
+    "builtWith": "Gebouwd met Next.js & Tailwind",
+    "backToTop": "Terug naar boven"
   },
   "theme": {
-    "light": "Light",
-    "dark": "Dark",
-    "toggle": "Toggle theme"
+    "light": "Licht",
+    "dark": "Donker",
+    "toggle": "Thema wisselen"
   },
   "language": {
-    "label": "Language",
+    "label": "Taal",
     "el": "Ελληνικά",
     "en": "English",
     "ru": "Русский",
@@ -377,15 +377,15 @@
     "nl": "Nederlands"
   },
   "common": {
-    "loading": "Loading…",
-    "error": "Something went wrong.",
-    "retry": "Try again",
-    "back": "← Back",
-    "readMore": "Read more"
+    "loading": "Laden…",
+    "error": "Er is iets misgegaan.",
+    "retry": "Probeer opnieuw",
+    "back": "← Terug",
+    "readMore": "Lees meer"
   },
   "404": {
-    "title": "404 — Page not found",
-    "message": "The page you're looking for doesn't exist.",
-    "backHome": "← Back to home"
+    "title": "404 — Pagina niet gevonden",
+    "message": "De pagina die u zoekt bestaat niet.",
+    "backHome": "← Terug naar home"
   }
 }

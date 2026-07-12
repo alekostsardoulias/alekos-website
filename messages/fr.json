@@ -1,8 +1,8 @@
 {
   "nav": {
-    "home": "Home",
-    "about": "About",
-    "work": "Work",
+    "home": "Accueil",
+    "about": "À propos",
+    "work": "Services",
     "articles": "Articles",
     "contact": "Contact"
   },
@@ -11,30 +11,30 @@
     "name": "Alexandros Tsardoulias",
     "title": "AI-Native Software Engineer & Marketing Specialist",
     "description": "J'aide les fondateurs, startups, PME et ONG à atteindre leurs objectifs en combinant technologie, philosophie, stratégie de croissance et meilleures pratiques de communication.",
-    "cta": "See my work",
-    "ctaSecondary": "Get in touch"
+    "cta": "Mon travail",
+    "ctaSecondary": "Me contacter"
   },
   "home": {
     "summaries": {
       "about": {
-        "heading": "About me",
-        "description": "Who I am, what I've studied, where I've worked."
+        "heading": "À propos",
+        "description": "Qui je suis, ce que j'ai étudié, où j'ai travaillé."
       },
       "work": {
-        "heading": "What I do",
-        "description": "Services and completed projects."
+        "heading": "Ce que je fais",
+        "description": "Services et projets réalisés."
       },
       "articles": {
         "heading": "Articles",
-        "description": "Thoughts on AI, marketing, and technology."
+        "description": "Réflexions sur l'IA, le marketing et la technologie."
       },
       "contact": {
         "heading": "Contact",
-        "description": "Find me on social media."
+        "description": "Retrouvez-moi sur les réseaux sociaux."
       }
     },
     "servicesOverview": {
-      "heading": "What I Do",
+      "heading": "Ce que je fais",
       "items": [
         {
           "title": "Développement Logiciel",
@@ -45,12 +45,12 @@
           "description": "Stratégie go-to-market, automatisation marketing, copywriting et rédaction de contenu, et campagnes axées sur la conversion qui génèrent des résultats."
         },
         {
-          "title": "AI & Automation",
-          "description": "AI integration, workflow automation, and intelligent systems that scale your business."
+          "title": "IA & Automatisation",
+          "description": "Intégration IA, automatisation des workflows et systèmes intelligents qui font évoluer votre entreprise."
         },
         {
-          "title": "Strategy & Consulting",
-          "description": "Technical advisory, architecture decisions, and product strategy for modern businesses."
+          "title": "Stratégie & Conseil",
+          "description": "Conseil technique, décisions architecturales et stratégie produit pour les entreprises modernes."
         }
       ]
     },
@@ -81,7 +81,7 @@
       }
     },
     "stats": {
-      "heading": "By the Numbers",
+      "heading": "En chiffres",
       "items": [
         { "value": "50+", "label": "Projets Réalisés" },
         { "value": "5+", "label": "Années d'Expérience" },
@@ -91,16 +91,16 @@
     }
   },
   "about": {
-    "heading": "About me",
-    "description": "A blend of engineering rigor and marketing intuition. I build AI-native products, write code that matters, and help businesses find their voice in the digital space.",
-    "cta": "See my work",
+    "heading": "À propos",
+    "description": "Un mélange de rigueur technique et d'intuition marketing. Je crée des produits AI-native, j'écris du code qui compte et j'aide les entreprises à trouver leur voix dans l'espace numérique.",
+    "cta": "Mon travail",
     "bio": {
-      "paragraph1": "I'm Alexandros Tsardoulias, an AI-Native Software Engineer and Marketing Specialist. I combine technical expertise with strategic thinking to create solutions that work in the real world.",
-      "paragraph2": "My philosophy is simple: less is more. I prefer clean, functional code and measured design over bloated solutions. I believe technology should serve people — not the other way around.",
-      "paragraph3": "I'm currently focused on how artificial intelligence is changing the way we work, communicate, and create. I write code, analyze data, and build products with meaning."
+      "paragraph1": "Je suis Alexandros Tsardoulias, un AI-Native Software Engineer et Marketing Specialist. Je combine expertise technique et réflexion stratégique pour créer des solutions qui fonctionnent dans le monde réel.",
+      "paragraph2": "Ma philosophie est simple : moins c'est plus. Je préfère un code propre et fonctionnel et un design mesuré aux solutions gonflées. Je crois que la technologie doit servir les gens — pas l'inverse.",
+      "paragraph3": "Je me concentre actuellement sur la façon dont l'intelligence artificielle change notre façon de travailler, de communiquer et de créer. J'écris du code, j'analyse des données et je crée des produits qui ont du sens."
     },
     "education": {
-      "heading": "Education",
+      "heading": "Formation",
       "items": [
         {
           "year": "2020 — 2024",
@@ -111,7 +111,7 @@
       ]
     },
     "work": {
-      "heading": "Work Experience",
+      "heading": "Expérience professionnelle",
       "items": [
         {
           "year": "2023 — Present",
@@ -207,9 +207,9 @@
     }
   },
   "work": {
-    "heading": "What I do",
-    "description": "From full-stack web apps to go-to-market strategy — I deliver end-to-end solutions. Every project starts with understanding your goals and ends with measurable results.",
-    "cta": "Read my articles",
+    "heading": "Ce que je fais",
+    "description": "Des applications web full-stack à la stratégie go-to-market — je fournis des solutions de bout en bout. Chaque projet commence par la compréhension de vos objectifs et se termine par des résultats mesurables.",
+    "cta": "Lire mes articles",
     "services": {
       "heading": "Services",
       "items": [
@@ -285,20 +285,20 @@
   },
   "articles": {
     "heading": "Articles",
-    "description": "Thoughts on AI, software engineering, and modern marketing. I write about what I build, what I learn, and where technology is heading.",
-    "cta": "Get in touch",
+    "description": "Réflexions sur l'IA, le génie logiciel et le marketing moderne. J'écris sur ce que je construis, ce que j'apprends et où va la technologie.",
+    "cta": "Me contacter",
     "filter": {
-      "all": "All",
-      "label": "Category"
+      "all": "Tout",
+      "label": "Catégorie"
     },
-    "empty": "No articles in this category.",
-    "readMore": "Read more",
-    "backToList": "← Back to articles"
+    "empty": "Aucun article dans cette catégorie.",
+    "readMore": "Lire plus",
+    "backToList": "← Retour aux articles"
   },
   "contact": {
     "heading": "Contact",
-    "description": "Let's talk. Whether you have a project in mind, a question, or just want to connect — I'm here.",
-    "subtitle": "You can find me on:",
+    "description": "Parlons-en. Que vous ayez un projet en tête, une question ou que vous souhaitiez simplement vous connecter — je suis là.",
+    "subtitle": "Vous pouvez me trouver sur :",
     "links": [
       {
         "platform": "Instagram",
@@ -354,16 +354,16 @@
   },
   "footer": {
     "copyright": "© {year} Alexandros Tsardoulias",
-    "builtWith": "Built with Next.js & Tailwind",
-    "backToTop": "Top"
+    "builtWith": "Créé avec Next.js & Tailwind",
+    "backToTop": "Retour en haut"
   },
   "theme": {
-    "light": "Light",
-    "dark": "Dark",
-    "toggle": "Toggle theme"
+    "light": "Clair",
+    "dark": "Sombre",
+    "toggle": "Changer le thème"
   },
   "language": {
-    "label": "Language",
+    "label": "Langue",
     "el": "Ελληνικά",
     "en": "English",
     "ru": "Русский",
@@ -377,15 +377,15 @@
     "nl": "Nederlands"
   },
   "common": {
-    "loading": "Loading…",
-    "error": "Something went wrong.",
-    "retry": "Try again",
-    "back": "← Back",
-    "readMore": "Read more"
+    "loading": "Chargement…",
+    "error": "Quelque chose s'est mal passé.",
+    "retry": "Réessayer",
+    "back": "← Retour",
+    "readMore": "Lire plus"
   },
   "404": {
-    "title": "404 — Page not found",
-    "message": "The page you're looking for doesn't exist.",
-    "backHome": "← Back to home"
+    "title": "404 — Page introuvable",
+    "message": "La page que vous cherchez n'existe pas.",
+    "backHome": "← Retour à l'accueil"
   }
 }

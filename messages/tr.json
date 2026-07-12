@@ -1,40 +1,40 @@
 {
   "nav": {
-    "home": "Home",
-    "about": "About",
-    "work": "Work",
-    "articles": "Articles",
-    "contact": "Contact"
+    "home": "Ana Sayfa",
+    "about": "Hakkımda",
+    "work": "Hizmetler",
+    "articles": "Makaleler",
+    "contact": "İletişim"
   },
   "hero": {
     "greeting": "Hello, World! I'm",
     "name": "Alexandros Tsardoulias",
     "title": "AI-Native Software Engineer & Marketing Specialist",
     "description": "Kuruculara, girişimlere, KOBİ'lere ve STK'lara teknoloji, felsefe, büyüme stratejisi ve en iyi iletişim uygulamalarını birleştirerek hedeflerine ulaşmalarında yardımcı oluyorum.",
-    "cta": "See my work",
-    "ctaSecondary": "Get in touch"
+    "cta": "Çalışmalarım",
+    "ctaSecondary": "İletişime geç"
   },
   "home": {
     "summaries": {
       "about": {
-        "heading": "About me",
-        "description": "Who I am, what I've studied, where I've worked."
+        "heading": "Hakkımda",
+        "description": "Kim olduğum, ne okuduğum, nerede çalıştığım."
       },
       "work": {
-        "heading": "What I do",
-        "description": "Services and completed projects."
+        "heading": "Ne yapıyorum",
+        "description": "Hizmetler ve tamamlanan projeler."
       },
       "articles": {
-        "heading": "Articles",
-        "description": "Thoughts on AI, marketing, and technology."
+        "heading": "Makaleler",
+        "description": "Yapay zeka, pazarlama ve teknoloji üzerine düşünceler."
       },
       "contact": {
-        "heading": "Contact",
-        "description": "Find me on social media."
+        "heading": "İletişim",
+        "description": "Beni sosyal medyada bul."
       }
     },
     "servicesOverview": {
-      "heading": "What I Do",
+      "heading": "Ne yapıyorum",
       "items": [
         {
           "title": "Yazılım Geliştirme",
@@ -45,12 +45,12 @@
           "description": "Go-to-market stratejisi, pazarlama otomasyonu, metin ve içerik yazarlığı ve sonuç odaklı dönüşüm kampanyaları."
         },
         {
-          "title": "AI & Automation",
-          "description": "AI integration, workflow automation, and intelligent systems that scale your business."
+          "title": "YZ & Otomasyon",
+          "description": "YZ entegrasyonu, iş akışı otomasyonu ve işletmenizi ölçeklendiren akıllı sistemler."
         },
         {
-          "title": "Strategy & Consulting",
-          "description": "Technical advisory, architecture decisions, and product strategy for modern businesses."
+          "title": "Strateji ve Danışmanlık",
+          "description": "Modern işletmeler için teknik danışmanlık, mimari kararlar ve ürün stratejisi."
         }
       ]
     },
@@ -81,7 +81,7 @@
       }
     },
     "stats": {
-      "heading": "By the Numbers",
+      "heading": "Rakamlarla",
       "items": [
         { "value": "50+", "label": "Tamamlanan Proje" },
         { "value": "5+", "label": "Yıllık Deneyim" },
@@ -91,16 +91,16 @@
     }
   },
   "about": {
-    "heading": "About me",
-    "description": "A blend of engineering rigor and marketing intuition. I build AI-native products, write code that matters, and help businesses find their voice in the digital space.",
-    "cta": "See my work",
+    "heading": "Hakkımda",
+    "description": "Mühendislik titizliği ve pazarlama sezgisinin bir karışımı. AI-native ürünler geliştiriyor, önemli kodlar yazıyor ve işletmelerin dijital alanda seslerini bulmalarına yardımcı oluyorum.",
+    "cta": "Çalışmalarım",
     "bio": {
-      "paragraph1": "I'm Alexandros Tsardoulias, an AI-Native Software Engineer and Marketing Specialist. I combine technical expertise with strategic thinking to create solutions that work in the real world.",
-      "paragraph2": "My philosophy is simple: less is more. I prefer clean, functional code and measured design over bloated solutions. I believe technology should serve people — not the other way around.",
-      "paragraph3": "I'm currently focused on how artificial intelligence is changing the way we work, communicate, and create. I write code, analyze data, and build products with meaning."
+      "paragraph1": "Ben Alexandros Tsardoulias, bir AI-Native Software Engineer ve Marketing Specialist. Gerçek dünyada işe yarayan çözümler yaratmak için teknik uzmanlığı stratejik düşünceyle birleştiriyorum.",
+      "paragraph2": "Felsefem basit: az çoktur. Temiz, işlevsel kod ve ölçülü tasarımı şişirilmiş çözümlere tercih ediyorum. Teknolojinin insanlara hizmet etmesi gerektiğine inanıyorum — tam tersi değil.",
+      "paragraph3": "Şu anda yapay zekanın çalışma, iletişim kurma ve yaratma şeklimizi nasıl değiştirdiğine odaklanıyorum. Kod yazıyor, veri analiz ediyor ve anlamlı ürünler geliştiriyorum."
     },
     "education": {
-      "heading": "Education",
+      "heading": "Eğitim",
       "items": [
         {
           "year": "2020 — 2024",
@@ -111,7 +111,7 @@
       ]
     },
     "work": {
-      "heading": "Work Experience",
+      "heading": "İş Deneyimi",
       "items": [
         {
           "year": "2023 — Present",
@@ -207,98 +207,98 @@
     }
   },
   "work": {
-    "heading": "What I do",
-    "description": "From full-stack web apps to go-to-market strategy — I deliver end-to-end solutions. Every project starts with understanding your goals and ends with measurable results.",
-    "cta": "Read my articles",
+    "heading": "Ne yapıyorum",
+    "description": "Full-stack web uygulamalarından go-to-market stratejisine — uçtan uca çözümler sunuyorum. Her proje hedeflerinizi anlamakla başlar ve ölçülebilir sonuçlarla biter.",
+    "cta": "Makalelerimi oku",
     "services": {
-      "heading": "Services",
+      "heading": "Hizmetler",
       "items": [
         {
-          "name": "Web Development",
-          "description": "Custom web apps with Next.js, React, and TypeScript. Fast, responsive, and SEO-optimized."
+          "name": "Web Geliştirme",
+          "description": "Next.js, React ve TypeScript ile özel web uygulamaları. Hızlı, duyarlı ve SEO için optimize edilmiş."
         },
         {
-          "name": "Web App Development",
-          "description": "Full-stack web applications with modern frameworks, databases, and cloud infrastructure."
+          "name": "Web Uygulama Geliştirme",
+          "description": "Modern framework'ler, veritabanları ve bulut altyapısı ile full-stack web uygulamaları."
         },
         {
-          "name": "Mobile App Development",
-          "description": "Cross-platform mobile apps using React Native and Expo for iOS and Android."
+          "name": "Mobil Uygulama Geliştirme",
+          "description": "iOS ve Android için React Native ve Expo ile çapraz platform mobil uygulamalar."
         },
         {
-          "name": "Go-To-Market Strategy",
-          "description": "Strategic planning for product launches — positioning, messaging, and go-to-market execution."
+          "name": "Go-To-Market Stratejisi",
+          "description": "Ürün lansmanları için stratejik planlama — konumlandırma, mesajlaşma ve go-to-market uygulaması."
         },
         {
-          "name": "Marketing Automation",
-          "description": "Automated marketing workflows, email sequences, and lead nurturing systems."
+          "name": "Pazarlama Otomasyonu",
+          "description": "Otomatik pazarlama iş akışları, e-posta dizileri ve potansiyel müşteri besleme sistemleri."
         },
         {
-          "name": "Marketing Consulting",
-          "description": "Strategic marketing advisory for startups and small businesses — growth, retention, analytics."
+          "name": "Pazarlama Danışmanlığı",
+          "description": "Startup'lar ve küçük işletmeler için stratejik pazarlama danışmanlığı — büyüme, elde tutma, analitik."
         },
         {
-          "name": "Forward-Deployed Engineering",
-          "description": "Embedded engineering solutions — I work alongside your team to solve technical challenges on site."
+          "name": "Forward-Deployed Mühendislik",
+          "description": "Entegre mühendislik çözümleri — teknik zorlukları yerinde çözmek için ekibinizle yan yana çalışırım."
         },
         {
-          "name": "Workflow Automation",
-          "description": "Custom automation solutions to streamline repetitive tasks and business processes."
+          "name": "İş Akışı Otomasyonu",
+          "description": "Tekrarlayan görevleri ve iş süreçlerini kolaylaştırmak için özel otomasyon çözümleri."
         },
         {
-          "name": "AI & Tech Consulting",
-          "description": "Advisory on AI integration, tooling, architecture, and scaling for modern businesses."
+          "name": "YZ ve Teknoloji Danışmanlığı",
+          "description": "Modern işletmeler için YZ entegrasyonu, araçlar, mimari ve ölçeklendirme konularında danışmanlık."
         },
         {
-          "name": "Copywriting",
-          "description": "Persuasive, conversion-focused copy for landing pages, emails, ads, and product descriptions."
+          "name": "Metin Yazarlığı",
+          "description": "Landing page'ler, e-postalar, reklamlar ve ürün açıklamaları için ikna edici, dönüşüm odaklı metinler."
         },
         {
-          "name": "Content Writing",
-          "description": "Articles, blog posts, and long-form content that educates and engages your audience."
+          "name": "İçerik Yazarlığı",
+          "description": "Kitlenizi eğiten ve ilgisini çeken makaleler, blog yazıları ve uzun form içerik."
         },
         {
-          "name": "Technical Documentation",
-          "description": "Clear, comprehensive documentation for APIs, SDKs, and developer-facing products."
+          "name": "Teknik Dokümantasyon",
+          "description": "API'ler, SDK'lar ve geliştirici odaklı ürünler için net, kapsamlı dokümantasyon."
         }
       ]
     },
     "completed": {
-      "heading": "Completed Projects",
+      "heading": "Tamamlanan Projeler",
       "items": [
         {
-          "title": "How AI Is Changing Marketing",
+          "title": "Yapay Zeka Pazarlamayı Nasıl Değiştiriyor",
           "date": "2026-06-15",
-          "category": "Technology",
-          "excerpt": "An analysis of how AI tools are transforming digital marketing.",
+          "category": "Teknoloji",
+          "excerpt": "YZ araçlarının dijital pazarlamayı nasıl dönüştürdüğüne dair bir analiz.",
           "slug": "ai-marketing-2026"
         },
         {
-          "title": "Modern Web Development in 2026",
+          "title": "2026'da Modern Web Geliştirme",
           "date": "2026-05-20",
-          "category": "Technology",
-          "excerpt": "The tools, frameworks, and practices I use for web development today.",
+          "category": "Teknoloji",
+          "excerpt": "Bugün web geliştirme için kullandığım araçlar, framework'ler ve uygulamalar.",
           "slug": "modern-web-dev"
         }
       ]
     }
   },
   "articles": {
-    "heading": "Articles",
-    "description": "Thoughts on AI, software engineering, and modern marketing. I write about what I build, what I learn, and where technology is heading.",
-    "cta": "Get in touch",
+    "heading": "Makaleler",
+    "description": "YZ, yazılım mühendisliği ve modern pazarlama üzerine düşünceler. Ne inşa ettiğim, ne öğrendiğim ve teknolojinin nereye gittiği hakkında yazıyorum.",
+    "cta": "İletişime geç",
     "filter": {
-      "all": "All",
-      "label": "Category"
+      "all": "Tümü",
+      "label": "Kategori"
     },
-    "empty": "No articles in this category.",
-    "readMore": "Read more",
-    "backToList": "← Back to articles"
+    "empty": "Bu kategoride makale yok.",
+    "readMore": "Devamını oku",
+    "backToList": "← Makalelere dön"
   },
   "contact": {
-    "heading": "Contact",
-    "description": "Let's talk. Whether you have a project in mind, a question, or just want to connect — I'm here.",
-    "subtitle": "You can find me on:",
+    "heading": "İletişim",
+    "description": "Konuşalım. Aklınızda bir proje, bir soru ya da sadece bağlantı kurmak istiyorsanız — buradayım.",
+    "subtitle": "Beni şurada bulabilirsiniz:",
     "links": [
       {
         "platform": "Instagram",
@@ -354,16 +354,16 @@
   },
   "footer": {
     "copyright": "© {year} Alexandros Tsardoulias",
-    "builtWith": "Built with Next.js & Tailwind",
-    "backToTop": "Top"
+    "builtWith": "Next.js ve Tailwind ile geliştirildi",
+    "backToTop": "Başa dön"
   },
   "theme": {
-    "light": "Light",
-    "dark": "Dark",
-    "toggle": "Toggle theme"
+    "light": "Açık",
+    "dark": "Koyu",
+    "toggle": "Tema değiştir"
   },
   "language": {
-    "label": "Language",
+    "label": "Dil",
     "el": "Ελληνικά",
     "en": "English",
     "ru": "Русский",
@@ -377,15 +377,15 @@
     "nl": "Nederlands"
   },
   "common": {
-    "loading": "Loading…",
-    "error": "Something went wrong.",
-    "retry": "Try again",
-    "back": "← Back",
-    "readMore": "Read more"
+    "loading": "Yükleniyor…",
+    "error": "Bir şeyler yanlış gitti.",
+    "retry": "Tekrar dene",
+    "back": "← Geri",
+    "readMore": "Devamını oku"
   },
   "404": {
-    "title": "404 — Page not found",
-    "message": "The page you're looking for doesn't exist.",
-    "backHome": "← Back to home"
+    "title": "404 — Sayfa bulunamadı",
+    "message": "Aradığınız sayfa mevcut değil.",
+    "backHome": "← Ana sayfaya dön"
   }
 }
