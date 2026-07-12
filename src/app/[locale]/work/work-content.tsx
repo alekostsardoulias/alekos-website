@@ -129,7 +129,7 @@ export function WorkContent({
           </p>
         </div>
         <div className="shrink-0 ml-auto">
-          <div className="relative w-64 h-64 md:w-72 md:h-72 rounded-2xl border border-border overflow-hidden bg-muted/20">
+          <div className="relative w-64 h-64 md:w-72 md:h-72 rounded-full border-2 border-purple-400/20 shadow-[0_0_40px_rgba(168,85,247,0.2)] overflow-hidden bg-muted/20">
             <Image
               src={HERO_IMAGE}
               alt={heading}
