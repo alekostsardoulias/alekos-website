@@ -350,11 +350,6 @@
         "label": "Instagram — @alexistdev"
       },
       {
-        "platform": "Email",
-        "url": "mailto:hello@alexist.dev",
-        "label": "Email — hello@alexist.dev"
-      },
-      {
         "platform": "X (Twitter)",
         "url": "https://x.com/alexistdev",
         "label": "X — @alexistdev"
@@ -388,6 +383,11 @@
         "platform": "Reddit",
         "url": "https://reddit.com/user/alexistdev",
         "label": "Reddit — u/alexistdev"
+      },
+      {
+        "platform": "Email",
+        "url": "mailto:hello@alexist.dev",
+        "label": "Email — hello@alexist.dev"
       },
       {
         "platform": "Discord",

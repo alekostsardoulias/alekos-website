@@ -4,7 +4,6 @@ import { EducationTimeline } from '@/components/about/education-timeline';
 import { WorkTimeline } from '@/components/about/work-timeline';
 import { ToolsFilter } from '@/components/about/tools-filter';
 import {
-  User,
   Sparkles,
   Heart,
   BookOpen,
@@ -34,7 +33,7 @@ export default async function AboutPage() {
 
   return (
     <PageLayout>
-      <HeroSection headingKey="heading" headingNamespace="about" icon={<User size={24} />}>
+      <HeroSection headingKey="heading" headingNamespace="about">
         <div className="mt-6 space-y-4 rounded-xl border border-white/[0.06] bg-white/[0.02] backdrop-blur-sm p-5">
           <p className="text-base lg:text-lg leading-relaxed text-muted">
             {t('bio.paragraph1')}

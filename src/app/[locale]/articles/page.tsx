@@ -5,7 +5,6 @@ import { HeroSection } from '@/components/hero-section';
 import { Button } from '@/components/ui/button';
 import { getAllArticles, getAllCategories } from '@/lib/articles';
 import { ArticleFilter } from './article-filter';
-import { FileText } from 'lucide-react';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
@@ -21,7 +20,7 @@ export default function ArticlesPage() {
 
   return (
     <PageLayout>
-      <HeroSection headingKey="heading" headingNamespace="articles" icon={<FileText size={24} />} />
+      <HeroSection headingKey="heading" headingNamespace="articles" />
       <p className="text-sm text-text-secondary max-w-prose mt-2 mb-6 text-pretty">{t('description')}</p>
 
       {/* Category filter + article list */}

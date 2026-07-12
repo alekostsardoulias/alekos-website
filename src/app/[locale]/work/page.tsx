@@ -31,7 +31,6 @@ export default async function WorkPage() {
 
   return (
     <WorkContent
-      heading={t('heading')}
       servicesHeading={t('services.heading')}
       services={services}
       processHeading={t('process.heading')}

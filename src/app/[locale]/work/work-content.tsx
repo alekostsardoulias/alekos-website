@@ -1,12 +1,9 @@
 'use client';
 
-import { useState, useEffect } from 'react';
 import { useTranslations } from 'next-intl';
-import Image from 'next/image';
 import { Link } from '@/i18n/navigation';
 import { PageLayout } from '@/components/page-layout';
-import { Typewriter } from '@/components/typewriter';
-import { HERO_IMAGE } from '@/lib/config';
+import { HeroSection } from '@/components/hero-section';
 import { Button } from '@/components/ui/button';
 import {
   Code2,
@@ -45,7 +42,6 @@ interface CompletedItem {
 }
 
 interface WorkContentProps {
-  heading: string;
   servicesHeading: string;
   services: ServiceItem[];
   processHeading: string;
@@ -95,7 +91,6 @@ const iconContainer =
 // ── Component ──────────────────────────────────────────────────────────────
 
 export function WorkContent({
-  heading,
   servicesHeading,
   services,
   processHeading,
@@ -103,44 +98,11 @@ export function WorkContent({
   completedItems,
 }: WorkContentProps) {
   const t = useTranslations('work');
-  const [showTypewriter, setShowTypewriter] = useState(false);
-
-  useEffect(() => {
-    const timeout = setTimeout(() => {
-      setShowTypewriter(true);
-    }, 2500);
-    return () => clearTimeout(timeout);
-  }, []);
 
   return (
     <PageLayout>
       {/* ── Hero ─────────────────────────────────────────────────── */}
-      <section className="flex flex-col-reverse md:flex-row items-start gap-8 md:gap-12 mb-12">
-        <div className="text-left">
-          <h1 className="text-2xl md:text-3xl font-bold tracking-tight text-foreground">
-            {showTypewriter ? (
-              <Typewriter text={heading} />
-            ) : (
-              <span aria-hidden="true">{heading}</span>
-            )}
-          </h1>
-          <p className="text-sm text-text-secondary max-w-prose mt-2 mb-6 text-pretty">
-            {t('description')}
-          </p>
-        </div>
-        <div className="shrink-0 ml-auto">
-          <div className="relative w-64 h-64 md:w-72 md:h-72 rounded-full border-2 border-purple-400/20 shadow-[0_0_40px_rgba(168,85,247,0.2)] overflow-hidden bg-muted/20">
-            <Image
-              src={HERO_IMAGE}
-              alt={heading}
-              fill
-              className="object-cover"
-              priority
-              sizes="(max-width: 768px) 256px, 288px"
-            />
-          </div>
-        </div>
-      </section>
+      <HeroSection headingKey="heading" headingNamespace="work" subtitleKey="description" />
 
       {/* ── Services ──────────────────────────────────────────────── */}
       <section>

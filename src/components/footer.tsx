@@ -5,7 +5,6 @@ import { BrandIcon } from '@/components/ui/brand-icon';
 
 const SOCIAL_LINKS = [
   { platform: 'Instagram', url: 'https://instagram.com/alexistdev', label: 'Instagram' },
-  { platform: 'Email', url: 'mailto:hello@alexist.dev', label: 'Email' },
   { platform: 'X (Twitter)', url: 'https://x.com/alexistdev', label: 'X (Twitter)' },
   { platform: 'LinkedIn', url: 'https://linkedin.com/in/atsardoulias', label: 'LinkedIn' },
   { platform: 'GitHub', url: 'https://github.com/alexistdev', label: 'GitHub' },
@@ -13,6 +12,7 @@ const SOCIAL_LINKS = [
   { platform: 'Facebook', url: 'https://facebook.com/alexistdev', label: 'Facebook' },
   { platform: 'Threads', url: 'https://threads.net/@alexistdev', label: 'Threads' },
   { platform: 'Reddit', url: 'https://reddit.com/user/alexistdev', label: 'Reddit' },
+  { platform: 'Email', url: 'mailto:hello@alexist.dev', label: 'Email' },
   { platform: 'Discord', url: 'https://discord.gg/alexistdev', label: 'Discord' },
 ];
 
