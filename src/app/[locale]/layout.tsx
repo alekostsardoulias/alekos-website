@@ -7,7 +7,6 @@ import { CustomCursor } from '@/components/custom-cursor';
 import { Navigation } from '@/components/navigation';
 import { Footer } from '@/components/footer';
 import { PageTransition } from '@/components/page-transition';
-import { RTLProvider } from '@/components/rtl-provider';
 import { SITE_URL } from '@/lib/config';
 import type { Metadata } from 'next';
 
@@ -57,17 +56,15 @@ export default async function LocaleLayout({ children, params }: Props) {
   const messages = await getMessages();
 
   return (
-    <RTLProvider locale={locale}>
-      <ThemeProvider>
-        <CustomCursor />
-        <NextIntlClientProvider locale={locale} messages={messages}>
-          <Navigation />
-          <PageTransition>
-            <main className="flex-1">{children}</main>
-          </PageTransition>
-          <Footer />
-        </NextIntlClientProvider>
-      </ThemeProvider>
-    </RTLProvider>
+    <ThemeProvider>
+      <CustomCursor />
+      <NextIntlClientProvider locale={locale} messages={messages}>
+        <Navigation />
+        <PageTransition>
+          <main className="flex-1">{children}</main>
+        </PageTransition>
+        <Footer />
+      </NextIntlClientProvider>
+    </ThemeProvider>
   );
 }
