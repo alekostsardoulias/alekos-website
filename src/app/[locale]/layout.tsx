@@ -8,6 +8,8 @@ import { Navigation } from '@/components/navigation';
 import { Footer } from '@/components/footer';
 import { PageTransition } from '@/components/page-transition';
 import { SITE_URL } from '@/lib/config';
+import { cn } from '@/lib/utils';
+import { geistSans, geistMono } from '@/app/layout';
 import type { Metadata } from 'next';
 
 type Props = {
@@ -57,17 +59,24 @@ export default async function LocaleLayout({ children, params }: Props) {
   const isRTL = locale === 'il' || locale === 'ae';
 
   return (
-    <div dir={isRTL ? 'rtl' : 'ltr'} lang={locale}>
-      <ThemeProvider>
-        <CustomCursor />
-        <NextIntlClientProvider locale={locale} messages={messages}>
-          <Navigation />
-          <PageTransition>
-            <main className="flex-1">{children}</main>
-          </PageTransition>
-          <Footer />
-        </NextIntlClientProvider>
-      </ThemeProvider>
-    </div>
+    <html
+      lang={locale}
+      dir={isRTL ? 'rtl' : 'ltr'}
+      suppressHydrationWarning
+      className={cn("dark", "h-full", "antialiased", geistSans.variable, geistMono.variable, "font-sans")}
+    >
+      <body className="min-h-full flex flex-col">
+        <ThemeProvider>
+          <CustomCursor />
+          <NextIntlClientProvider locale={locale} messages={messages}>
+            <Navigation />
+            <PageTransition>
+              <main className="flex-1">{children}</main>
+            </PageTransition>
+            <Footer />
+          </NextIntlClientProvider>
+        </ThemeProvider>
+      </body>
+    </html>
   );
 }
