@@ -1,5 +1,5 @@
 import type { Metadata } from 'next';
-import { cookies } from 'next/headers';
+import Script from 'next/script';
 import { Geist, Geist_Mono } from 'next/font/google';
 import './globals.css';
 import { cn } from "@/lib/utils";
@@ -21,19 +21,19 @@ export const metadata: Metadata = {
   description: 'AI-Native Software Engineer & Marketing Specialist',
 };
 
-const RTL_LOCALES = ['il', 'ae'];
-
-export default async function RootLayout({
+export default function RootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
 }>) {
-  const cookieStore = await cookies();
-  const locale = cookieStore.get('NEXT_LOCALE')?.value || 'en';
-  const dir = RTL_LOCALES.includes(locale) ? 'rtl' : 'ltr';
-
   return (
-    <html lang={locale} dir={dir} suppressHydrationWarning className={cn("dark", "h-full", "antialiased", geistSans.variable, geistMono.variable, "font-sans")}>
+    <html lang="en" suppressHydrationWarning className={cn("dark", "h-full", "antialiased", geistSans.variable, geistMono.variable, "font-sans")}>
+      <head>
+        <Script
+          id="rtl-dir"
+          strategy="beforeInteractive"
+        >{`(function(){try{var c=document.cookie.match('(^|;)\\\\s*NEXT_LOCALE\\\\s*=\\\\s*([^;]+)');var l=c?c.pop():'en';document.documentElement.dir=['il','ae'].includes(l)?'rtl':'ltr';document.documentElement.lang=l}catch(e){}})()`}</Script>
+      </head>
       <body className="min-h-full flex flex-col">{children}</body>
     </html>
   );
