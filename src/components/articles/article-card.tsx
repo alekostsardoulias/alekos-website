@@ -6,7 +6,6 @@ interface ArticleCardProps {
   category: string;
   excerpt: string;
   slug: string;
-  basePath?: string;
   featured?: boolean;
   readMoreLabel: string;
   readingTimeLabel: string;
@@ -24,7 +23,6 @@ export function ArticleCard({
   category,
   excerpt,
   slug,
-  basePath = '/articles',
   featured = false,
   readMoreLabel,
   readingTimeLabel,
@@ -39,7 +37,7 @@ export function ArticleCard({
   const readingTime = readingTimeLabel.replace('{minutes}', String(minutes));
 
   return (
-    <Link href={`${basePath}/${slug}`} className="group block">
+    <Link href={`/articles/${slug}`} className="group block">
       <article
         className={`rounded-2xl border border-white/[0.06] bg-white/[0.02] backdrop-blur-sm transition-all duration-300 hover:border-purple-400/20 hover:shadow-[0_0_20px_rgba(168,85,247,0.08)] ${
           featured ? 'p-8' : 'p-6'
