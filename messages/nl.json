@@ -55,29 +55,29 @@
       ]
     },
     "featured": {
-      "heading": "Featured Work",
-      "viewProject": "View project",
+      "heading": "Uitgelicht werk",
+      "viewProject": "Project bekijken",
       "items": [
         {
-          "title": "How AI Is Changing Marketing",
-          "category": "Technology",
-          "description": "An analysis of how AI tools are transforming digital marketing strategies in 2026."
+          "title": "Hoe AI marketing verandert",
+          "category": "Technologie",
+          "description": "Een analyse van hoe AI-tools digitale marketingstrategieën in 2026 transformeren."
         },
         {
-          "title": "Modern Web Development in 2026",
-          "category": "Technology",
-          "description": "The tools, frameworks, and practices I use for web development today."
+          "title": "Moderne webontwikkeling in 2026",
+          "category": "Technologie",
+          "description": "De tools, frameworks en werkwijzen die ik vandaag gebruik voor webontwikkeling."
         },
         {
-          "title": "E-Commerce Redesign Case Study",
-          "category": "Case Study",
-          "description": "How I redesigned an e-commerce platform for better UX and 40% higher conversion."
+          "title": "E-commerce redesign casestudy",
+          "category": "Casestudy",
+          "description": "Hoe ik een e-commerceplatform heb herontworpen voor betere UX en 40% hogere conversie."
         }
       ],
       "cta": {
-        "heading": "Let's Work Together",
-        "subtitle": "Have a project in mind? Let's build something great.",
-        "button": "Get in Touch"
+        "heading": "Laten we samenwerken",
+        "subtitle": "Heb je een project in gedachten? Laten we iets geweldigs bouwen.",
+        "button": "Neem contact op"
       }
     },
     "stats": {

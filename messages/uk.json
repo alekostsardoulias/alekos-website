@@ -55,29 +55,29 @@
       ]
     },
     "featured": {
-      "heading": "Featured Work",
-      "viewProject": "View project",
+      "heading": "Обрані роботи",
+      "viewProject": "Переглянути проєкт",
       "items": [
         {
-          "title": "How AI Is Changing Marketing",
-          "category": "Technology",
-          "description": "An analysis of how AI tools are transforming digital marketing strategies in 2026."
+          "title": "Як ШІ змінює маркетинг",
+          "category": "Технології",
+          "description": "Аналіз того, як інструменти ШІ трансформують стратегії цифрового маркетингу у 2026 році."
         },
         {
-          "title": "Modern Web Development in 2026",
-          "category": "Technology",
-          "description": "The tools, frameworks, and practices I use for web development today."
+          "title": "Сучасна веб-розробка у 2026",
+          "category": "Технології",
+          "description": "Інструменти, фреймворки та практики, які я використовую для веб-розробки сьогодні."
         },
         {
-          "title": "E-Commerce Redesign Case Study",
-          "category": "Case Study",
-          "description": "How I redesigned an e-commerce platform for better UX and 40% higher conversion."
+          "title": "Кейс: Редизайн інтернет-магазину",
+          "category": "Кейс",
+          "description": "Як я переробив платформу електронної комерції для кращого UX і на 40% вищої конверсії."
         }
       ],
       "cta": {
-        "heading": "Let's Work Together",
-        "subtitle": "Have a project in mind? Let's build something great.",
-        "button": "Get in Touch"
+        "heading": "Працюймо разом",
+        "subtitle": "Маєте проєкт на думці? Створімо щось велике.",
+        "button": "Зв'язатися"
       }
     },
     "stats": {

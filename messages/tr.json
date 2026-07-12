@@ -55,29 +55,29 @@
       ]
     },
     "featured": {
-      "heading": "Featured Work",
-      "viewProject": "View project",
+      "heading": "Öne Çıkan Çalışmalar",
+      "viewProject": "Projeyi gör",
       "items": [
         {
-          "title": "How AI Is Changing Marketing",
-          "category": "Technology",
-          "description": "An analysis of how AI tools are transforming digital marketing strategies in 2026."
+          "title": "Yapay Zeka Pazarlamayı Nasıl Değiştiriyor",
+          "category": "Teknoloji",
+          "description": "Yapay zeka araçlarının 2026'da dijital pazarlama stratejilerini nasıl dönüştürdüğüne dair bir analiz."
         },
         {
-          "title": "Modern Web Development in 2026",
-          "category": "Technology",
-          "description": "The tools, frameworks, and practices I use for web development today."
+          "title": "2026'da Modern Web Geliştirme",
+          "category": "Teknoloji",
+          "description": "Bugün web geliştirme için kullandığım araçlar, framework'ler ve uygulamalar."
         },
         {
-          "title": "E-Commerce Redesign Case Study",
-          "category": "Case Study",
-          "description": "How I redesigned an e-commerce platform for better UX and 40% higher conversion."
+          "title": "E-Ticaret Yeniden Tasarım Vaka Çalışması",
+          "category": "Vaka Çalışması",
+          "description": "Daha iyi UX ve %40 daha yüksek dönüşüm için bir e-ticaret platformunu nasıl yeniden tasarladım."
         }
       ],
       "cta": {
-        "heading": "Let's Work Together",
-        "subtitle": "Have a project in mind? Let's build something great.",
-        "button": "Get in Touch"
+        "heading": "Birlikte çalışalım",
+        "subtitle": "Aklınızda bir proje var mı? Harika bir şey inşa edelim.",
+        "button": "İletişime geç"
       }
     },
     "stats": {
