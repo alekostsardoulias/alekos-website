@@ -1,8 +1,6 @@
 import { useTranslations } from 'next-intl';
-import { Link } from '@/i18n/navigation';
 import { PageLayout } from '@/components/page-layout';
 import { HeroSection } from '@/components/hero-section';
-import { Button } from '@/components/ui/button';
 import { getAllArticles, getAllCategories } from '@/lib/articles';
 import { ArticleFilter } from './article-filter';
 import type { Metadata } from 'next';
@@ -34,13 +32,6 @@ export default function ArticlesPage() {
         readingTimeLabel={t('readingTime')}
       />
 
-      <div className="mt-8">
-        <Link href="/contact">
-          <Button variant="warm" size="lg">
-            {t('cta')}
-          </Button>
-        </Link>
-      </div>
     </PageLayout>
   );
 }

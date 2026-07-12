@@ -1,0 +1,24 @@
+export const metadata = {
+  title: 'Next.js Performance Optimization — Lessons from Production',
+  date: '2026-06-20',
+  category: 'Development',
+  excerpt: 'Concrete, battle-tested techniques for making Next.js applications faster — from image loading to server components and caching strategies.',
+};
+
+# Next.js Performance Optimization — Lessons from Production
+
+Optimizing a Next.js application is not about following a checklist. It is about understanding where the real bottlenecks live in production and fixing them one at a time. After shipping several Next.js apps to production over the past two years, here are the techniques that actually moved the needle.
+
+## Start With What You Can Measure
+
+Before touching any code, instrument your app. Core Web Vitals through Vercel Analytics or a custom RUM setup will tell you exactly where users are waiting. In my experience, the biggest wins almost always come from three places: image loading, data fetching patterns, and JavaScript bundle size.
+
+For images, moving to `next/image` with proper `priority` flags on above-the-fold content consistently shaves 500ms to 1.5s off LCP. It sounds trivial, but most production apps I audit still load hero images lazily — which is exactly wrong.
+
+## Server Components Are Your Friend
+
+The shift to React Server Components in Next.js App Router is the single biggest performance lever available. Moving data fetching and heavy rendering to the server removes kilobytes of JavaScript from the client bundle and eliminates client-side waterfall requests. The rule of thumb I follow: if a component does not need interactivity, it should be a server component. Period.
+
+On the caching side, understanding the difference between `force-cache`, `no-store`, and revalidation intervals prevents both stale data and unnecessary round trips. A well-tuned caching layer makes the difference between a sluggish app and one that feels instant.
+
+None of this is magic. It is just discipline — measuring, prioritizing, and shipping incremental improvements instead of chasing silver bullets.

@@ -3,6 +3,7 @@
     "home": "Home",
     "about": "About",
     "work": "Work",
+    "blog": "Blog",
     "articles": "Articles",
     "contact": "Contact"
   },
@@ -24,7 +25,7 @@
         "heading": "What I do",
         "description": "Services and completed projects."
       },
-      "articles": {
+  "articles": {
         "heading": "Articles",
         "description": "Thoughts on AI, marketing, and technology."
       },
@@ -333,6 +334,14 @@
     "readMore": "Read more",
     "readingTime": "{minutes} min read",
     "backToList": "← Back to articles"
+  },
+  "blog": {
+    "heading": "Blog",
+    "description": "Thoughts on technology, business, and life as an independent engineer. Less polished than articles — more personal.",
+    "backToList": "← Back to blog",
+    "readMore": "Read more",
+    "readingTime": "{minutes} min read",
+    "empty": "No blog posts yet."
   },
   "contact": {
     "heading": "Contact",

@@ -3,6 +3,7 @@
     "home": "Αρχική",
     "about": "Σχετικά",
     "work": "Δουλειά",
+    "blog": "Blog",
     "articles": "Άρθρα",
     "contact": "Επικοινωνία"
   },
@@ -24,7 +25,7 @@
         "heading": "Τι κάνω",
         "description": "Υπηρεσίες και ολοκληρωμένα projects."
       },
-      "articles": {
+  "articles": {
         "heading": "Άρθρα",
         "description": "Σκέψεις για AI, marketing, και τεχνολογία."
       },
@@ -333,6 +334,14 @@
     "readMore": "Διάβασε περισσότερα",
     "readingTime": "{minutes} λεπτά ανάγνωσης",
     "backToList": "← Πίσω στα άρθρα"
+  },
+  "blog": {
+    "heading": "Blog",
+    "description": "Σκέψεις για τεχνολογία, επιχειρήσεις, και τη ζωή ως ανεξάρτητος engineer. Λιγότερο επιμελημένο από τα άρθρα — πιο προσωπικό.",
+    "backToList": "← Πίσω στο blog",
+    "readMore": "Διάβασε περισσότερα",
+    "readingTime": "{minutes} λεπτά ανάγνωσης",
+    "empty": "Δεν υπάρχουν blog posts ακόμα."
   },
   "contact": {
     "heading": "Επικοινωνία",
