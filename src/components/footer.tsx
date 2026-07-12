@@ -42,8 +42,8 @@ export function Footer() {
             </span>
           </div>
 
-          {/* Right: social icon buttons */}
-          <div className="flex items-center gap-2 flex-wrap justify-center">
+          {/* Right: social icon buttons — 2 rows of 5 */}
+          <div className="grid grid-cols-5 gap-2">
             {SOCIAL_LINKS.map((social) => (
               <a
                 key={social.platform}
