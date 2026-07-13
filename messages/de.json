@@ -1,1 +1,170 @@
-{}
+{
+  "404": {
+    "title": "404 — Seite nicht gefunden",
+    "message": "Die gesuchte Seite existiert nicht.",
+    "backHome": "← Zurück zur Startseite"
+  },
+  "nav": {
+    "home": "Startseite",
+    "about": "Über mich",
+    "work": "Arbeit",
+    "articles": "Artikel",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "greeting": "👋 Hallo, Welt!",
+    "name": "Alexandros Tsardoulias",
+    "title": "AI-Native Software Engineer & Marketing Specialist",
+    "description": "Ich helfe Gründern, Startups, KMUs und NGOs, ihre Ziele zu erreichen, indem ich Technologie, Philosophie, Wachstumsstrategie und beste Kommunikationspraktiken verbinde.",
+    "cta": "Meine Arbeit ansehen",
+    "ctaSecondary": "Kontakt aufnehmen"
+  },
+  "home": {
+    "summaries": {
+      "about": {"heading": "Über mich", "description": "Wer ich bin, was ich studiert habe, wo ich gearbeitet habe."},
+      "work": {"heading": "Was ich mache", "description": "Dienstleistungen und abgeschlossene Projekte."},
+      "articles": {"heading": "Artikel", "description": "Gedanken zu KI, Marketing und Technologie."},
+      "contact": {"heading": "Kontakt", "description": "Finde mich in den sozialen Medien."}
+    },
+    "servicesOverview": {
+      "heading": "Was ich mache",
+      "items": [
+        {"title": "Softwareentwicklung", "description": "Maßgeschneiderte Web- und Mobile-Apps. Schnell, responsiv, kostenoptimiert, SEO-bereit."},
+        {"title": "Marketing & Wachstum", "description": "Go-to-Market-Strategie, Marketing-Automatisierung, Copy und Content Writing."},
+        {"title": "KI & Automatisierung", "description": "KI-Integration, Workflow-Automatisierung und intelligente Systeme."},
+        {"title": "Strategie & Beratung", "description": "Technische Beratung, Architekturentscheidungen und Produktstrategie."}
+      ]
+    },
+    "featured": {
+      "heading": "Ausgewählte Arbeiten",
+      "viewProject": "Projekt ansehen",
+      "items": [
+        {"title": "Wie KI das Marketing verändert", "category": "Technologie", "description": "Eine Analyse, wie KI-Tools die Strategien des digitalen Marketings im Jahr 2026 verändern."},
+        {"title": "Moderne Webentwicklung im Jahr 2026", "category": "Technologie", "description": "Die Tools, Frameworks und Praktiken, die ich heute für die Webentwicklung verwende."},
+        {"title": "E-Commerce Redesign Fallstudie", "category": "Fallstudie", "description": "Wie ich eine E-Commerce-Plattform für bessere UX und 40% höhere Conversion umgestaltet habe."}
+      ],
+      "cta": {"heading": "Lass uns zusammenarbeiten", "subtitle": "Hast du ein Projekt im Kopf? Lass uns etwas Großartiges bauen.", "button": "Kontakt aufnehmen"}
+    },
+    "stats": {
+      "heading": "In Zahlen",
+      "items": [
+        {"value": "50+", "label": "Abgeschlossene Projekte"},
+        {"value": "5+", "label": "Jahre Erfahrung"},
+        {"value": "100+", "label": "Tools & Technologien"},
+        {"value": "200+", "label": "Artikel geschrieben"}
+      ]
+    }
+  },
+  "about": {
+    "heading": "Wer ich bin",
+    "description": "Eine Mischung aus technischer Präzision und Marketing-Intuition. Ich baue KI-native Produkte, schreibe Code, der zählt, und helfe Unternehmen, ihre Stimme im digitalen Raum zu finden.",
+    "cta": "Meine Arbeit ansehen",
+    "bio": {
+      "paragraphs": [
+        "Ich bin ein interdisziplinärer Ingenieur, Marketer und Forscher, der Gründern, Startups, KMUs und NGOs hilft, ihre Ziele zu erreichen, indem ich Technologie, Philosophie, Wachstumsstrategie und beste Kommunikationspraktiken verbinde.",
+        "Ich schreibe nicht nur Code für Web-Apps oder verwalte soziale Medien und E-Mails — ich baue ganzheitliche Systeme, die messbare Ergebnisse liefern."
+      ]
+    },
+    "education": {
+      "heading": "Ausbildung",
+      "items": [
+        {"year": "2020 – heute", "institution": "freeCodeCamp, roadmaps.sh, YouTube", "degree": "Computer Software Engineering", "description": ""},
+        {"year": "2024 – 2025", "institution": "Universität Nikosia", "degree": "Blockchain, Kryptowährungen, NFTs und das Metaverse", "description": ""},
+        {"year": "2023 – 2024", "institution": "Knowcrunch", "degree": "Digital Marketing", "description": ""},
+        {"year": "2020 – 2024", "institution": "Queen Margaret University", "degree": "Marketing Management", "description": ""},
+        {"year": "2019 – 2023", "institution": "Universität Patras", "degree": "Philosophie", "description": ""}
+      ]
+    },
+    "work": {
+      "heading": "Berufserfahrung",
+      "items": [
+        {"year": "Jul 2025 – heute", "company": "Freelance", "role": "AI-Native Software Engineer & Marketing Specialist", "description": ""},
+        {"year": "Jul 2021 – Jul 2025", "company": "Unternehmensrollen & Freelance", "role": "Digital Marketer, UI/UX & Graphic Designer, Copywriter", "description": ""},
+        {"year": "Sep 2023 – Mai 2025", "company": "Freiwilligenarbeit", "role": "Tutor für Business & Marketing Studenten", "description": ""}
+      ]
+    },
+    "tools": {
+      "heading": "Technologien & Tools",
+      "allLabel": "Alle",
+      "empty": "Keine Tools in dieser Kategorie gefunden.",
+      "categories": ["Programmiersprachen", "Front-End & UI/UX", "Back-End & Datenbanken", "DevOps & CI/CD", "Marketing & Analytics", "Design & Kreativ", "KI-Tools", "Automatisierungstools", "Projekt- & Wissensmanagement-Tools"],
+      "items": [
+        {"name":"HTML","category":"Programmiersprachen"},{"name":"CSS","category":"Programmiersprachen"},{"name":"JavaScript","category":"Programmiersprachen"},{"name":"TypeScript","category":"Programmiersprachen"},{"name":"Python","category":"Programmiersprachen"},{"name":"Bash","category":"Programmiersprachen"},{"name":"SQL","category":"Programmiersprachen"},
+        {"name":"React","category":"Front-End & UI/UX"},{"name":"Next.js","category":"Front-End & UI/UX"},{"name":"Tailwind CSS","category":"Front-End & UI/UX"},{"name":"Vue.js","category":"Front-End & UI/UX"},
+        {"name":"Node.js","category":"Back-End & Datenbanken"},{"name":"Express","category":"Back-End & Datenbanken"},{"name":"PostgreSQL","category":"Back-End & Datenbanken"},{"name":"MongoDB","category":"Back-End & Datenbanken"},
+        {"name":"Git","category":"DevOps & CI/CD"},{"name":"GitHub Actions","category":"DevOps & CI/CD"},{"name":"Docker","category":"DevOps & CI/CD"},
+        {"name":"Google Ads","category":"Marketing & Analytics"},{"name":"Meta Ads Manager","category":"Marketing & Analytics"},
+        {"name":"Figma","category":"Design & Kreativ"},{"name":"Adobe Creative Cloud","category":"Design & Kreativ"},
+        {"name":"LLMs","category":"KI-Tools"},{"name":"Hugging Face","category":"KI-Tools"},
+        {"name":"Zapier","category":"Automatisierungstools"},{"name":"Make","category":"Automatisierungstools"},
+        {"name":"Notion","category":"Projekt- & Wissensmanagement-Tools"},{"name":"Obsidian","category":"Projekt- & Wissensmanagement-Tools"},{"name":"Slack","category":"Projekt- & Wissensmanagement-Tools"}
+      ]
+    },
+    "philosophy": {
+      "heading": "Meine Philosophie",
+      "items": [
+        {"title": "Weniger ist mehr", "description": "Ich glaube, die besten Lösungen sind die, die man kaum bemerkt. Saubere Architektur, bewusstes Design und Code, der sich wie ein Gespräch liest."},
+        {"title": "Technologie sollte der Menschheit dienen", "description": "Jedes Produkt, das ich baue, beginnt mit einer einzigen Frage: Wem hilft das und wie?"},
+        {"title": "Kontinuierliches Lernen", "description": "Dieses Feld erfindet sich alle paar Jahre neu. Ich bleibe scharf, indem ich echte Dinge baue, nicht nur darüber lese."}
+      ]
+    }
+  },
+  "work": {
+    "heading": "Was ich mache",
+    "description": "Von Full-Stack-Web-Apps bis zur Go-to-Market-Strategie — ich liefere End-to-End-Lösungen.",
+    "cta": "Meine Artikel lesen",
+    "services": {
+      "heading": "Was ich mache",
+      "items": [
+        {"name": "Webseitenentwicklung", "description": "Maßgeschneiderte Webseiten. Schnell, responsiv und SEO-optimiert."},
+        {"name": "Web-App-Entwicklung", "description": "Full-Stack-Webanwendungen mit modernen Frameworks, Datenbanken und Cloud-Infrastruktur."},
+        {"name": "Mobile App-Entwicklung", "description": "Plattformübergreifende mobile Apps mit React Native und Expo für iOS und Android."},
+        {"name": "Go-To-Market-Strategie", "description": "Strategische Planung für Produkteinführungen."},
+        {"name": "Marketing-Automatisierung", "description": "Automatisierte Marketing-Workflows, E-Mail-Sequenzen und Lead-Nurturing-Systeme."},
+        {"name": "Marketing-Beratung", "description": "Strategische Marketingberatung für Startups und kleine Unternehmen."},
+        {"name": "KI & Tech-Beratung", "description": "Beratung zu KI-Integration, Tooling, Architektur und Skalierung."},
+        {"name": "Copywriting", "description": "Überzeugendes, conversion-orientiertes Copy für Landingpages, E-Mails und Anzeigen."},
+        {"name": "Content Writing", "description": "Artikel, Blogbeiträge und Long-Form-Content, der bildet und begeistert."},
+        {"name": "Technische Dokumentation", "description": "Klare, umfassende Dokumentation für APIs, SDKs und entwicklerorientierte Produkte."}
+      ]
+    },
+    "process": {
+      "heading": "Wie ich arbeite",
+      "steps": [
+        {"title": "Entdeckung", "description": "Verstehe deine Ziele, das Publikum und was Erfolg für dein Projekt bedeutet."},
+        {"title": "Strategie", "description": "Plane den Ansatz, wähle die richtigen Tools und zeichne den Weg zum Launch."},
+        {"title": "Ausführung", "description": "Baue mit Präzision. Sauberer Code, durchdachtes Design und regelmäßige Check-ins."},
+        {"title": "Lieferung", "description": "Launch, messen und iterieren. Ich bleibe involviert, um sicherzustellen, dass alles funktioniert."}
+      ]
+    },
+    "completed": {
+      "heading": "Abgeschlossene Projekte",
+      "items": [
+        {"title": "Wie KI das Marketing verändert", "date": "2026-06-15", "category": "Technologie", "excerpt": "Eine Analyse, wie KI-Tools das digitale Marketing verändern.", "slug": "ai-marketing-2026"},
+        {"title": "Moderne Webentwicklung 2026", "date": "2026-05-20", "category": "Technologie", "excerpt": "Die Tools und Frameworks, die ich heute für Webentwicklung verwende.", "slug": "modern-web-dev"}
+      ]
+    }
+  },
+  "articles": {
+    "heading": "Meine Artikel",
+    "description": "Gedanken zu KI, Softwareentwicklung und modernem Marketing.",
+    "cta": "Kontakt aufnehmen",
+    "filter": {"all": "Alle", "label": "Kategorie"},
+    "empty": "Keine Artikel in dieser Kategorie.",
+    "readMore": "Weiterlesen",
+    "readingTime": "{minutes} Min. Lesezeit",
+    "backToList": "← Zurück zu den Artikeln"
+  },
+  "contact": {
+    "heading": "Kontakt",
+    "description": "Lass uns reden. Ob du ein Projekt im Kopf hast, eine Frage, oder einfach nur connecten möchtest — ich bin hier.",
+    "email": {"heading": "Email", "button": "Email senden", "description": "I read everything. You'll hear back within 24 hours."},
+    "social": {"heading": "Social Media", "description": "Follow me for updates, insights, and behind-the-scenes."},
+    "articles": {"heading": "Meine Texte", "description": "New articles every few weeks on tech, AI, and marketing."},
+    "discord": {"heading": "Discord Server", "button": "Server beitreten", "description": "Chat with the community, ask questions, share ideas."}
+  },
+  "footer": {"copyright": "© {year} Alexandros Tsardoulias", "builtWith": "Erstellt mit Next.js & Tailwind", "backToTop": "Zurück nach oben"},
+  "theme": {"light": "Hell", "dark": "Dunkel", "toggle": "Thema wechseln"},
+  "language": {"label": "Sprache", "el": "Ελληνικά", "en": "English", "ru": "Русский", "de": "Deutsch", "fr": "Français", "it": "Italiano", "es": "Español", "tr": "Türkçe", "pl": "Polski", "nl": "Nederlands", "ua": "Українська", "il": "עברית", "ae": "العربية"},
+  "common": {"loading": "Lädt…", "error": "Etwas ist schiefgelaufen.", "retry": "Erneut versuchen", "back": "← Zurück", "readMore": "Weiterlesen"}
+}
