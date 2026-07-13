@@ -60,8 +60,6 @@ export default function ContactPage() {
         </p>
       </div>
 
-      <p className="text-lg text-text-secondary max-w-prose mb-8 text-pretty">{t('description')}</p>
-
       {/* Social Links Grid */}
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 w-full">
         {links.map((link, i) => {
