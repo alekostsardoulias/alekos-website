@@ -106,16 +106,12 @@
     "heading": "Sobre mí",
     "description": "Una combinación de rigor técnico e intuición de marketing. Creo productos AI-native, escribo código que importa y ayudo a empresas a encontrar su voz en el espacio digital.",
     "cta": "Mi trabajo",
-      "bio": {
-        "paragraphs": [
-          "Ayudo a fundadores, startups, PYMEs y ONGs a alcanzar sus objetivos uniendo tecnología, filosofía, estrategia de crecimiento y mejores prácticas de comunicación.",
-          "Con mi trabajo, transformo ideas en productos digitales escalables y sistemas generadores de ingresos.",
-          "Estudié Filosofía y Gestión de Marketing mientras aprendía programación y diseño por mi cuenta.",
-          "Cada proyecto que lidero combina resultados técnicos medibles con marketing de impacto en los ingresos, garantizando que los clientes obtengan tanto una infraestructura digital sólida como un crecimiento empresarial medible.",
-          "No solo escribo código para aplicaciones web ni gestiono redes sociales y correos electrónicos — construyo sistemas holísticos que generan resultados medibles.",
-          "Trato la arquitectura técnica de un producto y su estrategia go-to-market como un solo problema, no dos."
-        ]
-      },
+    "bio": {
+      "paragraphs": [
+        "Ayudo a fundadores, startups, PYMEs y ONGs a alcanzar sus objetivos uniendo tecnología, filosofía, estrategia de crecimiento y mejores prácticas de comunicación. Con mi trabajo, transformo ideas en productos digitales escalables y sistemas generadores de ingresos.",
+        "Estudié Filosofía y Gestión de Marketing mientras aprendía programación y diseño por mi cuenta. Cada proyecto que lidero combina resultados técnicos medibles con marketing de impacto en los ingresos, garantizando que los clientes obtengan tanto una infraestructura digital sólida como un crecimiento empresarial medible. No solo escribo código para aplicaciones web ni gestiono redes sociales y correos electrónicos — construyo sistemas holísticos que generan resultados medibles. Trato la arquitectura técnica de un producto y su estrategia go-to-market como un solo problema, no dos."
+      ]
+    },
     "education": {
       "heading": "Educación",
       "items": [
@@ -190,181 +186,706 @@
         "Herramientas de Gestión de Proyectos y Conocimiento"
       ],
       "items": [
-        {"name": "HTML", "category": "Lenguajes de Programación"},
-        {"name": "CSS", "category": "Lenguajes de Programación"},
-        {"name": "JavaScript", "category": "Lenguajes de Programación"},
-        {"name": "TypeScript", "category": "Lenguajes de Programación"},
-        {"name": "Python", "category": "Lenguajes de Programación"},
-        {"name": "Bash", "category": "Lenguajes de Programación"},
-        {"name": "SQL", "category": "Lenguajes de Programación"},
-        {"name": "Kotlin", "category": "Lenguajes de Programación"},
-        {"name": "Swift", "category": "Lenguajes de Programación"},
-        {"name": "React", "category": "Front-End & UI/UX"},
-        {"name": "Next.js", "category": "Front-End & UI/UX"},
-        {"name": "Tailwind CSS", "category": "Front-End & UI/UX"},
-        {"name": "Vue.js", "category": "Front-End & UI/UX"},
-        {"name": "Astro", "category": "Front-End & UI/UX"},
-        {"name": "Svelte", "category": "Front-End & UI/UX"},
-        {"name": "Vue", "category": "Front-End & UI/UX"},
-        {"name": "Nuxt.js", "category": "Front-End & UI/UX"},
-        {"name": "Remix", "category": "Front-End & UI/UX"},
-        {"name": "Pinia", "category": "Front-End & UI/UX"},
-        {"name": "SolidJS", "category": "Front-End & UI/UX"},
-        {"name": "SolidStart", "category": "Front-End & UI/UX"},
-        {"name": "Alpine.js", "category": "Front-End & UI/UX"},
-        {"name": "Vite", "category": "Front-End & UI/UX"},
-        {"name": "Bun", "category": "Front-End & UI/UX"},
-        {"name": "Turbopack", "category": "Front-End & UI/UX"},
-        {"name": "Framer Motion", "category": "Front-End & UI/UX"},
-        {"name": "GSAP", "category": "Front-End & UI/UX"},
-        {"name": "shadcn/ui", "category": "Front-End & UI/UX"},
-        {"name": "Three.js", "category": "Front-End & UI/UX"},
-        {"name": "React Three Fiber", "category": "Front-End & UI/UX"},
-        {"name": "Drei", "category": "Front-End & UI/UX"},
-        {"name": "Theatre.js", "category": "Front-End & UI/UX"},
-        {"name": "Spline", "category": "Front-End & UI/UX"},
-        {"name": "Lenis", "category": "Front-End & UI/UX"},
-        {"name": "Lottie", "category": "Front-End & UI/UX"},
-        {"name": "Rive", "category": "Front-End & UI/UX"},
-        {"name": "Matter.js", "category": "Front-End & UI/UX"},
-        {"name": "Node.js", "category": "Back-End & Bases de Datos"},
-        {"name": "NestJS", "category": "Back-End & Bases de Datos"},
-        {"name": "Express", "category": "Back-End & Bases de Datos"},
-        {"name": "Koa", "category": "Back-End & Bases de Datos"},
-        {"name": "Fastify", "category": "Back-End & Bases de Datos"},
-        {"name": "FastAPI", "category": "Back-End & Bases de Datos"},
-        {"name": "Django", "category": "Back-End & Bases de Datos"},
-        {"name": "Flask", "category": "Back-End & Bases de Datos"},
-        {"name": "REST APIs", "category": "Back-End & Bases de Datos"},
-        {"name": "GraphQL", "category": "Back-End & Bases de Datos"},
-        {"name": "tRPC", "category": "Back-End & Bases de Datos"},
-        {"name": "Prisma", "category": "Back-End & Bases de Datos"},
-        {"name": "Supabase DB", "category": "Back-End & Bases de Datos"},
-        {"name": "PostgreSQL", "category": "Back-End & Bases de Datos"},
-        {"name": "MySQL", "category": "Back-End & Bases de Datos"},
-        {"name": "SQLite", "category": "Back-End & Bases de Datos"},
-        {"name": "MongoDB", "category": "Back-End & Bases de Datos"},
-        {"name": "Redis", "category": "Back-End & Bases de Datos"},
-        {"name": "Git", "category": "DevOps & CI/CD"},
-        {"name": "GitHub Actions", "category": "DevOps & CI/CD"},
-        {"name": "Jenkins", "category": "DevOps & CI/CD"},
-        {"name": "GitLab CI/CD", "category": "DevOps & CI/CD"},
-        {"name": "Azure Pipelines", "category": "DevOps & CI/CD"},
-        {"name": "Argo CD", "category": "DevOps & CI/CD"},
-        {"name": "Flux", "category": "DevOps & CI/CD"},
-        {"name": "Harness", "category": "DevOps & CI/CD"},
-        {"name": "Docker", "category": "DevOps & CI/CD"},
-        {"name": "Terraform", "category": "DevOps & CI/CD"},
-        {"name": "Kubernetes", "category": "DevOps & CI/CD"},
-        {"name": "Ansible", "category": "DevOps & CI/CD"},
-        {"name": "Google Ads", "category": "Marketing & Analytics"},
-        {"name": "Meta Ads Manager", "category": "Marketing & Analytics"},
-        {"name": "TikTok Ads Manager", "category": "Marketing & Analytics"},
-        {"name": "LinkedIn Campaign Manager", "category": "Marketing & Analytics"},
-        {"name": "AdRoll", "category": "Marketing & Analytics"},
-        {"name": "Smartly.io", "category": "Marketing & Analytics"},
-        {"name": "Google Analytics", "category": "Marketing & Analytics"},
-        {"name": "Mixpanel", "category": "Marketing & Analytics"},
-        {"name": "Amplitude", "category": "Marketing & Analytics"},
-        {"name": "Adobe Analytics", "category": "Marketing & Analytics"},
-        {"name": "Semrush", "category": "Marketing & Analytics"},
-        {"name": "Ahrefs", "category": "Marketing & Analytics"},
-        {"name": "Google Search Console", "category": "Marketing & Analytics"},
-        {"name": "Google Keyword Planner", "category": "Marketing & Analytics"},
-        {"name": "Surfer SEO", "category": "Marketing & Analytics"},
-        {"name": "Sitebulb", "category": "Marketing & Analytics"},
-        {"name": "BrightLocal", "category": "Marketing & Analytics"},
-        {"name": "HubSpot Marketing Hub", "category": "Marketing & Analytics"},
-        {"name": "Salesforce", "category": "Marketing & Analytics"},
-        {"name": "LinkedIn Sales Navigator", "category": "Marketing & Analytics"},
-        {"name": "Hootsuite", "category": "Marketing & Analytics"},
-        {"name": "Sprout Social", "category": "Marketing & Analytics"},
-        {"name": "Buffer", "category": "Marketing & Analytics"},
-        {"name": "Mailchimp", "category": "Marketing & Analytics"},
-        {"name": "Brevo", "category": "Marketing & Analytics"},
-        {"name": "Klaviyo", "category": "Marketing & Analytics"},
-        {"name": "Omnisend", "category": "Marketing & Analytics"},
-        {"name": "Kit", "category": "Marketing & Analytics"},
-        {"name": "beehiiv", "category": "Marketing & Analytics"},
-        {"name": "Substack", "category": "Marketing & Analytics"},
-        {"name": "Shopify", "category": "Marketing & Analytics"},
-        {"name": "WooCommerce", "category": "Marketing & Analytics"},
-        {"name": "BigCommerce", "category": "Marketing & Analytics"},
-        {"name": "Stripe", "category": "Marketing & Analytics"},
-        {"name": "Shopify Payments", "category": "Marketing & Analytics"},
-        {"name": "myPOS", "category": "Marketing & Analytics"},
-        {"name": "PostHog", "category": "Marketing & Analytics"},
-        {"name": "GrowthBook", "category": "Marketing & Analytics"},
-        {"name": "Eppo", "category": "Marketing & Analytics"},
-        {"name": "VWO (Visual Website Optimizer)", "category": "Marketing & Analytics"},
-        {"name": "AB Tasty", "category": "Marketing & Analytics"},
-        {"name": "Convert Experiences", "category": "Marketing & Analytics"},
-        {"name": "Crazy Egg", "category": "Marketing & Analytics"},
-        {"name": "Adobe Creative Cloud", "category": "Diseño y Creatividad"},
-        {"name": "Figma", "category": "Diseño y Creatividad"},
-        {"name": "Framer", "category": "Diseño y Creatividad"},
-        {"name": "Miro", "category": "Diseño y Creatividad"},
-        {"name": "Sketch", "category": "Diseño y Creatividad"},
-        {"name": "ProtoPie", "category": "Diseño y Creatividad"},
-        {"name": "Canva", "category": "Diseño y Creatividad"},
-        {"name": "CapCut", "category": "Diseño y Creatividad"},
-        {"name": "Uizard", "category": "Diseño y Creatividad"},
-        {"name": "UX Pilot", "category": "Diseño y Creatividad"},
-        {"name": "Replit", "category": "Diseño y Creatividad"},
-        {"name": "Lovable", "category": "Diseño y Creatividad"},
-        {"name": "Bolt.new", "category": "Diseño y Creatividad"},
-        {"name": "Google Stitch", "category": "Diseño y Creatividad"},
-        {"name": "Claude Design", "category": "Diseño y Creatividad"},
-        {"name": "LLMs", "category": "Herramientas IA"},
-        {"name": "LLM APIs", "category": "Herramientas IA"},
-        {"name": "Hugging Face", "category": "Herramientas IA"},
-        {"name": "Ollama", "category": "Herramientas IA"},
-        {"name": "vLLM", "category": "Herramientas IA"},
-        {"name": "LM Studio", "category": "Herramientas IA"},
-        {"name": "OpenCode", "category": "Herramientas IA"},
-        {"name": "Claude Code", "category": "Herramientas IA"},
-        {"name": "Codex", "category": "Herramientas IA"},
-        {"name": "OpenClaw", "category": "Herramientas IA"},
-        {"name": "Hermes", "category": "Herramientas IA"},
-        {"name": "LangFlow", "category": "Herramientas IA"},
-        {"name": "LangChain", "category": "Herramientas IA"},
-        {"name": "LangGraph", "category": "Herramientas IA"},
-        {"name": "CrewAI", "category": "Herramientas IA"},
-        {"name": "LlamaIndex", "category": "Herramientas IA"},
-        {"name": "Dify", "category": "Herramientas IA"},
-        {"name": "AutoGen", "category": "Herramientas IA"},
-        {"name": "Flowise", "category": "Herramientas IA"},
-        {"name": "Zapier", "category": "Herramientas de Automatización"},
-        {"name": "Make", "category": "Herramientas de Automatización"},
-        {"name": "n8n", "category": "Herramientas de Automatización"},
-        {"name": "UiPath", "category": "Herramientas de Automatización"},
-        {"name": "Workato", "category": "Herramientas de Automatización"},
-        {"name": "Gumloop", "category": "Herramientas de Automatización"},
-        {"name": "Lindy", "category": "Herramientas de Automatización"},
-        {"name": "Notion", "category": "Herramientas de Gestión de Proyectos y Conocimiento"},
-        {"name": "Obsidian", "category": "Herramientas de Gestión de Proyectos y Conocimiento"},
-        {"name": "Slack", "category": "Herramientas de Gestión de Proyectos y Conocimiento"},
-        {"name": "ClickUp", "category": "Herramientas de Gestión de Proyectos y Conocimiento"},
-        {"name": "Monday.com", "category": "Herramientas de Gestión de Proyectos y Conocimiento"},
-        {"name": "Asana", "category": "Herramientas de Gestión de Proyectos y Conocimiento"},
-        {"name": "Jira", "category": "Herramientas de Gestión de Proyectos y Conocimiento"},
-        {"name": "Linear", "category": "Herramientas de Gestión de Proyectos y Conocimiento"},
-        {"name": "Trello", "category": "Herramientas de Gestión de Proyectos y Conocimiento"},
-        {"name": "Wrike", "category": "Herramientas de Gestión de Proyectos y Conocimiento"},
-        {"name": "Microsoft Project & Planner", "category": "Herramientas de Gestión de Proyectos y Conocimiento"},
-        {"name": "Basecamp", "category": "Herramientas de Gestión de Proyectos y Conocimiento"},
-        {"name": "OpenProject", "category": "Herramientas de Gestión de Proyectos y Conocimiento"},
-        {"name": "Focalboard", "category": "Herramientas de Gestión de Proyectos y Conocimiento"},
-        {"name": "Appflowy", "category": "Herramientas de Gestión de Proyectos y Conocimiento"},
-        {"name": "Leantime", "category": "Herramientas de Gestión de Proyectos y Conocimiento"},
-        {"name": "GitHub Projects", "category": "Herramientas de Gestión de Proyectos y Conocimiento"},
-        {"name": "Confluence", "category": "Herramientas de Gestión de Proyectos y Conocimiento"},
-        {"name": "Slite", "category": "Herramientas de Gestión de Proyectos y Conocimiento"},
-        {"name": "Logseq", "category": "Herramientas de Gestión de Proyectos y Conocimiento"},
-        {"name": "Wiki.js", "category": "Herramientas de Gestión de Proyectos y Conocimiento"},
-        {"name": "DocuWiki", "category": "Herramientas de Gestión de Proyectos y Conocimiento"},
-        {"name": "Discord", "category": "Herramientas de Gestión de Proyectos y Conocimiento"},
-        {"name": "Element", "category": "Herramientas de Gestión de Proyectos y Conocimiento"}
+        {
+          "name": "HTML",
+          "category": "Lenguajes de Programación"
+        },
+        {
+          "name": "CSS",
+          "category": "Lenguajes de Programación"
+        },
+        {
+          "name": "JavaScript",
+          "category": "Lenguajes de Programación"
+        },
+        {
+          "name": "TypeScript",
+          "category": "Lenguajes de Programación"
+        },
+        {
+          "name": "Python",
+          "category": "Lenguajes de Programación"
+        },
+        {
+          "name": "Bash",
+          "category": "Lenguajes de Programación"
+        },
+        {
+          "name": "SQL",
+          "category": "Lenguajes de Programación"
+        },
+        {
+          "name": "Kotlin",
+          "category": "Lenguajes de Programación"
+        },
+        {
+          "name": "Swift",
+          "category": "Lenguajes de Programación"
+        },
+        {
+          "name": "React",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Next.js",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Tailwind CSS",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Vue.js",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Astro",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Svelte",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Vue",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Nuxt.js",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Remix",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Pinia",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "SolidJS",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "SolidStart",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Alpine.js",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Vite",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Bun",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Turbopack",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Framer Motion",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "GSAP",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "shadcn/ui",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Three.js",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "React Three Fiber",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Drei",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Theatre.js",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Spline",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Lenis",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Lottie",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Rive",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Matter.js",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Node.js",
+          "category": "Back-End & Bases de Datos"
+        },
+        {
+          "name": "NestJS",
+          "category": "Back-End & Bases de Datos"
+        },
+        {
+          "name": "Express",
+          "category": "Back-End & Bases de Datos"
+        },
+        {
+          "name": "Koa",
+          "category": "Back-End & Bases de Datos"
+        },
+        {
+          "name": "Fastify",
+          "category": "Back-End & Bases de Datos"
+        },
+        {
+          "name": "FastAPI",
+          "category": "Back-End & Bases de Datos"
+        },
+        {
+          "name": "Django",
+          "category": "Back-End & Bases de Datos"
+        },
+        {
+          "name": "Flask",
+          "category": "Back-End & Bases de Datos"
+        },
+        {
+          "name": "REST APIs",
+          "category": "Back-End & Bases de Datos"
+        },
+        {
+          "name": "GraphQL",
+          "category": "Back-End & Bases de Datos"
+        },
+        {
+          "name": "tRPC",
+          "category": "Back-End & Bases de Datos"
+        },
+        {
+          "name": "Prisma",
+          "category": "Back-End & Bases de Datos"
+        },
+        {
+          "name": "Supabase DB",
+          "category": "Back-End & Bases de Datos"
+        },
+        {
+          "name": "PostgreSQL",
+          "category": "Back-End & Bases de Datos"
+        },
+        {
+          "name": "MySQL",
+          "category": "Back-End & Bases de Datos"
+        },
+        {
+          "name": "SQLite",
+          "category": "Back-End & Bases de Datos"
+        },
+        {
+          "name": "MongoDB",
+          "category": "Back-End & Bases de Datos"
+        },
+        {
+          "name": "Redis",
+          "category": "Back-End & Bases de Datos"
+        },
+        {
+          "name": "Git",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "GitHub Actions",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Jenkins",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "GitLab CI/CD",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Azure Pipelines",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Argo CD",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Flux",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Harness",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Docker",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Terraform",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Kubernetes",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Ansible",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Google Ads",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Meta Ads Manager",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "TikTok Ads Manager",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "LinkedIn Campaign Manager",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "AdRoll",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Smartly.io",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Google Analytics",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Mixpanel",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Amplitude",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Adobe Analytics",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Semrush",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Ahrefs",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Google Search Console",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Google Keyword Planner",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Surfer SEO",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Sitebulb",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "BrightLocal",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "HubSpot Marketing Hub",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Salesforce",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "LinkedIn Sales Navigator",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Hootsuite",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Sprout Social",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Buffer",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Mailchimp",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Brevo",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Klaviyo",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Omnisend",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Kit",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "beehiiv",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Substack",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Shopify",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "WooCommerce",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "BigCommerce",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Stripe",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Shopify Payments",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "myPOS",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "PostHog",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "GrowthBook",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Eppo",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "VWO (Visual Website Optimizer)",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "AB Tasty",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Convert Experiences",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Crazy Egg",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Adobe Creative Cloud",
+          "category": "Diseño y Creatividad"
+        },
+        {
+          "name": "Figma",
+          "category": "Diseño y Creatividad"
+        },
+        {
+          "name": "Framer",
+          "category": "Diseño y Creatividad"
+        },
+        {
+          "name": "Miro",
+          "category": "Diseño y Creatividad"
+        },
+        {
+          "name": "Sketch",
+          "category": "Diseño y Creatividad"
+        },
+        {
+          "name": "ProtoPie",
+          "category": "Diseño y Creatividad"
+        },
+        {
+          "name": "Canva",
+          "category": "Diseño y Creatividad"
+        },
+        {
+          "name": "CapCut",
+          "category": "Diseño y Creatividad"
+        },
+        {
+          "name": "Uizard",
+          "category": "Diseño y Creatividad"
+        },
+        {
+          "name": "UX Pilot",
+          "category": "Diseño y Creatividad"
+        },
+        {
+          "name": "Replit",
+          "category": "Diseño y Creatividad"
+        },
+        {
+          "name": "Lovable",
+          "category": "Diseño y Creatividad"
+        },
+        {
+          "name": "Bolt.new",
+          "category": "Diseño y Creatividad"
+        },
+        {
+          "name": "Google Stitch",
+          "category": "Diseño y Creatividad"
+        },
+        {
+          "name": "Claude Design",
+          "category": "Diseño y Creatividad"
+        },
+        {
+          "name": "LLMs",
+          "category": "Herramientas IA"
+        },
+        {
+          "name": "LLM APIs",
+          "category": "Herramientas IA"
+        },
+        {
+          "name": "Hugging Face",
+          "category": "Herramientas IA"
+        },
+        {
+          "name": "Ollama",
+          "category": "Herramientas IA"
+        },
+        {
+          "name": "vLLM",
+          "category": "Herramientas IA"
+        },
+        {
+          "name": "LM Studio",
+          "category": "Herramientas IA"
+        },
+        {
+          "name": "OpenCode",
+          "category": "Herramientas IA"
+        },
+        {
+          "name": "Claude Code",
+          "category": "Herramientas IA"
+        },
+        {
+          "name": "Codex",
+          "category": "Herramientas IA"
+        },
+        {
+          "name": "OpenClaw",
+          "category": "Herramientas IA"
+        },
+        {
+          "name": "Hermes",
+          "category": "Herramientas IA"
+        },
+        {
+          "name": "LangFlow",
+          "category": "Herramientas IA"
+        },
+        {
+          "name": "LangChain",
+          "category": "Herramientas IA"
+        },
+        {
+          "name": "LangGraph",
+          "category": "Herramientas IA"
+        },
+        {
+          "name": "CrewAI",
+          "category": "Herramientas IA"
+        },
+        {
+          "name": "LlamaIndex",
+          "category": "Herramientas IA"
+        },
+        {
+          "name": "Dify",
+          "category": "Herramientas IA"
+        },
+        {
+          "name": "AutoGen",
+          "category": "Herramientas IA"
+        },
+        {
+          "name": "Flowise",
+          "category": "Herramientas IA"
+        },
+        {
+          "name": "Zapier",
+          "category": "Herramientas de Automatización"
+        },
+        {
+          "name": "Make",
+          "category": "Herramientas de Automatización"
+        },
+        {
+          "name": "n8n",
+          "category": "Herramientas de Automatización"
+        },
+        {
+          "name": "UiPath",
+          "category": "Herramientas de Automatización"
+        },
+        {
+          "name": "Workato",
+          "category": "Herramientas de Automatización"
+        },
+        {
+          "name": "Gumloop",
+          "category": "Herramientas de Automatización"
+        },
+        {
+          "name": "Lindy",
+          "category": "Herramientas de Automatización"
+        },
+        {
+          "name": "Notion",
+          "category": "Herramientas de Gestión de Proyectos y Conocimiento"
+        },
+        {
+          "name": "Obsidian",
+          "category": "Herramientas de Gestión de Proyectos y Conocimiento"
+        },
+        {
+          "name": "Slack",
+          "category": "Herramientas de Gestión de Proyectos y Conocimiento"
+        },
+        {
+          "name": "ClickUp",
+          "category": "Herramientas de Gestión de Proyectos y Conocimiento"
+        },
+        {
+          "name": "Monday.com",
+          "category": "Herramientas de Gestión de Proyectos y Conocimiento"
+        },
+        {
+          "name": "Asana",
+          "category": "Herramientas de Gestión de Proyectos y Conocimiento"
+        },
+        {
+          "name": "Jira",
+          "category": "Herramientas de Gestión de Proyectos y Conocimiento"
+        },
+        {
+          "name": "Linear",
+          "category": "Herramientas de Gestión de Proyectos y Conocimiento"
+        },
+        {
+          "name": "Trello",
+          "category": "Herramientas de Gestión de Proyectos y Conocimiento"
+        },
+        {
+          "name": "Wrike",
+          "category": "Herramientas de Gestión de Proyectos y Conocimiento"
+        },
+        {
+          "name": "Microsoft Project & Planner",
+          "category": "Herramientas de Gestión de Proyectos y Conocimiento"
+        },
+        {
+          "name": "Basecamp",
+          "category": "Herramientas de Gestión de Proyectos y Conocimiento"
+        },
+        {
+          "name": "OpenProject",
+          "category": "Herramientas de Gestión de Proyectos y Conocimiento"
+        },
+        {
+          "name": "Focalboard",
+          "category": "Herramientas de Gestión de Proyectos y Conocimiento"
+        },
+        {
+          "name": "Appflowy",
+          "category": "Herramientas de Gestión de Proyectos y Conocimiento"
+        },
+        {
+          "name": "Leantime",
+          "category": "Herramientas de Gestión de Proyectos y Conocimiento"
+        },
+        {
+          "name": "GitHub Projects",
+          "category": "Herramientas de Gestión de Proyectos y Conocimiento"
+        },
+        {
+          "name": "Confluence",
+          "category": "Herramientas de Gestión de Proyectos y Conocimiento"
+        },
+        {
+          "name": "Slite",
+          "category": "Herramientas de Gestión de Proyectos y Conocimiento"
+        },
+        {
+          "name": "Logseq",
+          "category": "Herramientas de Gestión de Proyectos y Conocimiento"
+        },
+        {
+          "name": "Wiki.js",
+          "category": "Herramientas de Gestión de Proyectos y Conocimiento"
+        },
+        {
+          "name": "DocuWiki",
+          "category": "Herramientas de Gestión de Proyectos y Conocimiento"
+        },
+        {
+          "name": "Discord",
+          "category": "Herramientas de Gestión de Proyectos y Conocimiento"
+        },
+        {
+          "name": "Element",
+          "category": "Herramientas de Gestión de Proyectos y Conocimiento"
+        }
       ]
     },
     "philosophy": {

@@ -108,12 +108,8 @@
     "cta": "Çalışmalarım",
     "bio": {
       "paragraphs": [
-        "Kuruculara, girişimlere, KOBİ'lere ve STK'lara teknoloji, felsefe, büyüme stratejisi ve en iyi iletişim uygulamalarını birleştirerek hedeflerine ulaşmalarında yardımcı oluyorum.",
-        "Çalışmalarımla fikirleri ölçeklenebilir dijital ürünlere ve gelir getiren sistemlere dönüştürüyorum.",
-        "Kod yazmayı ve tasarımı kendi kendime öğrenirken Felsefe ve Pazarlama Yönetimi okudum.",
-        "Liderlik ettiğim her proje, ölçülebilir teknik sonuçları gelir odaklı pazarlama ile birleştirerek müşterilerin hem sağlam dijital altyapı hem de ölçülebilir iş büyümesi elde etmesini sağlar.",
-        "Sadece web uygulamaları için kod yazmıyor ya da sosyal medya ve e-postaları yönetmiyorum — ölçülebilir sonuçlar üreten bütünsel sistemler inşa ediyorum.",
-        "Bir ürünün teknik mimarisini ve go-to-market stratejisini iki ayrı sorun olarak değil, tek bir sorun olarak ele alıyorum."
+        "Kuruculara, girişimlere, KOBİ'lere ve STK'lara teknoloji, felsefe, büyüme stratejisi ve en iyi iletişim uygulamalarını birleştirerek hedeflerine ulaşmalarında yardımcı oluyorum. Çalışmalarımla fikirleri ölçeklenebilir dijital ürünlere ve gelir getiren sistemlere dönüştürüyorum.",
+        "Kod yazmayı ve tasarımı kendi kendime öğrenirken Felsefe ve Pazarlama Yönetimi okudum. Liderlik ettiğim her proje, ölçülebilir teknik sonuçları gelir odaklı pazarlama ile birleştirerek müşterilerin hem sağlam dijital altyapı hem de ölçülebilir iş büyümesi elde etmesini sağlar. Sadece web uygulamaları için kod yazmıyor ya da sosyal medya ve e-postaları yönetmiyorum — ölçülebilir sonuçlar üreten bütünsel sistemler inşa ediyorum. Bir ürünün teknik mimarisini ve go-to-market stratejisini iki ayrı sorun olarak değil, tek bir sorun olarak ele alıyorum."
       ]
     },
     "education": {
@@ -190,181 +186,706 @@
         "Proje ve Bilgi Yönetimi Araçları"
       ],
       "items": [
-        {"name": "HTML", "category": "Programlama Dilleri"},
-        {"name": "CSS", "category": "Programlama Dilleri"},
-        {"name": "JavaScript", "category": "Programlama Dilleri"},
-        {"name": "TypeScript", "category": "Programlama Dilleri"},
-        {"name": "Python", "category": "Programlama Dilleri"},
-        {"name": "Bash", "category": "Programlama Dilleri"},
-        {"name": "SQL", "category": "Programlama Dilleri"},
-        {"name": "Kotlin", "category": "Programlama Dilleri"},
-        {"name": "Swift", "category": "Programlama Dilleri"},
-        {"name": "React", "category": "Front-End & UI/UX"},
-        {"name": "Next.js", "category": "Front-End & UI/UX"},
-        {"name": "Tailwind CSS", "category": "Front-End & UI/UX"},
-        {"name": "Vue.js", "category": "Front-End & UI/UX"},
-        {"name": "Astro", "category": "Front-End & UI/UX"},
-        {"name": "Svelte", "category": "Front-End & UI/UX"},
-        {"name": "Vue", "category": "Front-End & UI/UX"},
-        {"name": "Nuxt.js", "category": "Front-End & UI/UX"},
-        {"name": "Remix", "category": "Front-End & UI/UX"},
-        {"name": "Pinia", "category": "Front-End & UI/UX"},
-        {"name": "SolidJS", "category": "Front-End & UI/UX"},
-        {"name": "SolidStart", "category": "Front-End & UI/UX"},
-        {"name": "Alpine.js", "category": "Front-End & UI/UX"},
-        {"name": "Vite", "category": "Front-End & UI/UX"},
-        {"name": "Bun", "category": "Front-End & UI/UX"},
-        {"name": "Turbopack", "category": "Front-End & UI/UX"},
-        {"name": "Framer Motion", "category": "Front-End & UI/UX"},
-        {"name": "GSAP", "category": "Front-End & UI/UX"},
-        {"name": "shadcn/ui", "category": "Front-End & UI/UX"},
-        {"name": "Three.js", "category": "Front-End & UI/UX"},
-        {"name": "React Three Fiber", "category": "Front-End & UI/UX"},
-        {"name": "Drei", "category": "Front-End & UI/UX"},
-        {"name": "Theatre.js", "category": "Front-End & UI/UX"},
-        {"name": "Spline", "category": "Front-End & UI/UX"},
-        {"name": "Lenis", "category": "Front-End & UI/UX"},
-        {"name": "Lottie", "category": "Front-End & UI/UX"},
-        {"name": "Rive", "category": "Front-End & UI/UX"},
-        {"name": "Matter.js", "category": "Front-End & UI/UX"},
-        {"name": "Node.js", "category": "Back-End & Veritabanları"},
-        {"name": "NestJS", "category": "Back-End & Veritabanları"},
-        {"name": "Express", "category": "Back-End & Veritabanları"},
-        {"name": "Koa", "category": "Back-End & Veritabanları"},
-        {"name": "Fastify", "category": "Back-End & Veritabanları"},
-        {"name": "FastAPI", "category": "Back-End & Veritabanları"},
-        {"name": "Django", "category": "Back-End & Veritabanları"},
-        {"name": "Flask", "category": "Back-End & Veritabanları"},
-        {"name": "REST APIs", "category": "Back-End & Veritabanları"},
-        {"name": "GraphQL", "category": "Back-End & Veritabanları"},
-        {"name": "tRPC", "category": "Back-End & Veritabanları"},
-        {"name": "Prisma", "category": "Back-End & Veritabanları"},
-        {"name": "Supabase DB", "category": "Back-End & Veritabanları"},
-        {"name": "PostgreSQL", "category": "Back-End & Veritabanları"},
-        {"name": "MySQL", "category": "Back-End & Veritabanları"},
-        {"name": "SQLite", "category": "Back-End & Veritabanları"},
-        {"name": "MongoDB", "category": "Back-End & Veritabanları"},
-        {"name": "Redis", "category": "Back-End & Veritabanları"},
-        {"name": "Git", "category": "DevOps & CI/CD"},
-        {"name": "GitHub Actions", "category": "DevOps & CI/CD"},
-        {"name": "Jenkins", "category": "DevOps & CI/CD"},
-        {"name": "GitLab CI/CD", "category": "DevOps & CI/CD"},
-        {"name": "Azure Pipelines", "category": "DevOps & CI/CD"},
-        {"name": "Argo CD", "category": "DevOps & CI/CD"},
-        {"name": "Flux", "category": "DevOps & CI/CD"},
-        {"name": "Harness", "category": "DevOps & CI/CD"},
-        {"name": "Docker", "category": "DevOps & CI/CD"},
-        {"name": "Terraform", "category": "DevOps & CI/CD"},
-        {"name": "Kubernetes", "category": "DevOps & CI/CD"},
-        {"name": "Ansible", "category": "DevOps & CI/CD"},
-        {"name": "Google Ads", "category": "Marketing & Analytics"},
-        {"name": "Meta Ads Manager", "category": "Marketing & Analytics"},
-        {"name": "TikTok Ads Manager", "category": "Marketing & Analytics"},
-        {"name": "LinkedIn Campaign Manager", "category": "Marketing & Analytics"},
-        {"name": "AdRoll", "category": "Marketing & Analytics"},
-        {"name": "Smartly.io", "category": "Marketing & Analytics"},
-        {"name": "Google Analytics", "category": "Marketing & Analytics"},
-        {"name": "Mixpanel", "category": "Marketing & Analytics"},
-        {"name": "Amplitude", "category": "Marketing & Analytics"},
-        {"name": "Adobe Analytics", "category": "Marketing & Analytics"},
-        {"name": "Semrush", "category": "Marketing & Analytics"},
-        {"name": "Ahrefs", "category": "Marketing & Analytics"},
-        {"name": "Google Search Console", "category": "Marketing & Analytics"},
-        {"name": "Google Keyword Planner", "category": "Marketing & Analytics"},
-        {"name": "Surfer SEO", "category": "Marketing & Analytics"},
-        {"name": "Sitebulb", "category": "Marketing & Analytics"},
-        {"name": "BrightLocal", "category": "Marketing & Analytics"},
-        {"name": "HubSpot Marketing Hub", "category": "Marketing & Analytics"},
-        {"name": "Salesforce", "category": "Marketing & Analytics"},
-        {"name": "LinkedIn Sales Navigator", "category": "Marketing & Analytics"},
-        {"name": "Hootsuite", "category": "Marketing & Analytics"},
-        {"name": "Sprout Social", "category": "Marketing & Analytics"},
-        {"name": "Buffer", "category": "Marketing & Analytics"},
-        {"name": "Mailchimp", "category": "Marketing & Analytics"},
-        {"name": "Brevo", "category": "Marketing & Analytics"},
-        {"name": "Klaviyo", "category": "Marketing & Analytics"},
-        {"name": "Omnisend", "category": "Marketing & Analytics"},
-        {"name": "Kit", "category": "Marketing & Analytics"},
-        {"name": "beehiiv", "category": "Marketing & Analytics"},
-        {"name": "Substack", "category": "Marketing & Analytics"},
-        {"name": "Shopify", "category": "Marketing & Analytics"},
-        {"name": "WooCommerce", "category": "Marketing & Analytics"},
-        {"name": "BigCommerce", "category": "Marketing & Analytics"},
-        {"name": "Stripe", "category": "Marketing & Analytics"},
-        {"name": "Shopify Payments", "category": "Marketing & Analytics"},
-        {"name": "myPOS", "category": "Marketing & Analytics"},
-        {"name": "PostHog", "category": "Marketing & Analytics"},
-        {"name": "GrowthBook", "category": "Marketing & Analytics"},
-        {"name": "Eppo", "category": "Marketing & Analytics"},
-        {"name": "VWO (Visual Website Optimizer)", "category": "Marketing & Analytics"},
-        {"name": "AB Tasty", "category": "Marketing & Analytics"},
-        {"name": "Convert Experiences", "category": "Marketing & Analytics"},
-        {"name": "Crazy Egg", "category": "Marketing & Analytics"},
-        {"name": "Adobe Creative Cloud", "category": "Tasarım ve Yaratıcılık"},
-        {"name": "Figma", "category": "Tasarım ve Yaratıcılık"},
-        {"name": "Framer", "category": "Tasarım ve Yaratıcılık"},
-        {"name": "Miro", "category": "Tasarım ve Yaratıcılık"},
-        {"name": "Sketch", "category": "Tasarım ve Yaratıcılık"},
-        {"name": "ProtoPie", "category": "Tasarım ve Yaratıcılık"},
-        {"name": "Canva", "category": "Tasarım ve Yaratıcılık"},
-        {"name": "CapCut", "category": "Tasarım ve Yaratıcılık"},
-        {"name": "Uizard", "category": "Tasarım ve Yaratıcılık"},
-        {"name": "UX Pilot", "category": "Tasarım ve Yaratıcılık"},
-        {"name": "Replit", "category": "Tasarım ve Yaratıcılık"},
-        {"name": "Lovable", "category": "Tasarım ve Yaratıcılık"},
-        {"name": "Bolt.new", "category": "Tasarım ve Yaratıcılık"},
-        {"name": "Google Stitch", "category": "Tasarım ve Yaratıcılık"},
-        {"name": "Claude Design", "category": "Tasarım ve Yaratıcılık"},
-        {"name": "LLMs", "category": "YZ Araçları"},
-        {"name": "LLM APIs", "category": "YZ Araçları"},
-        {"name": "Hugging Face", "category": "YZ Araçları"},
-        {"name": "Ollama", "category": "YZ Araçları"},
-        {"name": "vLLM", "category": "YZ Araçları"},
-        {"name": "LM Studio", "category": "YZ Araçları"},
-        {"name": "OpenCode", "category": "YZ Araçları"},
-        {"name": "Claude Code", "category": "YZ Araçları"},
-        {"name": "Codex", "category": "YZ Araçları"},
-        {"name": "OpenClaw", "category": "YZ Araçları"},
-        {"name": "Hermes", "category": "YZ Araçları"},
-        {"name": "LangFlow", "category": "YZ Araçları"},
-        {"name": "LangChain", "category": "YZ Araçları"},
-        {"name": "LangGraph", "category": "YZ Araçları"},
-        {"name": "CrewAI", "category": "YZ Araçları"},
-        {"name": "LlamaIndex", "category": "YZ Araçları"},
-        {"name": "Dify", "category": "YZ Araçları"},
-        {"name": "AutoGen", "category": "YZ Araçları"},
-        {"name": "Flowise", "category": "YZ Araçları"},
-        {"name": "Zapier", "category": "Otomasyon Araçları"},
-        {"name": "Make", "category": "Otomasyon Araçları"},
-        {"name": "n8n", "category": "Otomasyon Araçları"},
-        {"name": "UiPath", "category": "Otomasyon Araçları"},
-        {"name": "Workato", "category": "Otomasyon Araçları"},
-        {"name": "Gumloop", "category": "Otomasyon Araçları"},
-        {"name": "Lindy", "category": "Otomasyon Araçları"},
-        {"name": "Notion", "category": "Proje ve Bilgi Yönetimi Araçları"},
-        {"name": "Obsidian", "category": "Proje ve Bilgi Yönetimi Araçları"},
-        {"name": "Slack", "category": "Proje ve Bilgi Yönetimi Araçları"},
-        {"name": "ClickUp", "category": "Proje ve Bilgi Yönetimi Araçları"},
-        {"name": "Monday.com", "category": "Proje ve Bilgi Yönetimi Araçları"},
-        {"name": "Asana", "category": "Proje ve Bilgi Yönetimi Araçları"},
-        {"name": "Jira", "category": "Proje ve Bilgi Yönetimi Araçları"},
-        {"name": "Linear", "category": "Proje ve Bilgi Yönetimi Araçları"},
-        {"name": "Trello", "category": "Proje ve Bilgi Yönetimi Araçları"},
-        {"name": "Wrike", "category": "Proje ve Bilgi Yönetimi Araçları"},
-        {"name": "Microsoft Project & Planner", "category": "Proje ve Bilgi Yönetimi Araçları"},
-        {"name": "Basecamp", "category": "Proje ve Bilgi Yönetimi Araçları"},
-        {"name": "OpenProject", "category": "Proje ve Bilgi Yönetimi Araçları"},
-        {"name": "Focalboard", "category": "Proje ve Bilgi Yönetimi Araçları"},
-        {"name": "Appflowy", "category": "Proje ve Bilgi Yönetimi Araçları"},
-        {"name": "Leantime", "category": "Proje ve Bilgi Yönetimi Araçları"},
-        {"name": "GitHub Projects", "category": "Proje ve Bilgi Yönetimi Araçları"},
-        {"name": "Confluence", "category": "Proje ve Bilgi Yönetimi Araçları"},
-        {"name": "Slite", "category": "Proje ve Bilgi Yönetimi Araçları"},
-        {"name": "Logseq", "category": "Proje ve Bilgi Yönetimi Araçları"},
-        {"name": "Wiki.js", "category": "Proje ve Bilgi Yönetimi Araçları"},
-        {"name": "DocuWiki", "category": "Proje ve Bilgi Yönetimi Araçları"},
-        {"name": "Discord", "category": "Proje ve Bilgi Yönetimi Araçları"},
-        {"name": "Element", "category": "Proje ve Bilgi Yönetimi Araçları"}
+        {
+          "name": "HTML",
+          "category": "Programlama Dilleri"
+        },
+        {
+          "name": "CSS",
+          "category": "Programlama Dilleri"
+        },
+        {
+          "name": "JavaScript",
+          "category": "Programlama Dilleri"
+        },
+        {
+          "name": "TypeScript",
+          "category": "Programlama Dilleri"
+        },
+        {
+          "name": "Python",
+          "category": "Programlama Dilleri"
+        },
+        {
+          "name": "Bash",
+          "category": "Programlama Dilleri"
+        },
+        {
+          "name": "SQL",
+          "category": "Programlama Dilleri"
+        },
+        {
+          "name": "Kotlin",
+          "category": "Programlama Dilleri"
+        },
+        {
+          "name": "Swift",
+          "category": "Programlama Dilleri"
+        },
+        {
+          "name": "React",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Next.js",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Tailwind CSS",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Vue.js",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Astro",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Svelte",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Vue",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Nuxt.js",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Remix",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Pinia",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "SolidJS",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "SolidStart",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Alpine.js",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Vite",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Bun",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Turbopack",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Framer Motion",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "GSAP",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "shadcn/ui",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Three.js",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "React Three Fiber",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Drei",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Theatre.js",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Spline",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Lenis",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Lottie",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Rive",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Matter.js",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Node.js",
+          "category": "Back-End & Veritabanları"
+        },
+        {
+          "name": "NestJS",
+          "category": "Back-End & Veritabanları"
+        },
+        {
+          "name": "Express",
+          "category": "Back-End & Veritabanları"
+        },
+        {
+          "name": "Koa",
+          "category": "Back-End & Veritabanları"
+        },
+        {
+          "name": "Fastify",
+          "category": "Back-End & Veritabanları"
+        },
+        {
+          "name": "FastAPI",
+          "category": "Back-End & Veritabanları"
+        },
+        {
+          "name": "Django",
+          "category": "Back-End & Veritabanları"
+        },
+        {
+          "name": "Flask",
+          "category": "Back-End & Veritabanları"
+        },
+        {
+          "name": "REST APIs",
+          "category": "Back-End & Veritabanları"
+        },
+        {
+          "name": "GraphQL",
+          "category": "Back-End & Veritabanları"
+        },
+        {
+          "name": "tRPC",
+          "category": "Back-End & Veritabanları"
+        },
+        {
+          "name": "Prisma",
+          "category": "Back-End & Veritabanları"
+        },
+        {
+          "name": "Supabase DB",
+          "category": "Back-End & Veritabanları"
+        },
+        {
+          "name": "PostgreSQL",
+          "category": "Back-End & Veritabanları"
+        },
+        {
+          "name": "MySQL",
+          "category": "Back-End & Veritabanları"
+        },
+        {
+          "name": "SQLite",
+          "category": "Back-End & Veritabanları"
+        },
+        {
+          "name": "MongoDB",
+          "category": "Back-End & Veritabanları"
+        },
+        {
+          "name": "Redis",
+          "category": "Back-End & Veritabanları"
+        },
+        {
+          "name": "Git",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "GitHub Actions",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Jenkins",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "GitLab CI/CD",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Azure Pipelines",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Argo CD",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Flux",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Harness",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Docker",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Terraform",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Kubernetes",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Ansible",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Google Ads",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Meta Ads Manager",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "TikTok Ads Manager",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "LinkedIn Campaign Manager",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "AdRoll",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Smartly.io",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Google Analytics",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Mixpanel",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Amplitude",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Adobe Analytics",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Semrush",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Ahrefs",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Google Search Console",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Google Keyword Planner",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Surfer SEO",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Sitebulb",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "BrightLocal",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "HubSpot Marketing Hub",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Salesforce",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "LinkedIn Sales Navigator",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Hootsuite",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Sprout Social",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Buffer",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Mailchimp",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Brevo",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Klaviyo",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Omnisend",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Kit",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "beehiiv",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Substack",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Shopify",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "WooCommerce",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "BigCommerce",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Stripe",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Shopify Payments",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "myPOS",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "PostHog",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "GrowthBook",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Eppo",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "VWO (Visual Website Optimizer)",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "AB Tasty",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Convert Experiences",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Crazy Egg",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Adobe Creative Cloud",
+          "category": "Tasarım ve Yaratıcılık"
+        },
+        {
+          "name": "Figma",
+          "category": "Tasarım ve Yaratıcılık"
+        },
+        {
+          "name": "Framer",
+          "category": "Tasarım ve Yaratıcılık"
+        },
+        {
+          "name": "Miro",
+          "category": "Tasarım ve Yaratıcılık"
+        },
+        {
+          "name": "Sketch",
+          "category": "Tasarım ve Yaratıcılık"
+        },
+        {
+          "name": "ProtoPie",
+          "category": "Tasarım ve Yaratıcılık"
+        },
+        {
+          "name": "Canva",
+          "category": "Tasarım ve Yaratıcılık"
+        },
+        {
+          "name": "CapCut",
+          "category": "Tasarım ve Yaratıcılık"
+        },
+        {
+          "name": "Uizard",
+          "category": "Tasarım ve Yaratıcılık"
+        },
+        {
+          "name": "UX Pilot",
+          "category": "Tasarım ve Yaratıcılık"
+        },
+        {
+          "name": "Replit",
+          "category": "Tasarım ve Yaratıcılık"
+        },
+        {
+          "name": "Lovable",
+          "category": "Tasarım ve Yaratıcılık"
+        },
+        {
+          "name": "Bolt.new",
+          "category": "Tasarım ve Yaratıcılık"
+        },
+        {
+          "name": "Google Stitch",
+          "category": "Tasarım ve Yaratıcılık"
+        },
+        {
+          "name": "Claude Design",
+          "category": "Tasarım ve Yaratıcılık"
+        },
+        {
+          "name": "LLMs",
+          "category": "YZ Araçları"
+        },
+        {
+          "name": "LLM APIs",
+          "category": "YZ Araçları"
+        },
+        {
+          "name": "Hugging Face",
+          "category": "YZ Araçları"
+        },
+        {
+          "name": "Ollama",
+          "category": "YZ Araçları"
+        },
+        {
+          "name": "vLLM",
+          "category": "YZ Araçları"
+        },
+        {
+          "name": "LM Studio",
+          "category": "YZ Araçları"
+        },
+        {
+          "name": "OpenCode",
+          "category": "YZ Araçları"
+        },
+        {
+          "name": "Claude Code",
+          "category": "YZ Araçları"
+        },
+        {
+          "name": "Codex",
+          "category": "YZ Araçları"
+        },
+        {
+          "name": "OpenClaw",
+          "category": "YZ Araçları"
+        },
+        {
+          "name": "Hermes",
+          "category": "YZ Araçları"
+        },
+        {
+          "name": "LangFlow",
+          "category": "YZ Araçları"
+        },
+        {
+          "name": "LangChain",
+          "category": "YZ Araçları"
+        },
+        {
+          "name": "LangGraph",
+          "category": "YZ Araçları"
+        },
+        {
+          "name": "CrewAI",
+          "category": "YZ Araçları"
+        },
+        {
+          "name": "LlamaIndex",
+          "category": "YZ Araçları"
+        },
+        {
+          "name": "Dify",
+          "category": "YZ Araçları"
+        },
+        {
+          "name": "AutoGen",
+          "category": "YZ Araçları"
+        },
+        {
+          "name": "Flowise",
+          "category": "YZ Araçları"
+        },
+        {
+          "name": "Zapier",
+          "category": "Otomasyon Araçları"
+        },
+        {
+          "name": "Make",
+          "category": "Otomasyon Araçları"
+        },
+        {
+          "name": "n8n",
+          "category": "Otomasyon Araçları"
+        },
+        {
+          "name": "UiPath",
+          "category": "Otomasyon Araçları"
+        },
+        {
+          "name": "Workato",
+          "category": "Otomasyon Araçları"
+        },
+        {
+          "name": "Gumloop",
+          "category": "Otomasyon Araçları"
+        },
+        {
+          "name": "Lindy",
+          "category": "Otomasyon Araçları"
+        },
+        {
+          "name": "Notion",
+          "category": "Proje ve Bilgi Yönetimi Araçları"
+        },
+        {
+          "name": "Obsidian",
+          "category": "Proje ve Bilgi Yönetimi Araçları"
+        },
+        {
+          "name": "Slack",
+          "category": "Proje ve Bilgi Yönetimi Araçları"
+        },
+        {
+          "name": "ClickUp",
+          "category": "Proje ve Bilgi Yönetimi Araçları"
+        },
+        {
+          "name": "Monday.com",
+          "category": "Proje ve Bilgi Yönetimi Araçları"
+        },
+        {
+          "name": "Asana",
+          "category": "Proje ve Bilgi Yönetimi Araçları"
+        },
+        {
+          "name": "Jira",
+          "category": "Proje ve Bilgi Yönetimi Araçları"
+        },
+        {
+          "name": "Linear",
+          "category": "Proje ve Bilgi Yönetimi Araçları"
+        },
+        {
+          "name": "Trello",
+          "category": "Proje ve Bilgi Yönetimi Araçları"
+        },
+        {
+          "name": "Wrike",
+          "category": "Proje ve Bilgi Yönetimi Araçları"
+        },
+        {
+          "name": "Microsoft Project & Planner",
+          "category": "Proje ve Bilgi Yönetimi Araçları"
+        },
+        {
+          "name": "Basecamp",
+          "category": "Proje ve Bilgi Yönetimi Araçları"
+        },
+        {
+          "name": "OpenProject",
+          "category": "Proje ve Bilgi Yönetimi Araçları"
+        },
+        {
+          "name": "Focalboard",
+          "category": "Proje ve Bilgi Yönetimi Araçları"
+        },
+        {
+          "name": "Appflowy",
+          "category": "Proje ve Bilgi Yönetimi Araçları"
+        },
+        {
+          "name": "Leantime",
+          "category": "Proje ve Bilgi Yönetimi Araçları"
+        },
+        {
+          "name": "GitHub Projects",
+          "category": "Proje ve Bilgi Yönetimi Araçları"
+        },
+        {
+          "name": "Confluence",
+          "category": "Proje ve Bilgi Yönetimi Araçları"
+        },
+        {
+          "name": "Slite",
+          "category": "Proje ve Bilgi Yönetimi Araçları"
+        },
+        {
+          "name": "Logseq",
+          "category": "Proje ve Bilgi Yönetimi Araçları"
+        },
+        {
+          "name": "Wiki.js",
+          "category": "Proje ve Bilgi Yönetimi Araçları"
+        },
+        {
+          "name": "DocuWiki",
+          "category": "Proje ve Bilgi Yönetimi Araçları"
+        },
+        {
+          "name": "Discord",
+          "category": "Proje ve Bilgi Yönetimi Araçları"
+        },
+        {
+          "name": "Element",
+          "category": "Proje ve Bilgi Yönetimi Araçları"
+        }
       ]
     },
     "philosophy": {
