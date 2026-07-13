@@ -13,6 +13,7 @@ interface HeroSectionProps {
   icon?: ReactNode;
   children?: ReactNode;
   largeImage?: boolean;
+  hideImage?: boolean;
 }
 
 export function HeroSection({
@@ -22,6 +23,7 @@ export function HeroSection({
   icon,
   children,
   largeImage = false,
+  hideImage = false,
 }: HeroSectionProps) {
   const t = useTranslations(headingNamespace);
   const heading = t(headingKey);
@@ -50,6 +52,7 @@ export function HeroSection({
         )}
         {children}
       </div>
+      {!hideImage && (
       <div className="shrink-0 ms-auto">
         <div className={imageContainerClasses}>
           <Image
@@ -62,6 +65,7 @@ export function HeroSection({
           />
         </div>
       </div>
+      )}
     </section>
   );
 }

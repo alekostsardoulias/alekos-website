@@ -102,7 +102,7 @@ export function WorkContent({
   return (
     <PageLayout>
       {/* ── Hero ─────────────────────────────────────────────────── */}
-      <HeroSection headingKey="heading" headingNamespace="work" subtitleKey="description" largeImage />
+      <HeroSection headingKey="heading" headingNamespace="work" subtitleKey="description" hideImage />
 
       {/* ── Services ──────────────────────────────────────────────── */}
       <section>

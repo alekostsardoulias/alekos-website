@@ -1,7 +1,6 @@
 import { useTranslations } from 'next-intl';
 import { Mail } from 'lucide-react';
 import { PageLayout } from '@/components/page-layout';
-import { HeroSection } from '@/components/hero-section';
 import { BrandIcon } from '@/components/ui/brand-icon';
 import type { Metadata } from 'next';
 
@@ -38,7 +37,6 @@ export default function ContactPage() {
 
   return (
     <PageLayout>
-      <HeroSection headingKey="heading" headingNamespace="contact" subtitleKey="subtitle" largeImage />
 
       {/* Email CTA Card */}
       <div className="rounded-2xl border border-purple-400/10 bg-gradient-to-r from-purple-500/5 to-blue-500/5 backdrop-blur-sm p-8 text-center mb-8">
