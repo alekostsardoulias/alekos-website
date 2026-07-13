@@ -64,7 +64,7 @@ export function Hero() {
 
         {/* Hero image */}
         <div className="shrink-0">
-          <div className="relative w-64 h-64 md:w-80 md:h-80 lg:w-96 lg:h-96 rounded-full border-2 border-purple-400/20 shadow-[0_0_40px_rgba(168,85,247,0.2)] overflow-hidden">
+          <div className="relative w-64 h-64 md:w-80 md:h-80 lg:w-96 lg:h-96 rounded-full border-2 border-purple-400/20 shadow-[0_0_40px_rgba(168,85,247,0.2)] overflow-hidden bg-muted/20">
             <Image
               src={HERO_IMAGE}
               alt={t('name')}
