@@ -1,1 +1,598 @@
-{"nav":{"home":"Αρχική","about":"Σχετικά","work":"Δουλειά","articles":"Άρθρα","contact":"Επικοινωνία"},"hero":{"greeting":"👋 Hello, World!","name":"Αλέξανδρος Τσαρδούλιας","title":"AI-Native Software Engineer & Marketing Specialist","description":"Βοηθώ founders, startups, ΜμΕ και ΜΚΟ να πετύχουν τους στόχους τους συνδυάζοντας τεχνολογία, φιλοσοφία, growth strategy και βέλτιστες πρακτικές επικοινωνίας.","cta":"Δες τη δουλειά μου","ctaSecondary":"Επικοινώνησε μαζί μου"},"home":{"summaries":{"about":{"heading":"Σχετικά με εμένα","description":"Ποιος είμαι, τι έχω σπουδάσει, πού έχω δουλέψει."},"work":{"heading":"Τι κάνω","description":"Υπηρεσίες και ολοκληρωμένα projects."},"articles":{"heading":"Άρθρα","description":"Σκέψεις για AI, marketing, και τεχνολογία."},"contact":{"heading":"Επικοινωνία","description":"Βρες με στα social media."}},"servicesOverview":{"heading":"Τι Κάνω","items":[{"title":"Ανάπτυξη Λογισμικού","description":"Custom web και mobile εφαρμογές προσαρμοσμένες στις ανάγκες σου. Γρήγορες, responsive, cost-optimized, SEO-ready."},{"title":"Marketing & Growth","description":"Στρατηγική go-to-market, marketing automation, copy και content writing, και conversion-focused καμπάνιες που φέρνουν αποτελέσματα."},{"title":"AI & Automation","description":"Ενσωμάτωση AI, workflow automation, και έξυπνα συστήματα που κλιμακώνουν την επιχείρησή σου."},{"title":"Strategy & Consulting","description":"Τεχνική συμβουλευτική, αποφάσεις αρχιτεκτονικής, και στρατηγική προϊόντος για σύγχρονες επιχειρήσεις."}]},"featured":{"heading":"Πρόσφατες Δουλειές","viewProject":"Δες το project","items":[{"title":"Πώς η AI αλλάζει το Marketing","category":"Τεχνολογία","description":"Μια ανάλυση για το πώς τα εργαλεία τεχνητής νοημοσύνης μεταμορφώνουν τις στρατηγικές ψηφιακού marketing το 2026."},{"title":"Modern Web Development το 2026","category":"Τεχνολογία","description":"Τα εργαλεία, frameworks, και πρακτικές που χρησιμοποιώ για web development σήμερα."},{"title":"Case Study: Ανασχεδιασμός E-Commerce","category":"Case Study","description":"Πώς ανασχεδίασα μια πλατφόρμα e-commerce για καλύτερο UX και 40% υψηλότερο conversion."}],"cta":{"heading":"Ας Συνεργαστούμε","subtitle":"Έχεις ένα project στο μυαλό σου; Ας χτίσουμε κάτι σπουδαίο.","button":"Επικοινώνησε Μαζί Μου"}},"stats":{"heading":"Με Αριθμούς","items":[{"value":"50+","label":"Ολοκληρωμένα Έργα"},{"value":"5+","label":"Χρόνια Εμπειρίας"},{"value":"100+","label":"Εργαλεία & Τεχνολογίες"},{"value":"200+","label":"Άρθρα"}]}},"about":{"heading":"Σχετικά με εμένα","description":"Ένας συνδυασμός τεχνικής κατάρτισης και marketing διαίσθησης. Χτίζω AI-native προϊόντα, γράφω κώδικα που έχει σημασία, και βοηθώ επιχειρήσεις να βρουν τη φωνή τους στον ψηφιακό κόσμο.","cta":"Δες τη δουλειά μου","bio":{"paragraphs":["Hello, world! Είμαι ο Αλέξανδρος Τσαρδούλιας, AI-Native Software Engineer & Marketing Specialist.","Είμαι ένας διεπιστημονικός επαγγελματίας που συνδυάζει τεχνολογία, φιλοσοφία, growth strategy και βέλτιστες πρακτικές επικοινωνίας. Προσφέρω ολοκληρωμένες υπηρεσίες ανάπτυξης λογισμικού και growth marketing για startups, solo founders, ΜμΕ, ΜΚΟ και άλλους επαγγελματίες και οργανισμούς, μετατρέποντας ιδέες σε κλιμακώσιμα ψηφιακά προϊόντα και συστήματα που παράγουν έσοδα.","Σπούδασα Φιλοσοφία και Διοίκηση Marketing ενώ παράλληλα μάθαινα μόνος μου προγραμματισμό και design. Κάθε project που αναλαμβάνω συνδυάζει μετρήσιμα τεχνικά αποτελέσματα με marketing που επηρεάζει τα έσοδα, διασφαλίζοντας ότι οι πελάτες αποκτούν τόσο ισχυρή ψηφιακή υποδομή όσο και μετρήσιμη επιχειρηματική ανάπτυξη.","Δεν γράφω απλώς κώδικα για web εφαρμογές ούτε διαχειρίζομαι απλώς social media και emails — χτίζω ολιστικά συστήματα που παράγουν μετρήσιμα αποτελέσματα. Αντιμετωπίζω την τεχνική αρχιτεκτονική ενός προϊόντος και τη στρατηγική go-to-market ως ένα πρόβλημα, όχι δύο.","Συνεργάζομαι με επαγγελματίες σε Ελλάδα, Κύπρο και ΕΕ, και μιλάω άπταιστα Ελληνικά και Αγγλικά. Δουλεύω με μηνιαίο retainer ή fixed-project βάση, ανάλογα με το εύρος του έργου. Αν είσαι founder ή επιχείρηση που χρειάζεται έναν τεχνικό ή marketing συνεργάτη, πρέπει οπωσδήποτε να μιλήσουμε."]},"education":{"heading":"Εκπαίδευση","items":[{"year":"2020 — 2024","institution":"Οικονομικό Πανεπιστήμιο Αθηνών","degree":"Προπτυχιακό στην Πληροφορική","description":"TODO: προσθήκη λεπτομερειών"}]},"work":{"heading":"Επαγγελματική Εμπειρία","items":[{"year":"2023 — Σήμερα","company":"Freelance","role":"Software Engineer & Marketing Specialist","description":"TODO: προσθήκη λεπτομερειών"}]},"tools":{"heading":"Τεχνολογίες & Εργαλεία","allLabel":"Όλα","empty":"Δεν βρέθηκαν εργαλεία σε αυτή την κατηγορία.","categories":["Γλώσσες Προγραμματισμού","Front-End & UI/UX","Back-End/Βάσεις Δεδομένων","DevOps & CI/CD","Marketing & Analytics","Σχεδίαση & Δημιουργικό","Εργαλεία AI","Διαχείριση Έργων"],"items":[{"name":"React","category":"Front-End & UI/UX"},{"name":"Next.js","category":"Front-End & UI/UX"},{"name":"TypeScript","category":"Front-End & UI/UX"},{"name":"Tailwind CSS","category":"Front-End & UI/UX"},{"name":"HTML/CSS","category":"Front-End & UI/UX"},{"name":"JavaScript","category":"Front-End & UI/UX"},{"name":"Vue.js","category":"Front-End & UI/UX"},{"name":"Astro","category":"Front-End & UI/UX"},{"name":"Svelte","category":"Front-End & UI/UX"},{"name":"Framer Motion","category":"Front-End & UI/UX"},{"name":"shadcn/ui","category":"Front-End & UI/UX"},{"name":"Radix UI","category":"Front-End & UI/UX"},{"name":"Node.js","category":"Back-End/Βάσεις Δεδομένων"},{"name":"Express","category":"Back-End/Βάσεις Δεδομένων"},{"name":"Python","category":"Back-End/Βάσεις Δεδομένων"},{"name":"FastAPI","category":"Back-End/Βάσεις Δεδομένων"},{"name":"REST APIs","category":"Back-End/Βάσεις Δεδομένων"},{"name":"GraphQL","category":"Back-End/Βάσεις Δεδομένων"},{"name":"tRPC","category":"Back-End/Βάσεις Δεδομένων"},{"name":"Prisma","category":"Back-End/Βάσεις Δεδομένων"},{"name":"Django","category":"Back-End/Βάσεις Δεδομένων"},{"name":"LLMs","category":"Εργαλεία AI"},{"name":"OpenAI API","category":"Εργαλεία AI"},{"name":"LangChain","category":"Εργαλεία AI"},{"name":"RAG","category":"Εργαλεία AI"},{"name":"Vector Databases","category":"Εργαλεία AI"},{"name":"Prompt Engineering","category":"Εργαλεία AI"},{"name":"Midjourney","category":"Εργαλεία AI"},{"name":"Stable Diffusion","category":"Εργαλεία AI"},{"name":"Claude","category":"Εργαλεία AI"},{"name":"AI Agents","category":"Εργαλεία AI"},{"name":"Docker","category":"DevOps & CI/CD"},{"name":"Git","category":"DevOps & CI/CD"},{"name":"GitHub Actions","category":"DevOps & CI/CD"},{"name":"Vercel","category":"DevOps & CI/CD"},{"name":"Linux","category":"DevOps & CI/CD"},{"name":"Nginx","category":"DevOps & CI/CD"},{"name":"CI/CD","category":"DevOps & CI/CD"},{"name":"Supabase","category":"DevOps & CI/CD"},{"name":"Cloudflare","category":"DevOps & CI/CD"},{"name":"PostgreSQL","category":"Back-End/Βάσεις Δεδομένων"},{"name":"MongoDB","category":"Back-End/Βάσεις Δεδομένων"},{"name":"Redis","category":"Back-End/Βάσεις Δεδομένων"},{"name":"SQLite","category":"Back-End/Βάσεις Δεδομένων"},{"name":"Supabase DB","category":"Back-End/Βάσεις Δεδομένων"},{"name":"MySQL","category":"Back-End/Βάσεις Δεδομένων"},{"name":"TypeScript","category":"Γλώσσες Προγραμματισμού"},{"name":"JavaScript","category":"Γλώσσες Προγραμματισμού"},{"name":"Python","category":"Γλώσσες Προγραμματισμού"},{"name":"HTML/CSS","category":"Γλώσσες Προγραμματισμού"},{"name":"SQL","category":"Γλώσσες Προγραμματισμού"},{"name":"Bash","category":"Γλώσσες Προγραμματισμού"},{"name":"Markdown","category":"Γλώσσες Προγραμματισμού"},{"name":"Figma","category":"Σχεδίαση & Δημιουργικό"},{"name":"Canva","category":"Σχεδίαση & Δημιουργικό"},{"name":"Adobe Photoshop","category":"Σχεδίαση & Δημιουργικό"},{"name":"UI/UX Design","category":"Σχεδίαση & Δημιουργικό"},{"name":"Responsive Design","category":"Σχεδίαση & Δημιουργικό"},{"name":"Design Systems","category":"Σχεδίαση & Δημιουργικό"},{"name":"Google Analytics","category":"Marketing & Analytics"},{"name":"SEO","category":"Marketing & Analytics"},{"name":"Meta Ads","category":"Marketing & Analytics"},{"name":"Google Ads","category":"Marketing & Analytics"},{"name":"Email Marketing","category":"Marketing & Analytics"},{"name":"Content Strategy","category":"Marketing & Analytics"},{"name":"Copywriting","category":"Marketing & Analytics"},{"name":"A/B Testing","category":"Marketing & Analytics"},{"name":"Social Media Marketing","category":"Marketing & Analytics"},{"name":"VS Code","category":"Διαχείριση Έργων"},{"name":"Notion","category":"Διαχείριση Έργων"},{"name":"Slack","category":"Διαχείριση Έργων"},{"name":"Zapier","category":"Διαχείριση Έργων"},{"name":"n8n","category":"Διαχείριση Έργων"},{"name":"Make (Integromat)","category":"Διαχείριση Έργων"},{"name":"Obsidian","category":"Διαχείριση Έργων"},{"name":"Linear","category":"Διαχείριση Έργων"}]},"philosophy":{"heading":"Η Φιλοσοφία Μου","items":[{"title":"Το Λιγότερο Είναι Περισσότερο","description":"Προτιμώ καθαρό, λειτουργικό κώδικα και μετρημένο design. Η πολυπλοκότητα είναι βάρος — η απλότητα κλιμακώνεται."},{"title":"Η Τεχνολογία Υπηρετεί τον Άνθρωπο","description":"Κάθε γραμμή κώδικα που γράφω έχει έναν άνθρωπο στην άλλη άκρη. Η τεχνολογία είναι εργαλείο, όχι αυτοσκοπός."},{"title":"Συνεχής Μάθηση","description":"Ο κλάδος εξελίσσεται καθημερινά. Μένω περίεργος, πειραματίζομαι συχνά, και ποτέ δεν θεωρώ ότι τα έχω βρει όλα."}]}},"work":{"heading":"Τι κάνω","description":"Από full-stack web εφαρμογές μέχρι στρατηγική go-to-market — προσφέρω ολοκληρωμένες λύσεις. Κάθε project ξεκινά με την κατανόηση των στόχων σου και τελειώνει με μετρήσιμα αποτελέσματα.","cta":"Διάβασε τα άρθρα μου","services":{"heading":"Υπηρεσίες","items":[{"name":"Web Development","description":"Custom web εφαρμογές με Next.js, React, και TypeScript. Γρήγορες, responsive, και SEO-optimized."},{"name":"Web App Development","description":"Full-stack web εφαρμογές με σύγχρονα frameworks, βάσεις δεδομένων και cloud υποδομές."},{"name":"Mobile App Development","description":"Cross-platform mobile εφαρμογές με React Native και Expo για iOS και Android."},{"name":"Go-To-Market Strategy","description":"Στρατηγικός σχεδιασμός για λανσαρίσματα προϊόντων — positioning, messaging, και εκτέλεση GTM."},{"name":"Marketing Automation","description":"Αυτοματοποιημένες ροές marketing, email sequences, και συστήματα lead nurturing."},{"name":"Marketing Consulting","description":"Στρατηγική συμβουλευτική marketing για startups και μικρές επιχειρήσεις — growth, retention, analytics."},{"name":"Forward-Deployed Engineering","description":"Ενσωματωμένες τεχνικές λύσεις — δουλεύω δίπλα στην ομάδα σου για να λύνω τεχνικές προκλήσεις on site."},{"name":"Workflow Automation","description":"Custom λύσεις αυτοματοποίησης για να απλοποιούν επαναλαμβανόμενες εργασίες και επιχειρησιακές διαδικασίες."},{"name":"AI & Tech Consulting","description":"Συμβουλευτική για ενσωμάτωση AI, εργαλεία, αρχιτεκτονική και scaling για σύγχρονες επιχειρήσεις."},{"name":"Copywriting","description":"Πειστικό, conversion-focused copy για landing pages, emails, διαφημίσεις και περιγραφές προϊόντων."},{"name":"Content Writing","description":"Άρθρα, blog posts, και long-form content που εκπαιδεύει και εμπλέκει το κοινό σου."},{"name":"Technical Documentation","description":"Σαφής, ολοκληρωμένη τεκμηρίωση για APIs, SDKs, και developer-facing προϊόντα."}]},"process":{"heading":"Πώς Δουλεύω","steps":[{"title":"Discovery","description":"Κατανοώ τους στόχους σου, το κοινό, και τι σημαίνει επιτυχία για το project σου."},{"title":"Strategy","description":"Σχεδιάζω την προσέγγιση, επιλέγω τα κατάλληλα εργαλεία και χαράζω την πορεία προς το launch."},{"title":"Execution","description":"Χτίζω με ακρίβεια — καθαρό κώδικα, προσεγμένο design, και τακτικά updates."},{"title":"Delivery","description":"Launch, μέτρηση, και βελτιώσεις. Παραμένω δίπλα σου για να βεβαιωθώ ότι όλα δουλεύουν."}]},"completed":{"heading":"Ολοκληρωμένα Projects","items":[{"title":"Πώς η AI αλλάζει το Marketing","date":"2026-06-15","category":"marketing","excerpt":"Μια ανάλυση για το πώς τα εργαλεία τεχνητής νοημοσύνης μεταμορφώνουν το ψηφιακό marketing.","slug":"ai-marketing-2026"},{"title":"Modern Web Development το 2026","date":"2026-05-20","category":"τεχνολογία","excerpt":"Τα εργαλεία, frameworks, και πρακτικές που χρησιμοποιώ για web development σήμερα.","slug":"modern-web-dev"}]}},"articles":{"heading":"Άρθρα","description":"Σκέψεις για AI, software engineering, και σύγχρονο marketing. Γράφω για ό,τι χτίζω, ό,τι μαθαίνω, και το πού πηγαίνει η τεχνολογία.","cta":"Επικοινώνησε μαζί μου","filter":{"all":"Όλα","label":"Κατηγορία"},"empty":"Δεν υπάρχουν άρθρα σε αυτή την κατηγορία.","readMore":"Διάβασε περισσότερα","readingTime":"{minutes} λεπτά ανάγνωσης","backToList":"← Πίσω στα άρθρα"},"contact":{"heading":"Επικοινωνία","description":"Ας τα πούμε. Είτε έχεις ένα project στο μυαλό σου, μια ερώτηση, ή απλά θέλεις να συνδεθούμε — είμαι εδώ.","subtitle":"Μπορείς να με βρεις στα παρακάτω:","emailCTA":{"heading":"Ας Τα Πούμε","button":"Στείλε μου Email","responseTime":"Συνήθως απαντάω εντός 24 ωρών"},"links":[{"platform":"Instagram","url":"https://instagram.com/alexistdev","label":"Instagram — @alexistdev"},{"platform":"X (Twitter)","url":"https://x.com/alexistdev","label":"X — @alexistdev"},{"platform":"LinkedIn","url":"https://linkedin.com/in/atsardoulias","label":"LinkedIn — /in/atsardoulias"},{"platform":"GitHub","url":"https://github.com/alexistdev","label":"GitHub — @alexistdev"},{"platform":"Substack","url":"https://alexistdev.substack.com","label":"Substack — alexistdev"},{"platform":"Facebook","url":"https://facebook.com/alexistdev","label":"Facebook — @alexistdev"},{"platform":"Threads","url":"https://threads.net/@alexistdev","label":"Threads — @alexistdev"},{"platform":"Reddit","url":"https://reddit.com/user/alexistdev","label":"Reddit — u/alexistdev"},{"platform":"Email","url":"mailto:hello@alexist.dev","label":"Email — hello@alexist.dev"},{"platform":"Discord","url":"https://discord.gg/alexistdev","label":"Discord — @alexistdev"}]},"footer":{"copyright":"© {year} Αλέξανδρος Τσαρδούλιας","builtWith":"Χτισμένο με Next.js & Tailwind","backToTop":"Επιστροφή στην κορυφή"},"theme":{"light":"Φωτεινό","dark":"Σκοτεινό","toggle":"Αλλαγή θέματος"},"language":{"label":"Γλώσσα","el":"Ελληνικά","en":"Αγγλικά","ru":"Ρωσικά","de":"Γερμανικά","fr":"Γαλλικά","it":"Ιταλικά","es":"Ισπανικά","tr":"Τουρκικά","pl":"Πολωνικά","nl":"Ολλανδικά","ua":"Ουκρανικά","il":"עברית","ae":"العربية"},"common":{"loading":"Φόρτωση…","error":"Κάτι πήγε στραβά.","retry":"Δοκίμασε ξανά","back":"← Πίσω","readMore":"Διάβασε περισσότερα"},"404":{"title":"404 — Η σελίδα δεν βρέθηκε","message":"Η σελίδα που ψάχνεις δεν υπάρχει.","backHome":"← Πίσω στην αρχική"}}
+{
+  "nav": {
+    "home": "Αρχική",
+    "about": "Σχετικά",
+    "work": "Δουλειά",
+    "articles": "Άρθρα",
+    "contact": "Επικοινωνία"
+  },
+  "hero": {
+    "greeting": "👋 Hello, World!",
+    "name": "Αλέξανδρος Τσαρδούλιας",
+    "title": "AI-Native Software Engineer & Marketing Specialist",
+    "description": "Βοηθώ founders, startups, ΜμΕ και ΜΚΟ να πετύχουν τους στόχους τους συνδυάζοντας τεχνολογία, φιλοσοφία, growth strategy και βέλτιστες πρακτικές επικοινωνίας.",
+    "cta": "Δες τη δουλειά μου",
+    "ctaSecondary": "Επικοινώνησε μαζί μου"
+  },
+  "home": {
+    "summaries": {
+      "about": {
+        "heading": "Σχετικά με εμένα",
+        "description": "Ποιος είμαι, τι έχω σπουδάσει, πού έχω δουλέψει."
+      },
+      "work": {
+        "heading": "Τι κάνω",
+        "description": "Υπηρεσίες και ολοκληρωμένα projects."
+      },
+      "articles": {
+        "heading": "Άρθρα",
+        "description": "Σκέψεις για AI, marketing, και τεχνολογία."
+      },
+      "contact": {
+        "heading": "Επικοινωνία",
+        "description": "Βρες με στα social media."
+      }
+    },
+    "servicesOverview": {
+      "heading": "Τι Κάνω",
+      "items": [
+        {
+          "title": "Ανάπτυξη Λογισμικού",
+          "description": "Custom web και mobile εφαρμογές προσαρμοσμένες στις ανάγκες σου. Γρήγορες, responsive, cost-optimized, SEO-ready."
+        },
+        {
+          "title": "Marketing & Growth",
+          "description": "Στρατηγική go-to-market, marketing automation, copy και content writing, και conversion-focused καμπάνιες που φέρνουν αποτελέσματα."
+        },
+        {
+          "title": "AI & Automation",
+          "description": "Ενσωμάτωση AI, workflow automation, και έξυπνα συστήματα που κλιμακώνουν την επιχείρησή σου."
+        },
+        {
+          "title": "Strategy & Consulting",
+          "description": "Τεχνική συμβουλευτική, αποφάσεις αρχιτεκτονικής, και στρατηγική προϊόντος για σύγχρονες επιχειρήσεις."
+        }
+      ]
+    },
+    "featured": {
+      "heading": "Πρόσφατες Δουλειές",
+      "viewProject": "Δες το project",
+      "items": [
+        {
+          "title": "Πώς η AI αλλάζει το Marketing",
+          "category": "Τεχνολογία",
+          "description": "Μια ανάλυση για το πώς τα εργαλεία τεχνητής νοημοσύνης μεταμορφώνουν τις στρατηγικές ψηφιακού marketing το 2026."
+        },
+        {
+          "title": "Modern Web Development το 2026",
+          "category": "Τεχνολογία",
+          "description": "Τα εργαλεία, frameworks, και πρακτικές που χρησιμοποιώ για web development σήμερα."
+        },
+        {
+          "title": "Case Study: Ανασχεδιασμός E-Commerce",
+          "category": "Case Study",
+          "description": "Πώς ανασχεδίασα μια πλατφόρμα e-commerce για καλύτερο UX και 40% υψηλότερο conversion."
+        }
+      ],
+      "cta": {
+        "heading": "Ας Συνεργαστούμε",
+        "subtitle": "Έχεις ένα project στο μυαλό σου; Ας χτίσουμε κάτι σπουδαίο.",
+        "button": "Επικοινώνησε Μαζί Μου"
+      }
+    },
+    "stats": {
+      "heading": "Με Αριθμούς",
+      "items": [
+        {
+          "value": "50+",
+          "label": "Ολοκληρωμένα Έργα"
+        },
+        {
+          "value": "5+",
+          "label": "Χρόνια Εμπειρίας"
+        },
+        {
+          "value": "100+",
+          "label": "Εργαλεία & Τεχνολογίες"
+        },
+        {
+          "value": "200+",
+          "label": "Άρθρα"
+        }
+      ]
+    }
+  },
+  "about": {
+    "heading": "Σχετικά με εμένα",
+    "description": "Ένας συνδυασμός τεχνικής κατάρτισης και marketing διαίσθησης. Χτίζω AI-native προϊόντα, γράφω κώδικα που έχει σημασία, και βοηθώ επιχειρήσεις να βρουν τη φωνή τους στον ψηφιακό κόσμο.",
+    "cta": "Δες τη δουλειά μου",
+    "bio": {
+      "paragraphs": [
+        "Hello, world! Είμαι ο Αλέξανδρος Τσαρδούλιας, AI-Native Software Engineer & Marketing Specialist.",
+        "Είμαι ένας διεπιστημονικός επαγγελματίας που συνδυάζει τεχνολογία, φιλοσοφία, growth strategy και βέλτιστες πρακτικές επικοινωνίας. Προσφέρω ολοκληρωμένες υπηρεσίες ανάπτυξης λογισμικού και growth marketing για startups, solo founders, ΜμΕ, ΜΚΟ και άλλους επαγγελματίες και οργανισμούς, μετατρέποντας ιδέες σε κλιμακώσιμα ψηφιακά προϊόντα και συστήματα που παράγουν έσοδα.",
+        "Σπούδασα Φιλοσοφία και Διοίκηση Marketing ενώ παράλληλα μάθαινα μόνος μου προγραμματισμό και design. Κάθε project που αναλαμβάνω συνδυάζει μετρήσιμα τεχνικά αποτελέσματα με marketing που επηρεάζει τα έσοδα, διασφαλίζοντας ότι οι πελάτες αποκτούν τόσο ισχυρή ψηφιακή υποδομή όσο και μετρήσιμη επιχειρηματική ανάπτυξη.",
+        "Δεν γράφω απλώς κώδικα για web εφαρμογές ούτε διαχειρίζομαι απλώς social media και emails — χτίζω ολιστικά συστήματα που παράγουν μετρήσιμα αποτελέσματα. Αντιμετωπίζω την τεχνική αρχιτεκτονική ενός προϊόντος και τη στρατηγική go-to-market ως ένα πρόβλημα, όχι δύο.",
+        "Συνεργάζομαι με επαγγελματίες σε Ελλάδα, Κύπρο και ΕΕ, και μιλάω άπταιστα Ελληνικά και Αγγλικά. Δουλεύω με μηνιαίο retainer ή fixed-project βάση, ανάλογα με το εύρος του έργου. Αν είσαι founder ή επιχείρηση που χρειάζεται έναν τεχνικό ή marketing συνεργάτη, πρέπει οπωσδήποτε να μιλήσουμε."
+      ]
+    },
+    "education": {
+      "heading": "Εκπαίδευση",
+      "items": [
+        {
+          "year": "2020 – Σήμερα",
+          "institution": "freeCodeCamp, roadmaps.sh, YouTube",
+          "degree": "Computer Software Engineering",
+          "description": "Αυτοκατευθυνόμενη μάθηση σε όλο το full stack: δομές δεδομένων, αλγόριθμοι, system design, και σύγχρονο web development."
+        },
+        {
+          "year": "2024 – 2025",
+          "institution": "University of Nicosia",
+          "degree": "Blockchain, Cryptocurrencies, NFTs και Metaverse",
+          "description": ""
+        },
+        {
+          "year": "2023 – 2024",
+          "institution": "Knowcrunch",
+          "degree": "Digital Marketing",
+          "description": ""
+        },
+        {
+          "year": "2020 – 2024",
+          "institution": "Queen Margaret University",
+          "degree": "Διοίκηση Marketing",
+          "description": ""
+        },
+        {
+          "year": "2019 – 2023",
+          "institution": "Πανεπιστήμιο Πατρών",
+          "degree": "Φιλοσοφία",
+          "description": ""
+        }
+      ]
+    },
+    "work": {
+      "heading": "Επαγγελματική Εμπειρία",
+      "items": [
+        {
+          "year": "Ιούλ 2025 – Σήμερα",
+          "company": "Freelance",
+          "role": "AI-Native Software Engineer & Marketing Specialist",
+          "description": ""
+        },
+        {
+          "year": "Ιούλ 2021 – Ιούλ 2025",
+          "company": "Εταιρικοί Ρόλοι & Freelance",
+          "role": "Digital Marketer, UI/UX & Graphic Designer, Copywriter",
+          "description": ""
+        },
+        {
+          "year": "2023 – 2025",
+          "company": "Εθελοντισμός",
+          "role": "Tutor για Φοιτητές Επιχειρήσεων & Marketing",
+          "description": ""
+        }
+      ]
+    },
+    "tools": {
+      "heading": "Τεχνολογίες & Εργαλεία",
+      "allLabel": "Όλα",
+      "empty": "Δεν βρέθηκαν εργαλεία σε αυτή την κατηγορία.",
+      "categories": [
+        "Γλώσσες Προγραμματισμού",
+        "Front-End & UI/UX",
+        "Back-End & Βάσεις Δεδομένων",
+        "DevOps & CI/CD",
+        "Marketing & Analytics",
+        "Σχεδίαση & Δημιουργικό",
+        "Εργαλεία AI",
+        "Εργαλεία Αυτοματισμού",
+        "Εργαλεία Διαχείρισης Έργων & Γνώσης"
+      ],
+      "items": [
+        {"name": "HTML", "category": "Γλώσσες Προγραμματισμού"},
+        {"name": "CSS", "category": "Γλώσσες Προγραμματισμού"},
+        {"name": "JavaScript", "category": "Γλώσσες Προγραμματισμού"},
+        {"name": "TypeScript", "category": "Γλώσσες Προγραμματισμού"},
+        {"name": "Python", "category": "Γλώσσες Προγραμματισμού"},
+        {"name": "Bash", "category": "Γλώσσες Προγραμματισμού"},
+        {"name": "SQL", "category": "Γλώσσες Προγραμματισμού"},
+        {"name": "Kotlin", "category": "Γλώσσες Προγραμματισμού"},
+        {"name": "Swift", "category": "Γλώσσες Προγραμματισμού"},
+        {"name": "React", "category": "Front-End & UI/UX"},
+        {"name": "Next.js", "category": "Front-End & UI/UX"},
+        {"name": "Tailwind CSS", "category": "Front-End & UI/UX"},
+        {"name": "Vue.js", "category": "Front-End & UI/UX"},
+        {"name": "Astro", "category": "Front-End & UI/UX"},
+        {"name": "Svelte", "category": "Front-End & UI/UX"},
+        {"name": "Vue", "category": "Front-End & UI/UX"},
+        {"name": "Nuxt.js", "category": "Front-End & UI/UX"},
+        {"name": "Remix", "category": "Front-End & UI/UX"},
+        {"name": "Pinia", "category": "Front-End & UI/UX"},
+        {"name": "SolidJS", "category": "Front-End & UI/UX"},
+        {"name": "SolidStart", "category": "Front-End & UI/UX"},
+        {"name": "Alpine.js", "category": "Front-End & UI/UX"},
+        {"name": "Vite", "category": "Front-End & UI/UX"},
+        {"name": "Bun", "category": "Front-End & UI/UX"},
+        {"name": "Turbopack", "category": "Front-End & UI/UX"},
+        {"name": "Framer Motion", "category": "Front-End & UI/UX"},
+        {"name": "GSAP", "category": "Front-End & UI/UX"},
+        {"name": "shadcn/ui", "category": "Front-End & UI/UX"},
+        {"name": "Three.js", "category": "Front-End & UI/UX"},
+        {"name": "React Three Fiber", "category": "Front-End & UI/UX"},
+        {"name": "Drei", "category": "Front-End & UI/UX"},
+        {"name": "Theatre.js", "category": "Front-End & UI/UX"},
+        {"name": "Spline", "category": "Front-End & UI/UX"},
+        {"name": "Lenis", "category": "Front-End & UI/UX"},
+        {"name": "Lottie", "category": "Front-End & UI/UX"},
+        {"name": "Rive", "category": "Front-End & UI/UX"},
+        {"name": "Matter.js", "category": "Front-End & UI/UX"},
+        {"name": "Node.js", "category": "Back-End & Βάσεις Δεδομένων"},
+        {"name": "NestJS", "category": "Back-End & Βάσεις Δεδομένων"},
+        {"name": "Express", "category": "Back-End & Βάσεις Δεδομένων"},
+        {"name": "Koa", "category": "Back-End & Βάσεις Δεδομένων"},
+        {"name": "Fastify", "category": "Back-End & Βάσεις Δεδομένων"},
+        {"name": "FastAPI", "category": "Back-End & Βάσεις Δεδομένων"},
+        {"name": "Django", "category": "Back-End & Βάσεις Δεδομένων"},
+        {"name": "Flask", "category": "Back-End & Βάσεις Δεδομένων"},
+        {"name": "REST APIs", "category": "Back-End & Βάσεις Δεδομένων"},
+        {"name": "GraphQL", "category": "Back-End & Βάσεις Δεδομένων"},
+        {"name": "tRPC", "category": "Back-End & Βάσεις Δεδομένων"},
+        {"name": "Prisma", "category": "Back-End & Βάσεις Δεδομένων"},
+        {"name": "Supabase DB", "category": "Back-End & Βάσεις Δεδομένων"},
+        {"name": "PostgreSQL", "category": "Back-End & Βάσεις Δεδομένων"},
+        {"name": "MySQL", "category": "Back-End & Βάσεις Δεδομένων"},
+        {"name": "SQLite", "category": "Back-End & Βάσεις Δεδομένων"},
+        {"name": "MongoDB", "category": "Back-End & Βάσεις Δεδομένων"},
+        {"name": "Redis", "category": "Back-End & Βάσεις Δεδομένων"},
+        {"name": "Git", "category": "DevOps & CI/CD"},
+        {"name": "GitHub Actions", "category": "DevOps & CI/CD"},
+        {"name": "Jenkins", "category": "DevOps & CI/CD"},
+        {"name": "GitLab CI/CD", "category": "DevOps & CI/CD"},
+        {"name": "Azure Pipelines", "category": "DevOps & CI/CD"},
+        {"name": "Argo CD", "category": "DevOps & CI/CD"},
+        {"name": "Flux", "category": "DevOps & CI/CD"},
+        {"name": "Harness", "category": "DevOps & CI/CD"},
+        {"name": "Docker", "category": "DevOps & CI/CD"},
+        {"name": "Terraform", "category": "DevOps & CI/CD"},
+        {"name": "Kubernetes", "category": "DevOps & CI/CD"},
+        {"name": "Ansible", "category": "DevOps & CI/CD"},
+        {"name": "Google Ads", "category": "Marketing & Analytics"},
+        {"name": "Meta Ads Manager", "category": "Marketing & Analytics"},
+        {"name": "TikTok Ads Manager", "category": "Marketing & Analytics"},
+        {"name": "LinkedIn Campaign Manager", "category": "Marketing & Analytics"},
+        {"name": "AdRoll", "category": "Marketing & Analytics"},
+        {"name": "Smartly.io", "category": "Marketing & Analytics"},
+        {"name": "Google Analytics", "category": "Marketing & Analytics"},
+        {"name": "Mixpanel", "category": "Marketing & Analytics"},
+        {"name": "Amplitude", "category": "Marketing & Analytics"},
+        {"name": "Adobe Analytics", "category": "Marketing & Analytics"},
+        {"name": "Semrush", "category": "Marketing & Analytics"},
+        {"name": "Ahrefs", "category": "Marketing & Analytics"},
+        {"name": "Google Search Console", "category": "Marketing & Analytics"},
+        {"name": "Google Keyword Planner", "category": "Marketing & Analytics"},
+        {"name": "Surfer SEO", "category": "Marketing & Analytics"},
+        {"name": "Sitebulb", "category": "Marketing & Analytics"},
+        {"name": "BrightLocal", "category": "Marketing & Analytics"},
+        {"name": "HubSpot Marketing Hub", "category": "Marketing & Analytics"},
+        {"name": "Salesforce", "category": "Marketing & Analytics"},
+        {"name": "LinkedIn Sales Navigator", "category": "Marketing & Analytics"},
+        {"name": "Hootsuite", "category": "Marketing & Analytics"},
+        {"name": "Sprout Social", "category": "Marketing & Analytics"},
+        {"name": "Buffer", "category": "Marketing & Analytics"},
+        {"name": "Mailchimp", "category": "Marketing & Analytics"},
+        {"name": "Brevo", "category": "Marketing & Analytics"},
+        {"name": "Klaviyo", "category": "Marketing & Analytics"},
+        {"name": "Omnisend", "category": "Marketing & Analytics"},
+        {"name": "Kit", "category": "Marketing & Analytics"},
+        {"name": "beehiiv", "category": "Marketing & Analytics"},
+        {"name": "Substack", "category": "Marketing & Analytics"},
+        {"name": "Shopify", "category": "Marketing & Analytics"},
+        {"name": "WooCommerce", "category": "Marketing & Analytics"},
+        {"name": "BigCommerce", "category": "Marketing & Analytics"},
+        {"name": "Stripe", "category": "Marketing & Analytics"},
+        {"name": "Shopify Payments", "category": "Marketing & Analytics"},
+        {"name": "myPOS", "category": "Marketing & Analytics"},
+        {"name": "PostHog", "category": "Marketing & Analytics"},
+        {"name": "GrowthBook", "category": "Marketing & Analytics"},
+        {"name": "Eppo", "category": "Marketing & Analytics"},
+        {"name": "VWO (Visual Website Optimizer)", "category": "Marketing & Analytics"},
+        {"name": "AB Tasty", "category": "Marketing & Analytics"},
+        {"name": "Convert Experiences", "category": "Marketing & Analytics"},
+        {"name": "Crazy Egg", "category": "Marketing & Analytics"},
+        {"name": "Adobe Creative Cloud", "category": "Σχεδίαση & Δημιουργικό"},
+        {"name": "Figma", "category": "Σχεδίαση & Δημιουργικό"},
+        {"name": "Framer", "category": "Σχεδίαση & Δημιουργικό"},
+        {"name": "Miro", "category": "Σχεδίαση & Δημιουργικό"},
+        {"name": "Sketch", "category": "Σχεδίαση & Δημιουργικό"},
+        {"name": "ProtoPie", "category": "Σχεδίαση & Δημιουργικό"},
+        {"name": "Canva", "category": "Σχεδίαση & Δημιουργικό"},
+        {"name": "CapCut", "category": "Σχεδίαση & Δημιουργικό"},
+        {"name": "Uizard", "category": "Σχεδίαση & Δημιουργικό"},
+        {"name": "UX Pilot", "category": "Σχεδίαση & Δημιουργικό"},
+        {"name": "Replit", "category": "Σχεδίαση & Δημιουργικό"},
+        {"name": "Lovable", "category": "Σχεδίαση & Δημιουργικό"},
+        {"name": "Bolt.new", "category": "Σχεδίαση & Δημιουργικό"},
+        {"name": "Google Stitch", "category": "Σχεδίαση & Δημιουργικό"},
+        {"name": "Claude Design", "category": "Σχεδίαση & Δημιουργικό"},
+        {"name": "LLMs", "category": "Εργαλεία AI"},
+        {"name": "LLM APIs", "category": "Εργαλεία AI"},
+        {"name": "Hugging Face", "category": "Εργαλεία AI"},
+        {"name": "Ollama", "category": "Εργαλεία AI"},
+        {"name": "vLLM", "category": "Εργαλεία AI"},
+        {"name": "LM Studio", "category": "Εργαλεία AI"},
+        {"name": "OpenCode", "category": "Εργαλεία AI"},
+        {"name": "Claude Code", "category": "Εργαλεία AI"},
+        {"name": "Codex", "category": "Εργαλεία AI"},
+        {"name": "OpenClaw", "category": "Εργαλεία AI"},
+        {"name": "Hermes", "category": "Εργαλεία AI"},
+        {"name": "LangFlow", "category": "Εργαλεία AI"},
+        {"name": "LangChain", "category": "Εργαλεία AI"},
+        {"name": "LangGraph", "category": "Εργαλεία AI"},
+        {"name": "CrewAI", "category": "Εργαλεία AI"},
+        {"name": "LlamaIndex", "category": "Εργαλεία AI"},
+        {"name": "Dify", "category": "Εργαλεία AI"},
+        {"name": "AutoGen", "category": "Εργαλεία AI"},
+        {"name": "Flowise", "category": "Εργαλεία AI"},
+        {"name": "Zapier", "category": "Εργαλεία Αυτοματισμού"},
+        {"name": "Make", "category": "Εργαλεία Αυτοματισμού"},
+        {"name": "n8n", "category": "Εργαλεία Αυτοματισμού"},
+        {"name": "UiPath", "category": "Εργαλεία Αυτοματισμού"},
+        {"name": "Workato", "category": "Εργαλεία Αυτοματισμού"},
+        {"name": "Gumloop", "category": "Εργαλεία Αυτοματισμού"},
+        {"name": "Lindy", "category": "Εργαλεία Αυτοματισμού"},
+        {"name": "Notion", "category": "Εργαλεία Διαχείρισης Έργων & Γνώσης"},
+        {"name": "Obsidian", "category": "Εργαλεία Διαχείρισης Έργων & Γνώσης"},
+        {"name": "Slack", "category": "Εργαλεία Διαχείρισης Έργων & Γνώσης"},
+        {"name": "ClickUp", "category": "Εργαλεία Διαχείρισης Έργων & Γνώσης"},
+        {"name": "Monday.com", "category": "Εργαλεία Διαχείρισης Έργων & Γνώσης"},
+        {"name": "Asana", "category": "Εργαλεία Διαχείρισης Έργων & Γνώσης"},
+        {"name": "Jira", "category": "Εργαλεία Διαχείρισης Έργων & Γνώσης"},
+        {"name": "Linear", "category": "Εργαλεία Διαχείρισης Έργων & Γνώσης"},
+        {"name": "Trello", "category": "Εργαλεία Διαχείρισης Έργων & Γνώσης"},
+        {"name": "Wrike", "category": "Εργαλεία Διαχείρισης Έργων & Γνώσης"},
+        {"name": "Microsoft Project & Planner", "category": "Εργαλεία Διαχείρισης Έργων & Γνώσης"},
+        {"name": "Basecamp", "category": "Εργαλεία Διαχείρισης Έργων & Γνώσης"},
+        {"name": "OpenProject", "category": "Εργαλεία Διαχείρισης Έργων & Γνώσης"},
+        {"name": "Focalboard", "category": "Εργαλεία Διαχείρισης Έργων & Γνώσης"},
+        {"name": "Appflowy", "category": "Εργαλεία Διαχείρισης Έργων & Γνώσης"},
+        {"name": "Leantime", "category": "Εργαλεία Διαχείρισης Έργων & Γνώσης"},
+        {"name": "GitHub Projects", "category": "Εργαλεία Διαχείρισης Έργων & Γνώσης"},
+        {"name": "Confluence", "category": "Εργαλεία Διαχείρισης Έργων & Γνώσης"},
+        {"name": "Slite", "category": "Εργαλεία Διαχείρισης Έργων & Γνώσης"},
+        {"name": "Logseq", "category": "Εργαλεία Διαχείρισης Έργων & Γνώσης"},
+        {"name": "Wiki.js", "category": "Εργαλεία Διαχείρισης Έργων & Γνώσης"},
+        {"name": "DocuWiki", "category": "Εργαλεία Διαχείρισης Έργων & Γνώσης"},
+        {"name": "Discord", "category": "Εργαλεία Διαχείρισης Έργων & Γνώσης"},
+        {"name": "Element", "category": "Εργαλεία Διαχείρισης Έργων & Γνώσης"}
+      ]
+    },
+    "philosophy": {
+      "heading": "Η Φιλοσοφία Μου",
+      "items": [
+        {
+          "title": "Το Λιγότερο Είναι Περισσότερο",
+          "description": "Πιστεύω ότι οι καλύτερες λύσεις είναι αυτές που μετά βίας προσέχεις. Καθαρή αρχιτεκτονική, σκόπιμο design, και κώδικας που διαβάζεται σαν συζήτηση. Η πολυπλοκότητα είναι εύκολη. Η σαφήνεια απαιτεί πειθαρχία."
+        },
+        {
+          "title": "Η Τεχνολογία Πρέπει να Ωφελεί την Ανθρωπότητα",
+          "description": "Κάθε προϊόν που χτίζω ξεκινά με μία ερώτηση: ποιον βοηθά αυτό, και πώς; Η τεχνολογία είναι στα καλύτερά της όταν περνά στο background και αφήνει τους ανθρώπους να ζουν καλύτερα. Δεν χτίζω για να χτίζω."
+        },
+        {
+          "title": "Συνεχής Μάθηση",
+          "description": "Ο κλάδος ανακαλύπτει τον εαυτό του κάθε λίγα χρόνια. Μένω sharp χτίζοντας πραγματικά πράγματα, όχι απλά διαβάζοντας γι' αυτά. Αν δεν νιώθω ελαφρώς άβολα με αυτό πάνω στο οποίο δουλεύω, δεν μαθαίνω αρκετά γρήγορα."
+        }
+      ]
+    }
+  },
+  "work": {
+    "heading": "Τι κάνω",
+    "description": "Από full-stack web εφαρμογές μέχρι στρατηγική go-to-market — προσφέρω ολοκληρωμένες λύσεις. Κάθε project ξεκινά με την κατανόηση των στόχων σου και τελειώνει με μετρήσιμα αποτελέσματα.",
+    "cta": "Διάβασε τα άρθρα μου",
+    "services": {
+      "heading": "Υπηρεσίες",
+      "items": [
+        {
+          "name": "Web Development",
+          "description": "Custom web εφαρμογές με Next.js, React, και TypeScript. Γρήγορες, responsive, και SEO-optimized."
+        },
+        {
+          "name": "Web App Development",
+          "description": "Full-stack web εφαρμογές με σύγχρονα frameworks, βάσεις δεδομένων και cloud υποδομές."
+        },
+        {
+          "name": "Mobile App Development",
+          "description": "Cross-platform mobile εφαρμογές με React Native και Expo για iOS και Android."
+        },
+        {
+          "name": "Go-To-Market Strategy",
+          "description": "Στρατηγικός σχεδιασμός για λανσαρίσματα προϊόντων — positioning, messaging, και εκτέλεση GTM."
+        },
+        {
+          "name": "Marketing Automation",
+          "description": "Αυτοματοποιημένες ροές marketing, email sequences, και συστήματα lead nurturing."
+        },
+        {
+          "name": "Marketing Consulting",
+          "description": "Στρατηγική συμβουλευτική marketing για startups και μικρές επιχειρήσεις — growth, retention, analytics."
+        },
+        {
+          "name": "Forward-Deployed Engineering",
+          "description": "Ενσωματωμένες τεχνικές λύσεις — δουλεύω δίπλα στην ομάδα σου για να λύνω τεχνικές προκλήσεις on site."
+        },
+        {
+          "name": "Workflow Automation",
+          "description": "Custom λύσεις αυτοματοποίησης για να απλοποιούν επαναλαμβανόμενες εργασίες και επιχειρησιακές διαδικασίες."
+        },
+        {
+          "name": "AI & Tech Consulting",
+          "description": "Συμβουλευτική για ενσωμάτωση AI, εργαλεία, αρχιτεκτονική και scaling για σύγχρονες επιχειρήσεις."
+        },
+        {
+          "name": "Copywriting",
+          "description": "Πειστικό, conversion-focused copy για landing pages, emails, διαφημίσεις και περιγραφές προϊόντων."
+        },
+        {
+          "name": "Content Writing",
+          "description": "Άρθρα, blog posts, και long-form content που εκπαιδεύει και εμπλέκει το κοινό σου."
+        },
+        {
+          "name": "Technical Documentation",
+          "description": "Σαφής, ολοκληρωμένη τεκμηρίωση για APIs, SDKs, και developer-facing προϊόντα."
+        }
+      ]
+    },
+    "process": {
+      "heading": "Πώς Δουλεύω",
+      "steps": [
+        {
+          "title": "Discovery",
+          "description": "Κατανοώ τους στόχους σου, το κοινό, και τι σημαίνει επιτυχία για το project σου."
+        },
+        {
+          "title": "Strategy",
+          "description": "Σχεδιάζω την προσέγγιση, επιλέγω τα κατάλληλα εργαλεία και χαράζω την πορεία προς το launch."
+        },
+        {
+          "title": "Execution",
+          "description": "Χτίζω με ακρίβεια — καθαρό κώδικα, προσεγμένο design, και τακτικά updates."
+        },
+        {
+          "title": "Delivery",
+          "description": "Launch, μέτρηση, και βελτιώσεις. Παραμένω δίπλα σου για να βεβαιωθώ ότι όλα δουλεύουν."
+        }
+      ]
+    },
+    "completed": {
+      "heading": "Ολοκληρωμένα Projects",
+      "items": [
+        {
+          "title": "Πώς η AI αλλάζει το Marketing",
+          "date": "2026-06-15",
+          "category": "marketing",
+          "excerpt": "Μια ανάλυση για το πώς τα εργαλεία τεχνητής νοημοσύνης μεταμορφώνουν το ψηφιακό marketing.",
+          "slug": "ai-marketing-2026"
+        },
+        {
+          "title": "Modern Web Development το 2026",
+          "date": "2026-05-20",
+          "category": "τεχνολογία",
+          "excerpt": "Τα εργαλεία, frameworks, και πρακτικές που χρησιμοποιώ για web development σήμερα.",
+          "slug": "modern-web-dev"
+        }
+      ]
+    }
+  },
+  "articles": {
+    "heading": "Άρθρα",
+    "description": "Σκέψεις για AI, software engineering, και σύγχρονο marketing. Γράφω για ό,τι χτίζω, ό,τι μαθαίνω, και το πού πηγαίνει η τεχνολογία.",
+    "cta": "Επικοινώνησε μαζί μου",
+    "filter": {
+      "all": "Όλα",
+      "label": "Κατηγορία"
+    },
+    "empty": "Δεν υπάρχουν άρθρα σε αυτή την κατηγορία.",
+    "readMore": "Διάβασε περισσότερα",
+    "readingTime": "{minutes} λεπτά ανάγνωσης",
+    "backToList": "← Πίσω στα άρθρα"
+  },
+  "contact": {
+    "heading": "Επικοινωνία",
+    "description": "Ας τα πούμε. Είτε έχεις ένα project στο μυαλό σου, μια ερώτηση, ή απλά θέλεις να συνδεθούμε — είμαι εδώ.",
+    "subtitle": "Μπορείς να με βρεις στα παρακάτω:",
+    "emailCTA": {
+      "heading": "Ας Τα Πούμε",
+      "button": "Στείλε μου Email",
+      "responseTime": "Συνήθως απαντάω εντός 24 ωρών"
+    },
+    "links": [
+      {
+        "platform": "Instagram",
+        "url": "https://instagram.com/alexistdev",
+        "label": "Instagram — @alexistdev"
+      },
+      {
+        "platform": "X (Twitter)",
+        "url": "https://x.com/alexistdev",
+        "label": "X — @alexistdev"
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "https://linkedin.com/in/atsardoulias",
+        "label": "LinkedIn — /in/atsardoulias"
+      },
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/alexistdev",
+        "label": "GitHub — @alexistdev"
+      },
+      {
+        "platform": "Substack",
+        "url": "https://alexistdev.substack.com",
+        "label": "Substack — alexistdev"
+      },
+      {
+        "platform": "Facebook",
+        "url": "https://facebook.com/alexistdev",
+        "label": "Facebook — @alexistdev"
+      },
+      {
+        "platform": "Threads",
+        "url": "https://threads.net/@alexistdev",
+        "label": "Threads — @alexistdev"
+      },
+      {
+        "platform": "Reddit",
+        "url": "https://reddit.com/user/alexistdev",
+        "label": "Reddit — u/alexistdev"
+      },
+      {
+        "platform": "Email",
+        "url": "mailto:hello@alexist.dev",
+        "label": "Email — hello@alexist.dev"
+      },
+      {
+        "platform": "Discord",
+        "url": "https://discord.gg/alexistdev",
+        "label": "Discord — @alexistdev"
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© {year} Αλέξανδρος Τσαρδούλιας",
+    "builtWith": "Χτισμένο με Next.js & Tailwind",
+    "backToTop": "Επιστροφή στην κορυφή"
+  },
+  "theme": {
+    "light": "Φωτεινό",
+    "dark": "Σκοτεινό",
+    "toggle": "Αλλαγή θέματος"
+  },
+  "language": {
+    "label": "Γλώσσα",
+    "el": "Ελληνικά",
+    "en": "Αγγλικά",
+    "ru": "Ρωσικά",
+    "de": "Γερμανικά",
+    "fr": "Γαλλικά",
+    "it": "Ιταλικά",
+    "es": "Ισπανικά",
+    "tr": "Τουρκικά",
+    "pl": "Πολωνικά",
+    "nl": "Ολλανδικά",
+    "ua": "Ουκρανικά",
+    "il": "עברית",
+    "ae": "العربية"
+  },
+  "common": {
+    "loading": "Φόρτωση…",
+    "error": "Κάτι πήγε στραβά.",
+    "retry": "Δοκίμασε ξανά",
+    "back": "← Πίσω",
+    "readMore": "Διάβασε περισσότερα"
+  },
+  "404": {
+    "title": "404 — Η σελίδα δεν βρέθηκε",
+    "message": "Η σελίδα που ψάχνεις δεν υπάρχει.",
+    "backHome": "← Πίσω στην αρχική"
+  }
+}
