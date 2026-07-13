@@ -1021,26 +1021,26 @@
     "heading": "Contact",
     "description": "Let's talk. Whether you have a project in mind, a question, or just want to connect — I'm here.",
     "subtitle": "You can find me on:",
-    "emailCTA": {
-      "heading": "Let's Talk",
-      "button": "Send me an email",
-      "responseTime": "I typically respond within 24 hours"
+    "mediumCTA": {
+      "heading": "Read My Articles",
+      "button": "Visit Medium",
+      "description": "New articles every few weeks"
     },
     "links": [
       {
         "platform": "Instagram",
-        "url": "https://instagram.com/alexistdev",
-        "label": "Instagram — @alexistdev"
+        "url": "https://www.instagram.com/alekostsardoulias/",
+        "label": "Instagram — @alekostsardoulias"
       },
       {
         "platform": "X (Twitter)",
-        "url": "https://x.com/alexistdev",
-        "label": "X — @alexistdev"
+        "url": "https://x.com/alextsardoulias",
+        "label": "X — @alextsardoulias"
       },
       {
         "platform": "LinkedIn",
-        "url": "https://linkedin.com/in/atsardoulias",
-        "label": "LinkedIn — /in/atsardoulias"
+        "url": "https://www.linkedin.com/in/alexandros-tsardoulias-02639841b/",
+        "label": "LinkedIn — /in/alexandros-tsardoulias-02639841b"
       },
       {
         "platform": "GitHub",
@@ -1049,28 +1049,33 @@
       },
       {
         "platform": "Substack",
-        "url": "https://alexistdev.substack.com",
-        "label": "Substack — alexistdev"
+        "url": "https://substack.com/@alexandrostsardoulias",
+        "label": "Substack — @alexandrostsardoulias"
       },
       {
         "platform": "Facebook",
-        "url": "https://facebook.com/alexistdev",
-        "label": "Facebook — @alexistdev"
+        "url": "https://www.facebook.com/alekostsardoulias/",
+        "label": "Facebook — @alekostsardoulias"
       },
       {
         "platform": "Threads",
-        "url": "https://threads.net/@alexistdev",
-        "label": "Threads — @alexistdev"
+        "url": "https://www.threads.com/@alekostsardoulias",
+        "label": "Threads — @alekostsardoulias"
       },
       {
         "platform": "Reddit",
-        "url": "https://reddit.com/user/alexistdev",
-        "label": "Reddit — u/alexistdev"
+        "url": "https://www.reddit.com/user/thenodearchitect_gr/",
+        "label": "Reddit — u/thenodearchitect_gr"
+      },
+      {
+        "platform": "Medium",
+        "url": "https://medium.com/@alexandrostsardoulias",
+        "label": "Medium — @alexandrostsardoulias"
       },
       {
         "platform": "Email",
-        "url": "mailto:hello@alexist.dev",
-        "label": "Email — hello@alexist.dev"
+        "url": "mailto:alexandrostsardoulias@protonmail.com",
+        "label": "Email — alexandrostsardoulias@protonmail.com"
       },
       {
         "platform": "Discord",

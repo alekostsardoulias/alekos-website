@@ -8,6 +8,7 @@ import {
   siReddit,
   siDiscord,
   siGmail,
+  siMedium,
 } from 'simple-icons';
 
 // LinkedIn removed from simple-icons (trademark). Hardcoded SVG path.
@@ -25,6 +26,7 @@ const PLATFORM_MAP: Record<string, { path: string; hex: string; title: string }>
   Reddit: siReddit,
   Discord: siDiscord,
   Email: siGmail,
+  Medium: siMedium,
 };
 
 export function BrandIcon({

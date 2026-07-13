@@ -4,15 +4,16 @@ import { useTranslations, useLocale } from 'next-intl';
 import { BrandIcon } from '@/components/ui/brand-icon';
 
 const SOCIAL_LINKS = [
-  { platform: 'Instagram', url: 'https://instagram.com/alexistdev', label: 'Instagram' },
-  { platform: 'X (Twitter)', url: 'https://x.com/alexistdev', label: 'X (Twitter)' },
-  { platform: 'LinkedIn', url: 'https://linkedin.com/in/atsardoulias', label: 'LinkedIn' },
+  { platform: 'Instagram', url: 'https://www.instagram.com/alekostsardoulias/', label: 'Instagram' },
+  { platform: 'X (Twitter)', url: 'https://x.com/alextsardoulias', label: 'X (Twitter)' },
+  { platform: 'LinkedIn', url: 'https://www.linkedin.com/in/alexandros-tsardoulias-02639841b/', label: 'LinkedIn' },
   { platform: 'GitHub', url: 'https://github.com/alexistdev', label: 'GitHub' },
-  { platform: 'Substack', url: 'https://alexistdev.substack.com', label: 'Substack' },
-  { platform: 'Facebook', url: 'https://facebook.com/alexistdev', label: 'Facebook' },
-  { platform: 'Threads', url: 'https://threads.net/@alexistdev', label: 'Threads' },
-  { platform: 'Reddit', url: 'https://reddit.com/user/alexistdev', label: 'Reddit' },
-  { platform: 'Email', url: 'mailto:hello@alexist.dev', label: 'Email' },
+  { platform: 'Substack', url: 'https://substack.com/@alexandrostsardoulias', label: 'Substack' },
+  { platform: 'Facebook', url: 'https://www.facebook.com/alekostsardoulias/', label: 'Facebook' },
+  { platform: 'Threads', url: 'https://www.threads.com/@alekostsardoulias', label: 'Threads' },
+  { platform: 'Reddit', url: 'https://www.reddit.com/user/thenodearchitect_gr/', label: 'Reddit' },
+  { platform: 'Medium', url: 'https://medium.com/@alexandrostsardoulias', label: 'Medium' },
+  { platform: 'Email', url: 'mailto:alexandrostsardoulias@protonmail.com', label: 'Email' },
   { platform: 'Discord', url: 'https://discord.gg/alexistdev', label: 'Discord' },
 ];
 

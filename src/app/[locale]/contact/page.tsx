@@ -1,5 +1,4 @@
 import { useTranslations } from 'next-intl';
-import { MailOpen } from 'lucide-react';
 import { PageLayout } from '@/components/page-layout';
 import { BrandIcon } from '@/components/ui/brand-icon';
 import type { Metadata } from 'next';
@@ -19,6 +18,8 @@ const brandHover: Record<string, string> = {
     'hover:border-blue-500/30 group-hover:border-blue-500/30 hover:text-blue-500 group-hover:text-blue-500',
   GitHub:
     'hover:border-purple-400/30 group-hover:border-purple-400/30 hover:text-purple-400 group-hover:text-purple-400',
+  Medium:
+    'hover:border-green-400/30 group-hover:border-green-400/30 hover:text-green-400 group-hover:text-green-400',
   Email:
     'hover:border-red-400/30 group-hover:border-red-400/30 hover:text-red-400 group-hover:text-red-400',
 };
@@ -29,7 +30,7 @@ const defaultHover =
 export default function ContactPage() {
   const t = useTranslations('contact');
 
-  const links = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9].map((i) => ({
+  const links = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10].map((i) => ({
     platform: t(`links.${i}.platform`),
     url: t(`links.${i}.url`),
     label: t(`links.${i}.label`),
@@ -38,26 +39,28 @@ export default function ContactPage() {
   return (
     <PageLayout>
 
-      {/* Email CTA Card */}
+      {/* Medium CTA Card */}
       <section>
-      <div className="rounded-2xl border border-purple-400/10 bg-gradient-to-r from-purple-500/5 to-blue-500/5 backdrop-blur-sm p-8 text-center">
-        <div className="inline-flex items-center justify-center w-14 h-14 rounded-xl bg-purple-500/10 text-purple-400 mb-4">
-          <MailOpen size={28} />
+      <div className="rounded-2xl border border-green-400/10 bg-gradient-to-r from-green-500/5 to-emerald-500/5 backdrop-blur-sm p-8 text-center">
+        <div className="inline-flex items-center justify-center w-14 h-14 rounded-xl bg-green-500/10 text-green-400 mb-4">
+          <BrandIcon platform="Medium" size={28} />
         </div>
         <h2 className="text-3xl font-semibold text-text-primary mb-2">
-          {t('emailCTA.heading')}
+          {t('mediumCTA.heading')}
         </h2>
-        <p className="text-lg text-text-secondary mb-4">hello@alexist.dev</p>
+        <p className="text-lg text-text-secondary mb-4">medium.com/@alexandrostsardoulias</p>
         <a
-          href="mailto:hello@alexist.dev"
-          className="inline-flex items-center gap-2 rounded-lg border border-purple-400/20 bg-purple-500/10 px-5 py-2.5 text-lg font-medium text-purple-400
-                     transition-all duration-200 hover:bg-purple-500/20 hover:border-purple-400/30 motion-safe:hover:scale-[1.02]"
+          href="https://medium.com/@alexandrostsardoulias"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-flex items-center gap-2 rounded-lg border border-green-400/20 bg-green-500/10 px-5 py-2.5 text-lg font-medium text-green-400
+                     transition-all duration-200 hover:bg-green-500/20 hover:border-green-400/30 motion-safe:hover:scale-[1.02]"
         >
-          <MailOpen size={16} />
-          {t('emailCTA.button')}
+          <BrandIcon platform="Medium" size={16} />
+          {t('mediumCTA.button')}
         </a>
         <p className="mt-4 text-lg text-text-tertiary">
-          {t('emailCTA.responseTime')}
+          {t('mediumCTA.description')}
         </p>
       </div>
       </section>
