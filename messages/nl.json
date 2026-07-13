@@ -1,1 +1,1096 @@
-{"nav":{"home":"Home","about":"Over mij","work":"Diensten","articles":"Artikelen","contact":"Contact"},"hero":{"greeting":"👋 Hello, World!","name":"Alexandros Tsardoulias","title":"AI-Native Software Engineer & Marketing Specialist","description":"Ik help oprichters, startups, MKB-bedrijven en NGO's hun doelen te bereiken door technologie, filosofie, groeistrategie en best practices op het gebied van communicatie te verbinden.","cta":"Mijn werk","ctaSecondary":"Neem contact op"},"home":{"summaries":{"about":{"heading":"Over mij","description":"Wie ik ben, wat ik heb gestudeerd, waar ik heb gewerkt."},"work":{"heading":"Wat ik doe","description":"Diensten en afgeronde projecten."},"articles":{"heading":"Artikelen","description":"Gedachten over AI, marketing en technologie."},"contact":{"heading":"Contact","description":"Vind mij op sociale media."}},"servicesOverview":{"heading":"Wat ik doe","items":[{"title":"Softwareontwikkeling","description":"Web- en mobiele apps op maat voor jouw behoeften. Snel, responsief, kosten geoptimaliseerd, SEO-klaar."},{"title":"Marketing & Growth","description":"Go-to-marketstrategie, marketingautomatisering, copy- en contentwriting en conversiegerichte campagnes die resultaten opleveren."},{"title":"AI & Automatisering","description":"AI-integratie, workflow-automatisering en intelligente systemen die uw bedrijf laten groeien."},{"title":"Strategie & Consultancy","description":"Technisch advies, architectuurbeslissingen en productstrategie voor moderne bedrijven."}]},"featured":{"heading":"Uitgelicht werk","viewProject":"Project bekijken","items":[{"title":"Hoe AI marketing verandert","category":"Technologie","description":"Een analyse van hoe AI-tools digitale marketingstrategieën in 2026 transformeren."},{"title":"Moderne webontwikkeling in 2026","category":"Technologie","description":"De tools, frameworks en werkwijzen die ik vandaag gebruik voor webontwikkeling."},{"title":"E-commerce redesign casestudy","category":"Casestudy","description":"Hoe ik een e-commerceplatform heb herontworpen voor betere UX en 40% hogere conversie."}],"cta":{"heading":"Laten we samenwerken","subtitle":"Heb je een project in gedachten? Laten we iets geweldigs bouwen.","button":"Neem contact op"}},"stats":{"heading":"In cijfers","items":[{"value":"50+","label":"Afgeronde Projecten"},{"value":"5+","label":"Jaar Ervaring"},{"value":"100+","label":"Tools & Technologieën"},{"value":"200+","label":"Artikelen Geschreven"}]}},"about":{"heading":"Over mij","description":"Een mix van technische precisie en marketingintuïtie. Ik bouw AI-native producten, schrijf code die ertoe doet en help bedrijven hun stem te vinden in de digitale ruimte.","cta":"Mijn werk","bio":{"paragraphs":["Hello, world! Ik ben Alexandros Tsardoulias, een AI-Native Software Engineer & Marketing Specialist.","Ik ben een interdisciplinaire professional die technologie, filosofie, groeistrategie en best practices op het gebied van communicatie met elkaar verbindt. Ik lever end-to-end softwareontwikkeling en growth marketingdiensten voor startups, solo-oprichters, MKB-bedrijven, NGO's en andere soorten professionals en organisaties. Ik transformeer ideeën in schaalbare digitale producten en omzetgenererende systemen.","Ik studeerde Filosofie en Marketing Management terwijl ik mezelf leerde programmeren en ontwerpen. Elk project dat ik leid combineert meetbare technische resultaten met marketing die impact heeft op de omzet, zodat klanten zowel een robuuste digitale infrastructuur als meetbare bedrijfsgroei krijgen.","Ik schrijf niet alleen code voor webapps of beheer sociale media en e-mails — ik bouw holistische systemen die meetbare resultaten genereren. Ik behandel de technische architectuur van een product en de go-to-marketstrategie als één probleem, niet als twee.","Ik werk met professionals in Griekenland, Cyprus en de EU en spreek zowel Grieks als Engels vloeiend. Ik werk op basis van een maandelijkse retainer of een vast projecttarief, afhankelijk van de omvang. Als je een oprichter of bedrijf bent dat een technische of marketingpartner nodig heeft, moeten we zeker praten."]},"education":{"heading":"Opleiding","items":[{"year":"2020 — 2024","institution":"Athens University of Economics and Business","degree":"Bachelor's in Computer Science","description":"TODO: add details"}]},"work":{"heading":"Werkervaring","items":[{"year":"2023 — Present","company":"Freelance","role":"Software Engineer & Marketing Specialist","description":"TODO: add details"}]},"tools":{"heading":"Technologieën & Tools","allLabel":"Alles","empty":"Geen tools gevonden in deze categorie.","categories":["Programmeertalen","Front-End & UI/UX","Back-End/Databases","DevOps & CI/CD","Marketing & Analytics","Design & Creativiteit","AI-Tools","Projectmanagement"],"items":[{"name":"React","category":"Front-End & UI/UX"},{"name":"Next.js","category":"Front-End & UI/UX"},{"name":"TypeScript","category":"Front-End & UI/UX"},{"name":"Tailwind CSS","category":"Front-End & UI/UX"},{"name":"HTML/CSS","category":"Front-End & UI/UX"},{"name":"JavaScript","category":"Front-End & UI/UX"},{"name":"Vue.js","category":"Front-End & UI/UX"},{"name":"Astro","category":"Front-End & UI/UX"},{"name":"Svelte","category":"Front-End & UI/UX"},{"name":"Framer Motion","category":"Front-End & UI/UX"},{"name":"shadcn/ui","category":"Front-End & UI/UX"},{"name":"Radix UI","category":"Front-End & UI/UX"},{"name":"Node.js","category":"Back-End/Databases"},{"name":"Express","category":"Back-End/Databases"},{"name":"Python","category":"Back-End/Databases"},{"name":"FastAPI","category":"Back-End/Databases"},{"name":"REST APIs","category":"Back-End/Databases"},{"name":"GraphQL","category":"Back-End/Databases"},{"name":"tRPC","category":"Back-End/Databases"},{"name":"Prisma","category":"Back-End/Databases"},{"name":"Django","category":"Back-End/Databases"},{"name":"LLMs","category":"AI-Tools"},{"name":"OpenAI API","category":"AI-Tools"},{"name":"LangChain","category":"AI-Tools"},{"name":"RAG","category":"AI-Tools"},{"name":"Vector Databases","category":"AI-Tools"},{"name":"Prompt Engineering","category":"AI-Tools"},{"name":"Midjourney","category":"AI-Tools"},{"name":"Stable Diffusion","category":"AI-Tools"},{"name":"Claude","category":"AI-Tools"},{"name":"AI Agents","category":"AI-Tools"},{"name":"Docker","category":"DevOps & CI/CD"},{"name":"Git","category":"DevOps & CI/CD"},{"name":"GitHub Actions","category":"DevOps & CI/CD"},{"name":"Vercel","category":"DevOps & CI/CD"},{"name":"Linux","category":"DevOps & CI/CD"},{"name":"Nginx","category":"DevOps & CI/CD"},{"name":"CI/CD","category":"DevOps & CI/CD"},{"name":"Supabase","category":"DevOps & CI/CD"},{"name":"Cloudflare","category":"DevOps & CI/CD"},{"name":"PostgreSQL","category":"Back-End/Databases"},{"name":"MongoDB","category":"Back-End/Databases"},{"name":"Redis","category":"Back-End/Databases"},{"name":"SQLite","category":"Back-End/Databases"},{"name":"Supabase DB","category":"Back-End/Databases"},{"name":"MySQL","category":"Back-End/Databases"},{"name":"TypeScript","category":"Programmeertalen"},{"name":"JavaScript","category":"Programmeertalen"},{"name":"Python","category":"Programmeertalen"},{"name":"HTML/CSS","category":"Programmeertalen"},{"name":"SQL","category":"Programmeertalen"},{"name":"Bash","category":"Programmeertalen"},{"name":"Markdown","category":"Programmeertalen"},{"name":"Figma","category":"Design & Creativiteit"},{"name":"Canva","category":"Design & Creativiteit"},{"name":"Adobe Photoshop","category":"Design & Creativiteit"},{"name":"UI/UX Design","category":"Design & Creativiteit"},{"name":"Responsive Design","category":"Design & Creativiteit"},{"name":"Design Systems","category":"Design & Creativiteit"},{"name":"Google Analytics","category":"Marketing & Analytics"},{"name":"SEO","category":"Marketing & Analytics"},{"name":"Meta Ads","category":"Marketing & Analytics"},{"name":"Google Ads","category":"Marketing & Analytics"},{"name":"Email Marketing","category":"Marketing & Analytics"},{"name":"Content Strategy","category":"Marketing & Analytics"},{"name":"Copywriting","category":"Marketing & Analytics"},{"name":"A/B Testing","category":"Marketing & Analytics"},{"name":"Social Media Marketing","category":"Marketing & Analytics"},{"name":"VS Code","category":"Projectmanagement"},{"name":"Notion","category":"Projectmanagement"},{"name":"Slack","category":"Projectmanagement"},{"name":"Zapier","category":"Projectmanagement"},{"name":"n8n","category":"Projectmanagement"},{"name":"Make (Integromat)","category":"Projectmanagement"},{"name":"Obsidian","category":"Projectmanagement"},{"name":"Linear","category":"Projectmanagement"}]}},"work":{"heading":"Wat ik doe","description":"Van full-stack webapps tot go-to-marketstrategie — ik lever end-to-end oplossingen. Elk project begint met het begrijpen van uw doelen en eindigt met meetbare resultaten.","cta":"Lees mijn artikelen","services":{"heading":"Diensten","items":[{"name":"Web Development","description":"Custom web apps with Next.js, React, and TypeScript. Fast, responsive, and SEO-optimized."},{"name":"Web App Development","description":"Full-stack web applications with modern frameworks, databases, and cloud infrastructure."},{"name":"Mobile App Development","description":"Cross-platform mobile apps using React Native and Expo for iOS and Android."},{"name":"Go-To-Market Strategy","description":"Strategic planning for product launches — positioning, messaging, and go-to-market execution."},{"name":"Marketing Automation","description":"Automated marketing workflows, email sequences, and lead nurturing systems."},{"name":"Marketing Consulting","description":"Strategic marketing advisory for startups and small businesses — growth, retention, analytics."},{"name":"Forward-Deployed Engineering","description":"Embedded engineering solutions — I work alongside your team to solve technical challenges on site."},{"name":"Workflow Automation","description":"Custom automation solutions to streamline repetitive tasks and business processes."},{"name":"AI & Tech Consulting","description":"Advisory on AI integration, tooling, architecture, and scaling for modern businesses."},{"name":"Copywriting","description":"Persuasive, conversion-focused copy for landing pages, emails, ads, and product descriptions."},{"name":"Content Writing","description":"Articles, blog posts, and long-form content that educates and engages your audience."},{"name":"Technical Documentation","description":"Clear, comprehensive documentation for APIs, SDKs, and developer-facing products."}]},"completed":{"heading":"Completed Projects","items":[{"title":"How AI Is Changing Marketing","date":"2026-06-15","category":"Technology","excerpt":"An analysis of how AI tools are transforming digital marketing.","slug":"ai-marketing-2026"},{"title":"Modern Web Development in 2026","date":"2026-05-20","category":"Technology","excerpt":"The tools, frameworks, and practices I use for web development today.","slug":"modern-web-dev"}]}},"articles":{"heading":"Artikelen","description":"Gedachten over AI, softwareontwikkeling en moderne marketing. Ik schrijf over wat ik bouw, wat ik leer en waar technologie naartoe gaat.","cta":"Neem contact op","filter":{"all":"Alles","label":"Categorie"},"empty":"Geen artikelen in deze categorie.","readMore":"Lees meer","backToList":"← Terug naar artikelen"},"contact":{"heading":"Contact","description":"Laten we praten. Of je nu een project in gedachten hebt, een vraag, of gewoon contact wilt maken — ik ben er.","subtitle":"Je kunt me vinden op:","links":[{"platform":"Instagram","url":"https://instagram.com/alexistdev","label":"Instagram — @alexistdev"},{"platform":"X (Twitter)","url":"https://x.com/alexistdev","label":"X — @alexistdev"},{"platform":"LinkedIn","url":"https://linkedin.com/in/atsardoulias","label":"LinkedIn — /in/atsardoulias"},{"platform":"GitHub","url":"https://github.com/alexistdev","label":"GitHub — @alexistdev"},{"platform":"Substack","url":"https://alexistdev.substack.com","label":"Substack — alexistdev"},{"platform":"Facebook","url":"https://facebook.com/alexistdev","label":"Facebook — @alexistdev"},{"platform":"Threads","url":"https://threads.net/@alexistdev","label":"Threads — @alexistdev"},{"platform":"Reddit","url":"https://reddit.com/user/alexistdev","label":"Reddit — u/alexistdev"},{"platform":"Email","url":"mailto:hello@alexist.dev","label":"Email — hello@alexist.dev"},{"platform":"Discord","url":"https://discord.gg/alexistdev","label":"Discord — @alexistdev"}]},"footer":{"copyright":"© {year} Alexandros Tsardoulias","builtWith":"Gebouwd met Next.js & Tailwind","backToTop":"Terug naar boven"},"theme":{"light":"Licht","dark":"Donker","toggle":"Thema wisselen"},"language":{"label":"Taal","el":"Ελληνικά","en":"English","ru":"Русский","de":"Deutsch","fr":"Français","it":"Italiano","es":"Español","tr":"Türkçe","pl":"Polski","nl":"Nederlands","ua":"Українська","il":"עברית","ae":"العربية"},"common":{"loading":"Laden…","error":"Er is iets misgegaan.","retry":"Probeer opnieuw","back":"← Terug","readMore":"Lees meer"},"404":{"title":"404 — Pagina niet gevonden","message":"De pagina die u zoekt bestaat niet.","backHome":"← Terug naar home"}}
+{
+  "404": {
+    "title": "404 — Pagina niet gevonden",
+    "message": "De pagina die u zoekt bestaat niet.",
+    "backHome": "← Terug naar home"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "Over mij",
+    "work": "Diensten",
+    "articles": "Artikelen",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "👋 Hello, World!",
+    "name": "Alexandros Tsardoulias",
+    "title": "AI-Native Software Engineer & Marketing Specialist",
+    "description": "Ik help oprichters, startups, MKB-bedrijven en NGO's hun doelen te bereiken door technologie, filosofie, groeistrategie en best practices op het gebied van communicatie te verbinden.",
+    "cta": "Mijn werk",
+    "ctaSecondary": "Neem contact op"
+  },
+  "home": {
+    "summaries": {
+      "about": {
+        "heading": "Over mij",
+        "description": "Wie ik ben, wat ik heb gestudeerd, waar ik heb gewerkt."
+      },
+      "work": {
+        "heading": "Wat ik doe",
+        "description": "Diensten en afgeronde projecten."
+      },
+      "articles": {
+        "heading": "Artikelen",
+        "description": "Gedachten over AI, marketing en technologie."
+      },
+      "contact": {
+        "heading": "Contact",
+        "description": "Vind mij op sociale media."
+      }
+    },
+    "servicesOverview": {
+      "heading": "Wat ik doe",
+      "items": [
+        {
+          "title": "Softwareontwikkeling",
+          "description": "Web- en mobiele apps op maat voor jouw behoeften. Snel, responsief, kosten geoptimaliseerd, SEO-klaar."
+        },
+        {
+          "title": "Marketing & Growth",
+          "description": "Go-to-marketstrategie, marketingautomatisering, copy- en contentwriting en conversiegerichte campagnes die resultaten opleveren."
+        },
+        {
+          "title": "AI & Automatisering",
+          "description": "AI-integratie, workflow-automatisering en intelligente systemen die uw bedrijf laten groeien."
+        },
+        {
+          "title": "Strategie & Consultancy",
+          "description": "Technisch advies, architectuurbeslissingen en productstrategie voor moderne bedrijven."
+        }
+      ]
+    },
+    "featured": {
+      "heading": "Uitgelicht werk",
+      "viewProject": "Project bekijken",
+      "items": [
+        {
+          "title": "Hoe AI marketing verandert",
+          "category": "Technologie",
+          "description": "Een analyse van hoe AI-tools digitale marketingstrategieën in 2026 transformeren."
+        },
+        {
+          "title": "Moderne webontwikkeling in 2026",
+          "category": "Technologie",
+          "description": "De tools, frameworks en werkwijzen die ik vandaag gebruik voor webontwikkeling."
+        },
+        {
+          "title": "E-commerce redesign casestudy",
+          "category": "Casestudy",
+          "description": "Hoe ik een e-commerceplatform heb herontworpen voor betere UX en 40% hogere conversie."
+        }
+      ],
+      "cta": {
+        "heading": "Laten we samenwerken",
+        "subtitle": "Heb je een project in gedachten? Laten we iets geweldigs bouwen.",
+        "button": "Neem contact op"
+      }
+    },
+    "stats": {
+      "heading": "In cijfers",
+      "items": [
+        {
+          "value": "50+",
+          "label": "Afgeronde Projecten"
+        },
+        {
+          "value": "5+",
+          "label": "Jaar Ervaring"
+        },
+        {
+          "value": "100+",
+          "label": "Tools & Technologieën"
+        },
+        {
+          "value": "200+",
+          "label": "Artikelen Geschreven"
+        }
+      ]
+    }
+  },
+  "about": {
+    "heading": "Over mij",
+    "description": "Een mix van technische precisie en marketingintuïtie. Ik bouw AI-native producten, schrijf code die ertoe doet en help bedrijven hun stem te vinden in de digitale ruimte.",
+    "cta": "Mijn werk",
+    "bio": {
+      "paragraphs": [
+        "Hello, world! Ik ben Alexandros Tsardoulias, een AI-Native Software Engineer & Marketing Specialist.",
+        "Ik ben een interdisciplinaire professional die technologie, filosofie, groeistrategie en best practices op het gebied van communicatie met elkaar verbindt. Ik lever end-to-end softwareontwikkeling en growth marketingdiensten voor startups, solo-oprichters, MKB-bedrijven, NGO's en andere soorten professionals en organisaties. Ik transformeer ideeën in schaalbare digitale producten en omzetgenererende systemen.",
+        "Ik studeerde Filosofie en Marketing Management terwijl ik mezelf leerde programmeren en ontwerpen. Elk project dat ik leid combineert meetbare technische resultaten met marketing die impact heeft op de omzet, zodat klanten zowel een robuuste digitale infrastructuur als meetbare bedrijfsgroei krijgen.",
+        "Ik schrijf niet alleen code voor webapps of beheer sociale media en e-mails — ik bouw holistische systemen die meetbare resultaten genereren. Ik behandel de technische architectuur van een product en de go-to-marketstrategie als één probleem, niet als twee.",
+        "Ik werk met professionals in Griekenland, Cyprus en de EU en spreek zowel Grieks als Engels vloeiend. Ik werk op basis van een maandelijkse retainer of een vast projecttarief, afhankelijk van de omvang. Als je een oprichter of bedrijf bent dat een technische of marketingpartner nodig heeft, moeten we zeker praten."
+      ]
+    },
+    "education": {
+      "heading": "Opleiding",
+      "items": [
+        {
+          "year": "2020 – Heden",
+          "institution": "freeCodeCamp, roadmaps.sh, YouTube",
+          "degree": "Computer Software Engineering",
+          "description": "Zelfgestuurd leren over de volledige stack: datastructuren, algoritmen, systeemontwerp en moderne webontwikkeling."
+        },
+        {
+          "year": "2024 – 2025",
+          "institution": "University of Nicosia",
+          "degree": "Blockchain, Cryptocurrencies, NFTs and the Metaverse",
+          "description": ""
+        },
+        {
+          "year": "2023 – 2024",
+          "institution": "Knowcrunch",
+          "degree": "Digitale Marketing",
+          "description": ""
+        },
+        {
+          "year": "2020 – 2024",
+          "institution": "Queen Margaret University",
+          "degree": "Marketing Management",
+          "description": ""
+        },
+        {
+          "year": "2019 – 2023",
+          "institution": "University of Patras",
+          "degree": "Filosofie",
+          "description": ""
+        }
+      ]
+    },
+    "work": {
+      "heading": "Werkervaring",
+      "items": [
+        {
+          "year": "Jul 2025 – Heden",
+          "company": "Freelance",
+          "role": "AI-Native Software Engineer & Marketing Specialist",
+          "description": ""
+        },
+        {
+          "year": "Jul 2021 – Jul 2025",
+          "company": "Bedrijfsfuncties & Freelance",
+          "role": "Digitaal Marketeer, UI/UX & Grafisch Ontwerper, Copywriter",
+          "description": ""
+        },
+        {
+          "year": "2023 – 2025",
+          "company": "Vrijwilligerswerk",
+          "role": "Tutor voor Bedrijfs- & Marketingstudenten",
+          "description": ""
+        }
+      ]
+    },
+    "tools": {
+      "heading": "Technologieën & Tools",
+      "allLabel": "Alles",
+      "empty": "Geen tools gevonden in deze categorie.",
+      "categories": [
+        "Programmeertalen",
+        "Front-End & UI/UX",
+        "Back-End & Databases",
+        "DevOps & CI/CD",
+        "Marketing & Analytics",
+        "Design & Creativiteit",
+        "AI-Tools",
+        "Automatiseringstools",
+        "Project- & Kennisbeheertools"
+      ],
+      "items": [
+        {
+          "name": "HTML",
+          "category": "Programmeertalen"
+        },
+        {
+          "name": "CSS",
+          "category": "Programmeertalen"
+        },
+        {
+          "name": "JavaScript",
+          "category": "Programmeertalen"
+        },
+        {
+          "name": "TypeScript",
+          "category": "Programmeertalen"
+        },
+        {
+          "name": "Python",
+          "category": "Programmeertalen"
+        },
+        {
+          "name": "Bash",
+          "category": "Programmeertalen"
+        },
+        {
+          "name": "SQL",
+          "category": "Programmeertalen"
+        },
+        {
+          "name": "Kotlin",
+          "category": "Programmeertalen"
+        },
+        {
+          "name": "Swift",
+          "category": "Programmeertalen"
+        },
+        {
+          "name": "React",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Next.js",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Tailwind CSS",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Vue.js",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Astro",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Svelte",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Vue",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Nuxt.js",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Remix",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Pinia",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "SolidJS",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "SolidStart",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Alpine.js",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Vite",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Bun",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Turbopack",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Framer Motion",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "GSAP",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "shadcn/ui",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Three.js",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "React Three Fiber",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Drei",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Theatre.js",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Spline",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Lenis",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Lottie",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Rive",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Matter.js",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Node.js",
+          "category": "Back-End & Databases"
+        },
+        {
+          "name": "NestJS",
+          "category": "Back-End & Databases"
+        },
+        {
+          "name": "Express",
+          "category": "Back-End & Databases"
+        },
+        {
+          "name": "Koa",
+          "category": "Back-End & Databases"
+        },
+        {
+          "name": "Fastify",
+          "category": "Back-End & Databases"
+        },
+        {
+          "name": "FastAPI",
+          "category": "Back-End & Databases"
+        },
+        {
+          "name": "Django",
+          "category": "Back-End & Databases"
+        },
+        {
+          "name": "Flask",
+          "category": "Back-End & Databases"
+        },
+        {
+          "name": "REST APIs",
+          "category": "Back-End & Databases"
+        },
+        {
+          "name": "GraphQL",
+          "category": "Back-End & Databases"
+        },
+        {
+          "name": "tRPC",
+          "category": "Back-End & Databases"
+        },
+        {
+          "name": "Prisma",
+          "category": "Back-End & Databases"
+        },
+        {
+          "name": "Supabase DB",
+          "category": "Back-End & Databases"
+        },
+        {
+          "name": "PostgreSQL",
+          "category": "Back-End & Databases"
+        },
+        {
+          "name": "MySQL",
+          "category": "Back-End & Databases"
+        },
+        {
+          "name": "SQLite",
+          "category": "Back-End & Databases"
+        },
+        {
+          "name": "MongoDB",
+          "category": "Back-End & Databases"
+        },
+        {
+          "name": "Redis",
+          "category": "Back-End & Databases"
+        },
+        {
+          "name": "Git",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "GitHub Actions",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Jenkins",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "GitLab CI/CD",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Azure Pipelines",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Argo CD",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Flux",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Harness",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Docker",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Terraform",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Kubernetes",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Ansible",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Google Ads",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Meta Ads Manager",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "TikTok Ads Manager",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "LinkedIn Campaign Manager",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "AdRoll",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Smartly.io",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Google Analytics",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Mixpanel",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Amplitude",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Adobe Analytics",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Semrush",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Ahrefs",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Google Search Console",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Google Keyword Planner",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Surfer SEO",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Sitebulb",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "BrightLocal",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "HubSpot Marketing Hub",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Salesforce",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "LinkedIn Sales Navigator",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Hootsuite",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Sprout Social",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Buffer",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Mailchimp",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Brevo",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Klaviyo",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Omnisend",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Kit",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "beehiiv",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Substack",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Shopify",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "WooCommerce",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "BigCommerce",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Stripe",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Shopify Payments",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "myPOS",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "PostHog",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "GrowthBook",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Eppo",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "VWO (Visual Website Optimizer)",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "AB Tasty",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Convert Experiences",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Crazy Egg",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Adobe Creative Cloud",
+          "category": "Design & Creativiteit"
+        },
+        {
+          "name": "Figma",
+          "category": "Design & Creativiteit"
+        },
+        {
+          "name": "Framer",
+          "category": "Design & Creativiteit"
+        },
+        {
+          "name": "Miro",
+          "category": "Design & Creativiteit"
+        },
+        {
+          "name": "Sketch",
+          "category": "Design & Creativiteit"
+        },
+        {
+          "name": "ProtoPie",
+          "category": "Design & Creativiteit"
+        },
+        {
+          "name": "Canva",
+          "category": "Design & Creativiteit"
+        },
+        {
+          "name": "CapCut",
+          "category": "Design & Creativiteit"
+        },
+        {
+          "name": "Uizard",
+          "category": "Design & Creativiteit"
+        },
+        {
+          "name": "UX Pilot",
+          "category": "Design & Creativiteit"
+        },
+        {
+          "name": "Replit",
+          "category": "Design & Creativiteit"
+        },
+        {
+          "name": "Lovable",
+          "category": "Design & Creativiteit"
+        },
+        {
+          "name": "Bolt.new",
+          "category": "Design & Creativiteit"
+        },
+        {
+          "name": "Google Stitch",
+          "category": "Design & Creativiteit"
+        },
+        {
+          "name": "Claude Design",
+          "category": "Design & Creativiteit"
+        },
+        {
+          "name": "LLMs",
+          "category": "AI-Tools"
+        },
+        {
+          "name": "LLM APIs",
+          "category": "AI-Tools"
+        },
+        {
+          "name": "Hugging Face",
+          "category": "AI-Tools"
+        },
+        {
+          "name": "Ollama",
+          "category": "AI-Tools"
+        },
+        {
+          "name": "vLLM",
+          "category": "AI-Tools"
+        },
+        {
+          "name": "LM Studio",
+          "category": "AI-Tools"
+        },
+        {
+          "name": "OpenCode",
+          "category": "AI-Tools"
+        },
+        {
+          "name": "Claude Code",
+          "category": "AI-Tools"
+        },
+        {
+          "name": "Codex",
+          "category": "AI-Tools"
+        },
+        {
+          "name": "OpenClaw",
+          "category": "AI-Tools"
+        },
+        {
+          "name": "Hermes",
+          "category": "AI-Tools"
+        },
+        {
+          "name": "LangFlow",
+          "category": "AI-Tools"
+        },
+        {
+          "name": "LangChain",
+          "category": "AI-Tools"
+        },
+        {
+          "name": "LangGraph",
+          "category": "AI-Tools"
+        },
+        {
+          "name": "CrewAI",
+          "category": "AI-Tools"
+        },
+        {
+          "name": "LlamaIndex",
+          "category": "AI-Tools"
+        },
+        {
+          "name": "Dify",
+          "category": "AI-Tools"
+        },
+        {
+          "name": "AutoGen",
+          "category": "AI-Tools"
+        },
+        {
+          "name": "Flowise",
+          "category": "AI-Tools"
+        },
+        {
+          "name": "Zapier",
+          "category": "Automatiseringstools"
+        },
+        {
+          "name": "Make",
+          "category": "Automatiseringstools"
+        },
+        {
+          "name": "n8n",
+          "category": "Automatiseringstools"
+        },
+        {
+          "name": "UiPath",
+          "category": "Automatiseringstools"
+        },
+        {
+          "name": "Workato",
+          "category": "Automatiseringstools"
+        },
+        {
+          "name": "Gumloop",
+          "category": "Automatiseringstools"
+        },
+        {
+          "name": "Lindy",
+          "category": "Automatiseringstools"
+        },
+        {
+          "name": "Notion",
+          "category": "Project- & Kennisbeheertools"
+        },
+        {
+          "name": "Obsidian",
+          "category": "Project- & Kennisbeheertools"
+        },
+        {
+          "name": "Slack",
+          "category": "Project- & Kennisbeheertools"
+        },
+        {
+          "name": "ClickUp",
+          "category": "Project- & Kennisbeheertools"
+        },
+        {
+          "name": "Monday.com",
+          "category": "Project- & Kennisbeheertools"
+        },
+        {
+          "name": "Asana",
+          "category": "Project- & Kennisbeheertools"
+        },
+        {
+          "name": "Jira",
+          "category": "Project- & Kennisbeheertools"
+        },
+        {
+          "name": "Linear",
+          "category": "Project- & Kennisbeheertools"
+        },
+        {
+          "name": "Trello",
+          "category": "Project- & Kennisbeheertools"
+        },
+        {
+          "name": "Wrike",
+          "category": "Project- & Kennisbeheertools"
+        },
+        {
+          "name": "Microsoft Project & Planner",
+          "category": "Project- & Kennisbeheertools"
+        },
+        {
+          "name": "Basecamp",
+          "category": "Project- & Kennisbeheertools"
+        },
+        {
+          "name": "OpenProject",
+          "category": "Project- & Kennisbeheertools"
+        },
+        {
+          "name": "Focalboard",
+          "category": "Project- & Kennisbeheertools"
+        },
+        {
+          "name": "Appflowy",
+          "category": "Project- & Kennisbeheertools"
+        },
+        {
+          "name": "Leantime",
+          "category": "Project- & Kennisbeheertools"
+        },
+        {
+          "name": "GitHub Projects",
+          "category": "Project- & Kennisbeheertools"
+        },
+        {
+          "name": "Confluence",
+          "category": "Project- & Kennisbeheertools"
+        },
+        {
+          "name": "Slite",
+          "category": "Project- & Kennisbeheertools"
+        },
+        {
+          "name": "Logseq",
+          "category": "Project- & Kennisbeheertools"
+        },
+        {
+          "name": "Wiki.js",
+          "category": "Project- & Kennisbeheertools"
+        },
+        {
+          "name": "DocuWiki",
+          "category": "Project- & Kennisbeheertools"
+        },
+        {
+          "name": "Discord",
+          "category": "Project- & Kennisbeheertools"
+        },
+        {
+          "name": "Element",
+          "category": "Project- & Kennisbeheertools"
+        }
+      ]
+    },
+    "philosophy": {
+      "heading": "Mijn Filosofie",
+      "items": [
+        {
+          "title": "Minder Is Meer",
+          "description": "Ik geloof dat de beste oplossingen degene zijn die je nauwelijks opmerkt. Schone architectuur, doordacht ontwerp en code die leest als een gesprek. Complexiteit is makkelijk. Duidelijkheid vereist discipline."
+        },
+        {
+          "title": "Technologie Moet de Mensheid Dienen",
+          "description": "Elk product dat ik bouw begint met een enkele vraag: wie helpt dit, en hoe? Technologie is op zijn best wanneer het naar de achtergrond verdwijnt en mensen een beter leven laat leiden. Ik bouw niet om het bouwen."
+        },
+        {
+          "title": "Voortdurend Leren",
+          "description": "Dit vakgebied vindt zichzelf elke paar jaar opnieuw uit. Ik blijf scherp door echte dingen te bouwen, niet alleen door erover te lezen. Als ik me niet een beetje ongemakkelijk voel bij waar ik aan werk, leer ik niet snel genoeg."
+        }
+      ]
+    }
+  },
+  "work": {
+    "heading": "Wat ik doe",
+    "description": "Van full-stack webapps tot go-to-marketstrategie — ik lever end-to-end oplossingen. Elk project begint met het begrijpen van uw doelen en eindigt met meetbare resultaten.",
+    "cta": "Lees mijn artikelen",
+    "services": {
+      "heading": "Diensten",
+      "items": [
+        {
+          "name": "Web Development",
+          "description": "Custom web apps with Next.js, React, and TypeScript. Fast, responsive, and SEO-optimized."
+        },
+        {
+          "name": "Web App Development",
+          "description": "Full-stack web applications with modern frameworks, databases, and cloud infrastructure."
+        },
+        {
+          "name": "Mobile App Development",
+          "description": "Cross-platform mobile apps using React Native and Expo for iOS and Android."
+        },
+        {
+          "name": "Go-To-Market Strategy",
+          "description": "Strategic planning for product launches — positioning, messaging, and go-to-market execution."
+        },
+        {
+          "name": "Marketing Automation",
+          "description": "Automated marketing workflows, email sequences, and lead nurturing systems."
+        },
+        {
+          "name": "Marketing Consulting",
+          "description": "Strategic marketing advisory for startups and small businesses — growth, retention, analytics."
+        },
+        {
+          "name": "Forward-Deployed Engineering",
+          "description": "Embedded engineering solutions — I work alongside your team to solve technical challenges on site."
+        },
+        {
+          "name": "Workflow Automation",
+          "description": "Custom automation solutions to streamline repetitive tasks and business processes."
+        },
+        {
+          "name": "AI & Tech Consulting",
+          "description": "Advisory on AI integration, tooling, architecture, and scaling for modern businesses."
+        },
+        {
+          "name": "Copywriting",
+          "description": "Persuasive, conversion-focused copy for landing pages, emails, ads, and product descriptions."
+        },
+        {
+          "name": "Content Writing",
+          "description": "Articles, blog posts, and long-form content that educates and engages your audience."
+        },
+        {
+          "name": "Technical Documentation",
+          "description": "Clear, comprehensive documentation for APIs, SDKs, and developer-facing products."
+        }
+      ]
+    },
+    "completed": {
+      "heading": "Completed Projects",
+      "items": [
+        {
+          "title": "How AI Is Changing Marketing",
+          "date": "2026-06-15",
+          "category": "Technology",
+          "excerpt": "An analysis of how AI tools are transforming digital marketing.",
+          "slug": "ai-marketing-2026"
+        },
+        {
+          "title": "Modern Web Development in 2026",
+          "date": "2026-05-20",
+          "category": "Technology",
+          "excerpt": "The tools, frameworks, and practices I use for web development today.",
+          "slug": "modern-web-dev"
+        }
+      ]
+    }
+  },
+  "articles": {
+    "heading": "Artikelen",
+    "description": "Gedachten over AI, softwareontwikkeling en moderne marketing. Ik schrijf over wat ik bouw, wat ik leer en waar technologie naartoe gaat.",
+    "cta": "Neem contact op",
+    "filter": {
+      "all": "Alles",
+      "label": "Categorie"
+    },
+    "empty": "Geen artikelen in deze categorie.",
+    "readMore": "Lees meer",
+    "backToList": "← Terug naar artikelen"
+  },
+  "contact": {
+    "heading": "Contact",
+    "description": "Laten we praten. Of je nu een project in gedachten hebt, een vraag, of gewoon contact wilt maken — ik ben er.",
+    "subtitle": "Je kunt me vinden op:",
+    "links": [
+      {
+        "platform": "Instagram",
+        "url": "https://instagram.com/alexistdev",
+        "label": "Instagram — @alexistdev"
+      },
+      {
+        "platform": "X (Twitter)",
+        "url": "https://x.com/alexistdev",
+        "label": "X — @alexistdev"
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "https://linkedin.com/in/atsardoulias",
+        "label": "LinkedIn — /in/atsardoulias"
+      },
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/alexistdev",
+        "label": "GitHub — @alexistdev"
+      },
+      {
+        "platform": "Substack",
+        "url": "https://alexistdev.substack.com",
+        "label": "Substack — alexistdev"
+      },
+      {
+        "platform": "Facebook",
+        "url": "https://facebook.com/alexistdev",
+        "label": "Facebook — @alexistdev"
+      },
+      {
+        "platform": "Threads",
+        "url": "https://threads.net/@alexistdev",
+        "label": "Threads — @alexistdev"
+      },
+      {
+        "platform": "Reddit",
+        "url": "https://reddit.com/user/alexistdev",
+        "label": "Reddit — u/alexistdev"
+      },
+      {
+        "platform": "Email",
+        "url": "mailto:hello@alexist.dev",
+        "label": "Email — hello@alexist.dev"
+      },
+      {
+        "platform": "Discord",
+        "url": "https://discord.gg/alexistdev",
+        "label": "Discord — @alexistdev"
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© {year} Alexandros Tsardoulias",
+    "builtWith": "Gebouwd met Next.js & Tailwind",
+    "backToTop": "Terug naar boven"
+  },
+  "theme": {
+    "light": "Licht",
+    "dark": "Donker",
+    "toggle": "Thema wisselen"
+  },
+  "language": {
+    "label": "Taal",
+    "el": "Ελληνικά",
+    "en": "English",
+    "ru": "Русский",
+    "de": "Deutsch",
+    "fr": "Français",
+    "it": "Italiano",
+    "es": "Español",
+    "tr": "Türkçe",
+    "pl": "Polski",
+    "nl": "Nederlands",
+    "ua": "Українська",
+    "il": "עברית",
+    "ae": "العربية"
+  },
+  "common": {
+    "loading": "Laden…",
+    "error": "Er is iets misgegaan.",
+    "retry": "Probeer opnieuw",
+    "back": "← Terug",
+    "readMore": "Lees meer"
+  }
+}
