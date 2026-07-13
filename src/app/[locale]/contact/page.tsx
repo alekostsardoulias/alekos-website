@@ -43,24 +43,24 @@ export default function ContactPage() {
         <div className="inline-flex items-center justify-center w-14 h-14 rounded-xl bg-purple-500/10 text-purple-400 mb-4">
           <Mail size={28} />
         </div>
-        <h2 className="text-xl font-semibold text-text-primary mb-2">
+        <h2 className="text-2xl font-semibold text-text-primary mb-2">
           {t('emailCTA.heading')}
         </h2>
-        <p className="text-sm text-text-secondary mb-4">hello@alexist.dev</p>
+        <p className="text-lg text-text-secondary mb-4">hello@alexist.dev</p>
         <a
           href="mailto:hello@alexist.dev"
-          className="inline-flex items-center gap-2 rounded-lg border border-purple-400/20 bg-purple-500/10 px-5 py-2.5 text-sm font-medium text-purple-400
+          className="inline-flex items-center gap-2 rounded-lg border border-purple-400/20 bg-purple-500/10 px-5 py-2.5 text-lg font-medium text-purple-400
                      transition-all duration-200 hover:bg-purple-500/20 hover:border-purple-400/30 motion-safe:hover:scale-[1.02]"
         >
           <Mail size={16} />
           {t('emailCTA.button')}
         </a>
-        <p className="mt-4 text-xs text-text-tertiary">
+        <p className="mt-4 text-lg text-text-tertiary">
           {t('emailCTA.responseTime')}
         </p>
       </div>
 
-      <p className="text-sm text-text-secondary max-w-prose mb-8 text-pretty">{t('description')}</p>
+      <p className="text-lg text-text-secondary max-w-prose mb-8 text-pretty">{t('description')}</p>
 
       {/* Social Links Grid */}
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 w-full">
@@ -80,7 +80,7 @@ export default function ContactPage() {
                                text-text-secondary transition-colors duration-200">
                 <BrandIcon platform={link.platform} size={20} />
               </span>
-              <span className="font-medium text-sm text-text-primary transition-colors duration-200">
+              <span className="font-medium text-lg text-text-primary transition-colors duration-200">
                 {link.platform}
               </span>
             </a>

@@ -33,7 +33,7 @@ export function ArticleFilter({
       <div className="flex flex-wrap gap-2 mb-8">
         <button
           onClick={() => setActiveCategory(null)}
-          className={`px-4 py-2 rounded-full border text-base transition-all duration-200 ${
+          className={`px-4 py-2 rounded-full border text-lg transition-all duration-200 ${
             activeCategory === null
               ? 'border-purple-400/30 bg-purple-500/10 text-purple-400'
               : 'border-white/[0.06] bg-white/[0.02] text-text-secondary hover:border-white/[0.12]'
@@ -45,7 +45,7 @@ export function ArticleFilter({
           <button
             key={cat}
             onClick={() => setActiveCategory(cat)}
-            className={`px-4 py-2 rounded-full border text-base transition-all duration-200 ${
+            className={`px-4 py-2 rounded-full border text-lg transition-all duration-200 ${
               activeCategory === cat
                 ? 'border-purple-400/30 bg-purple-500/10 text-purple-400'
                 : 'border-white/[0.06] bg-white/[0.02] text-text-secondary hover:border-white/[0.12]'

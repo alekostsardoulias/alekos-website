@@ -33,11 +33,11 @@ export function Footer() {
         <div className="flex flex-col md:flex-row items-center md:items-start justify-between gap-6 md:gap-8">
           {/* Left: name, title, copyright */}
           <div className="flex flex-col items-center md:items-start gap-1.5">
-            <span className="text-xl font-bold bg-gradient-to-r from-purple-400 to-blue-400 bg-clip-text text-transparent">
+            <span className="text-2xl font-bold bg-gradient-to-r from-purple-400 to-blue-400 bg-clip-text text-transparent">
               {name}
             </span>
-            <span className="text-base text-text-secondary">{title}</span>
-            <span className="text-sm text-text-tertiary mt-0.5">
+            <span className="text-lg text-text-secondary">{title}</span>
+            <span className="text-lg text-text-tertiary mt-0.5">
               {t('copyright', { year })}
             </span>
           </div>

@@ -118,10 +118,10 @@ export function WorkContent({
                 <div className={iconContainer}>
                   <Icon className={`w-5 h-5 ${config.color}`} />
                 </div>
-                <h3 className="text-base font-semibold text-text-primary mb-1">
+                <h3 className="text-lg font-semibold text-text-primary mb-1">
                   {service.name}
                 </h3>
-                <p className="text-sm text-text-secondary leading-relaxed">
+                <p className="text-lg text-text-secondary leading-relaxed">
                   {service.description}
                 </p>
               </div>
@@ -132,7 +132,7 @@ export function WorkContent({
 
       {/* ── How I Work ────────────────────────────────────────────── */}
       <section className="mt-12">
-        <h2 className="text-xl font-semibold text-text-primary mb-8">
+        <h2 className="text-2xl font-semibold text-text-primary mb-8">
           {processHeading}
         </h2>
         <div className="relative">
@@ -143,17 +143,17 @@ export function WorkContent({
                 className={`${glassCard} relative group`}
               >
                 {/* Step number */}
-                <span className="absolute -top-2.5 -left-2.5 w-6 h-6 rounded-full bg-purple-500/20 border border-purple-400/30 text-[11px] font-bold text-purple-300 flex items-center justify-center backdrop-blur-sm">
+                <span className="absolute -top-3 -left-3 w-8 h-8 rounded-full bg-purple-500/20 border border-purple-400/30 text-lg font-bold text-purple-300 flex items-center justify-center backdrop-blur-sm">
                   {i + 1}
                 </span>
 
                 <div className={iconContainer}>
                   <StepIcon className={`w-5 h-5 ${color}`} />
                 </div>
-                <h3 className="text-base font-semibold text-text-primary mb-1">
+                <h3 className="text-lg font-semibold text-text-primary mb-1">
                   {t(`process.steps.${i}.title`)}
                 </h3>
-                <p className="text-sm text-text-secondary leading-relaxed">
+                <p className="text-lg text-text-secondary leading-relaxed">
                   {t(`process.steps.${i}.description`)}
                 </p>
 
@@ -171,7 +171,7 @@ export function WorkContent({
       <section className="mt-12 pt-8 border-t border-white/[0.06]">
         <div className="flex items-center gap-2 mb-6">
           <CheckCircle size={20} className="text-green-400 shrink-0" />
-          <h2 className="text-xl font-semibold text-text-primary">
+          <h2 className="text-2xl font-semibold text-text-primary">
             {completedHeading}
           </h2>
         </div>
@@ -181,22 +181,22 @@ export function WorkContent({
               <div className={glassCard}>
                 {/* Top row: date + category badge */}
                 <div className="flex items-center gap-3 mb-3">
-                  <span className="text-xs text-text-secondary font-mono">
+                  <span className="text-lg text-text-secondary font-mono">
                     {item.date}
                   </span>
-                  <span className="text-xs px-2.5 py-0.5 rounded-full bg-purple-500/10 border border-purple-400/20 text-purple-300 font-medium">
+                  <span className="text-lg px-2.5 py-0.5 rounded-full bg-purple-500/10 border border-purple-400/20 text-purple-300 font-medium">
                     {item.category}
                   </span>
                 </div>
 
-                <h3 className="text-base font-semibold text-text-primary mb-2 group-hover:text-purple-300 transition-colors">
+                <h3 className="text-lg font-semibold text-text-primary mb-2 group-hover:text-purple-300 transition-colors">
                   {item.title}
                 </h3>
-                <p className="text-sm text-text-secondary leading-relaxed line-clamp-2">
+                <p className="text-lg text-text-secondary leading-relaxed line-clamp-2">
                   {item.excerpt}
                 </p>
 
-                <div className="flex items-center gap-1 mt-3 text-xs text-purple-400/60 group-hover:text-purple-400 transition-colors">
+                <div className="flex items-center gap-1 mt-3 text-lg text-purple-400/60 group-hover:text-purple-400 transition-colors">
                   <span>Read more</span>
                   <ExternalLink size={12} />
                 </div>

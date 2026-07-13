@@ -45,31 +45,31 @@ export function ArticleCard({
       >
         {/* Top row: category badge + reading time */}
         <div className="flex items-center gap-3 mb-3">
-          <span className="text-xs px-3 py-1 rounded-full border border-purple-400/20 bg-purple-500/10 text-purple-400">
+          <span className="text-lg px-3 py-1 rounded-full border border-purple-400/20 bg-purple-500/10 text-purple-400">
             {category}
           </span>
-          <span className="text-sm text-text-tertiary">{readingTime}</span>
+          <span className="text-lg text-text-tertiary">{readingTime}</span>
         </div>
 
         {/* Title */}
         <h3
           className={`${
-            featured ? 'text-xl' : 'text-lg'
+            featured ? 'text-2xl' : 'text-xl'
           } font-semibold text-text-primary group-hover:text-purple-300 transition-colors`}
         >
           {title}
         </h3>
 
         {/* Date */}
-        <p className="text-sm text-text-tertiary mt-1">{formattedDate}</p>
+        <p className="text-lg text-text-tertiary mt-1">{formattedDate}</p>
 
         {/* Excerpt */}
-        <p className="text-base text-text-secondary mt-3 leading-relaxed line-clamp-2">
+        <p className="text-lg text-text-secondary mt-3 leading-relaxed line-clamp-2">
           {excerpt}
         </p>
 
         {/* Read more */}
-        <span className="inline-block mt-4 text-sm text-purple-400 group-hover:text-purple-300 transition-colors">
+        <span className="inline-block mt-4 text-lg text-purple-400 group-hover:text-purple-300 transition-colors">
           {readMoreLabel} →
         </span>
       </article>

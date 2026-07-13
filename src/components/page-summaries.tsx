@@ -33,13 +33,13 @@ export function PageSummaries() {
         >
           <Card className="transition-colors duration-200 h-full">
             <CardHeader>
-              <CardTitle className="text-lg group-hover:text-accent transition-colors">
+              <CardTitle className="text-xl group-hover:text-accent transition-colors">
                 {Icon && <Icon size={16} className="inline-block me-1.5" aria-hidden="true" />}
                 {t(`${key}.heading`)}
               </CardTitle>
             </CardHeader>
             <CardContent>
-              <p className="text-base text-muted leading-relaxed">
+              <p className="text-lg text-muted leading-relaxed">
                 {t(`${key}.description`)}
               </p>
             </CardContent>

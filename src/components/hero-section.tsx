@@ -55,7 +55,7 @@ export function HeroSection({
     <section className={sectionClasses}>
       <div className="text-start flex-1">
         {!hideTitle && (
-          <h1 className="text-3xl md:text-4xl font-bold tracking-tight">
+          <h1 className="text-4xl md:text-5xl font-bold tracking-tight">
             <span className="inline-flex items-center gap-2">
               {icon && <span aria-hidden="true">{icon}</span>}
               <span className="text-accent-warm">
@@ -65,7 +65,7 @@ export function HeroSection({
           </h1>
         )}
         {subtitleKey && (
-          <p className="text-base text-muted mt-3">{t(subtitleKey)}</p>
+          <p className="text-lg text-muted mt-3">{t(subtitleKey)}</p>
         )}
         {children}
       </div>

@@ -13,7 +13,7 @@ export function WorkTimeline() {
 
   return (
     <section>
-      <h2 className="text-xl font-semibold text-foreground mb-6">
+      <h2 className="text-2xl font-semibold text-foreground mb-6">
         <BriefcaseBusiness size={20} className="inline me-2" aria-hidden="true" />
         {t('heading')}
       </h2>
@@ -24,16 +24,16 @@ export function WorkTimeline() {
             className="flex gap-3 py-2 ps-3 border-s-2 border-purple-400/20 animate-fade-up"
             style={{ animationDelay: `${i * 100}ms` }}
           >
-            <span className="inline-block px-2 py-0.5 rounded-full text-xs font-medium bg-purple-500/10 text-purple-300 border border-purple-500/20 shrink-0 h-fit mt-0.5">
+            <span className="inline-block px-2 py-0.5 rounded-full text-lg font-medium bg-purple-500/10 text-purple-300 border border-purple-500/20 shrink-0 h-fit mt-0.5">
               {item.year}
             </span>
             <div className="min-w-0">
-              <h3 className="text-sm font-semibold text-foreground leading-snug">
+              <h3 className="text-lg font-semibold text-foreground leading-snug">
                 {item.role}
               </h3>
-              <p className="text-sm text-muted leading-snug">{item.company}</p>
+              <p className="text-lg text-muted leading-snug">{item.company}</p>
               {item.description && !item.description.startsWith('TODO') && (
-                <p className="text-sm text-muted mt-0.5 leading-relaxed">
+                <p className="text-lg text-muted mt-0.5 leading-relaxed">
                   {item.description}
                 </p>
               )}

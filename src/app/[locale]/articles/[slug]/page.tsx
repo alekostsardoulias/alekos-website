@@ -56,16 +56,16 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
         </Link>
 
         <header className="mb-8">
-          <h1 className="text-2xl md:text-3xl font-bold tracking-tight text-foreground mb-3">
+          <h1 className="text-3xl md:text-4xl font-bold tracking-tight text-foreground mb-3">
             {article.title}
           </h1>
           <div className="flex items-center gap-3">
-            <span className="text-sm text-muted">{formattedDate}</span>
-            <span className="text-xs px-2 py-0.5 rounded-full border border-border text-muted">
+            <span className="text-lg text-muted">{formattedDate}</span>
+            <span className="text-lg px-2 py-0.5 rounded-full border border-border text-muted">
               {article.category}
             </span>
             {isCompletedWork && (
-              <span className="text-xs px-2 py-0.5 rounded-full bg-accent/10 text-accent border border-accent/20">
+              <span className="text-lg px-2 py-0.5 rounded-full bg-accent/10 text-accent border border-accent/20">
                 Completed Work
               </span>
             )}

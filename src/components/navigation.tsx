@@ -29,7 +29,7 @@ export function Navigation() {
         {/* Site name — locale-aware */}
         <Link
           href="/"
-          className="text-xl font-semibold tracking-tight bg-gradient-to-r from-purple-400 to-blue-400 bg-clip-text text-transparent hover:opacity-80 transition-opacity"
+          className="text-2xl font-semibold tracking-tight bg-gradient-to-r from-purple-400 to-blue-400 bg-clip-text text-transparent hover:opacity-80 transition-opacity"
           onClick={handleNavClick}
         >
           {locale === 'el' ? 'Αλέξανδρος Τσαρδούλιας' : locale === 'ru' ? 'Александр Цардулиас' : locale === 'ua' ? 'Александрс Цардуліас' : 'Alexandros Tsardoulias'}
@@ -43,7 +43,7 @@ export function Navigation() {
               <Link
                 key={key}
                 href={href}
-                className={`text-base transition-all duration-200 relative ${
+                className={`text-lg transition-all duration-200 relative ${
                   isActive
                     ? 'text-purple-400 drop-shadow-[0_0_8px_rgba(168,85,247,0.5)] font-medium after:absolute after:-bottom-1 after:left-0 after:h-[2px] after:w-full after:bg-gradient-to-r after:from-purple-400 after:to-blue-400 after:rounded-full after:content-[""]'
                     : 'text-muted hover:text-purple-300 hover:drop-shadow-[0_0_6px_rgba(168,85,247,0.3)]'
@@ -82,7 +82,7 @@ export function Navigation() {
                 <Link
                   key={key}
                   href={href}
-                  className={`text-base py-2 transition-colors ${
+                  className={`text-lg py-2 transition-colors ${
                     isActive
                       ? 'text-purple-400 drop-shadow-[0_0_8px_rgba(168,85,247,0.5)] font-medium'
                       : 'text-muted hover:text-purple-300'

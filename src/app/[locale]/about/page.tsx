@@ -36,7 +36,7 @@ export default async function AboutPage() {
       <HeroSection headingKey="heading" headingNamespace="about" largeImage hideTitle>
         <div className="mt-4 space-y-5 rounded-xl border border-white/[0.06] bg-white/[0.02] backdrop-blur-sm p-6 md:p-8">
           {(t.raw('bio.paragraphs') as string[]).map((paragraph, i) => (
-            <p key={i} className="text-lg md:text-xl lg:text-2xl leading-relaxed text-muted">
+            <p key={i} className="text-xl md:text-2xl lg:text-3xl leading-relaxed text-muted">
               {paragraph}
             </p>
           ))}
@@ -45,7 +45,7 @@ export default async function AboutPage() {
 
       {/* Philosophy section */}
       <section className="mb-12">
-        <h2 className="text-xl font-semibold text-foreground mb-6">
+        <h2 className="text-2xl font-semibold text-foreground mb-6">
           {t('philosophy.heading')}
         </h2>
         <div className="grid gap-4 sm:grid-cols-3">
@@ -62,10 +62,10 @@ export default async function AboutPage() {
                 >
                   <Icon size={18} aria-hidden="true" />
                 </span>
-                <h3 className="text-base font-semibold text-foreground mb-1.5">
+                <h3 className="text-lg font-semibold text-foreground mb-1.5">
                   {item.title}
                 </h3>
-                <p className="text-sm text-muted leading-relaxed">{item.description}</p>
+                <p className="text-lg text-muted leading-relaxed">{item.description}</p>
               </div>
             );
           })}

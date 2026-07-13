@@ -28,7 +28,7 @@ export function Hero({ onTypewriterComplete }: HeroProps) {
         {/* Text */}
         <div className="flex-1 text-center md:text-start space-y-5">
           {/* Greeting pill */}
-          <span dir="ltr" className="inline-block px-4 py-1.5 rounded-full border border-white/[0.06] bg-white/[0.03] backdrop-blur-sm text-base text-text-secondary">
+          <span dir="ltr" className="inline-block px-4 py-1.5 rounded-full border border-white/[0.06] bg-white/[0.03] backdrop-blur-sm text-lg text-text-secondary">
             {t('greeting')}
           </span>
 
@@ -43,12 +43,12 @@ export function Hero({ onTypewriterComplete }: HeroProps) {
           </h1>
 
           {/* Title */}
-          <p className="text-lg md:text-xl text-text-secondary max-w-2xl">
+          <p className="text-xl md:text-2xl text-text-secondary max-w-2xl">
             {t('title')}
           </p>
 
           {/* Description */}
-          <p className="text-base md:text-lg text-text-tertiary max-w-xl">
+          <p className="text-lg md:text-xl text-text-tertiary max-w-xl">
             {t('description')}
           </p>
 
@@ -56,13 +56,13 @@ export function Hero({ onTypewriterComplete }: HeroProps) {
           <div className="flex flex-wrap gap-4 pt-2 justify-center md:justify-start">
             <Link
               href="/work"
-              className="inline-flex items-center px-6 py-3 rounded-xl bg-purple-500/20 border border-purple-400/30 text-purple-300 hover:bg-purple-500/30 hover:shadow-[0_0_20px_rgba(168,85,247,0.3)] transition-all font-medium text-sm"
+              className="inline-flex items-center px-6 py-3 rounded-xl bg-purple-500/20 border border-purple-400/30 text-purple-300 hover:bg-purple-500/30 hover:shadow-[0_0_20px_rgba(168,85,247,0.3)] transition-all font-medium text-lg"
             >
               {t('cta')}
             </Link>
             <Link
               href="/contact"
-              className="inline-flex items-center px-6 py-3 rounded-xl border border-white/[0.08] bg-white/[0.02] text-text-secondary hover:border-white/[0.15] hover:bg-white/[0.04] transition-all font-medium text-sm"
+              className="inline-flex items-center px-6 py-3 rounded-xl border border-white/[0.08] bg-white/[0.02] text-text-secondary hover:border-white/[0.15] hover:bg-white/[0.04] transition-all font-medium text-lg"
             >
               {t('ctaSecondary')}
             </Link>

@@ -16,7 +16,7 @@ export function HomeServices() {
   return (
     <section className="py-16 md:py-24 px-6">
       <div className="max-w-5xl mx-auto">
-        <h2 className="text-2xl font-bold text-text-primary mb-8 text-center">
+        <h2 className="text-3xl font-bold text-text-primary mb-8 text-center">
           {t('servicesOverview.heading')}
         </h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 md:gap-6">
@@ -28,10 +28,10 @@ export function HomeServices() {
               <div className="w-12 h-12 rounded-xl bg-white/[0.04] flex items-center justify-center mb-4">
                 <Icon className={`w-8 h-8 ${color}`} />
               </div>
-              <h3 className="text-lg font-semibold text-text-primary mb-2">
+              <h3 className="text-xl font-semibold text-text-primary mb-2">
                 {t(`servicesOverview.items.${i}.title`)}
               </h3>
-              <p className="text-base text-text-secondary">
+              <p className="text-lg text-text-secondary">
                 {t(`servicesOverview.items.${i}.description`)}
               </p>
             </div>
