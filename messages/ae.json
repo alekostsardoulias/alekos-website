@@ -1,1 +1,1123 @@
-{"nav":{"home":"الرئيسية","about":"من أنا","work":"أعمالي","articles":"مقالات","contact":"اتصل بي"},"hero":{"greeting":"👋 Hello, World!","name":"Alexandros Tsardoulias","title":"AI-Native Software Engineer & Marketing Specialist","description":"أساعد المؤسسين والشركات الناشئة والمؤسسات الصغيرة والمتوسطة والمنظمات غير الحكومية على تحقيق أهدافهم من خلال الجمع بين التكنولوجيا والفلسفة واستراتيجية النمو وأفضل ممارسات التواصل.","cta":"شاهد أعمالي","ctaSecondary":"تواصل معي"},"home":{"summaries":{"about":{"heading":"من أنا","description":"من أكون، وما درسته، وأين عملت."},"work":{"heading":"ماذا أفعل","description":"الخدمات والمشاريع المنجزة."},"articles":{"heading":"مقالات","description":"أفكار حول الذكاء الاصطناعي والتسويق والتكنولوجيا."},"contact":{"heading":"اتصل بي","description":"تجدني على وسائل التواصل الاجتماعي."}},"servicesOverview":{"heading":"ماذا أفعل","items":[{"title":"تطوير البرمجيات","description":"تطبيقات ويب وجوال مخصصة حسب احتياجاتك. سريعة، متجاوبة، محسّنة التكلفة، وجاهزة لتحسين محركات البحث."},{"title":"التسويق والنمو","description":"استراتيجية الذهاب إلى السوق، أتمتة التسويق، كتابة المحتوى والإعلانات، وحملات تركز على التحويل وتحقق النتائج."},{"title":"الذكاء الاصطناعي والأتمتة","description":"دمج الذكاء الاصطناعي، أتمتة سير العمل، وأنظمة ذكية تُوسّع نطاق أعمالك."},{"title":"الاستراتيجية والاستشارات","description":"استشارات تقنية، قرارات معمارية، واستراتيجية منتجات للأعمال العصرية."}]},"featured":{"heading":"أعمال مميزة","viewProject":"عرض المشروع","items":[{"title":"كيف يغير الذكاء الاصطناعي التسويق","category":"تكنولوجيا","description":"تحليل لكيفية تحوّل أدوات الذكاء الاصطناعي لاستراتيجيات التسويق الرقمي في عام 2026."},{"title":"تطوير الويب الحديث في 2026","category":"تكنولوجيا","description":"الأدوات والأطر والممارسات التي أستخدمها في تطوير الويب اليوم."},{"title":"دراسة حالة: إعادة تصميم متجر إلكتروني","category":"دراسة حالة","description":"كيف أعدت تصميم منصة تجارة إلكترونية لتحسين تجربة المستخدم وزيادة التحويل بنسبة 40%."}],"cta":{"heading":"لنعمل معًا","subtitle":"هل لديك مشروع في ذهنك؟ لنبنِ شيئًا رائعًا معًا.","button":"تواصل معي"}},"stats":{"heading":"بالأرقام","items":[{"value":"+50","label":"مشروع منجز"},{"value":"+5","label":"سنوات من الخبرة"},{"value":"+100","label":"أداة وتقنية"},{"value":"+200","label":"مقال منشور"}]}},"about":{"heading":"من أنا","description":"مزيج من الدقة الهندسية والحدس التسويقي. أبني منتجات تعتمد على الذكاء الاصطناعي، وأكتب كودًا ذا قيمة، وأساعد الشركات في إيجاد صوتها في الفضاء الرقمي.","cta":"شاهد أعمالي","bio":{"paragraphs":["أهلاً بالعالم! أنا ألكسندروس تساردولياس، مهندس برمجيات AI-Native وأخصائي تسويق.","أنا محترف متعدد التخصصات أجمع بين التكنولوجيا والفلسفة واستراتيجية النمو وأفضل ممارسات التواصل. أقدم خدمات تطوير البرمجيات والتسويق الموجّه للنمو من البداية إلى النهاية للشركات الناشئة والمؤسسين المستقلين والشركات الصغيرة والمتوسطة والمنظمات غير الحكومية وأنواع أخرى من المهنيين والمنظمات، محوّلاً الأفكار إلى منتجات رقمية قابلة للتوسع وأنظمة مولّدة للإيرادات.","درست الفلسفة وإدارة التسويق بينما كنت أعلّم نفسي البرمجة والتصميم. كل مشروع أقوده يجمع بين نتائج تقنية قابلة للقياس وتسويق مؤثر على الإيرادات، مما يضمن للعملاء الحصول على بنية تحتية رقمية متينة ونمو تجاري قابل للقياس.","أنا لا أكتب فقط كودًا لتطبيقات الويب أو أدير وسائل التواصل الاجتماعي والبريد الإلكتروني — بل أبني أنظمة شمولية تحقق نتائج قابلة للقياس. أتعامل مع البنية التقنية للمنتج واستراتيجية الذهاب إلى السوق كمسألة واحدة، لا مسألتين.","أعمل مع محترفين في اليونان وقبرص والاتحاد الأوروبي، وأتحدث اليونانية والإنجليزية بطلاقة. أعمل بنظام الأتعاب الشهرية أو المشاريع محددة النطاق، حسب حجم العمل. إذا كنت مؤسسًا أو صاحب عمل تبحث عن شريك تقني أو تسويقي، فعلينا أن نتحدث بالتأكيد."]},"education":{"heading":"التعليم","items":[{"year":"2020 — 2024","institution":"جامعة أثينا للاقتصاد والأعمال","degree":"بكالوريوس في علوم الحاسوب","description":"TODO: add details"}]},"work":{"heading":"الخبرة العملية","items":[{"year":"2023 — حتى الآن","company":"عمل حر","role":"مهندس برمجيات وأخصائي تسويق","description":"TODO: add details"}]},"tools":{"heading":"التقنيات والأدوات","allLabel":"الكل","empty":"لا توجد أدوات في هذا التصنيف.","categories":["لغات البرمجة","الواجهات الأمامية وتجربة المستخدم","الخلفية وقواعد البيانات","DevOps والتكامل المستمر","التسويق والتحليلات","التصميم والإبداع","أدوات الذكاء الاصطناعي","إدارة المشاريع"],"items":[{"name":"React","category":"الواجهات الأمامية وتجربة المستخدم"},{"name":"Next.js","category":"الواجهات الأمامية وتجربة المستخدم"},{"name":"TypeScript","category":"الواجهات الأمامية وتجربة المستخدم"},{"name":"Tailwind CSS","category":"الواجهات الأمامية وتجربة المستخدم"},{"name":"HTML/CSS","category":"الواجهات الأمامية وتجربة المستخدم"},{"name":"JavaScript","category":"الواجهات الأمامية وتجربة المستخدم"},{"name":"Vue.js","category":"الواجهات الأمامية وتجربة المستخدم"},{"name":"Astro","category":"الواجهات الأمامية وتجربة المستخدم"},{"name":"Svelte","category":"الواجهات الأمامية وتجربة المستخدم"},{"name":"Framer Motion","category":"الواجهات الأمامية وتجربة المستخدم"},{"name":"shadcn/ui","category":"الواجهات الأمامية وتجربة المستخدم"},{"name":"Radix UI","category":"الواجهات الأمامية وتجربة المستخدم"},{"name":"Node.js","category":"الخلفية وقواعد البيانات"},{"name":"Express","category":"الخلفية وقواعد البيانات"},{"name":"Python","category":"الخلفية وقواعد البيانات"},{"name":"FastAPI","category":"الخلفية وقواعد البيانات"},{"name":"REST APIs","category":"الخلفية وقواعد البيانات"},{"name":"GraphQL","category":"الخلفية وقواعد البيانات"},{"name":"tRPC","category":"الخلفية وقواعد البيانات"},{"name":"Prisma","category":"الخلفية وقواعد البيانات"},{"name":"Django","category":"الخلفية وقواعد البيانات"},{"name":"LLMs","category":"أدوات الذكاء الاصطناعي"},{"name":"OpenAI API","category":"أدوات الذكاء الاصطناعي"},{"name":"LangChain","category":"أدوات الذكاء الاصطناعي"},{"name":"RAG","category":"أدوات الذكاء الاصطناعي"},{"name":"Vector Databases","category":"أدوات الذكاء الاصطناعي"},{"name":"Prompt Engineering","category":"أدوات الذكاء الاصطناعي"},{"name":"Midjourney","category":"أدوات الذكاء الاصطناعي"},{"name":"Stable Diffusion","category":"أدوات الذكاء الاصطناعي"},{"name":"Claude","category":"أدوات الذكاء الاصطناعي"},{"name":"AI Agents","category":"أدوات الذكاء الاصطناعي"},{"name":"Docker","category":"DevOps والتكامل المستمر"},{"name":"Git","category":"DevOps والتكامل المستمر"},{"name":"GitHub Actions","category":"DevOps والتكامل المستمر"},{"name":"Vercel","category":"DevOps والتكامل المستمر"},{"name":"Linux","category":"DevOps والتكامل المستمر"},{"name":"Nginx","category":"DevOps والتكامل المستمر"},{"name":"CI/CD","category":"DevOps والتكامل المستمر"},{"name":"Supabase","category":"DevOps والتكامل المستمر"},{"name":"Cloudflare","category":"DevOps والتكامل المستمر"},{"name":"PostgreSQL","category":"الخلفية وقواعد البيانات"},{"name":"MongoDB","category":"الخلفية وقواعد البيانات"},{"name":"Redis","category":"الخلفية وقواعد البيانات"},{"name":"SQLite","category":"الخلفية وقواعد البيانات"},{"name":"Supabase DB","category":"الخلفية وقواعد البيانات"},{"name":"MySQL","category":"الخلفية وقواعد البيانات"},{"name":"TypeScript","category":"لغات البرمجة"},{"name":"JavaScript","category":"لغات البرمجة"},{"name":"Python","category":"لغات البرمجة"},{"name":"HTML/CSS","category":"لغات البرمجة"},{"name":"SQL","category":"لغات البرمجة"},{"name":"Bash","category":"لغات البرمجة"},{"name":"Markdown","category":"لغات البرمجة"},{"name":"Figma","category":"التصميم والإبداع"},{"name":"Canva","category":"التصميم والإبداع"},{"name":"Adobe Photoshop","category":"التصميم والإبداع"},{"name":"UI/UX Design","category":"التصميم والإبداع"},{"name":"Responsive Design","category":"التصميم والإبداع"},{"name":"Design Systems","category":"التصميم والإبداع"},{"name":"Google Analytics","category":"التسويق والتحليلات"},{"name":"SEO","category":"التسويق والتحليلات"},{"name":"Meta Ads","category":"التسويق والتحليلات"},{"name":"Google Ads","category":"التسويق والتحليلات"},{"name":"Email Marketing","category":"التسويق والتحليلات"},{"name":"Content Strategy","category":"التسويق والتحليلات"},{"name":"Copywriting","category":"التسويق والتحليلات"},{"name":"A/B Testing","category":"التسويق والتحليلات"},{"name":"Social Media Marketing","category":"التسويق والتحليلات"},{"name":"VS Code","category":"إدارة المشاريع"},{"name":"Notion","category":"إدارة المشاريع"},{"name":"Slack","category":"إدارة المشاريع"},{"name":"Zapier","category":"إدارة المشاريع"},{"name":"n8n","category":"إدارة المشاريع"},{"name":"Make (Integromat)","category":"إدارة المشاريع"},{"name":"Obsidian","category":"إدارة المشاريع"},{"name":"Linear","category":"إدارة المشاريع"}]},"philosophy":{"heading":"فلسفتي","items":[{"title":"الأقل هو الأكثر","description":"أفضل الكود النظيف والوظيفي والتصميم المدروس. التعقيد عبء — البساطة تتسع."},{"title":"التكنولوجيا تخدم الناس","description":"كل سطر كود أكتبه يوجد إنسان على طرفه الآخر. التكنولوجيا أداة وليست غاية في حد ذاتها."},{"title":"التعلم المستمر","description":"المجال يتطور يوميًا. أبقى فضوليًا، وأجرب كثيرًا، ولا أفترض أبدًا أنني فهمت كل شيء."}]}},"work":{"heading":"ماذا أفعل","description":"من تطبيقات الويب الشاملة إلى استراتيجية الذهاب إلى السوق — أقدم حلولاً متكاملة. كل مشروع يبدأ بفهم أهدافك وينتهي بنتائج قابلة للقياس.","cta":"اقرأ مقالاتي","services":{"heading":"الخدمات","items":[{"name":"تطوير الويب","description":"تطبيقات ويب مخصصة باستخدام Next.js و React و TypeScript. سريعة، متجاوبة، ومحسّنة لمحركات البحث."},{"name":"تطوير تطبيقات الويب","description":"تطبيقات ويب شاملة باستخدام أطر عمل حديثة وقواعد بيانات وبنية سحابية."},{"name":"تطوير تطبيقات الجوال","description":"تطبيقات جوال متعددة المنصات باستخدام React Native و Expo لنظامي iOS و Android."},{"name":"استراتيجية الذهاب إلى السوق","description":"تخطيط استراتيجي لإطلاق المنتجات — التموضع، الرسائل، وتنفيذ استراتيجية الذهاب إلى السوق."},{"name":"أتمتة التسويق","description":"سير عمل تسويقي مؤتمت، سلاسل بريد إلكتروني، وأنظمة رعاية العملاء المحتملين."},{"name":"استشارات تسويقية","description":"استشارات تسويقية استراتيجية للشركات الناشئة والصغيرة — النمو، الاحتفاظ بالعملاء، التحليلات."},{"name":"الهندسة الميدانية","description":"حلول هندسية مدمجة — أعمل جنبًا إلى جنب مع فريقك لحل التحديات التقنية في الموقع."},{"name":"أتمتة سير العمل","description":"حلول أتمتة مخصصة لتبسيط المهام المتكررة والعمليات التجارية."},{"name":"استشارات الذكاء الاصطناعي والتقنية","description":"استشارات حول دمج الذكاء الاصطناعي، الأدوات، المعمارية، والتوسع للأعمال العصرية."},{"name":"كتابة الإعلانات","description":"كتابة إعلانية مقنعة ومركزة على التحويل للصفحات المقصودة، البريد الإلكتروني، الإعلانات، ووصف المنتجات."},{"name":"كتابة المحتوى","description":"مقالات، منشورات مدونة، ومحتوى طويل يُثقف جمهورك ويشركه."},{"name":"التوثيق التقني","description":"توثيق واضح وشامل لواجهات API ومجموعات SDK والمنتجات الموجهة للمطورين."}]},"process":{"heading":"كيف أعمل","steps":[{"title":"الاستكشاف","description":"فهم أهدافك وجمهورك وكيف يبدو النجاح لمشروعك."},{"title":"الاستراتيجية","description":"تخطيط النهج، اختيار الأدوات المناسبة، ورسم خريطة الطريق إلى الإطلاق."},{"title":"التنفيذ","description":"البناء بدقة — كود نظيف، تصميم مدروس، ومتابعات منتظمة."},{"title":"التسليم","description":"الإطلاق، القياس، والتكرار. أبقى مشاركًا للتأكد من أن كل شيء يعمل."}]},"completed":{"heading":"المشاريع المنجزة","items":[{"title":"كيف يغير الذكاء الاصطناعي التسويق","date":"2026-06-15","category":"تكنولوجيا","excerpt":"تحليل لكيفية تحوّل أدوات الذكاء الاصطناعي للتسويق الرقمي.","slug":"ai-marketing-2026"},{"title":"تطوير الويب الحديث في 2026","date":"2026-05-20","category":"تكنولوجيا","excerpt":"الأدوات والأطر والممارسات التي أستخدمها في تطوير الويب اليوم.","slug":"modern-web-dev"}]}},"articles":{"heading":"مقالات","description":"أفكار حول الذكاء الاصطناعي وهندسة البرمجيات والتسويق الحديث. أكتب عما أبنيه وما أتعلمه وإلى أين تتجه التكنولوجيا.","cta":"تواصل معي","filter":{"all":"الكل","label":"التصنيف"},"empty":"لا توجد مقالات في هذا التصنيف.","readMore":"اقرأ المزيد","readingTime":"{minutes} دقائق قراءة","backToList":"← العودة للمقالات"},"contact":{"heading":"اتصل بي","description":"لنتحدث. سواء كان لديك مشروع في ذهنك، أو سؤال، أو تريد فقط التواصل — أنا هنا.","subtitle":"يمكنك أن تجدني على:","emailCTA":{"heading":"لنتحدث","button":"أرسل لي بريدًا إلكترونيًا","responseTime":"أرد عادةً خلال 24 ساعة"},"links":[{"platform":"Instagram","url":"https://instagram.com/alexistdev","label":"Instagram — @alexistdev"},{"platform":"X (Twitter)","url":"https://x.com/alexistdev","label":"X — @alexistdev"},{"platform":"LinkedIn","url":"https://linkedin.com/in/atsardoulias","label":"LinkedIn — /in/atsardoulias"},{"platform":"GitHub","url":"https://github.com/alexistdev","label":"GitHub — @alexistdev"},{"platform":"Substack","url":"https://alexistdev.substack.com","label":"Substack — alexistdev"},{"platform":"Facebook","url":"https://facebook.com/alexistdev","label":"Facebook — @alexistdev"},{"platform":"Threads","url":"https://threads.net/@alexistdev","label":"Threads — @alexistdev"},{"platform":"Reddit","url":"https://reddit.com/user/alexistdev","label":"Reddit — u/alexistdev"},{"platform":"Email","url":"mailto:hello@alexist.dev","label":"Email — hello@alexist.dev"},{"platform":"Discord","url":"https://discord.gg/alexistdev","label":"Discord — @alexistdev"}]},"footer":{"copyright":"© {year} Alexandros Tsardoulias","builtWith":"مبني باستخدام Next.js و Tailwind","backToTop":"العودة للأعلى"},"theme":{"light":"فاتح","dark":"داكن","toggle":"تبديل المظهر"},"language":{"label":"اللغة","el":"Ελληνικά","en":"English","ru":"Русский","de":"Deutsch","fr":"Français","it":"Italiano","es":"Español","tr":"Türkçe","pl":"Polski","nl":"Nederlands","ua":"Українська","il":"עברית","ae":"العربية"},"common":{"loading":"جاري التحميل…","error":"حدث خطأ ما.","retry":"حاول مجددًا","back":"← رجوع","readMore":"اقرأ المزيد"},"404":{"title":"404 — الصفحة غير موجودة","message":"الصفحة التي تبحث عنها غير موجودة.","backHome":"← العودة للرئيسية"}}
+{
+  "404": {
+    "title": "404 — الصفحة غير موجودة",
+    "message": "الصفحة التي تبحث عنها غير موجودة.",
+    "backHome": "← العودة للرئيسية"
+  },
+  "nav": {
+    "home": "الرئيسية",
+    "about": "من أنا",
+    "work": "أعمالي",
+    "articles": "مقالات",
+    "contact": "اتصل بي"
+  },
+  "hero": {
+    "greeting": "👋 Hello, World!",
+    "name": "Alexandros Tsardoulias",
+    "title": "AI-Native Software Engineer & Marketing Specialist",
+    "description": "أساعد المؤسسين والشركات الناشئة والمؤسسات الصغيرة والمتوسطة والمنظمات غير الحكومية على تحقيق أهدافهم من خلال الجمع بين التكنولوجيا والفلسفة واستراتيجية النمو وأفضل ممارسات التواصل.",
+    "cta": "شاهد أعمالي",
+    "ctaSecondary": "تواصل معي"
+  },
+  "home": {
+    "summaries": {
+      "about": {
+        "heading": "من أنا",
+        "description": "من أكون، وما درسته، وأين عملت."
+      },
+      "work": {
+        "heading": "ماذا أفعل",
+        "description": "الخدمات والمشاريع المنجزة."
+      },
+      "articles": {
+        "heading": "مقالات",
+        "description": "أفكار حول الذكاء الاصطناعي والتسويق والتكنولوجيا."
+      },
+      "contact": {
+        "heading": "اتصل بي",
+        "description": "تجدني على وسائل التواصل الاجتماعي."
+      }
+    },
+    "servicesOverview": {
+      "heading": "ماذا أفعل",
+      "items": [
+        {
+          "title": "تطوير البرمجيات",
+          "description": "تطبيقات ويب وجوال مخصصة حسب احتياجاتك. سريعة، متجاوبة، محسّنة التكلفة، وجاهزة لتحسين محركات البحث."
+        },
+        {
+          "title": "التسويق والنمو",
+          "description": "استراتيجية الذهاب إلى السوق، أتمتة التسويق، كتابة المحتوى والإعلانات، وحملات تركز على التحويل وتحقق النتائج."
+        },
+        {
+          "title": "الذكاء الاصطناعي والأتمتة",
+          "description": "دمج الذكاء الاصطناعي، أتمتة سير العمل، وأنظمة ذكية تُوسّع نطاق أعمالك."
+        },
+        {
+          "title": "الاستراتيجية والاستشارات",
+          "description": "استشارات تقنية، قرارات معمارية، واستراتيجية منتجات للأعمال العصرية."
+        }
+      ]
+    },
+    "featured": {
+      "heading": "أعمال مميزة",
+      "viewProject": "عرض المشروع",
+      "items": [
+        {
+          "title": "كيف يغير الذكاء الاصطناعي التسويق",
+          "category": "تكنولوجيا",
+          "description": "تحليل لكيفية تحوّل أدوات الذكاء الاصطناعي لاستراتيجيات التسويق الرقمي في عام 2026."
+        },
+        {
+          "title": "تطوير الويب الحديث في 2026",
+          "category": "تكنولوجيا",
+          "description": "الأدوات والأطر والممارسات التي أستخدمها في تطوير الويب اليوم."
+        },
+        {
+          "title": "دراسة حالة: إعادة تصميم متجر إلكتروني",
+          "category": "دراسة حالة",
+          "description": "كيف أعدت تصميم منصة تجارة إلكترونية لتحسين تجربة المستخدم وزيادة التحويل بنسبة 40%."
+        }
+      ],
+      "cta": {
+        "heading": "لنعمل معًا",
+        "subtitle": "هل لديك مشروع في ذهنك؟ لنبنِ شيئًا رائعًا معًا.",
+        "button": "تواصل معي"
+      }
+    },
+    "stats": {
+      "heading": "بالأرقام",
+      "items": [
+        {
+          "value": "+50",
+          "label": "مشروع منجز"
+        },
+        {
+          "value": "+5",
+          "label": "سنوات من الخبرة"
+        },
+        {
+          "value": "+100",
+          "label": "أداة وتقنية"
+        },
+        {
+          "value": "+200",
+          "label": "مقال منشور"
+        }
+      ]
+    }
+  },
+  "about": {
+    "heading": "من أنا",
+    "description": "مزيج من الدقة الهندسية والحدس التسويقي. أبني منتجات تعتمد على الذكاء الاصطناعي، وأكتب كودًا ذا قيمة، وأساعد الشركات في إيجاد صوتها في الفضاء الرقمي.",
+    "cta": "شاهد أعمالي",
+    "bio": {
+      "paragraphs": [
+        "أهلاً بالعالم! أنا ألكسندروس تساردولياس، مهندس برمجيات AI-Native وأخصائي تسويق.",
+        "أنا محترف متعدد التخصصات أجمع بين التكنولوجيا والفلسفة واستراتيجية النمو وأفضل ممارسات التواصل. أقدم خدمات تطوير البرمجيات والتسويق الموجّه للنمو من البداية إلى النهاية للشركات الناشئة والمؤسسين المستقلين والشركات الصغيرة والمتوسطة والمنظمات غير الحكومية وأنواع أخرى من المهنيين والمنظمات، محوّلاً الأفكار إلى منتجات رقمية قابلة للتوسع وأنظمة مولّدة للإيرادات.",
+        "درست الفلسفة وإدارة التسويق بينما كنت أعلّم نفسي البرمجة والتصميم. كل مشروع أقوده يجمع بين نتائج تقنية قابلة للقياس وتسويق مؤثر على الإيرادات، مما يضمن للعملاء الحصول على بنية تحتية رقمية متينة ونمو تجاري قابل للقياس.",
+        "أنا لا أكتب فقط كودًا لتطبيقات الويب أو أدير وسائل التواصل الاجتماعي والبريد الإلكتروني — بل أبني أنظمة شمولية تحقق نتائج قابلة للقياس. أتعامل مع البنية التقنية للمنتج واستراتيجية الذهاب إلى السوق كمسألة واحدة، لا مسألتين.",
+        "أعمل مع محترفين في اليونان وقبرص والاتحاد الأوروبي، وأتحدث اليونانية والإنجليزية بطلاقة. أعمل بنظام الأتعاب الشهرية أو المشاريع محددة النطاق، حسب حجم العمل. إذا كنت مؤسسًا أو صاحب عمل تبحث عن شريك تقني أو تسويقي، فعلينا أن نتحدث بالتأكيد."
+      ]
+    },
+    "education": {
+      "heading": "التعليم",
+      "items": [
+        {
+          "year": "2020 – حتى الآن",
+          "institution": "freeCodeCamp, roadmaps.sh, YouTube",
+          "degree": "Computer Software Engineering",
+          "description": "تعلم ذاتي عبر كامل حزمة التطوير: هياكل البيانات، الخوارزميات، تصميم الأنظمة، وتطوير الويب الحديث."
+        },
+        {
+          "year": "2024 – 2025",
+          "institution": "University of Nicosia",
+          "degree": "Blockchain, Cryptocurrencies, NFTs and the Metaverse",
+          "description": ""
+        },
+        {
+          "year": "2023 – 2024",
+          "institution": "Knowcrunch",
+          "degree": "التسويق الرقمي",
+          "description": ""
+        },
+        {
+          "year": "2020 – 2024",
+          "institution": "Queen Margaret University",
+          "degree": "إدارة التسويق",
+          "description": ""
+        },
+        {
+          "year": "2019 – 2023",
+          "institution": "University of Patras",
+          "degree": "الفلسفة",
+          "description": ""
+        }
+      ]
+    },
+    "work": {
+      "heading": "الخبرة العملية",
+      "items": [
+        {
+          "year": "يوليو 2025 – حتى الآن",
+          "company": "عمل حر",
+          "role": "AI-Native Software Engineer & Marketing Specialist",
+          "description": ""
+        },
+        {
+          "year": "يوليو 2021 – يوليو 2025",
+          "company": "أدوار مؤسسية وعمل حر",
+          "role": "مسوق رقمي، مصمم UI/UX وجرافيك، كاتب إعلانات",
+          "description": ""
+        },
+        {
+          "year": "2023 – 2025",
+          "company": "تطوع",
+          "role": "مدرس لطلاب الأعمال والتسويق",
+          "description": ""
+        }
+      ]
+    },
+    "tools": {
+      "heading": "التقنيات والأدوات",
+      "allLabel": "الكل",
+      "empty": "لا توجد أدوات في هذا التصنيف.",
+      "categories": [
+        "لغات البرمجة",
+        "Front-End & UI/UX",
+        "Back-End وقواعد البيانات",
+        "DevOps & CI/CD",
+        "Marketing & Analytics",
+        "التصميم والإبداع",
+        "أدوات الذكاء الاصطناعي",
+        "أدوات الأتمتة",
+        "أدوات إدارة المشاريع والمعرفة"
+      ],
+      "items": [
+        {
+          "name": "HTML",
+          "category": "لغات البرمجة"
+        },
+        {
+          "name": "CSS",
+          "category": "لغات البرمجة"
+        },
+        {
+          "name": "JavaScript",
+          "category": "لغات البرمجة"
+        },
+        {
+          "name": "TypeScript",
+          "category": "لغات البرمجة"
+        },
+        {
+          "name": "Python",
+          "category": "لغات البرمجة"
+        },
+        {
+          "name": "Bash",
+          "category": "لغات البرمجة"
+        },
+        {
+          "name": "SQL",
+          "category": "لغات البرمجة"
+        },
+        {
+          "name": "Kotlin",
+          "category": "لغات البرمجة"
+        },
+        {
+          "name": "Swift",
+          "category": "لغات البرمجة"
+        },
+        {
+          "name": "React",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Next.js",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Tailwind CSS",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Vue.js",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Astro",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Svelte",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Vue",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Nuxt.js",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Remix",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Pinia",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "SolidJS",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "SolidStart",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Alpine.js",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Vite",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Bun",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Turbopack",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Framer Motion",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "GSAP",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "shadcn/ui",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Three.js",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "React Three Fiber",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Drei",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Theatre.js",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Spline",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Lenis",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Lottie",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Rive",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Matter.js",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Node.js",
+          "category": "Back-End وقواعد البيانات"
+        },
+        {
+          "name": "NestJS",
+          "category": "Back-End وقواعد البيانات"
+        },
+        {
+          "name": "Express",
+          "category": "Back-End وقواعد البيانات"
+        },
+        {
+          "name": "Koa",
+          "category": "Back-End وقواعد البيانات"
+        },
+        {
+          "name": "Fastify",
+          "category": "Back-End وقواعد البيانات"
+        },
+        {
+          "name": "FastAPI",
+          "category": "Back-End وقواعد البيانات"
+        },
+        {
+          "name": "Django",
+          "category": "Back-End وقواعد البيانات"
+        },
+        {
+          "name": "Flask",
+          "category": "Back-End وقواعد البيانات"
+        },
+        {
+          "name": "REST APIs",
+          "category": "Back-End وقواعد البيانات"
+        },
+        {
+          "name": "GraphQL",
+          "category": "Back-End وقواعد البيانات"
+        },
+        {
+          "name": "tRPC",
+          "category": "Back-End وقواعد البيانات"
+        },
+        {
+          "name": "Prisma",
+          "category": "Back-End وقواعد البيانات"
+        },
+        {
+          "name": "Supabase DB",
+          "category": "Back-End وقواعد البيانات"
+        },
+        {
+          "name": "PostgreSQL",
+          "category": "Back-End وقواعد البيانات"
+        },
+        {
+          "name": "MySQL",
+          "category": "Back-End وقواعد البيانات"
+        },
+        {
+          "name": "SQLite",
+          "category": "Back-End وقواعد البيانات"
+        },
+        {
+          "name": "MongoDB",
+          "category": "Back-End وقواعد البيانات"
+        },
+        {
+          "name": "Redis",
+          "category": "Back-End وقواعد البيانات"
+        },
+        {
+          "name": "Git",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "GitHub Actions",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Jenkins",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "GitLab CI/CD",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Azure Pipelines",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Argo CD",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Flux",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Harness",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Docker",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Terraform",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Kubernetes",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Ansible",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Google Ads",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Meta Ads Manager",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "TikTok Ads Manager",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "LinkedIn Campaign Manager",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "AdRoll",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Smartly.io",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Google Analytics",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Mixpanel",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Amplitude",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Adobe Analytics",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Semrush",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Ahrefs",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Google Search Console",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Google Keyword Planner",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Surfer SEO",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Sitebulb",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "BrightLocal",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "HubSpot Marketing Hub",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Salesforce",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "LinkedIn Sales Navigator",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Hootsuite",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Sprout Social",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Buffer",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Mailchimp",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Brevo",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Klaviyo",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Omnisend",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Kit",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "beehiiv",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Substack",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Shopify",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "WooCommerce",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "BigCommerce",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Stripe",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Shopify Payments",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "myPOS",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "PostHog",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "GrowthBook",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Eppo",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "VWO (Visual Website Optimizer)",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "AB Tasty",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Convert Experiences",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Crazy Egg",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Adobe Creative Cloud",
+          "category": "التصميم والإبداع"
+        },
+        {
+          "name": "Figma",
+          "category": "التصميم والإبداع"
+        },
+        {
+          "name": "Framer",
+          "category": "التصميم والإبداع"
+        },
+        {
+          "name": "Miro",
+          "category": "التصميم والإبداع"
+        },
+        {
+          "name": "Sketch",
+          "category": "التصميم والإبداع"
+        },
+        {
+          "name": "ProtoPie",
+          "category": "التصميم والإبداع"
+        },
+        {
+          "name": "Canva",
+          "category": "التصميم والإبداع"
+        },
+        {
+          "name": "CapCut",
+          "category": "التصميم والإبداع"
+        },
+        {
+          "name": "Uizard",
+          "category": "التصميم والإبداع"
+        },
+        {
+          "name": "UX Pilot",
+          "category": "التصميم والإبداع"
+        },
+        {
+          "name": "Replit",
+          "category": "التصميم والإبداع"
+        },
+        {
+          "name": "Lovable",
+          "category": "التصميم والإبداع"
+        },
+        {
+          "name": "Bolt.new",
+          "category": "التصميم والإبداع"
+        },
+        {
+          "name": "Google Stitch",
+          "category": "التصميم والإبداع"
+        },
+        {
+          "name": "Claude Design",
+          "category": "التصميم والإبداع"
+        },
+        {
+          "name": "LLMs",
+          "category": "أدوات الذكاء الاصطناعي"
+        },
+        {
+          "name": "LLM APIs",
+          "category": "أدوات الذكاء الاصطناعي"
+        },
+        {
+          "name": "Hugging Face",
+          "category": "أدوات الذكاء الاصطناعي"
+        },
+        {
+          "name": "Ollama",
+          "category": "أدوات الذكاء الاصطناعي"
+        },
+        {
+          "name": "vLLM",
+          "category": "أدوات الذكاء الاصطناعي"
+        },
+        {
+          "name": "LM Studio",
+          "category": "أدوات الذكاء الاصطناعي"
+        },
+        {
+          "name": "OpenCode",
+          "category": "أدوات الذكاء الاصطناعي"
+        },
+        {
+          "name": "Claude Code",
+          "category": "أدوات الذكاء الاصطناعي"
+        },
+        {
+          "name": "Codex",
+          "category": "أدوات الذكاء الاصطناعي"
+        },
+        {
+          "name": "OpenClaw",
+          "category": "أدوات الذكاء الاصطناعي"
+        },
+        {
+          "name": "Hermes",
+          "category": "أدوات الذكاء الاصطناعي"
+        },
+        {
+          "name": "LangFlow",
+          "category": "أدوات الذكاء الاصطناعي"
+        },
+        {
+          "name": "LangChain",
+          "category": "أدوات الذكاء الاصطناعي"
+        },
+        {
+          "name": "LangGraph",
+          "category": "أدوات الذكاء الاصطناعي"
+        },
+        {
+          "name": "CrewAI",
+          "category": "أدوات الذكاء الاصطناعي"
+        },
+        {
+          "name": "LlamaIndex",
+          "category": "أدوات الذكاء الاصطناعي"
+        },
+        {
+          "name": "Dify",
+          "category": "أدوات الذكاء الاصطناعي"
+        },
+        {
+          "name": "AutoGen",
+          "category": "أدوات الذكاء الاصطناعي"
+        },
+        {
+          "name": "Flowise",
+          "category": "أدوات الذكاء الاصطناعي"
+        },
+        {
+          "name": "Zapier",
+          "category": "أدوات الأتمتة"
+        },
+        {
+          "name": "Make",
+          "category": "أدوات الأتمتة"
+        },
+        {
+          "name": "n8n",
+          "category": "أدوات الأتمتة"
+        },
+        {
+          "name": "UiPath",
+          "category": "أدوات الأتمتة"
+        },
+        {
+          "name": "Workato",
+          "category": "أدوات الأتمتة"
+        },
+        {
+          "name": "Gumloop",
+          "category": "أدوات الأتمتة"
+        },
+        {
+          "name": "Lindy",
+          "category": "أدوات الأتمتة"
+        },
+        {
+          "name": "Notion",
+          "category": "أدوات إدارة المشاريع والمعرفة"
+        },
+        {
+          "name": "Obsidian",
+          "category": "أدوات إدارة المشاريع والمعرفة"
+        },
+        {
+          "name": "Slack",
+          "category": "أدوات إدارة المشاريع والمعرفة"
+        },
+        {
+          "name": "ClickUp",
+          "category": "أدوات إدارة المشاريع والمعرفة"
+        },
+        {
+          "name": "Monday.com",
+          "category": "أدوات إدارة المشاريع والمعرفة"
+        },
+        {
+          "name": "Asana",
+          "category": "أدوات إدارة المشاريع والمعرفة"
+        },
+        {
+          "name": "Jira",
+          "category": "أدوات إدارة المشاريع والمعرفة"
+        },
+        {
+          "name": "Linear",
+          "category": "أدوات إدارة المشاريع والمعرفة"
+        },
+        {
+          "name": "Trello",
+          "category": "أدوات إدارة المشاريع والمعرفة"
+        },
+        {
+          "name": "Wrike",
+          "category": "أدوات إدارة المشاريع والمعرفة"
+        },
+        {
+          "name": "Microsoft Project & Planner",
+          "category": "أدوات إدارة المشاريع والمعرفة"
+        },
+        {
+          "name": "Basecamp",
+          "category": "أدوات إدارة المشاريع والمعرفة"
+        },
+        {
+          "name": "OpenProject",
+          "category": "أدوات إدارة المشاريع والمعرفة"
+        },
+        {
+          "name": "Focalboard",
+          "category": "أدوات إدارة المشاريع والمعرفة"
+        },
+        {
+          "name": "Appflowy",
+          "category": "أدوات إدارة المشاريع والمعرفة"
+        },
+        {
+          "name": "Leantime",
+          "category": "أدوات إدارة المشاريع والمعرفة"
+        },
+        {
+          "name": "GitHub Projects",
+          "category": "أدوات إدارة المشاريع والمعرفة"
+        },
+        {
+          "name": "Confluence",
+          "category": "أدوات إدارة المشاريع والمعرفة"
+        },
+        {
+          "name": "Slite",
+          "category": "أدوات إدارة المشاريع والمعرفة"
+        },
+        {
+          "name": "Logseq",
+          "category": "أدوات إدارة المشاريع والمعرفة"
+        },
+        {
+          "name": "Wiki.js",
+          "category": "أدوات إدارة المشاريع والمعرفة"
+        },
+        {
+          "name": "DocuWiki",
+          "category": "أدوات إدارة المشاريع والمعرفة"
+        },
+        {
+          "name": "Discord",
+          "category": "أدوات إدارة المشاريع والمعرفة"
+        },
+        {
+          "name": "Element",
+          "category": "أدوات إدارة المشاريع والمعرفة"
+        }
+      ]
+    },
+    "philosophy": {
+      "heading": "فلسفتي",
+      "items": [
+        {
+          "title": "الأقل هو الأكثر",
+          "description": "أؤمن بأن أفضل الحلول هي تلك التي بالكاد تلاحظها. معمارية نظيفة، تصميم مقصود، وكود يقرأ كمحادثة. التعقيد سهل. الوضوح يتطلب انضباطاً."
+        },
+        {
+          "title": "التكنولوجيا يجب أن تفيد البشرية",
+          "description": "كل منتج أبنيه يبدأ بسؤال واحد: من يساعد هذا، وكيف؟ التكنولوجيا في أفضل حالاتها عندما تتلاشى في الخلفية وتدع الناس يعيشون حياة أفضل. أنا لا أبني من أجل البناء."
+        },
+        {
+          "title": "التعلم المستمر",
+          "description": "هذا المجال يعيد اختراع نفسه كل بضع سنوات. أبقى حاداً ببناء أشياء حقيقية، ليس فقط بالقراءة عنها. إذا لم أكن غير مرتاح قليلاً مما أعمل عليه، فأنا لا أتعلم بالسرعة الكافية."
+        }
+      ]
+    }
+  },
+  "work": {
+    "heading": "ماذا أفعل",
+    "description": "من تطبيقات الويب الشاملة إلى استراتيجية الذهاب إلى السوق — أقدم حلولاً متكاملة. كل مشروع يبدأ بفهم أهدافك وينتهي بنتائج قابلة للقياس.",
+    "cta": "اقرأ مقالاتي",
+    "services": {
+      "heading": "الخدمات",
+      "items": [
+        {
+          "name": "تطوير الويب",
+          "description": "تطبيقات ويب مخصصة باستخدام Next.js و React و TypeScript. سريعة، متجاوبة، ومحسّنة لمحركات البحث."
+        },
+        {
+          "name": "تطوير تطبيقات الويب",
+          "description": "تطبيقات ويب شاملة باستخدام أطر عمل حديثة وقواعد بيانات وبنية سحابية."
+        },
+        {
+          "name": "تطوير تطبيقات الجوال",
+          "description": "تطبيقات جوال متعددة المنصات باستخدام React Native و Expo لنظامي iOS و Android."
+        },
+        {
+          "name": "استراتيجية الذهاب إلى السوق",
+          "description": "تخطيط استراتيجي لإطلاق المنتجات — التموضع، الرسائل، وتنفيذ استراتيجية الذهاب إلى السوق."
+        },
+        {
+          "name": "أتمتة التسويق",
+          "description": "سير عمل تسويقي مؤتمت، سلاسل بريد إلكتروني، وأنظمة رعاية العملاء المحتملين."
+        },
+        {
+          "name": "استشارات تسويقية",
+          "description": "استشارات تسويقية استراتيجية للشركات الناشئة والصغيرة — النمو، الاحتفاظ بالعملاء، التحليلات."
+        },
+        {
+          "name": "الهندسة الميدانية",
+          "description": "حلول هندسية مدمجة — أعمل جنبًا إلى جنب مع فريقك لحل التحديات التقنية في الموقع."
+        },
+        {
+          "name": "أتمتة سير العمل",
+          "description": "حلول أتمتة مخصصة لتبسيط المهام المتكررة والعمليات التجارية."
+        },
+        {
+          "name": "استشارات الذكاء الاصطناعي والتقنية",
+          "description": "استشارات حول دمج الذكاء الاصطناعي، الأدوات، المعمارية، والتوسع للأعمال العصرية."
+        },
+        {
+          "name": "كتابة الإعلانات",
+          "description": "كتابة إعلانية مقنعة ومركزة على التحويل للصفحات المقصودة، البريد الإلكتروني، الإعلانات، ووصف المنتجات."
+        },
+        {
+          "name": "كتابة المحتوى",
+          "description": "مقالات، منشورات مدونة، ومحتوى طويل يُثقف جمهورك ويشركه."
+        },
+        {
+          "name": "التوثيق التقني",
+          "description": "توثيق واضح وشامل لواجهات API ومجموعات SDK والمنتجات الموجهة للمطورين."
+        }
+      ]
+    },
+    "process": {
+      "heading": "كيف أعمل",
+      "steps": [
+        {
+          "title": "الاستكشاف",
+          "description": "فهم أهدافك وجمهورك وكيف يبدو النجاح لمشروعك."
+        },
+        {
+          "title": "الاستراتيجية",
+          "description": "تخطيط النهج، اختيار الأدوات المناسبة، ورسم خريطة الطريق إلى الإطلاق."
+        },
+        {
+          "title": "التنفيذ",
+          "description": "البناء بدقة — كود نظيف، تصميم مدروس، ومتابعات منتظمة."
+        },
+        {
+          "title": "التسليم",
+          "description": "الإطلاق، القياس، والتكرار. أبقى مشاركًا للتأكد من أن كل شيء يعمل."
+        }
+      ]
+    },
+    "completed": {
+      "heading": "المشاريع المنجزة",
+      "items": [
+        {
+          "title": "كيف يغير الذكاء الاصطناعي التسويق",
+          "date": "2026-06-15",
+          "category": "تكنولوجيا",
+          "excerpt": "تحليل لكيفية تحوّل أدوات الذكاء الاصطناعي للتسويق الرقمي.",
+          "slug": "ai-marketing-2026"
+        },
+        {
+          "title": "تطوير الويب الحديث في 2026",
+          "date": "2026-05-20",
+          "category": "تكنولوجيا",
+          "excerpt": "الأدوات والأطر والممارسات التي أستخدمها في تطوير الويب اليوم.",
+          "slug": "modern-web-dev"
+        }
+      ]
+    }
+  },
+  "articles": {
+    "heading": "مقالات",
+    "description": "أفكار حول الذكاء الاصطناعي وهندسة البرمجيات والتسويق الحديث. أكتب عما أبنيه وما أتعلمه وإلى أين تتجه التكنولوجيا.",
+    "cta": "تواصل معي",
+    "filter": {
+      "all": "الكل",
+      "label": "التصنيف"
+    },
+    "empty": "لا توجد مقالات في هذا التصنيف.",
+    "readMore": "اقرأ المزيد",
+    "readingTime": "{minutes} دقائق قراءة",
+    "backToList": "← العودة للمقالات"
+  },
+  "contact": {
+    "heading": "اتصل بي",
+    "description": "لنتحدث. سواء كان لديك مشروع في ذهنك، أو سؤال، أو تريد فقط التواصل — أنا هنا.",
+    "subtitle": "يمكنك أن تجدني على:",
+    "emailCTA": {
+      "heading": "لنتحدث",
+      "button": "أرسل لي بريدًا إلكترونيًا",
+      "responseTime": "أرد عادةً خلال 24 ساعة"
+    },
+    "links": [
+      {
+        "platform": "Instagram",
+        "url": "https://instagram.com/alexistdev",
+        "label": "Instagram — @alexistdev"
+      },
+      {
+        "platform": "X (Twitter)",
+        "url": "https://x.com/alexistdev",
+        "label": "X — @alexistdev"
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "https://linkedin.com/in/atsardoulias",
+        "label": "LinkedIn — /in/atsardoulias"
+      },
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/alexistdev",
+        "label": "GitHub — @alexistdev"
+      },
+      {
+        "platform": "Substack",
+        "url": "https://alexistdev.substack.com",
+        "label": "Substack — alexistdev"
+      },
+      {
+        "platform": "Facebook",
+        "url": "https://facebook.com/alexistdev",
+        "label": "Facebook — @alexistdev"
+      },
+      {
+        "platform": "Threads",
+        "url": "https://threads.net/@alexistdev",
+        "label": "Threads — @alexistdev"
+      },
+      {
+        "platform": "Reddit",
+        "url": "https://reddit.com/user/alexistdev",
+        "label": "Reddit — u/alexistdev"
+      },
+      {
+        "platform": "Email",
+        "url": "mailto:hello@alexist.dev",
+        "label": "Email — hello@alexist.dev"
+      },
+      {
+        "platform": "Discord",
+        "url": "https://discord.gg/alexistdev",
+        "label": "Discord — @alexistdev"
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© {year} Alexandros Tsardoulias",
+    "builtWith": "مبني باستخدام Next.js و Tailwind",
+    "backToTop": "العودة للأعلى"
+  },
+  "theme": {
+    "light": "فاتح",
+    "dark": "داكن",
+    "toggle": "تبديل المظهر"
+  },
+  "language": {
+    "label": "اللغة",
+    "el": "Ελληνικά",
+    "en": "English",
+    "ru": "Русский",
+    "de": "Deutsch",
+    "fr": "Français",
+    "it": "Italiano",
+    "es": "Español",
+    "tr": "Türkçe",
+    "pl": "Polski",
+    "nl": "Nederlands",
+    "ua": "Українська",
+    "il": "עברית",
+    "ae": "العربية"
+  },
+  "common": {
+    "loading": "جاري التحميل…",
+    "error": "حدث خطأ ما.",
+    "retry": "حاول مجددًا",
+    "back": "← رجوع",
+    "readMore": "اقرأ المزيد"
+  }
+}
