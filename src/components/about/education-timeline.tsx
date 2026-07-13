@@ -11,14 +11,7 @@ interface EducationItem {
 export function EducationTimeline() {
   const t = useTranslations('about.education');
 
-  const items: EducationItem[] = [
-    {
-      year: t('items.0.year'),
-      institution: t('items.0.institution'),
-      degree: t('items.0.degree'),
-      description: t('items.0.description'),
-    },
-  ];
+  const items: EducationItem[] = t.raw('items') as EducationItem[];
 
   return (
     <section>

@@ -4,14 +4,12 @@ import { BriefcaseBusiness } from 'lucide-react';
 export function WorkTimeline() {
   const t = useTranslations('about.work');
 
-  const items = [
-    {
-      year: t('items.0.year'),
-      company: t('items.0.company'),
-      role: t('items.0.role'),
-      description: t('items.0.description'),
-    },
-  ];
+  const items = t.raw('items') as Array<{
+    year: string;
+    company: string;
+    role: string;
+    description: string;
+  }>;
 
   return (
     <section>
