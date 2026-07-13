@@ -13,7 +13,6 @@ const SOCIAL_LINKS = [
   { platform: 'Threads', url: 'https://www.threads.com/@alekostsardoulias', label: 'Threads' },
   { platform: 'Reddit', url: 'https://www.reddit.com/user/thenodearchitect_gr/', label: 'Reddit' },
   { platform: 'Medium', url: 'https://medium.com/@alexandrostsardoulias', label: 'Medium' },
-  { platform: 'Email', url: 'mailto:alexandrostsardoulias@protonmail.com', label: 'Email' },
   { platform: 'Discord', url: 'https://discord.gg/alexistdev', label: 'Discord' },
 ];
 

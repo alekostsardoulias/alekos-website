@@ -1,97 +1,184 @@
 import { useTranslations } from 'next-intl';
 import { PageLayout } from '@/components/page-layout';
 import { BrandIcon } from '@/components/ui/brand-icon';
+import { Share2 } from 'lucide-react';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Contact',
   description:
-    'Contact Alexandros Tsardoulias — social media links.',
+    'Contact Alexandros Tsardoulias — email, social media, articles, and Discord.',
 };
 
-const brandHover: Record<string, string> = {
+const EMAIL = 'alexandrostsardoulias@protonmail.com';
+
+interface PlatformLink {
+  platform: string;
+  url: string;
+}
+
+const SOCIAL_LINKS: PlatformLink[] = [
+  { platform: 'Instagram', url: 'https://www.instagram.com/alekostsardoulias/' },
+  { platform: 'X (Twitter)', url: 'https://x.com/alextsardoulias' },
+  { platform: 'LinkedIn', url: 'https://www.linkedin.com/in/alexandros-tsardoulias-02639841b/' },
+  { platform: 'Facebook', url: 'https://www.facebook.com/alekostsardoulias/' },
+  { platform: 'Reddit', url: 'https://www.reddit.com/user/thenodearchitect_gr/' },
+  { platform: 'Threads', url: 'https://www.threads.com/@alekostsardoulias' },
+];
+
+const ARTICLE_LINKS: PlatformLink[] = [
+  { platform: 'Medium', url: 'https://medium.com/@alexandrostsardoulias' },
+  { platform: 'Substack', url: 'https://substack.com/@alexandrostsardoulias' },
+];
+
+const DISCORD_URL = 'https://discord.gg/alexistdev';
+
+const pillHover: Record<string, string> = {
   Instagram:
-    'hover:border-pink-400/30 group-hover:border-pink-400/30 hover:text-pink-400 group-hover:text-pink-400',
+    'hover:border-pink-400/40 hover:bg-pink-500/15 hover:text-pink-400',
   'X (Twitter)':
-    'hover:border-blue-400/30 group-hover:border-blue-400/30 hover:text-blue-400 group-hover:text-blue-400',
+    'hover:border-gray-300/40 hover:bg-gray-400/15 hover:text-gray-300',
   LinkedIn:
-    'hover:border-blue-500/30 group-hover:border-blue-500/30 hover:text-blue-500 group-hover:text-blue-500',
-  GitHub:
-    'hover:border-purple-400/30 group-hover:border-purple-400/30 hover:text-purple-400 group-hover:text-purple-400',
+    'hover:border-blue-400/40 hover:bg-blue-500/15 hover:text-blue-400',
+  Facebook:
+    'hover:border-blue-500/40 hover:bg-blue-500/15 hover:text-blue-500',
+  Reddit:
+    'hover:border-orange-400/40 hover:bg-orange-500/15 hover:text-orange-400',
+  Threads:
+    'hover:border-white/40 hover:bg-white/15 hover:text-white',
   Medium:
-    'hover:border-green-400/30 group-hover:border-green-400/30 hover:text-green-400 group-hover:text-green-400',
-  Email:
-    'hover:border-red-400/30 group-hover:border-red-400/30 hover:text-red-400 group-hover:text-red-400',
+    'hover:border-green-400/40 hover:bg-green-500/15 hover:text-green-400',
+  Substack:
+    'hover:border-orange-500/40 hover:bg-orange-500/15 hover:text-orange-500',
 };
 
-const defaultHover =
-  'hover:border-purple-400/20 group-hover:border-purple-400/20 hover:text-purple-400 group-hover:text-purple-400';
+const defaultPillHover =
+  'hover:border-white/20 hover:bg-white/10 hover:text-white';
 
 export default function ContactPage() {
   const t = useTranslations('contact');
 
-  const links = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10].map((i) => ({
-    platform: t(`links.${i}.platform`),
-    url: t(`links.${i}.url`),
-    label: t(`links.${i}.label`),
-  }));
-
   return (
     <PageLayout>
+      <div className="flex flex-col gap-8">
 
-      {/* Medium CTA Card */}
-      <section>
-      <div className="rounded-2xl border border-green-400/10 bg-gradient-to-r from-green-500/5 to-emerald-500/5 backdrop-blur-sm p-8 text-center">
-        <div className="inline-flex items-center justify-center w-14 h-14 rounded-xl bg-green-500/10 text-green-400 mb-4">
-          <BrandIcon platform="Medium" size={28} />
-        </div>
-        <h2 className="text-3xl font-semibold text-text-primary mb-2">
-          {t('mediumCTA.heading')}
-        </h2>
-        <p className="text-lg text-text-secondary mb-4">medium.com/@alexandrostsardoulias</p>
-        <a
-          href="https://medium.com/@alexandrostsardoulias"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="inline-flex items-center gap-2 rounded-lg border border-green-400/20 bg-green-500/10 px-5 py-2.5 text-lg font-medium text-green-400
-                     transition-all duration-200 hover:bg-green-500/20 hover:border-green-400/30 motion-safe:hover:scale-[1.02]"
-        >
-          <BrandIcon platform="Medium" size={16} />
-          {t('mediumCTA.button')}
-        </a>
-        <p className="mt-4 text-lg text-text-tertiary">
-          {t('mediumCTA.description')}
-        </p>
-      </div>
-      </section>
-
-      {/* Social Links Grid */}
-      <section>
-      <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 w-full">
-        {links.map((link, i) => {
-          const hoverClass = brandHover[link.platform] ?? defaultHover;
-
-          return (
+        {/* Email Box (blue) */}
+        <section>
+          <div className="rounded-2xl border border-blue-400/10 bg-gradient-to-r from-blue-500/5 to-cyan-500/5 backdrop-blur-sm p-8 text-center">
+            <div className="inline-flex items-center justify-center w-14 h-14 rounded-xl bg-blue-500/10 text-blue-400 mb-4">
+              <BrandIcon platform="Email" size={28} />
+            </div>
+            <h2 className="text-3xl font-semibold text-text-primary mb-2">
+              {t('email.heading')}
+            </h2>
+            <p className="text-lg text-text-secondary mb-4">{EMAIL}</p>
             <a
-              key={i}
-              href={link.url}
+              href={`mailto:${EMAIL}`}
+              className="inline-flex items-center gap-2 rounded-lg border border-blue-400/20 bg-blue-500/10 px-5 py-2.5 text-lg font-medium text-blue-400
+                         transition-all duration-200 hover:bg-blue-500/20 hover:border-blue-400/30 motion-safe:hover:scale-[1.02]"
+            >
+              <BrandIcon platform="Email" size={16} />
+              {t('email.button')}
+            </a>
+            <p className="mt-4 text-lg text-text-tertiary">
+              {t('email.description')}
+            </p>
+          </div>
+        </section>
+
+        {/* Social Media Box (pink) */}
+        <section>
+          <div className="rounded-2xl border border-pink-400/10 bg-gradient-to-r from-pink-500/5 to-rose-500/5 backdrop-blur-sm p-8 text-center">
+            <div className="inline-flex items-center justify-center w-14 h-14 rounded-xl bg-pink-500/10 text-pink-400 mb-4">
+              <Share2 size={28} />
+            </div>
+            <h2 className="text-3xl font-semibold text-text-primary mb-6">
+              {t('social.heading')}
+            </h2>
+            <div className="flex flex-wrap items-center justify-center gap-3 mb-2">
+              {SOCIAL_LINKS.map((link) => {
+                const hover = pillHover[link.platform] ?? defaultPillHover;
+                return (
+                  <a
+                    key={link.platform}
+                    href={link.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className={`inline-flex items-center gap-2 rounded-lg border border-pink-400/10 bg-pink-500/5 px-4 py-2 text-base font-medium text-pink-300
+                                transition-all duration-200 ${hover} motion-safe:hover:scale-[1.02]`}
+                  >
+                    <BrandIcon platform={link.platform} size={16} />
+                    {link.platform === 'X (Twitter)' ? 'X' : link.platform}
+                  </a>
+                );
+              })}
+            </div>
+            <p className="mt-4 text-lg text-text-tertiary">
+              {t('social.description')}
+            </p>
+          </div>
+        </section>
+
+        {/* Articles Box (green) */}
+        <section>
+          <div className="rounded-2xl border border-green-400/10 bg-gradient-to-r from-green-500/5 to-emerald-500/5 backdrop-blur-sm p-8 text-center">
+            <div className="inline-flex items-center justify-center w-14 h-14 rounded-xl bg-green-500/10 text-green-400 mb-4">
+              <BrandIcon platform="Medium" size={28} />
+            </div>
+            <h2 className="text-3xl font-semibold text-text-primary mb-6">
+              {t('articles.heading')}
+            </h2>
+            <div className="flex flex-wrap items-center justify-center gap-3 mb-2">
+              {ARTICLE_LINKS.map((link) => {
+                const hover = pillHover[link.platform] ?? defaultPillHover;
+                return (
+                  <a
+                    key={link.platform}
+                    href={link.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className={`inline-flex items-center gap-2 rounded-lg border border-green-400/10 bg-green-500/5 px-4 py-2 text-base font-medium text-green-300
+                                transition-all duration-200 ${hover} motion-safe:hover:scale-[1.02]`}
+                  >
+                    <BrandIcon platform={link.platform} size={16} />
+                    {link.platform}
+                  </a>
+                );
+              })}
+            </div>
+            <p className="mt-4 text-lg text-text-tertiary">
+              {t('articles.description')}
+            </p>
+          </div>
+        </section>
+
+        {/* Discord Box (purple) */}
+        <section>
+          <div className="rounded-2xl border border-purple-400/10 bg-gradient-to-r from-purple-500/5 to-violet-500/5 backdrop-blur-sm p-8 text-center">
+            <div className="inline-flex items-center justify-center w-14 h-14 rounded-xl bg-purple-500/10 text-purple-400 mb-4">
+              <BrandIcon platform="Discord" size={28} />
+            </div>
+            <h2 className="text-3xl font-semibold text-text-primary mb-2">
+              {t('discord.heading')}
+            </h2>
+            <p className="text-lg text-text-secondary mb-4">discord.gg/alexistdev</p>
+            <a
+              href={DISCORD_URL}
               target="_blank"
               rel="noopener noreferrer"
-              className={`group flex items-center gap-4 p-4 rounded-xl border border-white/[0.06] bg-white/[0.02]
-                          transition-all duration-200 motion-safe:hover:scale-[1.005] ${hoverClass}`}
+              className="inline-flex items-center gap-2 rounded-lg border border-purple-400/20 bg-purple-500/10 px-5 py-2.5 text-lg font-medium text-purple-400
+                         transition-all duration-200 hover:bg-purple-500/20 hover:border-purple-400/30 motion-safe:hover:scale-[1.02]"
             >
-              <span className="shrink-0 w-10 h-10 rounded-lg bg-white/[0.04] flex items-center justify-center
-                               text-text-secondary transition-colors duration-200">
-                <BrandIcon platform={link.platform} size={20} />
-              </span>
-              <span className="font-medium text-lg text-text-primary transition-colors duration-200">
-                {link.platform}
-              </span>
+              <BrandIcon platform="Discord" size={16} />
+              {t('discord.button')}
             </a>
-          );
-        })}
+            <p className="mt-4 text-lg text-text-tertiary">
+              {t('discord.description')}
+            </p>
+          </div>
+        </section>
+
       </div>
-      </section>
     </PageLayout>
   );
 }
