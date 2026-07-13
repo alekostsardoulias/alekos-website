@@ -4,7 +4,7 @@
  */
 
 /** Path to the hero image shown on every page */
-export const HERO_IMAGE = '/images/hero.jpg';
+export const HERO_IMAGE = '/images/profile.webp';
 
 /** Site URL for metadata and sitemap */
 export const SITE_URL = 'https://alexist.dev';
