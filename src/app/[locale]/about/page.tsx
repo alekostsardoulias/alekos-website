@@ -7,6 +7,7 @@ import {
   Sparkles,
   Heart,
   BookOpen,
+  User,
 } from 'lucide-react';
 import { getTranslations } from 'next-intl/server';
 import type { Metadata } from 'next';
@@ -33,8 +34,12 @@ export default async function AboutPage() {
 
   return (
     <PageLayout>
-      <HeroSection headingKey="heading" headingNamespace="about" largeImage>
+      <HeroSection headingKey="heading" headingNamespace="about" largeImage hideTitle>
           <div className="mt-4 space-y-4 rounded-xl border border-white/[0.06] bg-white/[0.02] backdrop-blur-sm p-5 md:p-6 max-h-full overflow-y-auto">
+          <span className="inline-flex items-center justify-center w-9 h-9 rounded-lg bg-purple-500/10 text-purple-400 border border-purple-500/20">
+            <User size={18} aria-hidden="true" />
+          </span>
+          <h3 className="text-xl font-semibold text-foreground">{t('heading')}</h3>
           {(t.raw('bio.paragraphs') as string[]).map((paragraph, i) => (
             <p key={i} className="text-xl md:text-2xl leading-relaxed text-muted">
               {paragraph}
