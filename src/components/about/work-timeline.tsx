@@ -13,7 +13,7 @@ export function WorkTimeline() {
 
   return (
     <section>
-      <h2 className="text-2xl font-semibold text-foreground mb-6">
+      <h2 className="text-3xl font-semibold text-foreground mb-6">
         <BriefcaseBusiness size={20} className="inline me-2" aria-hidden="true" />
         {t('heading')}
       </h2>
@@ -28,7 +28,7 @@ export function WorkTimeline() {
               {item.year}
             </span>
             <div className="min-w-0">
-              <h3 className="text-lg font-semibold text-foreground leading-snug">
+              <h3 className="text-xl font-semibold text-foreground leading-snug">
                 {item.role}
               </h3>
               <p className="text-lg text-muted leading-snug">{item.company}</p>

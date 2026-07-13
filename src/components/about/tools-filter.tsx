@@ -40,7 +40,7 @@ export function ToolsFilter({
 
   return (
     <section className="border-t border-border pt-8">
-      <h2 className="text-2xl font-semibold text-foreground mb-6">{heading}</h2>
+      <h2 className="text-3xl font-semibold text-foreground mb-6">{heading}</h2>
 
       {/* Search bar */}
       <div className="relative mb-6">

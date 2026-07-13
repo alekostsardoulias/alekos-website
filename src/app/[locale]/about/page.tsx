@@ -45,7 +45,7 @@ export default async function AboutPage() {
 
       {/* Philosophy section */}
       <section>
-        <h2 className="text-2xl font-semibold text-foreground mb-6">
+        <h2 className="text-3xl font-semibold text-foreground mb-6">
           {t('philosophy.heading')}
         </h2>
         <div className="grid gap-4 sm:grid-cols-3">
@@ -62,7 +62,7 @@ export default async function AboutPage() {
                 >
                   <Icon size={18} aria-hidden="true" />
                 </span>
-                <h3 className="text-lg font-semibold text-foreground mb-1.5">
+                <h3 className="text-xl font-semibold text-foreground mb-1.5">
                   {item.title}
                 </h3>
                 <p className="text-lg text-muted leading-relaxed">{item.description}</p>

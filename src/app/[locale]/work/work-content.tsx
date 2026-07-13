@@ -118,7 +118,7 @@ export function WorkContent({
                 <div className={iconContainer}>
                   <Icon className={`w-5 h-5 ${config.color}`} />
                 </div>
-                <h3 className="text-lg font-semibold text-text-primary mb-1">
+                <h3 className="text-xl font-semibold text-text-primary mb-1">
                   {service.name}
                 </h3>
                 <p className="text-lg text-text-secondary leading-relaxed">
@@ -132,7 +132,7 @@ export function WorkContent({
 
       {/* ── How I Work ────────────────────────────────────────────── */}
       <section>
-        <h2 className="text-2xl font-semibold text-text-primary mb-8">
+        <h2 className="text-3xl font-semibold text-text-primary mb-8">
           {processHeading}
         </h2>
         <div className="relative">
@@ -150,7 +150,7 @@ export function WorkContent({
                 <div className={iconContainer}>
                   <StepIcon className={`w-5 h-5 ${color}`} />
                 </div>
-                <h3 className="text-lg font-semibold text-text-primary mb-1">
+                <h3 className="text-xl font-semibold text-text-primary mb-1">
                   {t(`process.steps.${i}.title`)}
                 </h3>
                 <p className="text-lg text-text-secondary leading-relaxed">
@@ -171,7 +171,7 @@ export function WorkContent({
       <section className="pt-8 border-t border-white/[0.06]">
         <div className="flex items-center gap-2 mb-6">
           <CheckCircle size={20} className="text-green-400 shrink-0" />
-          <h2 className="text-2xl font-semibold text-text-primary">
+          <h2 className="text-3xl font-semibold text-text-primary">
             {completedHeading}
           </h2>
         </div>
@@ -189,7 +189,7 @@ export function WorkContent({
                   </span>
                 </div>
 
-                <h3 className="text-lg font-semibold text-text-primary mb-2 group-hover:text-purple-300 transition-colors">
+                <h3 className="text-xl font-semibold text-text-primary mb-2 group-hover:text-purple-300 transition-colors">
                   {item.title}
                 </h3>
                 <p className="text-lg text-text-secondary leading-relaxed line-clamp-2">

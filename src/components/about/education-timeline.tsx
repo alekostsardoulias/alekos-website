@@ -15,7 +15,7 @@ export function EducationTimeline() {
 
   return (
     <section>
-      <h2 className="text-2xl font-semibold text-foreground mb-6">
+      <h2 className="text-3xl font-semibold text-foreground mb-6">
         <GraduationCap size={20} className="inline me-2" aria-hidden="true" />
         {t('heading')}
       </h2>
@@ -30,7 +30,7 @@ export function EducationTimeline() {
               {item.year}
             </span>
             <div className="min-w-0">
-              <h3 className="text-lg font-semibold text-foreground leading-snug">
+              <h3 className="text-xl font-semibold text-foreground leading-snug">
                 {item.degree}
               </h3>
               <p className="text-lg text-muted leading-snug">{item.institution}</p>

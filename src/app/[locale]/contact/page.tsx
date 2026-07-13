@@ -43,7 +43,7 @@ export default function ContactPage() {
         <div className="inline-flex items-center justify-center w-14 h-14 rounded-xl bg-purple-500/10 text-purple-400 mb-4">
           <Mail size={28} />
         </div>
-        <h2 className="text-2xl font-semibold text-text-primary mb-2">
+        <h2 className="text-3xl font-semibold text-text-primary mb-2">
           {t('emailCTA.heading')}
         </h2>
         <p className="text-lg text-text-secondary mb-4">hello@alexist.dev</p>

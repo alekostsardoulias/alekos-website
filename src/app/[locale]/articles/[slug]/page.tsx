@@ -56,7 +56,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
         </Link>
 
         <header className="mb-8">
-          <h1 className="text-3xl md:text-4xl font-bold tracking-tight text-foreground mb-3">
+          <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-foreground mb-3">
             {article.title}
           </h1>
           <div className="flex items-center gap-3">
