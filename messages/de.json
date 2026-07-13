@@ -1,190 +1,74 @@
 {
-  "nav": {
-    "home": "Start",
-    "about": "Über mich",
-    "work": "Leistungen",
-    "articles": "Artikel",
-    "contact": "Kontakt"
-  },
+  "nav": {"home": "Startseite", "about": "Über mich", "work": "Arbeit", "articles": "Artikel", "contact": "Kontakt"},
   "hero": {
-    "greeting": "👋 Hello, World!",
+    "greeting": "👋 Hallo, Welt!",
     "name": "Alexandros Tsardoulias",
-    "title": "AI-Native Software Engineer & Marketing Specialist",
-    "description": "Ich helfe Gründern, Startups, KMUs und NGOs, ihre Ziele zu erreichen, indem ich Technologie, Philosophie, Wachstumsstrategie und bewährte Kommunikationspraktiken verbinde.",
-    "cta": "Meine Arbeit",
-    "ctaSecondary": "Kontakt"
+    "title": "KI-nativer Softwareentwickler & Marketing-Spezialist",
+    "description": "Ich helfe Gründern, Startups, KMUs und NGOs, ihre Ziele zu erreichen, indem ich Technologie, Philosophie, Wachstumsstrategie und beste Kommunikationspraktiken verbinde.",
+    "cta": "Meine Arbeit ansehen",
+    "ctaSecondary": "Kontakt aufnehmen"
   },
   "home": {
     "summaries": {
-      "about": {
-        "heading": "Über mich",
-        "description": "Wer ich bin, was ich studiert habe, wo ich gearbeitet habe."
-      },
-      "work": {
-        "heading": "Was ich mache",
-        "description": "Dienstleistungen und abgeschlossene Projekte."
-      },
-      "articles": {
-        "heading": "Artikel",
-        "description": "Gedanken zu KI, Marketing und Technologie."
-      },
-      "contact": {
-        "heading": "Kontakt",
-        "description": "Finde mich in den sozialen Medien."
-      }
+      "about": {"heading": "Über mich", "description": "Wer ich bin, was ich studiert habe, wo ich gearbeitet habe."},
+      "work": {"heading": "Was ich mache", "description": "Dienstleistungen und abgeschlossene Projekte."},
+      "articles": {"heading": "Artikel", "description": "Gedanken zu KI, Marketing und Technologie."},
+      "contact": {"heading": "Kontakt", "description": "Finde mich in den sozialen Medien."}
     },
     "servicesOverview": {
       "heading": "Was ich mache",
       "items": [
-        {
-          "title": "Softwareentwicklung",
-          "description": "Maßgeschneiderte Web- und Mobile-Apps für Ihre Anforderungen. Schnell, responsiv, kostenoptimiert, SEO-bereit."
-        },
-        {
-          "title": "Marketing & Growth",
-          "description": "Go-to-Market-Strategie, Marketing-Automatisierung, Copy- und Content-Writing sowie konversionsorientierte Kampagnen, die Ergebnisse liefern."
-        },
-        {
-          "title": "KI & Automatisierung",
-          "description": "KI-Integration, Workflow-Automatisierung und intelligente Systeme, die Ihr Unternehmen skalieren."
-        },
-        {
-          "title": "Strategie & Beratung",
-          "description": "Technische Beratung, Architekturentscheidungen und Produktstrategie für moderne Unternehmen."
-        }
+        {"title": "Softwareentwicklung", "description": "Maßgeschneiderte Web- und Mobile-Apps für Ihre Anforderungen. Schnell, responsiv, kostenoptimiert, SEO-bereit."},
+        {"title": "Marketing & Wachstum", "description": "Go-to-Market-Strategie, Marketing-Automatisierung, Copy- und Content-Writing sowie konversionsstarke Kampagnen, die Ergebnisse liefern."},
+        {"title": "KI & Automatisierung", "description": "KI-Integration, Workflow-Automatisierung und intelligente Systeme, die Ihr Unternehmen skalieren."},
+        {"title": "Strategie & Beratung", "description": "Technische Beratung, Architekturentscheidungen und Produktstrategie für moderne Unternehmen."}
       ]
     },
     "featured": {
-      "heading": "Ausgewählte Arbeiten",
-      "viewProject": "Projekt ansehen",
+      "heading": "Ausgewählte Arbeiten", "viewProject": "Projekt ansehen",
       "items": [
-        {
-          "title": "Wie KI das Marketing verändert",
-          "category": "Technologie",
-          "description": "Eine Analyse, wie KI-Tools digitale Marketingstrategien im Jahr 2026 transformieren."
-        },
-        {
-          "title": "Moderne Webentwicklung 2026",
-          "category": "Technologie",
-          "description": "Die Tools, Frameworks und Praktiken, die ich heute für die Webentwicklung nutze."
-        },
-        {
-          "title": "E-Commerce Redesign Case Study",
-          "category": "Case Study",
-          "description": "Wie ich eine E-Commerce-Plattform für bessere UX und 40% höhere Conversion redesignt habe."
-        }
+        {"title": "Wie KI das Marketing verändert", "category": "Technologie", "description": "Eine Analyse, wie KI-Tools digitale Marketingstrategien im Jahr 2026 transformieren."},
+        {"title": "Moderne Webentwicklung 2026", "category": "Technologie", "description": "Die Tools, Frameworks und Praktiken, die ich heute für die Webentwicklung nutze."},
+        {"title": "E-Commerce Redesign Fallstudie", "category": "Fallstudie", "description": "Wie ich eine E-Commerce-Plattform für bessere UX und 40% höhere Conversion neu gestaltet habe."}
       ],
-      "cta": {
-        "heading": "Lassen Sie uns zusammenarbeiten",
-        "subtitle": "Haben Sie ein Projekt im Sinn? Lassen Sie uns etwas Großartiges bauen.",
-        "button": "Kontakt aufnehmen"
-      }
+      "cta": {"heading": "Lassen Sie uns zusammenarbeiten", "subtitle": "Haben Sie ein Projekt im Kopf? Lassen Sie uns etwas Großartiges bauen.", "button": "Kontakt aufnehmen"}
     },
     "stats": {
       "heading": "In Zahlen",
       "items": [
-        {
-          "value": "50+",
-          "label": "Abgeschlossene Projekte"
-        },
-        {
-          "value": "5+",
-          "label": "Jahre Erfahrung"
-        },
-        {
-          "value": "100+",
-          "label": "Tools & Technologien"
-        },
-        {
-          "value": "200+",
-          "label": "Artikel verfasst"
-        }
+        {"value": "50+", "label": "Projekte abgeschlossen"},
+        {"value": "5+", "label": "Jahre Erfahrung"},
+        {"value": "100+", "label": "Tools & Technologien"},
+        {"value": "200+", "label": "Artikel geschrieben"}
       ]
     }
   },
   "about": {
-    "heading": "Über mich",
+    "heading": "Wer ich bin",
     "description": "Eine Mischung aus technischer Präzision und Marketing-Intuition. Ich baue KI-native Produkte, schreibe Code, der zählt, und helfe Unternehmen, ihre Stimme im digitalen Raum zu finden.",
-    "cta": "Meine Arbeit",
-    "bio": {
-      "paragraphs": [
-        "Ich helfe Gründern, Startups, KMUs und NGOs, ihre Ziele zu erreichen, indem ich Technologie, Philosophie, Wachstumsstrategie und Best Practices der Kommunikation verbinde. Mit meiner Arbeit verwandle ich Ideen in skalierbare digitale Produkte und umsatzgenerierende Systeme.",
-        "Jedes von mir geleitete Projekt kombiniert messbare technische Ergebnisse mit umsatzwirksamem Marketing — Kunden erhalten sowohl eine robuste digitale Infrastruktur als auch messbares Geschäftswachstum. Ich schreibe nicht nur Code für Web-Apps oder verwalte Social Media und E-Mails — ich baue ganzheitliche Systeme, die messbare Ergebnisse liefern. Ich betrachte die technische Architektur eines Produkts und seine Go-to-Market-Strategie als ein Problem, nicht als zwei."
-      ]
-    },
+    "cta": "Meine Arbeit ansehen",
+    "bio": {"paragraphs": ["Ich bin ein interdisziplinärer Ingenieur, Vermarkter und Forscher, der Gründern, Startups, KMUs und NGOs hilft, ihre Ziele zu erreichen, indem ich Technologie, Philosophie, Wachstumsstrategie und beste Kommunikationspraktiken verbinde. Mit meiner Arbeit verwandle ich Ideen in skalierbare digitale Produkte und umsatzgenerierende Systeme.","Ich schreibe nicht nur Code für Webanwendungen oder verwalte soziale Medien und E-Mails — ich baue ganzheitliche Systeme, die messbare Ergebnisse liefern. Ich behandle die technische Architektur eines Produkts und seine Go-to-Market-Strategie als ein Problem, nicht als zwei."]},
     "education": {
       "heading": "Ausbildung",
       "items": [
-        {
-          "year": "2020 – Present",
-          "institution": "freeCodeCamp, roadmaps.sh, YouTube",
-          "degree": "Computer Software Engineering",
-          "description": ""
-        },
-        {
-          "year": "2024 – 2025",
-          "institution": "University of Nicosia",
-          "degree": "Blockchain, Kryptowährungen, NFTs und das Metaverse",
-          "description": ""
-        },
-        {
-          "year": "2023 – 2024",
-          "institution": "Knowcrunch",
-          "degree": "Digitales Marketing",
-          "description": ""
-        },
-        {
-          "year": "2020 – 2024",
-          "institution": "Queen Margaret University",
-          "degree": "Marketing Management",
-          "description": ""
-        },
-        {
-          "year": "2019 – 2023",
-          "institution": "University of Patras",
-          "degree": "Philosophie",
-          "description": ""
-        }
+        {"year": "2020 – Heute", "institution": "freeCodeCamp, roadmaps.sh, YouTube", "degree": "Computer Software Engineering", "description": ""},
+        {"year": "2024 – 2025", "institution": "Universität von Nikosia", "degree": "Blockchain, Kryptowährungen, NFTs und das Metaverse", "description": ""},
+        {"year": "2023 – 2024", "institution": "Knowcrunch", "degree": "Digitales Marketing", "description": ""},
+        {"year": "2020 – 2024", "institution": "Queen Margaret University", "degree": "Marketing Management", "description": ""},
+        {"year": "2019 – 2023", "institution": "Universität Patras", "degree": "Philosophie", "description": ""}
       ]
     },
     "work": {
       "heading": "Berufserfahrung",
       "items": [
-        {
-          "year": "Jul 2025 – Present",
-          "company": "Freelance",
-          "role": "AI-Native Software Engineer & Marketing Specialist",
-          "description": ""
-        },
-        {
-          "year": "Jul 2021 – Jul 2025",
-          "company": "Corporate Roles & Freelance",
-          "role": "Digital Marketer, UI/UX & Graphic Designer, Copywriter",
-          "description": ""
-        },
-        {
-          "year": "Sep 2023 – May 2025",
-          "company": "Volunteering",
-          "role": "Tutor für Business- & Marketing-Studenten",
-          "description": ""
-        }
+        {"year": "Jul 2025 – Heute", "company": "Freiberuflich", "role": "KI-nativer Softwareentwickler & Marketing-Spezialist", "description": ""},
+        {"year": "Jul 2021 – Jul 2025", "company": "Unternehmensrollen & Freiberuflich", "role": "Digital Marketer, UI/UX & Grafikdesigner, Werbetexter", "description": ""},
+        {"year": "Sep 2023 – Mai 2025", "company": "Ehrenamt", "role": "Tutor für Betriebswirtschafts- & Marketingstudenten", "description": ""}
       ]
     },
     "tools": {
-      "heading": "Technologien & Tools",
-      "allLabel": "Alle",
-      "empty": "Keine Tools in dieser Kategorie gefunden.",
-      "categories": [
-        "Programmiersprachen",
-        "Front-End & UI/UX",
-        "Back-End & Datenbanken",
-        "DevOps & CI/CD",
-        "Marketing & Analytics",
-        "Design & Kreativ",
-        "KI-Werkzeuge",
-        "Automatisierungstools",
-        "Projekt- & Wissensmanagement-Tools"
-      ],
+      "heading": "Technologien & Tools", "allLabel": "Alle", "empty": "Keine Tools in dieser Kategorie gefunden.",
+      "categories": ["Programmiersprachen", "Front-End & UI/UX", "Back-End & Datenbanken", "DevOps & CI/CD", "Marketing & Analytik", "Design & Kreativ", "KI-Tools", "Automatisierungstools", "Projekt- & Wissensmanagement-Tools"],
       "items": [
         {"name": "HTML", "category": "Programmiersprachen"},
         {"name": "CSS", "category": "Programmiersprachen"},
@@ -253,49 +137,49 @@
         {"name": "Terraform", "category": "DevOps & CI/CD"},
         {"name": "Kubernetes", "category": "DevOps & CI/CD"},
         {"name": "Ansible", "category": "DevOps & CI/CD"},
-        {"name": "Google Ads", "category": "Marketing & Analytics"},
-        {"name": "Meta Ads Manager", "category": "Marketing & Analytics"},
-        {"name": "TikTok Ads Manager", "category": "Marketing & Analytics"},
-        {"name": "LinkedIn Campaign Manager", "category": "Marketing & Analytics"},
-        {"name": "AdRoll", "category": "Marketing & Analytics"},
-        {"name": "Smartly.io", "category": "Marketing & Analytics"},
-        {"name": "Google Analytics", "category": "Marketing & Analytics"},
-        {"name": "Mixpanel", "category": "Marketing & Analytics"},
-        {"name": "Amplitude", "category": "Marketing & Analytics"},
-        {"name": "Adobe Analytics", "category": "Marketing & Analytics"},
-        {"name": "Semrush", "category": "Marketing & Analytics"},
-        {"name": "Ahrefs", "category": "Marketing & Analytics"},
-        {"name": "Google Search Console", "category": "Marketing & Analytics"},
-        {"name": "Google Keyword Planner", "category": "Marketing & Analytics"},
-        {"name": "Surfer SEO", "category": "Marketing & Analytics"},
-        {"name": "Sitebulb", "category": "Marketing & Analytics"},
-        {"name": "BrightLocal", "category": "Marketing & Analytics"},
-        {"name": "HubSpot Marketing Hub", "category": "Marketing & Analytics"},
-        {"name": "Salesforce", "category": "Marketing & Analytics"},
-        {"name": "LinkedIn Sales Navigator", "category": "Marketing & Analytics"},
-        {"name": "Hootsuite", "category": "Marketing & Analytics"},
-        {"name": "Sprout Social", "category": "Marketing & Analytics"},
-        {"name": "Buffer", "category": "Marketing & Analytics"},
-        {"name": "Mailchimp", "category": "Marketing & Analytics"},
-        {"name": "Brevo", "category": "Marketing & Analytics"},
-        {"name": "Klaviyo", "category": "Marketing & Analytics"},
-        {"name": "Omnisend", "category": "Marketing & Analytics"},
-        {"name": "Kit", "category": "Marketing & Analytics"},
-        {"name": "beehiiv", "category": "Marketing & Analytics"},
-        {"name": "Substack", "category": "Marketing & Analytics"},
-        {"name": "Shopify", "category": "Marketing & Analytics"},
-        {"name": "WooCommerce", "category": "Marketing & Analytics"},
-        {"name": "BigCommerce", "category": "Marketing & Analytics"},
-        {"name": "Stripe", "category": "Marketing & Analytics"},
-        {"name": "Shopify Payments", "category": "Marketing & Analytics"},
-        {"name": "myPOS", "category": "Marketing & Analytics"},
-        {"name": "PostHog", "category": "Marketing & Analytics"},
-        {"name": "GrowthBook", "category": "Marketing & Analytics"},
-        {"name": "Eppo", "category": "Marketing & Analytics"},
-        {"name": "VWO (Visual Website Optimizer)", "category": "Marketing & Analytics"},
-        {"name": "AB Tasty", "category": "Marketing & Analytics"},
-        {"name": "Convert Experiences", "category": "Marketing & Analytics"},
-        {"name": "Crazy Egg", "category": "Marketing & Analytics"},
+        {"name": "Google Ads", "category": "Marketing & Analytik"},
+        {"name": "Meta Ads Manager", "category": "Marketing & Analytik"},
+        {"name": "TikTok Ads Manager", "category": "Marketing & Analytik"},
+        {"name": "LinkedIn Campaign Manager", "category": "Marketing & Analytik"},
+        {"name": "AdRoll", "category": "Marketing & Analytik"},
+        {"name": "Smartly.io", "category": "Marketing & Analytik"},
+        {"name": "Google Analytics", "category": "Marketing & Analytik"},
+        {"name": "Mixpanel", "category": "Marketing & Analytik"},
+        {"name": "Amplitude", "category": "Marketing & Analytik"},
+        {"name": "Adobe Analytics", "category": "Marketing & Analytik"},
+        {"name": "Semrush", "category": "Marketing & Analytik"},
+        {"name": "Ahrefs", "category": "Marketing & Analytik"},
+        {"name": "Google Search Console", "category": "Marketing & Analytik"},
+        {"name": "Google Keyword Planner", "category": "Marketing & Analytik"},
+        {"name": "Surfer SEO", "category": "Marketing & Analytik"},
+        {"name": "Sitebulb", "category": "Marketing & Analytik"},
+        {"name": "BrightLocal", "category": "Marketing & Analytik"},
+        {"name": "HubSpot Marketing Hub", "category": "Marketing & Analytik"},
+        {"name": "Salesforce", "category": "Marketing & Analytik"},
+        {"name": "LinkedIn Sales Navigator", "category": "Marketing & Analytik"},
+        {"name": "Hootsuite", "category": "Marketing & Analytik"},
+        {"name": "Sprout Social", "category": "Marketing & Analytik"},
+        {"name": "Buffer", "category": "Marketing & Analytik"},
+        {"name": "Mailchimp", "category": "Marketing & Analytik"},
+        {"name": "Brevo", "category": "Marketing & Analytik"},
+        {"name": "Klaviyo", "category": "Marketing & Analytik"},
+        {"name": "Omnisend", "category": "Marketing & Analytik"},
+        {"name": "Kit", "category": "Marketing & Analytik"},
+        {"name": "beehiiv", "category": "Marketing & Analytik"},
+        {"name": "Substack", "category": "Marketing & Analytik"},
+        {"name": "Shopify", "category": "Marketing & Analytik"},
+        {"name": "WooCommerce", "category": "Marketing & Analytik"},
+        {"name": "BigCommerce", "category": "Marketing & Analytik"},
+        {"name": "Stripe", "category": "Marketing & Analytik"},
+        {"name": "Shopify Payments", "category": "Marketing & Analytik"},
+        {"name": "myPOS", "category": "Marketing & Analytik"},
+        {"name": "PostHog", "category": "Marketing & Analytik"},
+        {"name": "GrowthBook", "category": "Marketing & Analytik"},
+        {"name": "Eppo", "category": "Marketing & Analytik"},
+        {"name": "VWO (Visual Website Optimizer)", "category": "Marketing & Analytik"},
+        {"name": "AB Tasty", "category": "Marketing & Analytik"},
+        {"name": "Convert Experiences", "category": "Marketing & Analytik"},
+        {"name": "Crazy Egg", "category": "Marketing & Analytik"},
         {"name": "Adobe Creative Cloud", "category": "Design & Kreativ"},
         {"name": "Figma", "category": "Design & Kreativ"},
         {"name": "Framer", "category": "Design & Kreativ"},
@@ -311,25 +195,25 @@
         {"name": "Bolt.new", "category": "Design & Kreativ"},
         {"name": "Google Stitch", "category": "Design & Kreativ"},
         {"name": "Claude Design", "category": "Design & Kreativ"},
-        {"name": "LLMs", "category": "KI-Werkzeuge"},
-        {"name": "LLM APIs", "category": "KI-Werkzeuge"},
-        {"name": "Hugging Face", "category": "KI-Werkzeuge"},
-        {"name": "Ollama", "category": "KI-Werkzeuge"},
-        {"name": "vLLM", "category": "KI-Werkzeuge"},
-        {"name": "LM Studio", "category": "KI-Werkzeuge"},
-        {"name": "OpenCode", "category": "KI-Werkzeuge"},
-        {"name": "Claude Code", "category": "KI-Werkzeuge"},
-        {"name": "Codex", "category": "KI-Werkzeuge"},
-        {"name": "OpenClaw", "category": "KI-Werkzeuge"},
-        {"name": "Hermes", "category": "KI-Werkzeuge"},
-        {"name": "LangFlow", "category": "KI-Werkzeuge"},
-        {"name": "LangChain", "category": "KI-Werkzeuge"},
-        {"name": "LangGraph", "category": "KI-Werkzeuge"},
-        {"name": "CrewAI", "category": "KI-Werkzeuge"},
-        {"name": "LlamaIndex", "category": "KI-Werkzeuge"},
-        {"name": "Dify", "category": "KI-Werkzeuge"},
-        {"name": "AutoGen", "category": "KI-Werkzeuge"},
-        {"name": "Flowise", "category": "KI-Werkzeuge"},
+        {"name": "LLMs", "category": "KI-Tools"},
+        {"name": "LLM APIs", "category": "KI-Tools"},
+        {"name": "Hugging Face", "category": "KI-Tools"},
+        {"name": "Ollama", "category": "KI-Tools"},
+        {"name": "vLLM", "category": "KI-Tools"},
+        {"name": "LM Studio", "category": "KI-Tools"},
+        {"name": "OpenCode", "category": "KI-Tools"},
+        {"name": "Claude Code", "category": "KI-Tools"},
+        {"name": "Codex", "category": "KI-Tools"},
+        {"name": "OpenClaw", "category": "KI-Tools"},
+        {"name": "Hermes", "category": "KI-Tools"},
+        {"name": "LangFlow", "category": "KI-Tools"},
+        {"name": "LangChain", "category": "KI-Tools"},
+        {"name": "LangGraph", "category": "KI-Tools"},
+        {"name": "CrewAI", "category": "KI-Tools"},
+        {"name": "LlamaIndex", "category": "KI-Tools"},
+        {"name": "Dify", "category": "KI-Tools"},
+        {"name": "AutoGen", "category": "KI-Tools"},
+        {"name": "Flowise", "category": "KI-Tools"},
         {"name": "Zapier", "category": "Automatisierungstools"},
         {"name": "Make", "category": "Automatisierungstools"},
         {"name": "n8n", "category": "Automatisierungstools"},
@@ -366,18 +250,9 @@
     "philosophy": {
       "heading": "Meine Philosophie",
       "items": [
-        {
-          "title": "Weniger ist mehr",
-          "description": "Ich glaube, die besten Lösungen sind die, die man kaum bemerkt. Saubere Architektur, durchdachtes Design und Code, der sich wie ein Gespräch liest. Komplexität ist einfach. Klarheit erfordert Disziplin."
-        },
-        {
-          "title": "Technologie sollte der Menschheit dienen",
-          "description": "Jedes Produkt, das ich baue, beginnt mit einer einzigen Frage: Wem hilft das, und wie? Technologie ist am besten, wenn sie in den Hintergrund tritt und den Menschen ein besseres Leben ermöglicht. Ich baue nicht um des Bauens willen."
-        },
-        {
-          "title": "Kontinuierliches Lernen",
-          "description": "Dieses Feld erfindet sich alle paar Jahre neu. Ich bleibe am Ball, indem ich echte Dinge baue, nicht nur darüber lese. Wenn ich mich bei dem, woran ich arbeite, nicht ein wenig unwohl fühle, lerne ich nicht schnell genug."
-        }
+        {"title": "Weniger ist mehr", "description": "Ich glaube, die besten Lösungen sind die, die man kaum bemerkt. Saubere Architektur, durchdachtes Design und Code, der sich wie ein Gespräch liest. Komplexität ist einfach. Klarheit erfordert Disziplin."},
+        {"title": "Technologie sollte der Menschheit dienen", "description": "Jedes Produkt, das ich baue, beginnt mit einer einzigen Frage: Wem hilft das, und wie? Technologie ist am besten, wenn sie in den Hintergrund tritt und den Menschen ein besseres Leben ermöglicht. Ich baue nicht um des Bauens willen."},
+        {"title": "Kontinuierliches Lernen", "description": "Dieses Feld erfindet sich alle paar Jahre neu. Ich bleibe am Ball, indem ich echte Dinge baue, nicht nur darüber lese. Wenn ich mich bei dem, woran ich arbeite, nicht ein wenig unwohl fühle, lerne ich nicht schnell genug."}
       ]
     }
   },
@@ -386,24 +261,33 @@
     "description": "Von Full-Stack-Webanwendungen bis zur Go-to-Market-Strategie — ich liefere End-to-End-Lösungen. Jedes Projekt beginnt mit dem Verständnis Ihrer Ziele und endet mit messbaren Ergebnissen.",
     "cta": "Meine Artikel lesen",
     "services": {
-      "heading": "Dienstleistungen",
+      "heading": "Was Ich Tue",
       "items": [
-        {"name": "Web Development", "description": "Custom web apps with Next.js, React, and TypeScript. Fast, responsive, and SEO-optimized."},
-        {"name": "Web App Development", "description": "Full-stack web applications with modern frameworks, databases, and cloud infrastructure."},
-        {"name": "Mobile App Development", "description": "Cross-platform mobile apps using React Native and Expo for iOS and Android."},
-        {"name": "Go-To-Market Strategy", "description": "Strategic planning for product launches — positioning, messaging, and go-to-market execution."},
-        {"name": "Marketing Automation", "description": "Automated marketing workflows, email sequences, and lead nurturing systems."},
-        {"name": "Marketing Consulting", "description": "Strategic marketing advisory for startups and small businesses — growth, retention, analytics."},
-        {"name": "Forward-Deployed Engineering", "description": "Embedded engineering solutions — I work alongside your team to solve technical challenges on site."},
-        {"name": "Workflow Automation", "description": "Custom automation solutions to streamline repetitive tasks and business processes."},
-        {"name": "AI & Tech Consulting", "description": "Advisory on AI integration, tooling, architecture, and scaling for modern businesses."},
-        {"name": "Copywriting", "description": "Persuasive, conversion-focused copy for landing pages, emails, ads, and product descriptions."},
-        {"name": "Content Writing", "description": "Articles, blog posts, and long-form content that educates and engages your audience."},
-        {"name": "Technical Documentation", "description": "Clear, comprehensive documentation for APIs, SDKs, and developer-facing products."}
+        {"name": "Website-Entwicklung", "description": "Maßgeschneiderte Websites für Ihre Anforderungen. Schnell, responsiv und SEO-optimiert."},
+        {"name": "Web-App-Entwicklung", "description": "Full-Stack-Webanwendungen mit modernen Frameworks, Datenbanken und Cloud-Infrastruktur."},
+        {"name": "Mobile-App-Entwicklung", "description": "Plattformübergreifende mobile Apps mit React Native und Expo für iOS und Android."},
+        {"name": "Go-To-Market-Strategie", "description": "Strategische Planung für Produkteinführungen — Positionierung, Messaging und Go-to-Market-Umsetzung."},
+        {"name": "Marketing-Automatisierung", "description": "Automatisierte Marketing-Workflows, E-Mail-Sequenzen und Lead-Nurturing-Systeme."},
+        {"name": "Marketing-Beratung", "description": "Strategische Marketingberatung für Startups und kleine Unternehmen — Wachstum, Kundenbindung, Analytik."},
+        {"name": "Forward-Deployed Engineering", "description": "Integrierte Engineering-Lösungen — ich arbeite direkt mit Ihrem Team, um technische Herausforderungen vor Ort zu lösen."},
+        {"name": "Workflow-Automatisierung", "description": "Maßgeschneiderte Automatisierungslösungen zur Optimierung wiederkehrender Aufgaben und Geschäftsprozesse."},
+        {"name": "KI- & Technologieberatung", "description": "Beratung zu KI-Integration, Tooling, Architektur und Skalierung für moderne Unternehmen."},
+        {"name": "Copywriting", "description": "Überzeugende, conversion-orientierte Texte für Landingpages, E-Mails, Anzeigen und Produktbeschreibungen."},
+        {"name": "Content Writing", "description": "Artikel, Blogbeiträge und Long-Form-Content, der Ihr Publikum informiert und einbindet."},
+        {"name": "Technische Dokumentation", "description": "Klare, umfassende Dokumentation für APIs, SDKs und entwicklerorientierte Produkte."}
+      ]
+    },
+    "process": {
+      "heading": "Wie Ich Arbeite",
+      "steps": [
+        {"title": "Discovery", "description": "Ihre Ziele, Zielgruppe und Erfolgskriterien für das Projekt verstehen."},
+        {"title": "Strategie", "description": "Den Ansatz planen, die richtigen Werkzeuge wählen und den Weg zum Launch festlegen."},
+        {"title": "Umsetzung", "description": "Präzise bauen. Sauberer Code, durchdachtes Design und regelmäßige Abstimmungen."},
+        {"title": "Lieferung", "description": "Launch, Messung und Iteration. Ich bleibe involviert, um sicherzustellen, dass alles funktioniert."}
       ]
     },
     "completed": {
-      "heading": "Completed Projects",
+      "heading": "Abgeschlossene Projekte",
       "items": [
         {"title": "How AI Is Changing Marketing", "date": "2026-06-15", "category": "Technology", "excerpt": "An analysis of how AI tools are transforming digital marketing.", "slug": "ai-marketing-2026"},
         {"title": "Modern Web Development in 2026", "date": "2026-05-20", "category": "Technology", "excerpt": "The tools, frameworks, and practices I use for web development today.", "slug": "modern-web-dev"}
@@ -436,11 +320,7 @@
       {"platform": "Discord", "url": "https://discord.gg/alexistdev", "label": "Discord — @alexistdev"}
     ]
   },
-  "footer": {
-    "copyright": "© {year} Alexandros Tsardoulias",
-    "builtWith": "Erstellt mit Next.js & Tailwind",
-    "backToTop": "Zurück nach oben"
-  },
+  "footer": {"copyright": "© {year} Alexandros Tsardoulias", "builtWith": "Erstellt mit Next.js & Tailwind", "backToTop": "Zurück nach oben"},
   "theme": {"light": "Hell", "dark": "Dunkel", "toggle": "Thema wechseln"},
   "language": {
     "label": "Sprache",
