@@ -1,6 +1,7 @@
 import { useTranslations } from 'next-intl';
 import { PageLayout } from '@/components/page-layout';
 import { HeroSection } from '@/components/hero-section';
+import { CtaSection } from '@/components/cta-section';
 import { getAllArticles } from '@/lib/articles';
 import { ArticleFilter } from './article-filter';
 import type { Metadata } from 'next';
@@ -38,6 +39,8 @@ export default function ArticlesPage() {
         readMoreLabel={t('readMore')}
         readingTimeLabel={t('readingTime')}
       />
+
+      <CtaSection />
 
     </PageLayout>
   );

@@ -4,6 +4,7 @@ import { useTranslations } from 'next-intl';
 import { Link } from '@/i18n/navigation';
 import { PageLayout } from '@/components/page-layout';
 import { HeroSection } from '@/components/hero-section';
+import { CtaSection } from '@/components/cta-section';
 import {
   Code2,
   Monitor,
@@ -104,7 +105,7 @@ export function WorkContent({
       <HeroSection headingKey="heading" headingNamespace="work" hideImage />
 
       {/* ── Services ──────────────────────────────────────────────── */}
-      <section>
+      <section className="-mt-20 md:-mt-28">
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
           {services.map((service, i) => {
             const config = SERVICE_CONFIG[i] ?? SERVICE_CONFIG[0];
@@ -166,6 +167,8 @@ export function WorkContent({
           </div>
         </div>
       </section>
+
+      <CtaSection />
 
       {/* ── Completed Projects ────────────────────────────────────── */}
       <section className="pt-8 border-t border-white/[0.06]">

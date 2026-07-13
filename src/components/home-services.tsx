@@ -1,6 +1,7 @@
 'use client';
 
 import { useTranslations } from 'next-intl';
+import { Link } from '@/i18n/navigation';
 import { Code2, Megaphone, Bot, Lightbulb } from 'lucide-react';
 
 const services = [
@@ -21,20 +22,21 @@ export function HomeServices() {
         </h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 md:gap-6">
           {services.map(({ icon: Icon, color }, i) => (
-            <div
-              key={i}
-              className="rounded-2xl border border-white/[0.06] bg-white/[0.02] backdrop-blur-sm p-6 hover:border-purple-400/20 hover:bg-white/[0.04] hover:shadow-[0_0_30px_rgba(168,85,247,0.1)] transition-all"
-            >
-              <div className="w-12 h-12 rounded-xl bg-white/[0.04] flex items-center justify-center mb-4">
-                <Icon className={`w-8 h-8 ${color}`} />
+            <Link key={i} href="/work" className="block group">
+              <div
+                className="rounded-2xl border border-white/[0.06] bg-white/[0.02] backdrop-blur-sm p-6 hover:border-purple-400/20 hover:bg-white/[0.04] hover:shadow-[0_0_30px_rgba(168,85,247,0.1)] transition-all"
+              >
+                <div className="w-12 h-12 rounded-xl bg-white/[0.04] flex items-center justify-center mb-4">
+                  <Icon className={`w-8 h-8 ${color}`} />
+                </div>
+                <h3 className="text-xl font-semibold text-text-primary mb-2 group-hover:text-purple-300 transition-colors">
+                  {t(`servicesOverview.items.${i}.title`)}
+                </h3>
+                <p className="text-lg text-text-secondary">
+                  {t(`servicesOverview.items.${i}.description`)}
+                </p>
               </div>
-              <h3 className="text-xl font-semibold text-text-primary mb-2">
-                {t(`servicesOverview.items.${i}.title`)}
-              </h3>
-              <p className="text-lg text-text-secondary">
-                {t(`servicesOverview.items.${i}.description`)}
-              </p>
-            </div>
+            </Link>
           ))}
         </div>
       </div>

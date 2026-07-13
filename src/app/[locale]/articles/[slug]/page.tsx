@@ -3,6 +3,7 @@ import { getTranslations } from 'next-intl/server';
 import { Link } from '@/i18n/navigation';
 import { PageLayout } from '@/components/page-layout';
 import { Button } from '@/components/ui/button';
+import { CtaSection } from '@/components/cta-section';
 import { getArticleBySlug } from '@/lib/articles';
 import type { Metadata } from 'next';
 
@@ -76,6 +77,8 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
           <Content />
         </div>
       </article>
+
+      <CtaSection />
     </PageLayout>
   );
 }

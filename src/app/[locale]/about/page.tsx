@@ -3,6 +3,7 @@ import { HeroSection } from '@/components/hero-section';
 import { EducationTimeline } from '@/components/about/education-timeline';
 import { WorkTimeline } from '@/components/about/work-timeline';
 import { ToolsFilter } from '@/components/about/tools-filter';
+import { CtaSection } from '@/components/cta-section';
 import {
   Sparkles,
   Heart,
@@ -88,6 +89,8 @@ export default async function AboutPage() {
       <section className="mt-12 pt-8 border-t border-border">
         <WorkTimeline />
       </section>
+
+      <CtaSection />
 
       <ToolsFilter
         tools={t.raw('tools.items')}
