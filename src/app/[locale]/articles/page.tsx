@@ -18,8 +18,7 @@ export default function ArticlesPage() {
 
   return (
     <PageLayout>
-      <HeroSection headingKey="heading" headingNamespace="articles" largeImage />
-      <p className="text-sm text-text-secondary max-w-prose mt-2 mb-6 text-pretty">{t('description')}</p>
+      <HeroSection headingKey="heading" headingNamespace="articles" subtitleKey="description" hideImage />
 
       {/* Category filter + article list */}
       <h2 className="sr-only">{t('heading')}</h2>
