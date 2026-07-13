@@ -124,7 +124,7 @@
         {
           "year": "2024 – 2025",
           "institution": "University of Nicosia",
-          "degree": "Блокчейн, криптовалюты, NFT и метавселенная",
+          "degree": "Blockchain, Cryptocurrencies, NFTs and the Metaverse",
           "description": ""
         },
         {
@@ -911,11 +911,11 @@
     "description": "От full-stack веб-приложений до стратегии go-to-market — я предоставляю комплексные решения. Каждый проект начинается с понимания ваших целей и заканчивается измеримыми результатами.",
     "cta": "Читать мои статьи",
     "services": {
-      "heading": "Услуги",
+      "heading": "Что Я Делаю",
       "items": [
         {
-          "name": "Веб-разработка",
-          "description": "Индивидуальные веб-приложения на Next.js, React и TypeScript. Быстрые, адаптивные, оптимизированные для SEO."
+          "name": "Разработка Веб-Сайтов",
+          "description": "Индивидуальные веб-сайты, созданные под ваши задачи. Быстрые, адаптивные и оптимизированные для SEO."
         },
         {
           "name": "Разработка веб-приложений",
@@ -963,6 +963,15 @@
         }
       ]
     },
+    "process": {
+      "heading": "Как Я Работаю",
+      "steps": [
+        {"title": "Discovery", "description": "Понимаю твои цели, аудиторию и что значит успех для твоего проекта."},
+        {"title": "Strategy", "description": "Планирую подход, выбираю правильные инструменты и прокладываю путь к запуску."},
+        {"title": "Execution", "description": "Строю с точностью. Чистый код, продуманный дизайн и регулярные проверки."},
+        {"title": "Delivery", "description": "Запускаю, измеряю и улучшаю. Я остаюсь вовлечённым, чтобы убедиться, что всё работает."}
+      ]
+    },
     "completed": {
       "heading": "Завершённые проекты",
       "items": [
@@ -1000,56 +1009,16 @@
     "description": "Давайте поговорим. Будь то проект, вопрос или просто желание связаться — я здесь.",
     "subtitle": "Меня можно найти на:",
     "links": [
-      {
-        "platform": "Instagram",
-        "url": "https://instagram.com/alexistdev",
-        "label": "Instagram — @alexistdev"
-      },
-      {
-        "platform": "X (Twitter)",
-        "url": "https://x.com/alexistdev",
-        "label": "X — @alexistdev"
-      },
-      {
-        "platform": "LinkedIn",
-        "url": "https://linkedin.com/in/atsardoulias",
-        "label": "LinkedIn — /in/atsardoulias"
-      },
-      {
-        "platform": "GitHub",
-        "url": "https://github.com/alexistdev",
-        "label": "GitHub — @alexistdev"
-      },
-      {
-        "platform": "Substack",
-        "url": "https://alexistdev.substack.com",
-        "label": "Substack — alexistdev"
-      },
-      {
-        "platform": "Facebook",
-        "url": "https://facebook.com/alexistdev",
-        "label": "Facebook — @alexistdev"
-      },
-      {
-        "platform": "Threads",
-        "url": "https://threads.net/@alexistdev",
-        "label": "Threads — @alexistdev"
-      },
-      {
-        "platform": "Reddit",
-        "url": "https://reddit.com/user/alexistdev",
-        "label": "Reddit — u/alexistdev"
-      },
-      {
-        "platform": "Email",
-        "url": "mailto:hello@alexist.dev",
-        "label": "Email — hello@alexist.dev"
-      },
-      {
-        "platform": "Discord",
-        "url": "https://discord.gg/alexistdev",
-        "label": "Discord — @alexistdev"
-      }
+      {"platform": "Instagram", "url": "https://instagram.com/alexistdev", "label": "Instagram — @alexistdev"},
+      {"platform": "X (Twitter)", "url": "https://x.com/alexistdev", "label": "X — @alexistdev"},
+      {"platform": "LinkedIn", "url": "https://linkedin.com/in/atsardoulias", "label": "LinkedIn — /in/atsardoulias"},
+      {"platform": "GitHub", "url": "https://github.com/alexistdev", "label": "GitHub — @alexistdev"},
+      {"platform": "Substack", "url": "https://alexistdev.substack.com", "label": "Substack — alexistdev"},
+      {"platform": "Facebook", "url": "https://facebook.com/alexistdev", "label": "Facebook — @alexistdev"},
+      {"platform": "Threads", "url": "https://threads.net/@alexistdev", "label": "Threads — @alexistdev"},
+      {"platform": "Reddit", "url": "https://reddit.com/user/alexistdev", "label": "Reddit — u/alexistdev"},
+      {"platform": "Email", "url": "mailto:hello@alexist.dev", "label": "Email — hello@alexist.dev"},
+      {"platform": "Discord", "url": "https://discord.gg/alexistdev", "label": "Discord — @alexistdev"}
     ]
   },
   "footer": {
