@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, useEffect } from 'react';
+import { Search } from 'lucide-react';
 
 interface ToolsFilterProps {
   tools: Array<{ name: string; category: string; icon?: string }>;
@@ -18,22 +19,48 @@ export function ToolsFilter({
   emptyMessage,
 }: ToolsFilterProps) {
   const [activeCategory, setActiveCategory] = useState<string | null>(null);
+  const [searchQuery, setSearchQuery] = useState('');
   const [visibleCount, setVisibleCount] = useState(20);
 
-  const filtered = activeCategory
+  const byCategory = activeCategory
     ? tools.filter((t) => t.category === activeCategory)
     : tools;
 
-  // Reset visible count when category changes
+  const query = searchQuery.trim().toLowerCase();
+  const filtered = query
+    ? byCategory.filter((t) => t.name.toLowerCase().includes(query))
+    : byCategory;
+
+  // Reset visible count when category or search changes
   useEffect(() => {
     setVisibleCount(20);
-  }, [activeCategory]);
+  }, [activeCategory, searchQuery]);
 
   const displayed = filtered.slice(0, visibleCount);
 
   return (
     <section className="border-t border-border pt-8 mt-12">
       <h2 className="text-xl font-semibold text-foreground mb-6">{heading}</h2>
+
+      {/* Search bar */}
+      <div className="relative mb-6">
+        <Search size={18} className="absolute left-3 top-1/2 -translate-y-1/2 text-text-tertiary pointer-events-none" />
+        <input
+          type="text"
+          value={searchQuery}
+          onChange={(e) => setSearchQuery(e.target.value)}
+          placeholder="Search skills…"
+          className="w-full rounded-full border border-white/[0.06] bg-white/[0.02] backdrop-blur-sm pl-10 pr-4 py-2.5 text-base text-text-primary placeholder:text-text-tertiary outline-none transition-all duration-200 focus:border-purple-400/30 focus:bg-white/[0.04]"
+        />
+        {searchQuery && (
+          <button
+            onClick={() => setSearchQuery('')}
+            className="absolute right-3 top-1/2 -translate-y-1/2 text-text-tertiary hover:text-text-primary transition-colors text-sm"
+          >
+            ✕
+          </button>
+        )}
+      </div>
 
       {/* Category filter — glass pills */}
       <div className="flex flex-wrap gap-2 mb-8">
@@ -64,7 +91,9 @@ export function ToolsFilter({
 
       {/* Tool badges grid */}
       {filtered.length === 0 ? (
-        <p className="text-text-secondary text-center py-12">{emptyMessage}</p>
+        <p className="text-text-secondary text-center py-12">
+          {searchQuery ? `No skills match "${searchQuery}"` : emptyMessage}
+        </p>
       ) : (
         <>
           <div

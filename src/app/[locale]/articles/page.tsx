@@ -1,9 +1,18 @@
 import { useTranslations } from 'next-intl';
 import { PageLayout } from '@/components/page-layout';
 import { HeroSection } from '@/components/hero-section';
-import { getAllArticles, getAllCategories } from '@/lib/articles';
+import { getAllArticles } from '@/lib/articles';
 import { ArticleFilter } from './article-filter';
 import type { Metadata } from 'next';
+
+const CATEGORIES = [
+  'Arts & Culture',
+  'Business',
+  'Finance',
+  'Philosophy',
+  'Politics',
+  'Technology',
+] as const;
 
 export const metadata: Metadata = {
   title: 'Articles',
@@ -14,7 +23,6 @@ export const metadata: Metadata = {
 export default function ArticlesPage() {
   const t = useTranslations('articles');
   const allArticles = getAllArticles();
-  const categories = getAllCategories();
 
   return (
     <PageLayout>
@@ -24,7 +32,7 @@ export default function ArticlesPage() {
       <h2 className="sr-only">{t('heading')}</h2>
       <ArticleFilter
         articles={allArticles}
-        categories={categories}
+        categories={[...CATEGORIES]}
         allLabel={t('filter.all')}
         emptyMessage={t('empty')}
         readMoreLabel={t('readMore')}

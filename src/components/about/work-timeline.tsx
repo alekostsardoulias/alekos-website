@@ -17,25 +17,27 @@ export function WorkTimeline() {
         <BriefcaseBusiness size={20} className="inline me-2" aria-hidden="true" />
         {t('heading')}
       </h2>
-      <div className="space-y-3">
+      <div className="space-y-1">
         {items.map((item, i) => (
           <div
             key={i}
-            className="rounded-xl border border-white/[0.06] bg-white/[0.02] backdrop-blur-sm p-4 border-s-2 border-purple-400/20 animate-fade-up transition-colors duration-200 hover:border-white/[0.12]"
+            className="flex gap-3 py-2 ps-3 border-s-2 border-purple-400/20 animate-fade-up"
             style={{ animationDelay: `${i * 100}ms` }}
           >
-            <span className="inline-block px-3 py-1 rounded-full text-xs font-medium bg-purple-500/10 text-purple-300 border border-purple-500/20 mb-2">
+            <span className="inline-block px-2 py-0.5 rounded-full text-xs font-medium bg-purple-500/10 text-purple-300 border border-purple-500/20 shrink-0 h-fit mt-0.5">
               {item.year}
             </span>
-            <h3 className="text-base font-semibold text-foreground">
-              {item.role}
-            </h3>
-            <p className="text-sm text-muted">{item.company}</p>
-            {item.description && !item.description.startsWith('TODO') && (
-              <p className="text-sm text-muted mt-1 leading-relaxed">
-                {item.description}
-              </p>
-            )}
+            <div className="min-w-0">
+              <h3 className="text-sm font-semibold text-foreground leading-snug">
+                {item.role}
+              </h3>
+              <p className="text-sm text-muted leading-snug">{item.company}</p>
+              {item.description && !item.description.startsWith('TODO') && (
+                <p className="text-sm text-muted mt-0.5 leading-relaxed">
+                  {item.description}
+                </p>
+              )}
+            </div>
           </div>
         ))}
       </div>

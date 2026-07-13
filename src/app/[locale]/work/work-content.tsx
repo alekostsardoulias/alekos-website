@@ -4,7 +4,6 @@ import { useTranslations } from 'next-intl';
 import { Link } from '@/i18n/navigation';
 import { PageLayout } from '@/components/page-layout';
 import { HeroSection } from '@/components/hero-section';
-import { Button } from '@/components/ui/button';
 import {
   Code2,
   Monitor,
@@ -102,13 +101,10 @@ export function WorkContent({
   return (
     <PageLayout>
       {/* ── Hero ─────────────────────────────────────────────────── */}
-      <HeroSection headingKey="heading" headingNamespace="work" subtitleKey="description" hideImage />
+      <HeroSection headingKey="heading" headingNamespace="work" hideImage />
 
       {/* ── Services ──────────────────────────────────────────────── */}
       <section>
-        <h2 className="text-xl font-semibold text-text-primary mb-6">
-          {servicesHeading}
-        </h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
           {services.map((service, i) => {
             const config = SERVICE_CONFIG[i] ?? SERVICE_CONFIG[0];
@@ -133,15 +129,6 @@ export function WorkContent({
           })}
         </div>
       </section>
-
-      {/* ── CTA ───────────────────────────────────────────────────── */}
-      <div className="mt-8 mb-4">
-        <Link href="/articles">
-          <Button variant="warm" size="lg">
-            {t('cta')}
-          </Button>
-        </Link>
-      </div>
 
       {/* ── How I Work ────────────────────────────────────────────── */}
       <section className="mt-12">
