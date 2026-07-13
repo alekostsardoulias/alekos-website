@@ -1,1 +1,571 @@
-{"nav":{"home":"Ana Sayfa","about":"Hakkımda","work":"Hizmetler","articles":"Makaleler","contact":"İletişim"},"hero":{"greeting":"👋 Hello, World!","name":"Alexandros Tsardoulias","title":"AI-Native Software Engineer & Marketing Specialist","description":"Kuruculara, girişimlere, KOBİ'lere ve STK'lara teknoloji, felsefe, büyüme stratejisi ve en iyi iletişim uygulamalarını birleştirerek hedeflerine ulaşmalarında yardımcı oluyorum.","cta":"Çalışmalarım","ctaSecondary":"İletişime geç"},"home":{"summaries":{"about":{"heading":"Hakkımda","description":"Kim olduğum, ne okuduğum, nerede çalıştığım."},"work":{"heading":"Ne yapıyorum","description":"Hizmetler ve tamamlanan projeler."},"articles":{"heading":"Makaleler","description":"Yapay zeka, pazarlama ve teknoloji üzerine düşünceler."},"contact":{"heading":"İletişim","description":"Beni sosyal medyada bul."}},"servicesOverview":{"heading":"Ne yapıyorum","items":[{"title":"Yazılım Geliştirme","description":"İhtiyaçlarınıza özel web ve mobil uygulamalar. Hızlı, duyarlı, maliyet optimize edilmiş, SEO'ya hazır."},{"title":"Marketing & Growth","description":"Go-to-market stratejisi, pazarlama otomasyonu, metin ve içerik yazarlığı ve sonuç odaklı dönüşüm kampanyaları."},{"title":"YZ & Otomasyon","description":"YZ entegrasyonu, iş akışı otomasyonu ve işletmenizi ölçeklendiren akıllı sistemler."},{"title":"Strateji ve Danışmanlık","description":"Modern işletmeler için teknik danışmanlık, mimari kararlar ve ürün stratejisi."}]},"featured":{"heading":"Öne Çıkan Çalışmalar","viewProject":"Projeyi gör","items":[{"title":"Yapay Zeka Pazarlamayı Nasıl Değiştiriyor","category":"Teknoloji","description":"Yapay zeka araçlarının 2026'da dijital pazarlama stratejilerini nasıl dönüştürdüğüne dair bir analiz."},{"title":"2026'da Modern Web Geliştirme","category":"Teknoloji","description":"Bugün web geliştirme için kullandığım araçlar, framework'ler ve uygulamalar."},{"title":"E-Ticaret Yeniden Tasarım Vaka Çalışması","category":"Vaka Çalışması","description":"Daha iyi UX ve %40 daha yüksek dönüşüm için bir e-ticaret platformunu nasıl yeniden tasarladım."}],"cta":{"heading":"Birlikte çalışalım","subtitle":"Aklınızda bir proje var mı? Harika bir şey inşa edelim.","button":"İletişime geç"}},"stats":{"heading":"Rakamlarla","items":[{"value":"50+","label":"Tamamlanan Proje"},{"value":"5+","label":"Yıllık Deneyim"},{"value":"100+","label":"Araç ve Teknoloji"},{"value":"200+","label":"Yazılmış Makale"}]}},"about":{"heading":"Hakkımda","description":"Mühendislik titizliği ve pazarlama sezgisinin bir karışımı. AI-native ürünler geliştiriyor, önemli kodlar yazıyor ve işletmelerin dijital alanda seslerini bulmalarına yardımcı oluyorum.","cta":"Çalışmalarım","bio":{"paragraphs":["Hello, world! Ben Alexandros Tsardoulias, bir AI-Native Software Engineer & Marketing Specialist.","Teknoloji, felsefe, büyüme stratejisi ve en iyi iletişim uygulamaları arasında köprü kuran disiplinlerarası bir profesyonelim. Startup'lar, solo girişimciler, KOBİ'ler, STK'lar ve diğer profesyoneller ve kuruluşlar için uçtan uca yazılım geliştirme ve büyüme pazarlaması hizmetleri sunuyor; fikirleri ölçeklenebilir dijital ürünlere ve gelir getiren sistemlere dönüştürüyorum.","Kod yazmayı ve tasarımı kendi kendime öğrenirken Felsefe ve Pazarlama Yönetimi okudum. Liderlik ettiğim her proje, ölçülebilir teknik sonuçlarla gelir etkisi yaratan pazarlamayı birleştirerek müşterilerin hem sağlam dijital altyapı hem de ölçülebilir iş büyümesi elde etmesini sağlar.","Sadece web uygulamaları için kod yazmam ya da sosyal medya ve e-postaları yönetmem; ölçülebilir sonuçlar üreten bütünsel sistemler inşa ederim. Bir ürünün teknik mimarisini ve go-to-market stratejisini iki ayrı problem olarak değil, tek bir problem olarak ele alırım.","Yunanistan, Kıbrıs ve AB'deki profesyonellerle çalışıyorum ve hem Yunanca hem İngilizce'yi akıcı şekilde konuşuyorum. Kapsama bağlı olarak aylık retainer veya sabit proje bazında çalışırım. Teknik veya pazarlama ortağı arayan bir girişimci veya işletmeyseniz, kesinlikle konuşmalıyız."]},"education":{"heading":"Eğitim","items":[{"year":"2020 — 2024","institution":"Athens University of Economics and Business","degree":"Bachelor's in Computer Science","description":"TODO: add details"}]},"work":{"heading":"İş Deneyimi","items":[{"year":"2023 — Present","company":"Freelance","role":"Software Engineer & Marketing Specialist","description":"TODO: add details"}]},"tools":{"heading":"Teknolojiler ve Araçlar","allLabel":"Tümü","empty":"Bu kategoride araç bulunamadı.","categories":["Programlama Dilleri","Front-End & UI/UX","Back-End/Veritabanları","DevOps & CI/CD","Marketing & Analytics","Tasarım ve Yaratıcılık","Yapay Zeka Araçları","Proje Yönetimi"],"items":[{"name":"React","category":"Front-End & UI/UX"},{"name":"Next.js","category":"Front-End & UI/UX"},{"name":"TypeScript","category":"Front-End & UI/UX"},{"name":"Tailwind CSS","category":"Front-End & UI/UX"},{"name":"HTML/CSS","category":"Front-End & UI/UX"},{"name":"JavaScript","category":"Front-End & UI/UX"},{"name":"Vue.js","category":"Front-End & UI/UX"},{"name":"Astro","category":"Front-End & UI/UX"},{"name":"Svelte","category":"Front-End & UI/UX"},{"name":"Framer Motion","category":"Front-End & UI/UX"},{"name":"shadcn/ui","category":"Front-End & UI/UX"},{"name":"Radix UI","category":"Front-End & UI/UX"},{"name":"Node.js","category":"Back-End/Veritabanları"},{"name":"Express","category":"Back-End/Veritabanları"},{"name":"Python","category":"Back-End/Veritabanları"},{"name":"FastAPI","category":"Back-End/Veritabanları"},{"name":"REST APIs","category":"Back-End/Veritabanları"},{"name":"GraphQL","category":"Back-End/Veritabanları"},{"name":"tRPC","category":"Back-End/Veritabanları"},{"name":"Prisma","category":"Back-End/Veritabanları"},{"name":"Django","category":"Back-End/Veritabanları"},{"name":"LLMs","category":"Yapay Zeka Araçları"},{"name":"OpenAI API","category":"Yapay Zeka Araçları"},{"name":"LangChain","category":"Yapay Zeka Araçları"},{"name":"RAG","category":"Yapay Zeka Araçları"},{"name":"Vector Databases","category":"Yapay Zeka Araçları"},{"name":"Prompt Engineering","category":"Yapay Zeka Araçları"},{"name":"Midjourney","category":"Yapay Zeka Araçları"},{"name":"Stable Diffusion","category":"Yapay Zeka Araçları"},{"name":"Claude","category":"Yapay Zeka Araçları"},{"name":"AI Agents","category":"Yapay Zeka Araçları"},{"name":"Docker","category":"DevOps & CI/CD"},{"name":"Git","category":"DevOps & CI/CD"},{"name":"GitHub Actions","category":"DevOps & CI/CD"},{"name":"Vercel","category":"DevOps & CI/CD"},{"name":"Linux","category":"DevOps & CI/CD"},{"name":"Nginx","category":"DevOps & CI/CD"},{"name":"CI/CD","category":"DevOps & CI/CD"},{"name":"Supabase","category":"DevOps & CI/CD"},{"name":"Cloudflare","category":"DevOps & CI/CD"},{"name":"PostgreSQL","category":"Back-End/Veritabanları"},{"name":"MongoDB","category":"Back-End/Veritabanları"},{"name":"Redis","category":"Back-End/Veritabanları"},{"name":"SQLite","category":"Back-End/Veritabanları"},{"name":"Supabase DB","category":"Back-End/Veritabanları"},{"name":"MySQL","category":"Back-End/Veritabanları"},{"name":"TypeScript","category":"Programlama Dilleri"},{"name":"JavaScript","category":"Programlama Dilleri"},{"name":"Python","category":"Programlama Dilleri"},{"name":"HTML/CSS","category":"Programlama Dilleri"},{"name":"SQL","category":"Programlama Dilleri"},{"name":"Bash","category":"Programlama Dilleri"},{"name":"Markdown","category":"Programlama Dilleri"},{"name":"Figma","category":"Tasarım ve Yaratıcılık"},{"name":"Canva","category":"Tasarım ve Yaratıcılık"},{"name":"Adobe Photoshop","category":"Tasarım ve Yaratıcılık"},{"name":"UI/UX Design","category":"Tasarım ve Yaratıcılık"},{"name":"Responsive Design","category":"Tasarım ve Yaratıcılık"},{"name":"Design Systems","category":"Tasarım ve Yaratıcılık"},{"name":"Google Analytics","category":"Marketing & Analytics"},{"name":"SEO","category":"Marketing & Analytics"},{"name":"Meta Ads","category":"Marketing & Analytics"},{"name":"Google Ads","category":"Marketing & Analytics"},{"name":"Email Marketing","category":"Marketing & Analytics"},{"name":"Content Strategy","category":"Marketing & Analytics"},{"name":"Copywriting","category":"Marketing & Analytics"},{"name":"A/B Testing","category":"Marketing & Analytics"},{"name":"Social Media Marketing","category":"Marketing & Analytics"},{"name":"VS Code","category":"Proje Yönetimi"},{"name":"Notion","category":"Proje Yönetimi"},{"name":"Slack","category":"Proje Yönetimi"},{"name":"Zapier","category":"Proje Yönetimi"},{"name":"n8n","category":"Proje Yönetimi"},{"name":"Make (Integromat)","category":"Proje Yönetimi"},{"name":"Obsidian","category":"Proje Yönetimi"},{"name":"Linear","category":"Proje Yönetimi"}]}},"work":{"heading":"Ne yapıyorum","description":"Full-stack web uygulamalarından go-to-market stratejisine — uçtan uca çözümler sunuyorum. Her proje hedeflerinizi anlamakla başlar ve ölçülebilir sonuçlarla biter.","cta":"Makalelerimi oku","services":{"heading":"Hizmetler","items":[{"name":"Web Geliştirme","description":"Next.js, React ve TypeScript ile özel web uygulamaları. Hızlı, duyarlı ve SEO için optimize edilmiş."},{"name":"Web Uygulama Geliştirme","description":"Modern framework'ler, veritabanları ve bulut altyapısı ile full-stack web uygulamaları."},{"name":"Mobil Uygulama Geliştirme","description":"iOS ve Android için React Native ve Expo ile çapraz platform mobil uygulamalar."},{"name":"Go-To-Market Stratejisi","description":"Ürün lansmanları için stratejik planlama — konumlandırma, mesajlaşma ve go-to-market uygulaması."},{"name":"Pazarlama Otomasyonu","description":"Otomatik pazarlama iş akışları, e-posta dizileri ve potansiyel müşteri besleme sistemleri."},{"name":"Pazarlama Danışmanlığı","description":"Startup'lar ve küçük işletmeler için stratejik pazarlama danışmanlığı — büyüme, elde tutma, analitik."},{"name":"Forward-Deployed Mühendislik","description":"Entegre mühendislik çözümleri — teknik zorlukları yerinde çözmek için ekibinizle yan yana çalışırım."},{"name":"İş Akışı Otomasyonu","description":"Tekrarlayan görevleri ve iş süreçlerini kolaylaştırmak için özel otomasyon çözümleri."},{"name":"YZ ve Teknoloji Danışmanlığı","description":"Modern işletmeler için YZ entegrasyonu, araçlar, mimari ve ölçeklendirme konularında danışmanlık."},{"name":"Metin Yazarlığı","description":"Landing page'ler, e-postalar, reklamlar ve ürün açıklamaları için ikna edici, dönüşüm odaklı metinler."},{"name":"İçerik Yazarlığı","description":"Kitlenizi eğiten ve ilgisini çeken makaleler, blog yazıları ve uzun form içerik."},{"name":"Teknik Dokümantasyon","description":"API'ler, SDK'lar ve geliştirici odaklı ürünler için net, kapsamlı dokümantasyon."}]},"completed":{"heading":"Tamamlanan Projeler","items":[{"title":"Yapay Zeka Pazarlamayı Nasıl Değiştiriyor","date":"2026-06-15","category":"Teknoloji","excerpt":"YZ araçlarının dijital pazarlamayı nasıl dönüştürdüğüne dair bir analiz.","slug":"ai-marketing-2026"},{"title":"2026'da Modern Web Geliştirme","date":"2026-05-20","category":"Teknoloji","excerpt":"Bugün web geliştirme için kullandığım araçlar, framework'ler ve uygulamalar.","slug":"modern-web-dev"}]}},"articles":{"heading":"Makaleler","description":"YZ, yazılım mühendisliği ve modern pazarlama üzerine düşünceler. Ne inşa ettiğim, ne öğrendiğim ve teknolojinin nereye gittiği hakkında yazıyorum.","cta":"İletişime geç","filter":{"all":"Tümü","label":"Kategori"},"empty":"Bu kategoride makale yok.","readMore":"Devamını oku","backToList":"← Makalelere dön"},"contact":{"heading":"İletişim","description":"Konuşalım. Aklınızda bir proje, bir soru ya da sadece bağlantı kurmak istiyorsanız — buradayım.","subtitle":"Beni şurada bulabilirsiniz:","links":[{"platform":"Instagram","url":"https://instagram.com/alexistdev","label":"Instagram — @alexistdev"},{"platform":"X (Twitter)","url":"https://x.com/alexistdev","label":"X — @alexistdev"},{"platform":"LinkedIn","url":"https://linkedin.com/in/atsardoulias","label":"LinkedIn — /in/atsardoulias"},{"platform":"GitHub","url":"https://github.com/alexistdev","label":"GitHub — @alexistdev"},{"platform":"Substack","url":"https://alexistdev.substack.com","label":"Substack — alexistdev"},{"platform":"Facebook","url":"https://facebook.com/alexistdev","label":"Facebook — @alexistdev"},{"platform":"Threads","url":"https://threads.net/@alexistdev","label":"Threads — @alexistdev"},{"platform":"Reddit","url":"https://reddit.com/user/alexistdev","label":"Reddit — u/alexistdev"},{"platform":"Email","url":"mailto:hello@alexist.dev","label":"Email — hello@alexist.dev"},{"platform":"Discord","url":"https://discord.gg/alexistdev","label":"Discord — @alexistdev"}]},"footer":{"copyright":"© {year} Alexandros Tsardoulias","builtWith":"Next.js ve Tailwind ile geliştirildi","backToTop":"Başa dön"},"theme":{"light":"Açık","dark":"Koyu","toggle":"Tema değiştir"},"language":{"label":"Dil","el":"Ελληνικά","en":"English","ru":"Русский","de":"Deutsch","fr":"Français","it":"Italiano","es":"Español","tr":"Türkçe","pl":"Polski","nl":"Nederlands","ua":"Українська","il":"עברית","ae":"العربية"},"common":{"loading":"Yükleniyor…","error":"Bir şeyler yanlış gitti.","retry":"Tekrar dene","back":"← Geri","readMore":"Devamını oku"},"404":{"title":"404 — Sayfa bulunamadı","message":"Aradığınız sayfa mevcut değil.","backHome":"← Ana sayfaya dön"}}
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımda",
+    "work": "Hizmetler",
+    "articles": "Makaleler",
+    "contact": "İletişim"
+  },
+  "hero": {
+    "greeting": "👋 Hello, World!",
+    "name": "Alexandros Tsardoulias",
+    "title": "AI-Native Software Engineer & Marketing Specialist",
+    "description": "Kuruculara, girişimlere, KOBİ'lere ve STK'lara teknoloji, felsefe, büyüme stratejisi ve en iyi iletişim uygulamalarını birleştirerek hedeflerine ulaşmalarında yardımcı oluyorum.",
+    "cta": "Çalışmalarım",
+    "ctaSecondary": "İletişime geç"
+  },
+  "home": {
+    "summaries": {
+      "about": {
+        "heading": "Hakkımda",
+        "description": "Kim olduğum, ne okuduğum, nerede çalıştığım."
+      },
+      "work": {
+        "heading": "Ne yapıyorum",
+        "description": "Hizmetler ve tamamlanan projeler."
+      },
+      "articles": {
+        "heading": "Makaleler",
+        "description": "Yapay zeka, pazarlama ve teknoloji üzerine düşünceler."
+      },
+      "contact": {
+        "heading": "İletişim",
+        "description": "Beni sosyal medyada bul."
+      }
+    },
+    "servicesOverview": {
+      "heading": "Ne yapıyorum",
+      "items": [
+        {
+          "title": "Yazılım Geliştirme",
+          "description": "İhtiyaçlarınıza özel web ve mobil uygulamalar. Hızlı, duyarlı, maliyet optimize edilmiş, SEO'ya hazır."
+        },
+        {
+          "title": "Marketing & Growth",
+          "description": "Go-to-market stratejisi, pazarlama otomasyonu, metin ve içerik yazarlığı ve sonuç odaklı dönüşüm kampanyaları."
+        },
+        {
+          "title": "YZ & Otomasyon",
+          "description": "YZ entegrasyonu, iş akışı otomasyonu ve işletmenizi ölçeklendiren akıllı sistemler."
+        },
+        {
+          "title": "Strateji ve Danışmanlık",
+          "description": "Modern işletmeler için teknik danışmanlık, mimari kararlar ve ürün stratejisi."
+        }
+      ]
+    },
+    "featured": {
+      "heading": "Öne Çıkan Çalışmalar",
+      "viewProject": "Projeyi gör",
+      "items": [
+        {
+          "title": "Yapay Zeka Pazarlamayı Nasıl Değiştiriyor",
+          "category": "Teknoloji",
+          "description": "Yapay zeka araçlarının 2026'da dijital pazarlama stratejilerini nasıl dönüştürdüğüne dair bir analiz."
+        },
+        {
+          "title": "2026'da Modern Web Geliştirme",
+          "category": "Teknoloji",
+          "description": "Bugün web geliştirme için kullandığım araçlar, framework'ler ve uygulamalar."
+        },
+        {
+          "title": "E-Ticaret Yeniden Tasarım Vaka Çalışması",
+          "category": "Vaka Çalışması",
+          "description": "Daha iyi UX ve %40 daha yüksek dönüşüm için bir e-ticaret platformunu nasıl yeniden tasarladım."
+        }
+      ],
+      "cta": {
+        "heading": "Birlikte çalışalım",
+        "subtitle": "Aklınızda bir proje var mı? Harika bir şey inşa edelim.",
+        "button": "İletişime geç"
+      }
+    },
+    "stats": {
+      "heading": "Rakamlarla",
+      "items": [
+        {
+          "value": "50+",
+          "label": "Tamamlanan Proje"
+        },
+        {
+          "value": "5+",
+          "label": "Yıllık Deneyim"
+        },
+        {
+          "value": "100+",
+          "label": "Araç ve Teknoloji"
+        },
+        {
+          "value": "200+",
+          "label": "Yazılmış Makale"
+        }
+      ]
+    }
+  },
+  "about": {
+    "heading": "Hakkımda",
+    "description": "Mühendislik titizliği ve pazarlama sezgisinin bir karışımı. AI-native ürünler geliştiriyor, önemli kodlar yazıyor ve işletmelerin dijital alanda seslerini bulmalarına yardımcı oluyorum.",
+    "cta": "Çalışmalarım",
+    "bio": {
+      "paragraphs": [
+        "Hello, world! Ben Alexandros Tsardoulias, bir AI-Native Software Engineer & Marketing Specialist.",
+        "Teknoloji, felsefe, büyüme stratejisi ve en iyi iletişim uygulamaları arasında köprü kuran disiplinlerarası bir profesyonelim. Startup'lar, solo girişimciler, KOBİ'ler, STK'lar ve diğer profesyoneller ve kuruluşlar için uçtan uca yazılım geliştirme ve büyüme pazarlaması hizmetleri sunuyor; fikirleri ölçeklenebilir dijital ürünlere ve gelir getiren sistemlere dönüştürüyorum.",
+        "Kod yazmayı ve tasarımı kendi kendime öğrenirken Felsefe ve Pazarlama Yönetimi okudum. Liderlik ettiğim her proje, ölçülebilir teknik sonuçlarla gelir etkisi yaratan pazarlamayı birleştirerek müşterilerin hem sağlam dijital altyapı hem de ölçülebilir iş büyümesi elde etmesini sağlar.",
+        "Sadece web uygulamaları için kod yazmam ya da sosyal medya ve e-postaları yönetmem; ölçülebilir sonuçlar üreten bütünsel sistemler inşa ederim. Bir ürünün teknik mimarisini ve go-to-market stratejisini iki ayrı problem olarak değil, tek bir problem olarak ele alırım.",
+        "Yunanistan, Kıbrıs ve AB'deki profesyonellerle çalışıyorum ve hem Yunanca hem İngilizce'yi akıcı şekilde konuşuyorum. Kapsama bağlı olarak aylık retainer veya sabit proje bazında çalışırım. Teknik veya pazarlama ortağı arayan bir girişimci veya işletmeyseniz, kesinlikle konuşmalıyız."
+      ]
+    },
+    "education": {
+      "heading": "Eğitim",
+      "items": [
+        {
+          "year": "2020 – günümüz",
+          "institution": "freeCodeCamp, roadmaps.sh, YouTube",
+          "degree": "Bilgisayar Yazılım Mühendisliği",
+          "description": "Tam yığın boyunca kendi kendine öğrenme: veri yapıları, algoritmalar, sistem tasarımı ve modern web geliştirme."
+        },
+        {
+          "year": "2024 – 2025",
+          "institution": "University of Nicosia",
+          "degree": "Blockchain, kripto paralar, NFT'ler ve metaverse",
+          "description": ""
+        },
+        {
+          "year": "2023 – 2024",
+          "institution": "Knowcrunch",
+          "degree": "Dijital Pazarlama",
+          "description": ""
+        },
+        {
+          "year": "2020 – 2024",
+          "institution": "Queen Margaret University",
+          "degree": "Pazarlama Yönetimi",
+          "description": ""
+        },
+        {
+          "year": "2019 – 2023",
+          "institution": "University of Patras",
+          "degree": "Felsefe",
+          "description": ""
+        }
+      ]
+    },
+    "work": {
+      "heading": "İş Deneyimi",
+      "items": [
+        {
+          "year": "Tem 2025 – günümüz",
+          "company": "Freelance",
+          "role": "AI-Native Software Engineer & Marketing Specialist",
+          "description": ""
+        },
+        {
+          "year": "Tem 2021 – Tem 2025",
+          "company": "Kurumsal Roller & Freelance",
+          "role": "Dijital Pazarlamacı, UI/UX ve Grafik Tasarımcı, Metin Yazarı",
+          "description": ""
+        },
+        {
+          "year": "2023 – 2025",
+          "company": "Gönüllülük",
+          "role": "İşletme ve Pazarlama Öğrencileri için Öğretmen",
+          "description": ""
+        }
+      ]
+    },
+    "tools": {
+      "heading": "Teknolojiler ve Araçlar",
+      "allLabel": "Tümü",
+      "empty": "Bu kategoride araç bulunamadı.",
+      "categories": [
+        "Programlama Dilleri",
+        "Front-End & UI/UX",
+        "Back-End & Veritabanları",
+        "DevOps & CI/CD",
+        "Marketing & Analytics",
+        "Tasarım ve Yaratıcılık",
+        "YZ Araçları",
+        "Otomasyon Araçları",
+        "Proje ve Bilgi Yönetimi Araçları"
+      ],
+      "items": [
+        {"name": "HTML", "category": "Programlama Dilleri"},
+        {"name": "CSS", "category": "Programlama Dilleri"},
+        {"name": "JavaScript", "category": "Programlama Dilleri"},
+        {"name": "TypeScript", "category": "Programlama Dilleri"},
+        {"name": "Python", "category": "Programlama Dilleri"},
+        {"name": "Bash", "category": "Programlama Dilleri"},
+        {"name": "SQL", "category": "Programlama Dilleri"},
+        {"name": "Kotlin", "category": "Programlama Dilleri"},
+        {"name": "Swift", "category": "Programlama Dilleri"},
+        {"name": "React", "category": "Front-End & UI/UX"},
+        {"name": "Next.js", "category": "Front-End & UI/UX"},
+        {"name": "Tailwind CSS", "category": "Front-End & UI/UX"},
+        {"name": "Vue.js", "category": "Front-End & UI/UX"},
+        {"name": "Astro", "category": "Front-End & UI/UX"},
+        {"name": "Svelte", "category": "Front-End & UI/UX"},
+        {"name": "Vue", "category": "Front-End & UI/UX"},
+        {"name": "Nuxt.js", "category": "Front-End & UI/UX"},
+        {"name": "Remix", "category": "Front-End & UI/UX"},
+        {"name": "Pinia", "category": "Front-End & UI/UX"},
+        {"name": "SolidJS", "category": "Front-End & UI/UX"},
+        {"name": "SolidStart", "category": "Front-End & UI/UX"},
+        {"name": "Alpine.js", "category": "Front-End & UI/UX"},
+        {"name": "Vite", "category": "Front-End & UI/UX"},
+        {"name": "Bun", "category": "Front-End & UI/UX"},
+        {"name": "Turbopack", "category": "Front-End & UI/UX"},
+        {"name": "Framer Motion", "category": "Front-End & UI/UX"},
+        {"name": "GSAP", "category": "Front-End & UI/UX"},
+        {"name": "shadcn/ui", "category": "Front-End & UI/UX"},
+        {"name": "Three.js", "category": "Front-End & UI/UX"},
+        {"name": "React Three Fiber", "category": "Front-End & UI/UX"},
+        {"name": "Drei", "category": "Front-End & UI/UX"},
+        {"name": "Theatre.js", "category": "Front-End & UI/UX"},
+        {"name": "Spline", "category": "Front-End & UI/UX"},
+        {"name": "Lenis", "category": "Front-End & UI/UX"},
+        {"name": "Lottie", "category": "Front-End & UI/UX"},
+        {"name": "Rive", "category": "Front-End & UI/UX"},
+        {"name": "Matter.js", "category": "Front-End & UI/UX"},
+        {"name": "Node.js", "category": "Back-End & Veritabanları"},
+        {"name": "NestJS", "category": "Back-End & Veritabanları"},
+        {"name": "Express", "category": "Back-End & Veritabanları"},
+        {"name": "Koa", "category": "Back-End & Veritabanları"},
+        {"name": "Fastify", "category": "Back-End & Veritabanları"},
+        {"name": "FastAPI", "category": "Back-End & Veritabanları"},
+        {"name": "Django", "category": "Back-End & Veritabanları"},
+        {"name": "Flask", "category": "Back-End & Veritabanları"},
+        {"name": "REST APIs", "category": "Back-End & Veritabanları"},
+        {"name": "GraphQL", "category": "Back-End & Veritabanları"},
+        {"name": "tRPC", "category": "Back-End & Veritabanları"},
+        {"name": "Prisma", "category": "Back-End & Veritabanları"},
+        {"name": "Supabase DB", "category": "Back-End & Veritabanları"},
+        {"name": "PostgreSQL", "category": "Back-End & Veritabanları"},
+        {"name": "MySQL", "category": "Back-End & Veritabanları"},
+        {"name": "SQLite", "category": "Back-End & Veritabanları"},
+        {"name": "MongoDB", "category": "Back-End & Veritabanları"},
+        {"name": "Redis", "category": "Back-End & Veritabanları"},
+        {"name": "Git", "category": "DevOps & CI/CD"},
+        {"name": "GitHub Actions", "category": "DevOps & CI/CD"},
+        {"name": "Jenkins", "category": "DevOps & CI/CD"},
+        {"name": "GitLab CI/CD", "category": "DevOps & CI/CD"},
+        {"name": "Azure Pipelines", "category": "DevOps & CI/CD"},
+        {"name": "Argo CD", "category": "DevOps & CI/CD"},
+        {"name": "Flux", "category": "DevOps & CI/CD"},
+        {"name": "Harness", "category": "DevOps & CI/CD"},
+        {"name": "Docker", "category": "DevOps & CI/CD"},
+        {"name": "Terraform", "category": "DevOps & CI/CD"},
+        {"name": "Kubernetes", "category": "DevOps & CI/CD"},
+        {"name": "Ansible", "category": "DevOps & CI/CD"},
+        {"name": "Google Ads", "category": "Marketing & Analytics"},
+        {"name": "Meta Ads Manager", "category": "Marketing & Analytics"},
+        {"name": "TikTok Ads Manager", "category": "Marketing & Analytics"},
+        {"name": "LinkedIn Campaign Manager", "category": "Marketing & Analytics"},
+        {"name": "AdRoll", "category": "Marketing & Analytics"},
+        {"name": "Smartly.io", "category": "Marketing & Analytics"},
+        {"name": "Google Analytics", "category": "Marketing & Analytics"},
+        {"name": "Mixpanel", "category": "Marketing & Analytics"},
+        {"name": "Amplitude", "category": "Marketing & Analytics"},
+        {"name": "Adobe Analytics", "category": "Marketing & Analytics"},
+        {"name": "Semrush", "category": "Marketing & Analytics"},
+        {"name": "Ahrefs", "category": "Marketing & Analytics"},
+        {"name": "Google Search Console", "category": "Marketing & Analytics"},
+        {"name": "Google Keyword Planner", "category": "Marketing & Analytics"},
+        {"name": "Surfer SEO", "category": "Marketing & Analytics"},
+        {"name": "Sitebulb", "category": "Marketing & Analytics"},
+        {"name": "BrightLocal", "category": "Marketing & Analytics"},
+        {"name": "HubSpot Marketing Hub", "category": "Marketing & Analytics"},
+        {"name": "Salesforce", "category": "Marketing & Analytics"},
+        {"name": "LinkedIn Sales Navigator", "category": "Marketing & Analytics"},
+        {"name": "Hootsuite", "category": "Marketing & Analytics"},
+        {"name": "Sprout Social", "category": "Marketing & Analytics"},
+        {"name": "Buffer", "category": "Marketing & Analytics"},
+        {"name": "Mailchimp", "category": "Marketing & Analytics"},
+        {"name": "Brevo", "category": "Marketing & Analytics"},
+        {"name": "Klaviyo", "category": "Marketing & Analytics"},
+        {"name": "Omnisend", "category": "Marketing & Analytics"},
+        {"name": "Kit", "category": "Marketing & Analytics"},
+        {"name": "beehiiv", "category": "Marketing & Analytics"},
+        {"name": "Substack", "category": "Marketing & Analytics"},
+        {"name": "Shopify", "category": "Marketing & Analytics"},
+        {"name": "WooCommerce", "category": "Marketing & Analytics"},
+        {"name": "BigCommerce", "category": "Marketing & Analytics"},
+        {"name": "Stripe", "category": "Marketing & Analytics"},
+        {"name": "Shopify Payments", "category": "Marketing & Analytics"},
+        {"name": "myPOS", "category": "Marketing & Analytics"},
+        {"name": "PostHog", "category": "Marketing & Analytics"},
+        {"name": "GrowthBook", "category": "Marketing & Analytics"},
+        {"name": "Eppo", "category": "Marketing & Analytics"},
+        {"name": "VWO (Visual Website Optimizer)", "category": "Marketing & Analytics"},
+        {"name": "AB Tasty", "category": "Marketing & Analytics"},
+        {"name": "Convert Experiences", "category": "Marketing & Analytics"},
+        {"name": "Crazy Egg", "category": "Marketing & Analytics"},
+        {"name": "Adobe Creative Cloud", "category": "Tasarım ve Yaratıcılık"},
+        {"name": "Figma", "category": "Tasarım ve Yaratıcılık"},
+        {"name": "Framer", "category": "Tasarım ve Yaratıcılık"},
+        {"name": "Miro", "category": "Tasarım ve Yaratıcılık"},
+        {"name": "Sketch", "category": "Tasarım ve Yaratıcılık"},
+        {"name": "ProtoPie", "category": "Tasarım ve Yaratıcılık"},
+        {"name": "Canva", "category": "Tasarım ve Yaratıcılık"},
+        {"name": "CapCut", "category": "Tasarım ve Yaratıcılık"},
+        {"name": "Uizard", "category": "Tasarım ve Yaratıcılık"},
+        {"name": "UX Pilot", "category": "Tasarım ve Yaratıcılık"},
+        {"name": "Replit", "category": "Tasarım ve Yaratıcılık"},
+        {"name": "Lovable", "category": "Tasarım ve Yaratıcılık"},
+        {"name": "Bolt.new", "category": "Tasarım ve Yaratıcılık"},
+        {"name": "Google Stitch", "category": "Tasarım ve Yaratıcılık"},
+        {"name": "Claude Design", "category": "Tasarım ve Yaratıcılık"},
+        {"name": "LLMs", "category": "YZ Araçları"},
+        {"name": "LLM APIs", "category": "YZ Araçları"},
+        {"name": "Hugging Face", "category": "YZ Araçları"},
+        {"name": "Ollama", "category": "YZ Araçları"},
+        {"name": "vLLM", "category": "YZ Araçları"},
+        {"name": "LM Studio", "category": "YZ Araçları"},
+        {"name": "OpenCode", "category": "YZ Araçları"},
+        {"name": "Claude Code", "category": "YZ Araçları"},
+        {"name": "Codex", "category": "YZ Araçları"},
+        {"name": "OpenClaw", "category": "YZ Araçları"},
+        {"name": "Hermes", "category": "YZ Araçları"},
+        {"name": "LangFlow", "category": "YZ Araçları"},
+        {"name": "LangChain", "category": "YZ Araçları"},
+        {"name": "LangGraph", "category": "YZ Araçları"},
+        {"name": "CrewAI", "category": "YZ Araçları"},
+        {"name": "LlamaIndex", "category": "YZ Araçları"},
+        {"name": "Dify", "category": "YZ Araçları"},
+        {"name": "AutoGen", "category": "YZ Araçları"},
+        {"name": "Flowise", "category": "YZ Araçları"},
+        {"name": "Zapier", "category": "Otomasyon Araçları"},
+        {"name": "Make", "category": "Otomasyon Araçları"},
+        {"name": "n8n", "category": "Otomasyon Araçları"},
+        {"name": "UiPath", "category": "Otomasyon Araçları"},
+        {"name": "Workato", "category": "Otomasyon Araçları"},
+        {"name": "Gumloop", "category": "Otomasyon Araçları"},
+        {"name": "Lindy", "category": "Otomasyon Araçları"},
+        {"name": "Notion", "category": "Proje ve Bilgi Yönetimi Araçları"},
+        {"name": "Obsidian", "category": "Proje ve Bilgi Yönetimi Araçları"},
+        {"name": "Slack", "category": "Proje ve Bilgi Yönetimi Araçları"},
+        {"name": "ClickUp", "category": "Proje ve Bilgi Yönetimi Araçları"},
+        {"name": "Monday.com", "category": "Proje ve Bilgi Yönetimi Araçları"},
+        {"name": "Asana", "category": "Proje ve Bilgi Yönetimi Araçları"},
+        {"name": "Jira", "category": "Proje ve Bilgi Yönetimi Araçları"},
+        {"name": "Linear", "category": "Proje ve Bilgi Yönetimi Araçları"},
+        {"name": "Trello", "category": "Proje ve Bilgi Yönetimi Araçları"},
+        {"name": "Wrike", "category": "Proje ve Bilgi Yönetimi Araçları"},
+        {"name": "Microsoft Project & Planner", "category": "Proje ve Bilgi Yönetimi Araçları"},
+        {"name": "Basecamp", "category": "Proje ve Bilgi Yönetimi Araçları"},
+        {"name": "OpenProject", "category": "Proje ve Bilgi Yönetimi Araçları"},
+        {"name": "Focalboard", "category": "Proje ve Bilgi Yönetimi Araçları"},
+        {"name": "Appflowy", "category": "Proje ve Bilgi Yönetimi Araçları"},
+        {"name": "Leantime", "category": "Proje ve Bilgi Yönetimi Araçları"},
+        {"name": "GitHub Projects", "category": "Proje ve Bilgi Yönetimi Araçları"},
+        {"name": "Confluence", "category": "Proje ve Bilgi Yönetimi Araçları"},
+        {"name": "Slite", "category": "Proje ve Bilgi Yönetimi Araçları"},
+        {"name": "Logseq", "category": "Proje ve Bilgi Yönetimi Araçları"},
+        {"name": "Wiki.js", "category": "Proje ve Bilgi Yönetimi Araçları"},
+        {"name": "DocuWiki", "category": "Proje ve Bilgi Yönetimi Araçları"},
+        {"name": "Discord", "category": "Proje ve Bilgi Yönetimi Araçları"},
+        {"name": "Element", "category": "Proje ve Bilgi Yönetimi Araçları"}
+      ]
+    },
+    "philosophy": {
+      "heading": "Felsefem",
+      "items": [
+        {
+          "title": "Az, çoktur",
+          "description": "En iyi çözümlerin neredeyse fark edilmeyenler olduğuna inanıyorum. Temiz mimari, kasıtlı tasarım ve bir sohbet gibi okunan kod. Karmaşıklık kolaydır. Netlik disiplin gerektirir."
+        },
+        {
+          "title": "Teknoloji insanlığa fayda sağlamalı",
+          "description": "Oluşturduğum her ürün tek bir soruyla başlar: bu kime yardım ediyor ve nasıl? Teknoloji en iyi halindedir ki arka plana çekilir ve insanların daha iyi yaşamasına izin verir. Sadece inşa etmek için inşa etmiyorum."
+        },
+        {
+          "title": "Sürekli öğrenme",
+          "description": "Bu alan her birkaç yılda bir kendini yeniden icat ediyor. Sadece onlar hakkında okuyarak değil, gerçek şeyler inşa ederek keskin kalıyorum. Üzerinde çalıştığım şeyden biraz rahatsız değilsem, yeterince hızlı öğrenmiyorum demektir."
+        }
+      ]
+    }
+  },
+  "work": {
+    "heading": "Ne yapıyorum",
+    "description": "Full-stack web uygulamalarından go-to-market stratejisine — uçtan uca çözümler sunuyorum. Her proje hedeflerinizi anlamakla başlar ve ölçülebilir sonuçlarla biter.",
+    "cta": "Makalelerimi oku",
+    "services": {
+      "heading": "Hizmetler",
+      "items": [
+        {
+          "name": "Web Geliştirme",
+          "description": "Next.js, React ve TypeScript ile özel web uygulamaları. Hızlı, duyarlı ve SEO için optimize edilmiş."
+        },
+        {
+          "name": "Web Uygulama Geliştirme",
+          "description": "Modern framework'ler, veritabanları ve bulut altyapısı ile full-stack web uygulamaları."
+        },
+        {
+          "name": "Mobil Uygulama Geliştirme",
+          "description": "iOS ve Android için React Native ve Expo ile çapraz platform mobil uygulamalar."
+        },
+        {
+          "name": "Go-To-Market Stratejisi",
+          "description": "Ürün lansmanları için stratejik planlama — konumlandırma, mesajlaşma ve go-to-market uygulaması."
+        },
+        {
+          "name": "Pazarlama Otomasyonu",
+          "description": "Otomatik pazarlama iş akışları, e-posta dizileri ve potansiyel müşteri besleme sistemleri."
+        },
+        {
+          "name": "Pazarlama Danışmanlığı",
+          "description": "Startup'lar ve küçük işletmeler için stratejik pazarlama danışmanlığı — büyüme, elde tutma, analitik."
+        },
+        {
+          "name": "Forward-Deployed Mühendislik",
+          "description": "Entegre mühendislik çözümleri — teknik zorlukları yerinde çözmek için ekibinizle yan yana çalışırım."
+        },
+        {
+          "name": "İş Akışı Otomasyonu",
+          "description": "Tekrarlayan görevleri ve iş süreçlerini kolaylaştırmak için özel otomasyon çözümleri."
+        },
+        {
+          "name": "YZ ve Teknoloji Danışmanlığı",
+          "description": "Modern işletmeler için YZ entegrasyonu, araçlar, mimari ve ölçeklendirme konularında danışmanlık."
+        },
+        {
+          "name": "Metin Yazarlığı",
+          "description": "Landing page'ler, e-postalar, reklamlar ve ürün açıklamaları için ikna edici, dönüşüm odaklı metinler."
+        },
+        {
+          "name": "İçerik Yazarlığı",
+          "description": "Kitlenizi eğiten ve ilgisini çeken makaleler, blog yazıları ve uzun form içerik."
+        },
+        {
+          "name": "Teknik Dokümantasyon",
+          "description": "API'ler, SDK'lar ve geliştirici odaklı ürünler için net, kapsamlı dokümantasyon."
+        }
+      ]
+    },
+    "completed": {
+      "heading": "Tamamlanan Projeler",
+      "items": [
+        {
+          "title": "Yapay Zeka Pazarlamayı Nasıl Değiştiriyor",
+          "date": "2026-06-15",
+          "category": "Teknoloji",
+          "excerpt": "YZ araçlarının dijital pazarlamayı nasıl dönüştürdüğüne dair bir analiz.",
+          "slug": "ai-marketing-2026"
+        },
+        {
+          "title": "2026'da Modern Web Geliştirme",
+          "date": "2026-05-20",
+          "category": "Teknoloji",
+          "excerpt": "Bugün web geliştirme için kullandığım araçlar, framework'ler ve uygulamalar.",
+          "slug": "modern-web-dev"
+        }
+      ]
+    }
+  },
+  "articles": {
+    "heading": "Makaleler",
+    "description": "YZ, yazılım mühendisliği ve modern pazarlama üzerine düşünceler. Ne inşa ettiğim, ne öğrendiğim ve teknolojinin nereye gittiği hakkında yazıyorum.",
+    "cta": "İletişime geç",
+    "filter": {
+      "all": "Tümü",
+      "label": "Kategori"
+    },
+    "empty": "Bu kategoride makale yok.",
+    "readMore": "Devamını oku",
+    "backToList": "← Makalelere dön"
+  },
+  "contact": {
+    "heading": "İletişim",
+    "description": "Konuşalım. Aklınızda bir proje, bir soru ya da sadece bağlantı kurmak istiyorsanız — buradayım.",
+    "subtitle": "Beni şurada bulabilirsiniz:",
+    "links": [
+      {
+        "platform": "Instagram",
+        "url": "https://instagram.com/alexistdev",
+        "label": "Instagram — @alexistdev"
+      },
+      {
+        "platform": "X (Twitter)",
+        "url": "https://x.com/alexistdev",
+        "label": "X — @alexistdev"
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "https://linkedin.com/in/atsardoulias",
+        "label": "LinkedIn — /in/atsardoulias"
+      },
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/alexistdev",
+        "label": "GitHub — @alexistdev"
+      },
+      {
+        "platform": "Substack",
+        "url": "https://alexistdev.substack.com",
+        "label": "Substack — alexistdev"
+      },
+      {
+        "platform": "Facebook",
+        "url": "https://facebook.com/alexistdev",
+        "label": "Facebook — @alexistdev"
+      },
+      {
+        "platform": "Threads",
+        "url": "https://threads.net/@alexistdev",
+        "label": "Threads — @alexistdev"
+      },
+      {
+        "platform": "Reddit",
+        "url": "https://reddit.com/user/alexistdev",
+        "label": "Reddit — u/alexistdev"
+      },
+      {
+        "platform": "Email",
+        "url": "mailto:hello@alexist.dev",
+        "label": "Email — hello@alexist.dev"
+      },
+      {
+        "platform": "Discord",
+        "url": "https://discord.gg/alexistdev",
+        "label": "Discord — @alexistdev"
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© {year} Alexandros Tsardoulias",
+    "builtWith": "Next.js ve Tailwind ile geliştirildi",
+    "backToTop": "Başa dön"
+  },
+  "theme": {
+    "light": "Açık",
+    "dark": "Koyu",
+    "toggle": "Tema değiştir"
+  },
+  "language": {
+    "label": "Dil",
+    "el": "Ελληνικά",
+    "en": "English",
+    "ru": "Русский",
+    "de": "Deutsch",
+    "fr": "Français",
+    "it": "Italiano",
+    "es": "Español",
+    "tr": "Türkçe",
+    "pl": "Polski",
+    "nl": "Nederlands",
+    "ua": "Українська",
+    "il": "עברית",
+    "ae": "العربية"
+  },
+  "common": {
+    "loading": "Yükleniyor…",
+    "error": "Bir şeyler yanlış gitti.",
+    "retry": "Tekrar dene",
+    "back": "← Geri",
+    "readMore": "Devamını oku"
+  },
+  "404": {
+    "title": "404 — Sayfa bulunamadı",
+    "message": "Aradığınız sayfa mevcut değil.",
+    "backHome": "← Ana sayfaya dön"
+  }
+}
