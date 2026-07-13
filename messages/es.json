@@ -911,11 +911,11 @@
     "description": "Desde aplicaciones web full-stack hasta estrategia go-to-market — entrego soluciones integrales. Cada proyecto comienza entendiendo tus objetivos y termina con resultados medibles.",
     "cta": "Leer mis artículos",
     "services": {
-      "heading": "Servicios",
+      "heading": "Qué Hago",
       "items": [
         {
-          "name": "Desarrollo Web",
-          "description": "Aplicaciones web personalizadas con Next.js, React y TypeScript. Rápidas, responsivas y optimizadas para SEO."
+          "name": "Desarrollo de Sitios Web",
+          "description": "Sitios web personalizados adaptados a tus necesidades. Rápidos, responsivos y optimizados para SEO."
         },
         {
           "name": "Desarrollo de Aplicaciones Web",
@@ -961,6 +961,15 @@
           "name": "Documentación Técnica",
           "description": "Documentación clara y completa para APIs, SDKs y productos orientados a desarrolladores."
         }
+      ]
+    },
+    "process": {
+      "heading": "Cómo Trabajo",
+      "steps": [
+        {"title": "Discovery", "description": "Comprendo tus objetivos, tu audiencia y qué significa el éxito para tu proyecto."},
+        {"title": "Strategy", "description": "Planifico el enfoque, elijo las herramientas adecuadas y trazo el camino hacia el lanzamiento."},
+        {"title": "Execution", "description": "Construyo con precisión. Código limpio, diseño cuidado y revisiones periódicas."},
+        {"title": "Delivery", "description": "Lanzo, mido e itero. Me mantengo involucrado para asegurarme de que todo funcione."}
       ]
     },
     "completed": {

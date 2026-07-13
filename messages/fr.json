@@ -911,60 +911,81 @@
     "description": "Des applications web full-stack à la stratégie go-to-market — je fournis des solutions de bout en bout. Chaque projet commence par la compréhension de vos objectifs et se termine par des résultats mesurables.",
     "cta": "Lire mes articles",
     "services": {
-      "heading": "Services",
+      "heading": "Ce Que Je Fais",
       "items": [
         {
-          "name": "Web Development",
-          "description": "Custom web apps with Next.js, React, and TypeScript. Fast, responsive, and SEO-optimized."
+          "name": "Développement de Sites Web",
+          "description": "Sites web sur mesure adaptés à vos besoins. Rapides, responsives et optimisés SEO."
         },
         {
-          "name": "Web App Development",
-          "description": "Full-stack web applications with modern frameworks, databases, and cloud infrastructure."
+          "name": "Développement d'Applications Web",
+          "description": "Applications web full-stack avec frameworks modernes, bases de données et infrastructure cloud."
         },
         {
-          "name": "Mobile App Development",
-          "description": "Cross-platform mobile apps using React Native and Expo for iOS and Android."
+          "name": "Développement d'Applications Mobiles",
+          "description": "Applications mobiles multiplateformes avec React Native et Expo pour iOS et Android."
         },
         {
-          "name": "Go-To-Market Strategy",
-          "description": "Strategic planning for product launches — positioning, messaging, and go-to-market execution."
+          "name": "Stratégie Go-To-Market",
+          "description": "Planification stratégique pour les lancements de produits — positionnement, messagerie et exécution go-to-market."
         },
         {
-          "name": "Marketing Automation",
-          "description": "Automated marketing workflows, email sequences, and lead nurturing systems."
+          "name": "Automatisation Marketing",
+          "description": "Workflows marketing automatisés, séquences d'emails et systèmes de nurturing de leads."
         },
         {
-          "name": "Marketing Consulting",
-          "description": "Strategic marketing advisory for startups and small businesses — growth, retention, analytics."
+          "name": "Conseil Marketing",
+          "description": "Conseil marketing stratégique pour startups et petites entreprises — croissance, rétention, analytique."
         },
         {
-          "name": "Forward-Deployed Engineering",
-          "description": "Embedded engineering solutions — I work alongside your team to solve technical challenges on site."
+          "name": "Ingénierie Forward-Deployed",
+          "description": "Solutions d'ingénierie intégrées — je travaille aux côtés de votre équipe pour résoudre les défis techniques sur site."
         },
         {
-          "name": "Workflow Automation",
-          "description": "Custom automation solutions to streamline repetitive tasks and business processes."
+          "name": "Automatisation des Flux de Travail",
+          "description": "Solutions d'automatisation sur mesure pour rationaliser les tâches répétitives et les processus métier."
         },
         {
-          "name": "AI & Tech Consulting",
-          "description": "Advisory on AI integration, tooling, architecture, and scaling for modern businesses."
+          "name": "Conseil en IA & Technologie",
+          "description": "Conseil sur l'intégration de l'IA, les outils, l'architecture et la mise à l'échelle pour les entreprises modernes."
         },
         {
-          "name": "Copywriting",
-          "description": "Persuasive, conversion-focused copy for landing pages, emails, ads, and product descriptions."
+          "name": "Rédaction Publicitaire",
+          "description": "Copy persuasif et orienté conversion pour pages d'atterrissage, emails, publicités et descriptions de produits."
         },
         {
-          "name": "Content Writing",
-          "description": "Articles, blog posts, and long-form content that educates and engages your audience."
+          "name": "Rédaction de Contenu",
+          "description": "Articles, billets de blog et contenu long format qui éduque et engage votre audience."
         },
         {
-          "name": "Technical Documentation",
-          "description": "Clear, comprehensive documentation for APIs, SDKs, and developer-facing products."
+          "name": "Documentation Technique",
+          "description": "Documentation claire et complète pour APIs, SDKs et produits orientés développeurs."
+        }
+      ]
+    },
+    "process": {
+      "heading": "Comment Je Travaille",
+      "steps": [
+        {
+          "title": "Découverte",
+          "description": "Comprendre vos objectifs, votre audience et ce à quoi ressemble le succès pour votre projet."
+        },
+        {
+          "title": "Stratégie",
+          "description": "Planifier l'approche, choisir les bons outils et tracer le chemin vers le lancement."
+        },
+        {
+          "title": "Exécution",
+          "description": "Construire avec précision. Code propre, design réfléchi et points réguliers."
+        },
+        {
+          "title": "Livraison",
+          "description": "Lancer, mesurer et itérer. Je reste impliqué pour m'assurer que tout fonctionne."
         }
       ]
     },
     "completed": {
-      "heading": "Completed Projects",
+      "heading": "Projets Réalisés",
       "items": [
         {
           "title": "How AI Is Changing Marketing",
