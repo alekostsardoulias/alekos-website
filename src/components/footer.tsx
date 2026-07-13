@@ -29,7 +29,7 @@ export function Footer() {
 
   return (
     <footer className="border-t border-white/[0.04] bg-black/30 backdrop-blur-xl mt-auto">
-      <div className="mx-auto max-w-7xl px-4 py-10 md:py-12">
+      <div className="mx-auto max-w-[88rem] px-4 py-10 md:py-12">
         <div className="flex flex-col md:flex-row items-center md:items-start justify-between gap-6 md:gap-8">
           {/* Left: name, title, copyright */}
           <div className="flex flex-col items-center md:items-start gap-1.5">

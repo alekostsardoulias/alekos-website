@@ -1,9 +1,10 @@
 'use client';
 
-import { useState } from 'react';
 import { useTranslations, useLocale } from 'next-intl';
-import { Link, usePathname } from '@/i18n/navigation';
+import { usePathname } from '@/i18n/navigation';
+import { Link } from '@/i18n/navigation';
 import { LanguageSelector } from '@/components/language-selector';
+import { useState } from 'react';
 import { Menu, X } from 'lucide-react';
 
 const NAV_LINKS = [
@@ -25,7 +26,7 @@ export function Navigation() {
 
   return (
     <header className="sticky top-0 z-40 bg-black/40 backdrop-blur-xl border-b border-white/[0.04]">
-      <nav className="mx-auto flex max-w-7xl items-center justify-between px-4 py-4">
+      <nav className="mx-auto flex max-w-[88rem] items-center justify-between px-4 py-4">
         {/* Site name — locale-aware */}
         <Link
           href="/"
