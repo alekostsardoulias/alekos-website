@@ -14,7 +14,7 @@ export function HomeServices() {
   const t = useTranslations('home');
 
   return (
-    <section className="py-24 md:py-32 px-6">
+    <section className="py-12 md:py-16 px-6">
       <div className="max-w-5xl mx-auto">
         <h2 className="text-3xl font-bold text-text-primary mb-8 text-center">
           {t('servicesOverview.heading')}

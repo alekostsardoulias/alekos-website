@@ -44,7 +44,7 @@ export default async function AboutPage() {
       </HeroSection>
 
       {/* Philosophy section */}
-      <section className="mb-20">
+      <section>
         <h2 className="text-2xl font-semibold text-foreground mb-6">
           {t('philosophy.heading')}
         </h2>
@@ -73,12 +73,12 @@ export default async function AboutPage() {
       </section>
 
       {/* Education timeline */}
-        <div className="mt-20 pt-8 border-t border-border">
+        <div className="pt-8 border-t border-border">
           <EducationTimeline />
         </div>
 
         {/* Work timeline */}
-        <div className="mt-20 pt-8 border-t border-border">
+        <div className="pt-8 border-t border-border">
         <WorkTimeline />
       </div>
 

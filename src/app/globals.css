@@ -296,6 +296,17 @@
   h1, h2 {
     text-wrap: balance;
   }
+
+  /* ── Section spacing ── */
+  section {
+    @apply my-20 md:my-28;
+  }
+  section:first-child {
+    @apply mt-0 mb-20 md:mb-24;
+  }
+  section:last-child {
+    @apply mb-0;
+  }
 }
 
 /* ── Custom cursor (disabled on touch & reduced-motion) ── */

@@ -36,8 +36,8 @@ export function HeroSection({
   const heading = t(headingKey);
 
   const sectionClasses = largeImage
-    ? 'flex flex-col-reverse md:flex-row items-stretch gap-8 md:gap-12 mb-24'
-    : 'flex flex-col-reverse md:flex-row items-start gap-8 md:gap-12 mb-24';
+    ? 'flex flex-col-reverse md:flex-row items-stretch gap-8 md:gap-12'
+    : 'flex flex-col-reverse md:flex-row items-start gap-8 md:gap-12';
 
   const imageWrapperClasses = largeImage
     ? 'shrink-0 w-4/5 mx-auto md:w-[380px] lg:w-[440px] flex items-center'

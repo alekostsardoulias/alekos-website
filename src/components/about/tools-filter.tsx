@@ -39,7 +39,7 @@ export function ToolsFilter({
   const displayed = filtered.slice(0, visibleCount);
 
   return (
-    <section className="border-t border-border pt-8 mt-20">
+    <section className="border-t border-border pt-8">
       <h2 className="text-2xl font-semibold text-foreground mb-6">{heading}</h2>
 
       {/* Search bar */}
