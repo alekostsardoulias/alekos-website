@@ -1,1 +1,1123 @@
-{"nav":{"home":"בית","about":"אודות","work":"עבודות","articles":"מאמרים","contact":"צור קשר"},"hero":{"greeting":"👋 Hello, World!","name":"Alexandros Tsardoulias","title":"AI-Native Software Engineer & Marketing Specialist","description":"אני עוזר ליזמים, סטארטאפים, עסקים קטנים ובינוניים ועמותות להשיג את המטרות שלהם באמצעות שילוב של טכנולוגיה, פילוסופיה, אסטרטגיית צמיחה ופרקטיקות תקשורת מיטביות.","cta":"לעבודות שלי","ctaSecondary":"צור קשר"},"home":{"summaries":{"about":{"heading":"אודותיי","description":"מי אני, מה למדתי, איפה עבדתי."},"work":{"heading":"מה אני עושה","description":"שירותים ופרויקטים שהושלמו."},"articles":{"heading":"מאמרים","description":"מחשבות על AI, שיווק וטכנולוגיה."},"contact":{"heading":"צור קשר","description":"מצאו אותי ברשתות החברתיות."}},"servicesOverview":{"heading":"מה אני עושה","items":[{"title":"פיתוח תוכנה","description":"אפליקציות ווב ומובייל מותאמות אישית לצרכים שלך. מהירות, רספונסיביות, חסכוניות ומוכנות ל-SEO."},{"title":"שיווק וצמיחה","description":"אסטרטגיית חדירה לשוק, אוטומציה שיווקית, כתיבת קופי ותוכן וקמפיינים ממוקדי המרה שמניבים תוצאות."},{"title":"AI ואוטומציה","description":"שילוב AI, אוטומציה של תהליכי עבודה ומערכות חכמות שמגדילות את העסק שלך."},{"title":"אסטרטגיה וייעוץ","description":"ייעוץ טכני, החלטות ארכיטקטורה ואסטרטגיית מוצר לעסקים מודרניים."}]},"featured":{"heading":"עבודות נבחרות","viewProject":"לצפייה בפרויקט","items":[{"title":"איך AI משנה את השיווק","category":"טכנולוגיה","description":"ניתוח של האופן שבו כלי AI משנים אסטרטגיות שיווק דיגיטלי ב-2026."},{"title":"פיתוח ווב מודרני ב-2026","category":"טכנולוגיה","description":"הכלים, הספריות והפרקטיקות שאני משתמש בהן כיום לפיתוח ווב."},{"title":"תיאור מקרה: עיצוב מחדש של מסחר אלקטרוני","category":"תיאור מקרה","description":"איך עיצבתי מחדש פלטפורמת מסחר אלקטרוני לשיפור חוויית המשתמש והגדלת ההמרה ב-40%."}],"cta":{"heading":"בואו נעבוד יחד","subtitle":"יש לכם פרויקט בראש? בואו נבנה משהו נהדר.","button":"צרו קשר"}},"stats":{"heading":"במספרים","items":[{"value":"50+","label":"פרויקטים שהושלמו"},{"value":"5+","label":"שנות ניסיון"},{"value":"100+","label":"כלים וטכנולוגיות"},{"value":"200+","label":"מאמרים שנכתבו"}]}},"about":{"heading":"אודותיי","description":"שילוב של קפדנות הנדסית ואינטואיציה שיווקית. אני בונה מוצרים מבוססי AI, כותב קוד משמעותי ועוזר לעסקים למצוא את הקול שלהם במרחב הדיגיטלי.","cta":"לעבודות שלי","bio":{"paragraphs":["היי, עולם! אני אלכסנדרוס צארדוליאס, מהנדס תוכנה AI-Native ומומחה שיווק.","אני איש מקצוע בין-תחומי המגשר בין טכנולוגיה, פילוסופיה, אסטרטגיית צמיחה ופרקטיקות תקשורת מיטביות. אני מספק שירותי פיתוח תוכנה ושיווק צמיחה מקצה לקצה עבור סטארטאפים, יזמים עצמאיים, עסקים קטנים ובינוניים, עמותות וסוגים נוספים של אנשי מקצוע וארגונים — והופך רעיונות למוצרים דיגיטליים סקיילביליים ומערכות מניבות הכנסות.","למדתי פילוסופיה וניהול שיווק ובמקביל לימדתי את עצמי לתכנת ולעצב. כל פרויקט שאני מוביל משלב תוצאות טכניות מדידות עם שיווק ממוקד הכנסות, כך שהלקוחות שלי מקבלים גם תשתית דיגיטלית איתנה וגם צמיחה עסקית מדידה.","אני לא רק כותב קוד לאפליקציות ווב או מנהל רשתות חברתיות ואימיילים — אני בונה מערכות הוליסטיות שמייצרות תוצאות מדידות. אני מתייחס לארכיטקטורה הטכנית של מוצר ולאסטרטגיית החדירה-לשוק שלו כאל בעיה אחת, לא שתיים.","אני עובד עם אנשי מקצוע ביוון, קפריסין והאיחוד האירופי, ואני דובר יוונית ואנגלית ברמת שפת אם. אני עובד במודל של ריטיינר חודשי או פרויקט קבוע, בהתאם להיקף. אם אתה יזם או בעל עסק שמחפש שותף טכני או שיווקי — כדאי שנדבר."]},"education":{"heading":"השכלה","items":[{"year":"2020 — 2024","institution":"האוניברסיטה לכלכלה ועסקים של אתונה","degree":"תואר ראשון במדעי המחשב","description":"TODO: add details"}]},"work":{"heading":"ניסיון תעסוקתי","items":[{"year":"2023 — Present","company":"פרילנס","role":"מהנדס תוכנה ומומחה שיווק","description":"TODO: add details"}]},"tools":{"heading":"טכנולוגיות וכלים","allLabel":"הכל","empty":"לא נמצאו כלים בקטגוריה זו.","categories":["שפות תכנות","צד לקוח ו-UI/UX","צד שרת ומסדי נתונים","DevOps ו-CI/CD","שיווק ואנליטיקס","עיצוב וקריאייטיב","כלי AI","ניהול פרויקטים"],"items":[{"name":"React","category":"צד לקוח ו-UI/UX"},{"name":"Next.js","category":"צד לקוח ו-UI/UX"},{"name":"TypeScript","category":"צד לקוח ו-UI/UX"},{"name":"Tailwind CSS","category":"צד לקוח ו-UI/UX"},{"name":"HTML/CSS","category":"צד לקוח ו-UI/UX"},{"name":"JavaScript","category":"צד לקוח ו-UI/UX"},{"name":"Vue.js","category":"צד לקוח ו-UI/UX"},{"name":"Astro","category":"צד לקוח ו-UI/UX"},{"name":"Svelte","category":"צד לקוח ו-UI/UX"},{"name":"Framer Motion","category":"צד לקוח ו-UI/UX"},{"name":"shadcn/ui","category":"צד לקוח ו-UI/UX"},{"name":"Radix UI","category":"צד לקוח ו-UI/UX"},{"name":"Node.js","category":"צד שרת ומסדי נתונים"},{"name":"Express","category":"צד שרת ומסדי נתונים"},{"name":"Python","category":"צד שרת ומסדי נתונים"},{"name":"FastAPI","category":"צד שרת ומסדי נתונים"},{"name":"REST APIs","category":"צד שרת ומסדי נתונים"},{"name":"GraphQL","category":"צד שרת ומסדי נתונים"},{"name":"tRPC","category":"צד שרת ומסדי נתונים"},{"name":"Prisma","category":"צד שרת ומסדי נתונים"},{"name":"Django","category":"צד שרת ומסדי נתונים"},{"name":"LLMs","category":"כלי AI"},{"name":"OpenAI API","category":"כלי AI"},{"name":"LangChain","category":"כלי AI"},{"name":"RAG","category":"כלי AI"},{"name":"Vector Databases","category":"כלי AI"},{"name":"Prompt Engineering","category":"כלי AI"},{"name":"Midjourney","category":"כלי AI"},{"name":"Stable Diffusion","category":"כלי AI"},{"name":"Claude","category":"כלי AI"},{"name":"AI Agents","category":"כלי AI"},{"name":"Docker","category":"DevOps ו-CI/CD"},{"name":"Git","category":"DevOps ו-CI/CD"},{"name":"GitHub Actions","category":"DevOps ו-CI/CD"},{"name":"Vercel","category":"DevOps ו-CI/CD"},{"name":"Linux","category":"DevOps ו-CI/CD"},{"name":"Nginx","category":"DevOps ו-CI/CD"},{"name":"CI/CD","category":"DevOps ו-CI/CD"},{"name":"Supabase","category":"DevOps ו-CI/CD"},{"name":"Cloudflare","category":"DevOps ו-CI/CD"},{"name":"PostgreSQL","category":"צד שרת ומסדי נתונים"},{"name":"MongoDB","category":"צד שרת ומסדי נתונים"},{"name":"Redis","category":"צד שרת ומסדי נתונים"},{"name":"SQLite","category":"צד שרת ומסדי נתונים"},{"name":"Supabase DB","category":"צד שרת ומסדי נתונים"},{"name":"MySQL","category":"צד שרת ומסדי נתונים"},{"name":"TypeScript","category":"שפות תכנות"},{"name":"JavaScript","category":"שפות תכנות"},{"name":"Python","category":"שפות תכנות"},{"name":"HTML/CSS","category":"שפות תכנות"},{"name":"SQL","category":"שפות תכנות"},{"name":"Bash","category":"שפות תכנות"},{"name":"Markdown","category":"שפות תכנות"},{"name":"Figma","category":"עיצוב וקריאייטיב"},{"name":"Canva","category":"עיצוב וקריאייטיב"},{"name":"Adobe Photoshop","category":"עיצוב וקריאייטיב"},{"name":"UI/UX Design","category":"עיצוב וקריאייטיב"},{"name":"Responsive Design","category":"עיצוב וקריאייטיב"},{"name":"Design Systems","category":"עיצוב וקריאייטיב"},{"name":"Google Analytics","category":"שיווק ואנליטיקס"},{"name":"SEO","category":"שיווק ואנליטיקס"},{"name":"Meta Ads","category":"שיווק ואנליטיקס"},{"name":"Google Ads","category":"שיווק ואנליטיקס"},{"name":"Email Marketing","category":"שיווק ואנליטיקס"},{"name":"Content Strategy","category":"שיווק ואנליטיקס"},{"name":"Copywriting","category":"שיווק ואנליטיקס"},{"name":"A/B Testing","category":"שיווק ואנליטיקס"},{"name":"Social Media Marketing","category":"שיווק ואנליטיקס"},{"name":"VS Code","category":"ניהול פרויקטים"},{"name":"Notion","category":"ניהול פרויקטים"},{"name":"Slack","category":"ניהול פרויקטים"},{"name":"Zapier","category":"ניהול פרויקטים"},{"name":"n8n","category":"ניהול פרויקטים"},{"name":"Make (Integromat)","category":"ניהול פרויקטים"},{"name":"Obsidian","category":"ניהול פרויקטים"},{"name":"Linear","category":"ניהול פרויקטים"}]},"philosophy":{"heading":"הפילוסופיה שלי","items":[{"title":"פחות זה יותר","description":"אני מעדיף קוד נקי ופונקציונלי ועיצוב מדוד. מורכבות היא התחייבות — פשטות מגדילה."},{"title":"טכנולוגיה משרתת אנשים","description":"מאחורי כל שורת קוד שאני כותב עומד בן אדם. טכנולוגיה היא כלי, לא מטרה בפני עצמה."},{"title":"למידה מתמדת","description":"התחום מתפתח מדי יום. אני נשאר סקרן, מתנסה לעיתים קרובות ולעולם לא מניח שכבר הבנתי הכל."}]}},"work":{"heading":"מה אני עושה","description":"מאפליקציות ווב מלאות ועד אסטרטגיית חדירה לשוק — אני מספק פתרונות מקצה לקצה. כל פרויקט מתחיל בהבנת המטרות שלך ומסתיים בתוצאות מדידות.","cta":"למאמרים שלי","services":{"heading":"שירותים","items":[{"name":"פיתוח אתרים","description":"אפליקציות ווב מותאמות אישית עם Next.js, React ו-TypeScript. מהירות, רספונסיביות ומותאמות SEO."},{"name":"פיתוח אפליקציות ווב","description":"אפליקציות ווב מלאות עם ספריות מודרניות, מסדי נתונים ותשתית ענן."},{"name":"פיתוח אפליקציות מובייל","description":"אפליקציות מובייל חוצות-פלטפורמות עם React Native ו-Expo ל-iOS ואנדרואיד."},{"name":"אסטרטגיית חדירה לשוק","description":"תכנון אסטרטגי להשקות מוצר — מיצוב, מסרים וביצוע חדירה לשוק."},{"name":"אוטומציה שיווקית","description":"תהליכי שיווק אוטומטיים, רצפי אימייל ומערכות טיפוח לידים."},{"name":"ייעוץ שיווקי","description":"ייעוץ שיווקי אסטרטגי לסטארטאפים ועסקים קטנים — צמיחה, שימור ואנליטיקס."},{"name":"הנדסה משולבת בשטח","description":"פתרונות הנדסיים מוטמעים — אני עובד לצד הצוות שלך לפתרון אתגרים טכניים באתר."},{"name":"אוטומציה של תהליכי עבודה","description":"פתרונות אוטומציה מותאמים אישית לייעול משימות חוזרות ותהליכים עסקיים."},{"name":"ייעוץ AI וטכנולוגיה","description":"ייעוץ בנושא שילוב AI, כלים, ארכיטקטורה וסקיילינג לעסקים מודרניים."},{"name":"כתיבת קופי","description":"קופי משכנע וממוקד המרה לדפי נחיתה, אימיילים, מודעות ותיאורי מוצר."},{"name":"כתיבת תוכן","description":"מאמרים, פוסטים ותוכן ארוך שמלמד ומעסיק את הקהל שלך."},{"name":"תיעוד טכני","description":"תיעוד ברור ומקיף ל-APIs, SDKs ומוצרים למפתחים."}]},"process":{"heading":"איך אני עובד","steps":[{"title":"גילוי","description":"הבנת המטרות שלך, הקהל ומהי הצלחה עבור הפרויקט שלך."},{"title":"אסטרטגיה","description":"תכנון הגישה, בחירת הכלים הנכונים ומיפוי הדרך להשקה."},{"title":"ביצוע","description":"בנייה מדויקת — קוד נקי, עיצוב מושכל ועדכונים שוטפים."},{"title":"השקה","description":"השקה, מדידה ושיפור. אני נשאר מעורב כדי לוודא שהכל עובד."}]},"completed":{"heading":"פרויקטים שהושלמו","items":[{"title":"איך AI משנה את השיווק","date":"2026-06-15","category":"טכנולוגיה","excerpt":"ניתוח של האופן שבו כלי AI משנים שיווק דיגיטלי.","slug":"ai-marketing-2026"},{"title":"פיתוח ווב מודרני ב-2026","date":"2026-05-20","category":"טכנולוגיה","excerpt":"הכלים, הספריות והפרקטיקות שאני משתמש בהן לפיתוח ווב כיום.","slug":"modern-web-dev"}]}},"articles":{"heading":"מאמרים","description":"מחשבות על AI, הנדסת תוכנה ושיווק מודרני. אני כותב על מה שאני בונה, מה שאני לומד ולאן הטכנולוגיה מתקדמת.","cta":"צור קשר","filter":{"all":"הכל","label":"קטגוריה"},"empty":"אין מאמרים בקטגוריה זו.","readMore":"קרא עוד","readingTime":"{minutes} דקות קריאה","backToList":"← חזרה למאמרים"},"contact":{"heading":"צור קשר","description":"בואו נדבר. בין אם יש לכם פרויקט בראש, שאלה או סתם רוצים להתחבר — אני כאן.","subtitle":"אפשר למצוא אותי ב:","emailCTA":{"heading":"בואו נדבר","button":"שלחו לי אימייל","responseTime":"אני בדרך כלל מגיב תוך 24 שעות"},"links":[{"platform":"Instagram","url":"https://instagram.com/alexistdev","label":"Instagram — @alexistdev"},{"platform":"X (Twitter)","url":"https://x.com/alexistdev","label":"X — @alexistdev"},{"platform":"LinkedIn","url":"https://linkedin.com/in/atsardoulias","label":"LinkedIn — /in/atsardoulias"},{"platform":"GitHub","url":"https://github.com/alexistdev","label":"GitHub — @alexistdev"},{"platform":"Substack","url":"https://alexistdev.substack.com","label":"Substack — alexistdev"},{"platform":"Facebook","url":"https://facebook.com/alexistdev","label":"Facebook — @alexistdev"},{"platform":"Threads","url":"https://threads.net/@alexistdev","label":"Threads — @alexistdev"},{"platform":"Reddit","url":"https://reddit.com/user/alexistdev","label":"Reddit — u/alexistdev"},{"platform":"Email","url":"mailto:hello@alexist.dev","label":"Email — hello@alexist.dev"},{"platform":"Discord","url":"https://discord.gg/alexistdev","label":"Discord — @alexistdev"}]},"footer":{"copyright":"© {year} Alexandros Tsardoulias","builtWith":"נבנה עם Next.js ו-Tailwind","backToTop":"חזרה למעלה"},"theme":{"light":"בהיר","dark":"כהה","toggle":"החלף ערכת נושא"},"language":{"label":"שפה","el":"Ελληνικά","en":"English","ru":"Русский","de":"Deutsch","fr":"Français","it":"Italiano","es":"Español","tr":"Türkçe","pl":"Polski","nl":"Nederlands","ua":"Українська","il":"עברית","ae":"العربية"},"common":{"loading":"טוען…","error":"משהו השתבש.","retry":"נסה שוב","back":"← חזרה","readMore":"קרא עוד"},"404":{"title":"404 — הדף לא נמצא","message":"הדף שאתה מחפש לא קיים.","backHome":"← חזרה לדף הבית"}}
+{
+  "404": {
+    "title": "404 — הדף לא נמצא",
+    "message": "הדף שאתה מחפש לא קיים.",
+    "backHome": "← חזרה לדף הבית"
+  },
+  "nav": {
+    "home": "בית",
+    "about": "אודות",
+    "work": "עבודות",
+    "articles": "מאמרים",
+    "contact": "צור קשר"
+  },
+  "hero": {
+    "greeting": "👋 Hello, World!",
+    "name": "Alexandros Tsardoulias",
+    "title": "AI-Native Software Engineer & Marketing Specialist",
+    "description": "אני עוזר ליזמים, סטארטאפים, עסקים קטנים ובינוניים ועמותות להשיג את המטרות שלהם באמצעות שילוב של טכנולוגיה, פילוסופיה, אסטרטגיית צמיחה ופרקטיקות תקשורת מיטביות.",
+    "cta": "לעבודות שלי",
+    "ctaSecondary": "צור קשר"
+  },
+  "home": {
+    "summaries": {
+      "about": {
+        "heading": "אודותיי",
+        "description": "מי אני, מה למדתי, איפה עבדתי."
+      },
+      "work": {
+        "heading": "מה אני עושה",
+        "description": "שירותים ופרויקטים שהושלמו."
+      },
+      "articles": {
+        "heading": "מאמרים",
+        "description": "מחשבות על AI, שיווק וטכנולוגיה."
+      },
+      "contact": {
+        "heading": "צור קשר",
+        "description": "מצאו אותי ברשתות החברתיות."
+      }
+    },
+    "servicesOverview": {
+      "heading": "מה אני עושה",
+      "items": [
+        {
+          "title": "פיתוח תוכנה",
+          "description": "אפליקציות ווב ומובייל מותאמות אישית לצרכים שלך. מהירות, רספונסיביות, חסכוניות ומוכנות ל-SEO."
+        },
+        {
+          "title": "שיווק וצמיחה",
+          "description": "אסטרטגיית חדירה לשוק, אוטומציה שיווקית, כתיבת קופי ותוכן וקמפיינים ממוקדי המרה שמניבים תוצאות."
+        },
+        {
+          "title": "AI ואוטומציה",
+          "description": "שילוב AI, אוטומציה של תהליכי עבודה ומערכות חכמות שמגדילות את העסק שלך."
+        },
+        {
+          "title": "אסטרטגיה וייעוץ",
+          "description": "ייעוץ טכני, החלטות ארכיטקטורה ואסטרטגיית מוצר לעסקים מודרניים."
+        }
+      ]
+    },
+    "featured": {
+      "heading": "עבודות נבחרות",
+      "viewProject": "לצפייה בפרויקט",
+      "items": [
+        {
+          "title": "איך AI משנה את השיווק",
+          "category": "טכנולוגיה",
+          "description": "ניתוח של האופן שבו כלי AI משנים אסטרטגיות שיווק דיגיטלי ב-2026."
+        },
+        {
+          "title": "פיתוח ווב מודרני ב-2026",
+          "category": "טכנולוגיה",
+          "description": "הכלים, הספריות והפרקטיקות שאני משתמש בהן כיום לפיתוח ווב."
+        },
+        {
+          "title": "תיאור מקרה: עיצוב מחדש של מסחר אלקטרוני",
+          "category": "תיאור מקרה",
+          "description": "איך עיצבתי מחדש פלטפורמת מסחר אלקטרוני לשיפור חוויית המשתמש והגדלת ההמרה ב-40%."
+        }
+      ],
+      "cta": {
+        "heading": "בואו נעבוד יחד",
+        "subtitle": "יש לכם פרויקט בראש? בואו נבנה משהו נהדר.",
+        "button": "צרו קשר"
+      }
+    },
+    "stats": {
+      "heading": "במספרים",
+      "items": [
+        {
+          "value": "50+",
+          "label": "פרויקטים שהושלמו"
+        },
+        {
+          "value": "5+",
+          "label": "שנות ניסיון"
+        },
+        {
+          "value": "100+",
+          "label": "כלים וטכנולוגיות"
+        },
+        {
+          "value": "200+",
+          "label": "מאמרים שנכתבו"
+        }
+      ]
+    }
+  },
+  "about": {
+    "heading": "אודותיי",
+    "description": "שילוב של קפדנות הנדסית ואינטואיציה שיווקית. אני בונה מוצרים מבוססי AI, כותב קוד משמעותי ועוזר לעסקים למצוא את הקול שלהם במרחב הדיגיטלי.",
+    "cta": "לעבודות שלי",
+    "bio": {
+      "paragraphs": [
+        "היי, עולם! אני אלכסנדרוס צארדוליאס, מהנדס תוכנה AI-Native ומומחה שיווק.",
+        "אני איש מקצוע בין-תחומי המגשר בין טכנולוגיה, פילוסופיה, אסטרטגיית צמיחה ופרקטיקות תקשורת מיטביות. אני מספק שירותי פיתוח תוכנה ושיווק צמיחה מקצה לקצה עבור סטארטאפים, יזמים עצמאיים, עסקים קטנים ובינוניים, עמותות וסוגים נוספים של אנשי מקצוע וארגונים — והופך רעיונות למוצרים דיגיטליים סקיילביליים ומערכות מניבות הכנסות.",
+        "למדתי פילוסופיה וניהול שיווק ובמקביל לימדתי את עצמי לתכנת ולעצב. כל פרויקט שאני מוביל משלב תוצאות טכניות מדידות עם שיווק ממוקד הכנסות, כך שהלקוחות שלי מקבלים גם תשתית דיגיטלית איתנה וגם צמיחה עסקית מדידה.",
+        "אני לא רק כותב קוד לאפליקציות ווב או מנהל רשתות חברתיות ואימיילים — אני בונה מערכות הוליסטיות שמייצרות תוצאות מדידות. אני מתייחס לארכיטקטורה הטכנית של מוצר ולאסטרטגיית החדירה-לשוק שלו כאל בעיה אחת, לא שתיים.",
+        "אני עובד עם אנשי מקצוע ביוון, קפריסין והאיחוד האירופי, ואני דובר יוונית ואנגלית ברמת שפת אם. אני עובד במודל של ריטיינר חודשי או פרויקט קבוע, בהתאם להיקף. אם אתה יזם או בעל עסק שמחפש שותף טכני או שיווקי — כדאי שנדבר."
+      ]
+    },
+    "education": {
+      "heading": "השכלה",
+      "items": [
+        {
+          "year": "2020 – היום",
+          "institution": "freeCodeCamp, roadmaps.sh, YouTube",
+          "degree": "Computer Software Engineering",
+          "description": "למידה עצמאית לאורך כל הסטאק: מבני נתונים, אלגוריתמים, תכנון מערכות ופיתוח ווב מודרני."
+        },
+        {
+          "year": "2024 – 2025",
+          "institution": "University of Nicosia",
+          "degree": "Blockchain, Cryptocurrencies, NFTs and the Metaverse",
+          "description": ""
+        },
+        {
+          "year": "2023 – 2024",
+          "institution": "Knowcrunch",
+          "degree": "שיווק דיגיטלי",
+          "description": ""
+        },
+        {
+          "year": "2020 – 2024",
+          "institution": "Queen Margaret University",
+          "degree": "ניהול שיווק",
+          "description": ""
+        },
+        {
+          "year": "2019 – 2023",
+          "institution": "University of Patras",
+          "degree": "פילוסופיה",
+          "description": ""
+        }
+      ]
+    },
+    "work": {
+      "heading": "ניסיון תעסוקתי",
+      "items": [
+        {
+          "year": "יול 2025 – היום",
+          "company": "פרילנס",
+          "role": "AI-Native Software Engineer & Marketing Specialist",
+          "description": ""
+        },
+        {
+          "year": "יול 2021 – יול 2025",
+          "company": "תפקידים ארגוניים ופרילנס",
+          "role": "משווק דיגיטלי, מעצב UI/UX וגרפי, קופירייטר",
+          "description": ""
+        },
+        {
+          "year": "2023 – 2025",
+          "company": "התנדבות",
+          "role": "מורה פרטי לסטודנטים לעסקים ושיווק",
+          "description": ""
+        }
+      ]
+    },
+    "tools": {
+      "heading": "טכנולוגיות וכלים",
+      "allLabel": "הכל",
+      "empty": "לא נמצאו כלים בקטגוריה זו.",
+      "categories": [
+        "שפות תכנות",
+        "Front-End & UI/UX",
+        "Back-End & מסדי נתונים",
+        "DevOps & CI/CD",
+        "Marketing & Analytics",
+        "עיצוב וקריאייטיב",
+        "כלי AI",
+        "כלי אוטומציה",
+        "כלי ניהול פרויקטים וידע"
+      ],
+      "items": [
+        {
+          "name": "HTML",
+          "category": "שפות תכנות"
+        },
+        {
+          "name": "CSS",
+          "category": "שפות תכנות"
+        },
+        {
+          "name": "JavaScript",
+          "category": "שפות תכנות"
+        },
+        {
+          "name": "TypeScript",
+          "category": "שפות תכנות"
+        },
+        {
+          "name": "Python",
+          "category": "שפות תכנות"
+        },
+        {
+          "name": "Bash",
+          "category": "שפות תכנות"
+        },
+        {
+          "name": "SQL",
+          "category": "שפות תכנות"
+        },
+        {
+          "name": "Kotlin",
+          "category": "שפות תכנות"
+        },
+        {
+          "name": "Swift",
+          "category": "שפות תכנות"
+        },
+        {
+          "name": "React",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Next.js",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Tailwind CSS",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Vue.js",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Astro",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Svelte",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Vue",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Nuxt.js",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Remix",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Pinia",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "SolidJS",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "SolidStart",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Alpine.js",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Vite",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Bun",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Turbopack",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Framer Motion",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "GSAP",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "shadcn/ui",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Three.js",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "React Three Fiber",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Drei",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Theatre.js",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Spline",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Lenis",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Lottie",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Rive",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Matter.js",
+          "category": "Front-End & UI/UX"
+        },
+        {
+          "name": "Node.js",
+          "category": "Back-End & מסדי נתונים"
+        },
+        {
+          "name": "NestJS",
+          "category": "Back-End & מסדי נתונים"
+        },
+        {
+          "name": "Express",
+          "category": "Back-End & מסדי נתונים"
+        },
+        {
+          "name": "Koa",
+          "category": "Back-End & מסדי נתונים"
+        },
+        {
+          "name": "Fastify",
+          "category": "Back-End & מסדי נתונים"
+        },
+        {
+          "name": "FastAPI",
+          "category": "Back-End & מסדי נתונים"
+        },
+        {
+          "name": "Django",
+          "category": "Back-End & מסדי נתונים"
+        },
+        {
+          "name": "Flask",
+          "category": "Back-End & מסדי נתונים"
+        },
+        {
+          "name": "REST APIs",
+          "category": "Back-End & מסדי נתונים"
+        },
+        {
+          "name": "GraphQL",
+          "category": "Back-End & מסדי נתונים"
+        },
+        {
+          "name": "tRPC",
+          "category": "Back-End & מסדי נתונים"
+        },
+        {
+          "name": "Prisma",
+          "category": "Back-End & מסדי נתונים"
+        },
+        {
+          "name": "Supabase DB",
+          "category": "Back-End & מסדי נתונים"
+        },
+        {
+          "name": "PostgreSQL",
+          "category": "Back-End & מסדי נתונים"
+        },
+        {
+          "name": "MySQL",
+          "category": "Back-End & מסדי נתונים"
+        },
+        {
+          "name": "SQLite",
+          "category": "Back-End & מסדי נתונים"
+        },
+        {
+          "name": "MongoDB",
+          "category": "Back-End & מסדי נתונים"
+        },
+        {
+          "name": "Redis",
+          "category": "Back-End & מסדי נתונים"
+        },
+        {
+          "name": "Git",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "GitHub Actions",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Jenkins",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "GitLab CI/CD",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Azure Pipelines",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Argo CD",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Flux",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Harness",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Docker",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Terraform",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Kubernetes",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Ansible",
+          "category": "DevOps & CI/CD"
+        },
+        {
+          "name": "Google Ads",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Meta Ads Manager",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "TikTok Ads Manager",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "LinkedIn Campaign Manager",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "AdRoll",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Smartly.io",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Google Analytics",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Mixpanel",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Amplitude",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Adobe Analytics",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Semrush",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Ahrefs",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Google Search Console",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Google Keyword Planner",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Surfer SEO",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Sitebulb",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "BrightLocal",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "HubSpot Marketing Hub",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Salesforce",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "LinkedIn Sales Navigator",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Hootsuite",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Sprout Social",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Buffer",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Mailchimp",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Brevo",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Klaviyo",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Omnisend",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Kit",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "beehiiv",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Substack",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Shopify",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "WooCommerce",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "BigCommerce",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Stripe",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Shopify Payments",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "myPOS",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "PostHog",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "GrowthBook",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Eppo",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "VWO (Visual Website Optimizer)",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "AB Tasty",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Convert Experiences",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Crazy Egg",
+          "category": "Marketing & Analytics"
+        },
+        {
+          "name": "Adobe Creative Cloud",
+          "category": "עיצוב וקריאייטיב"
+        },
+        {
+          "name": "Figma",
+          "category": "עיצוב וקריאייטיב"
+        },
+        {
+          "name": "Framer",
+          "category": "עיצוב וקריאייטיב"
+        },
+        {
+          "name": "Miro",
+          "category": "עיצוב וקריאייטיב"
+        },
+        {
+          "name": "Sketch",
+          "category": "עיצוב וקריאייטיב"
+        },
+        {
+          "name": "ProtoPie",
+          "category": "עיצוב וקריאייטיב"
+        },
+        {
+          "name": "Canva",
+          "category": "עיצוב וקריאייטיב"
+        },
+        {
+          "name": "CapCut",
+          "category": "עיצוב וקריאייטיב"
+        },
+        {
+          "name": "Uizard",
+          "category": "עיצוב וקריאייטיב"
+        },
+        {
+          "name": "UX Pilot",
+          "category": "עיצוב וקריאייטיב"
+        },
+        {
+          "name": "Replit",
+          "category": "עיצוב וקריאייטיב"
+        },
+        {
+          "name": "Lovable",
+          "category": "עיצוב וקריאייטיב"
+        },
+        {
+          "name": "Bolt.new",
+          "category": "עיצוב וקריאייטיב"
+        },
+        {
+          "name": "Google Stitch",
+          "category": "עיצוב וקריאייטיב"
+        },
+        {
+          "name": "Claude Design",
+          "category": "עיצוב וקריאייטיב"
+        },
+        {
+          "name": "LLMs",
+          "category": "כלי AI"
+        },
+        {
+          "name": "LLM APIs",
+          "category": "כלי AI"
+        },
+        {
+          "name": "Hugging Face",
+          "category": "כלי AI"
+        },
+        {
+          "name": "Ollama",
+          "category": "כלי AI"
+        },
+        {
+          "name": "vLLM",
+          "category": "כלי AI"
+        },
+        {
+          "name": "LM Studio",
+          "category": "כלי AI"
+        },
+        {
+          "name": "OpenCode",
+          "category": "כלי AI"
+        },
+        {
+          "name": "Claude Code",
+          "category": "כלי AI"
+        },
+        {
+          "name": "Codex",
+          "category": "כלי AI"
+        },
+        {
+          "name": "OpenClaw",
+          "category": "כלי AI"
+        },
+        {
+          "name": "Hermes",
+          "category": "כלי AI"
+        },
+        {
+          "name": "LangFlow",
+          "category": "כלי AI"
+        },
+        {
+          "name": "LangChain",
+          "category": "כלי AI"
+        },
+        {
+          "name": "LangGraph",
+          "category": "כלי AI"
+        },
+        {
+          "name": "CrewAI",
+          "category": "כלי AI"
+        },
+        {
+          "name": "LlamaIndex",
+          "category": "כלי AI"
+        },
+        {
+          "name": "Dify",
+          "category": "כלי AI"
+        },
+        {
+          "name": "AutoGen",
+          "category": "כלי AI"
+        },
+        {
+          "name": "Flowise",
+          "category": "כלי AI"
+        },
+        {
+          "name": "Zapier",
+          "category": "כלי אוטומציה"
+        },
+        {
+          "name": "Make",
+          "category": "כלי אוטומציה"
+        },
+        {
+          "name": "n8n",
+          "category": "כלי אוטומציה"
+        },
+        {
+          "name": "UiPath",
+          "category": "כלי אוטומציה"
+        },
+        {
+          "name": "Workato",
+          "category": "כלי אוטומציה"
+        },
+        {
+          "name": "Gumloop",
+          "category": "כלי אוטומציה"
+        },
+        {
+          "name": "Lindy",
+          "category": "כלי אוטומציה"
+        },
+        {
+          "name": "Notion",
+          "category": "כלי ניהול פרויקטים וידע"
+        },
+        {
+          "name": "Obsidian",
+          "category": "כלי ניהול פרויקטים וידע"
+        },
+        {
+          "name": "Slack",
+          "category": "כלי ניהול פרויקטים וידע"
+        },
+        {
+          "name": "ClickUp",
+          "category": "כלי ניהול פרויקטים וידע"
+        },
+        {
+          "name": "Monday.com",
+          "category": "כלי ניהול פרויקטים וידע"
+        },
+        {
+          "name": "Asana",
+          "category": "כלי ניהול פרויקטים וידע"
+        },
+        {
+          "name": "Jira",
+          "category": "כלי ניהול פרויקטים וידע"
+        },
+        {
+          "name": "Linear",
+          "category": "כלי ניהול פרויקטים וידע"
+        },
+        {
+          "name": "Trello",
+          "category": "כלי ניהול פרויקטים וידע"
+        },
+        {
+          "name": "Wrike",
+          "category": "כלי ניהול פרויקטים וידע"
+        },
+        {
+          "name": "Microsoft Project & Planner",
+          "category": "כלי ניהול פרויקטים וידע"
+        },
+        {
+          "name": "Basecamp",
+          "category": "כלי ניהול פרויקטים וידע"
+        },
+        {
+          "name": "OpenProject",
+          "category": "כלי ניהול פרויקטים וידע"
+        },
+        {
+          "name": "Focalboard",
+          "category": "כלי ניהול פרויקטים וידע"
+        },
+        {
+          "name": "Appflowy",
+          "category": "כלי ניהול פרויקטים וידע"
+        },
+        {
+          "name": "Leantime",
+          "category": "כלי ניהול פרויקטים וידע"
+        },
+        {
+          "name": "GitHub Projects",
+          "category": "כלי ניהול פרויקטים וידע"
+        },
+        {
+          "name": "Confluence",
+          "category": "כלי ניהול פרויקטים וידע"
+        },
+        {
+          "name": "Slite",
+          "category": "כלי ניהול פרויקטים וידע"
+        },
+        {
+          "name": "Logseq",
+          "category": "כלי ניהול פרויקטים וידע"
+        },
+        {
+          "name": "Wiki.js",
+          "category": "כלי ניהול פרויקטים וידע"
+        },
+        {
+          "name": "DocuWiki",
+          "category": "כלי ניהול פרויקטים וידע"
+        },
+        {
+          "name": "Discord",
+          "category": "כלי ניהול פרויקטים וידע"
+        },
+        {
+          "name": "Element",
+          "category": "כלי ניהול פרויקטים וידע"
+        }
+      ]
+    },
+    "philosophy": {
+      "heading": "הגישה שלי",
+      "items": [
+        {
+          "title": "פחות זה יותר",
+          "description": "אני מאמין שהפתרונות הטובים ביותר הם אלו שכמעט לא שמים לב אליהם. ארכיטקטורה נקייה, עיצוב מכוון וקוד שנקרא כמו שיחה. מורכבות זה קל. בהירות דורשת משמעת."
+        },
+        {
+          "title": "טכנולוגיה צריכה להועיל לאנושות",
+          "description": "כל מוצר שאני בונה מתחיל בשאלה אחת: למי זה עוזר, ואיך? הטכנולוגיה במיטבה כשהיא דועכת לרקע ומאפשרת לאנשים לחיות חיים טובים יותר. אני לא בונה רק בשביל לבנות."
+        },
+        {
+          "title": "למידה מתמדת",
+          "description": "התחום הזה ממציא את עצמו מחדש כל כמה שנים. אני נשאר חד על ידי בניית דברים אמיתיים, לא רק קריאה עליהם. אם אני לא קצת לא בנוח עם מה שאני עובד עליו, אני לא לומד מהר מספיק."
+        }
+      ]
+    }
+  },
+  "work": {
+    "heading": "מה אני עושה",
+    "description": "מאפליקציות ווב מלאות ועד אסטרטגיית חדירה לשוק — אני מספק פתרונות מקצה לקצה. כל פרויקט מתחיל בהבנת המטרות שלך ומסתיים בתוצאות מדידות.",
+    "cta": "למאמרים שלי",
+    "services": {
+      "heading": "שירותים",
+      "items": [
+        {
+          "name": "פיתוח אתרים",
+          "description": "אפליקציות ווב מותאמות אישית עם Next.js, React ו-TypeScript. מהירות, רספונסיביות ומותאמות SEO."
+        },
+        {
+          "name": "פיתוח אפליקציות ווב",
+          "description": "אפליקציות ווב מלאות עם ספריות מודרניות, מסדי נתונים ותשתית ענן."
+        },
+        {
+          "name": "פיתוח אפליקציות מובייל",
+          "description": "אפליקציות מובייל חוצות-פלטפורמות עם React Native ו-Expo ל-iOS ואנדרואיד."
+        },
+        {
+          "name": "אסטרטגיית חדירה לשוק",
+          "description": "תכנון אסטרטגי להשקות מוצר — מיצוב, מסרים וביצוע חדירה לשוק."
+        },
+        {
+          "name": "אוטומציה שיווקית",
+          "description": "תהליכי שיווק אוטומטיים, רצפי אימייל ומערכות טיפוח לידים."
+        },
+        {
+          "name": "ייעוץ שיווקי",
+          "description": "ייעוץ שיווקי אסטרטגי לסטארטאפים ועסקים קטנים — צמיחה, שימור ואנליטיקס."
+        },
+        {
+          "name": "הנדסה משולבת בשטח",
+          "description": "פתרונות הנדסיים מוטמעים — אני עובד לצד הצוות שלך לפתרון אתגרים טכניים באתר."
+        },
+        {
+          "name": "אוטומציה של תהליכי עבודה",
+          "description": "פתרונות אוטומציה מותאמים אישית לייעול משימות חוזרות ותהליכים עסקיים."
+        },
+        {
+          "name": "ייעוץ AI וטכנולוגיה",
+          "description": "ייעוץ בנושא שילוב AI, כלים, ארכיטקטורה וסקיילינג לעסקים מודרניים."
+        },
+        {
+          "name": "כתיבת קופי",
+          "description": "קופי משכנע וממוקד המרה לדפי נחיתה, אימיילים, מודעות ותיאורי מוצר."
+        },
+        {
+          "name": "כתיבת תוכן",
+          "description": "מאמרים, פוסטים ותוכן ארוך שמלמד ומעסיק את הקהל שלך."
+        },
+        {
+          "name": "תיעוד טכני",
+          "description": "תיעוד ברור ומקיף ל-APIs, SDKs ומוצרים למפתחים."
+        }
+      ]
+    },
+    "process": {
+      "heading": "איך אני עובד",
+      "steps": [
+        {
+          "title": "גילוי",
+          "description": "הבנת המטרות שלך, הקהל ומהי הצלחה עבור הפרויקט שלך."
+        },
+        {
+          "title": "אסטרטגיה",
+          "description": "תכנון הגישה, בחירת הכלים הנכונים ומיפוי הדרך להשקה."
+        },
+        {
+          "title": "ביצוע",
+          "description": "בנייה מדויקת — קוד נקי, עיצוב מושכל ועדכונים שוטפים."
+        },
+        {
+          "title": "השקה",
+          "description": "השקה, מדידה ושיפור. אני נשאר מעורב כדי לוודא שהכל עובד."
+        }
+      ]
+    },
+    "completed": {
+      "heading": "פרויקטים שהושלמו",
+      "items": [
+        {
+          "title": "איך AI משנה את השיווק",
+          "date": "2026-06-15",
+          "category": "טכנולוגיה",
+          "excerpt": "ניתוח של האופן שבו כלי AI משנים שיווק דיגיטלי.",
+          "slug": "ai-marketing-2026"
+        },
+        {
+          "title": "פיתוח ווב מודרני ב-2026",
+          "date": "2026-05-20",
+          "category": "טכנולוגיה",
+          "excerpt": "הכלים, הספריות והפרקטיקות שאני משתמש בהן לפיתוח ווב כיום.",
+          "slug": "modern-web-dev"
+        }
+      ]
+    }
+  },
+  "articles": {
+    "heading": "מאמרים",
+    "description": "מחשבות על AI, הנדסת תוכנה ושיווק מודרני. אני כותב על מה שאני בונה, מה שאני לומד ולאן הטכנולוגיה מתקדמת.",
+    "cta": "צור קשר",
+    "filter": {
+      "all": "הכל",
+      "label": "קטגוריה"
+    },
+    "empty": "אין מאמרים בקטגוריה זו.",
+    "readMore": "קרא עוד",
+    "readingTime": "{minutes} דקות קריאה",
+    "backToList": "← חזרה למאמרים"
+  },
+  "contact": {
+    "heading": "צור קשר",
+    "description": "בואו נדבר. בין אם יש לכם פרויקט בראש, שאלה או סתם רוצים להתחבר — אני כאן.",
+    "subtitle": "אפשר למצוא אותי ב:",
+    "emailCTA": {
+      "heading": "בואו נדבר",
+      "button": "שלחו לי אימייל",
+      "responseTime": "אני בדרך כלל מגיב תוך 24 שעות"
+    },
+    "links": [
+      {
+        "platform": "Instagram",
+        "url": "https://instagram.com/alexistdev",
+        "label": "Instagram — @alexistdev"
+      },
+      {
+        "platform": "X (Twitter)",
+        "url": "https://x.com/alexistdev",
+        "label": "X — @alexistdev"
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "https://linkedin.com/in/atsardoulias",
+        "label": "LinkedIn — /in/atsardoulias"
+      },
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/alexistdev",
+        "label": "GitHub — @alexistdev"
+      },
+      {
+        "platform": "Substack",
+        "url": "https://alexistdev.substack.com",
+        "label": "Substack — alexistdev"
+      },
+      {
+        "platform": "Facebook",
+        "url": "https://facebook.com/alexistdev",
+        "label": "Facebook — @alexistdev"
+      },
+      {
+        "platform": "Threads",
+        "url": "https://threads.net/@alexistdev",
+        "label": "Threads — @alexistdev"
+      },
+      {
+        "platform": "Reddit",
+        "url": "https://reddit.com/user/alexistdev",
+        "label": "Reddit — u/alexistdev"
+      },
+      {
+        "platform": "Email",
+        "url": "mailto:hello@alexist.dev",
+        "label": "Email — hello@alexist.dev"
+      },
+      {
+        "platform": "Discord",
+        "url": "https://discord.gg/alexistdev",
+        "label": "Discord — @alexistdev"
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© {year} Alexandros Tsardoulias",
+    "builtWith": "נבנה עם Next.js ו-Tailwind",
+    "backToTop": "חזרה למעלה"
+  },
+  "theme": {
+    "light": "בהיר",
+    "dark": "כהה",
+    "toggle": "החלף ערכת נושא"
+  },
+  "language": {
+    "label": "שפה",
+    "el": "Ελληνικά",
+    "en": "English",
+    "ru": "Русский",
+    "de": "Deutsch",
+    "fr": "Français",
+    "it": "Italiano",
+    "es": "Español",
+    "tr": "Türkçe",
+    "pl": "Polski",
+    "nl": "Nederlands",
+    "ua": "Українська",
+    "il": "עברית",
+    "ae": "العربية"
+  },
+  "common": {
+    "loading": "טוען…",
+    "error": "משהו השתבש.",
+    "retry": "נסה שוב",
+    "back": "← חזרה",
+    "readMore": "קרא עוד"
+  }
+}
