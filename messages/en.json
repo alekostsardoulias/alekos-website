@@ -16,61 +16,128 @@
   },
   "home": {
     "summaries": {
-      "about": {
-        "heading": "About me",
-        "description": "Who I am, what I've studied, where I've worked."
-      },
-      "work": {
-        "heading": "What I do",
-        "description": "Services and completed projects."
-      },
-      "articles": {
-        "heading": "Articles",
-        "description": "Thoughts on AI, marketing, and technology."
-      },
-      "contact": {
-        "heading": "Contact",
-        "description": "Find me on social media."
-      }
+      "about": {"heading": "About me", "description": "Who I am, what I've studied, where I've worked."},
+      "work": {"heading": "What I do", "description": "Services and completed projects."},
+      "articles": {"heading": "Articles", "description": "Thoughts on AI, marketing, and technology."},
+      "contact": {"heading": "Contact", "description": "Find me on social media."}
     },
     "servicesOverview": {
       "heading": "What I Do",
       "items": [
-        {
-          "title": "Software Development",
-          "description": "Custom web and mobile apps tailored for your needs. Fast, responsive, cost-optimized, SEO-ready."
-        },
-        {
-          "title": "Marketing & Growth",
-          "description": "Go-to-market strategy, marketing automation, copy and content writing, and conversion-focused campaigns that drive results."
-        },
-        {
-          "title": "AI & Automation",
-          "description": "AI integration, workflow automation, and intelligent systems that scale your business."
-        },
-        {
-          "title": "Strategy & Consulting",
-          "description": "Technical advisory, architecture decisions, and product strategy for modern businesses."
-        }
+        {"title": "Software Development", "description": "Custom web and mobile apps tailored for your needs."},
+        {"title": "Marketing & Growth", "description": "Go-to-market strategy, marketing automation, and conversion-focused campaigns."},
+        {"title": "AI & Automation", "description": "AI integration, workflow automation, and intelligent systems."},
+        {"title": "Strategy & Consulting", "description": "Technical advisory, architecture decisions, and product strategy."}
       ]
     },
     "featured": {
       "heading": "Featured Work",
-      "viewProject": "View project"
+      "viewProject": "View project",
+      "items": [
+        {"title": "How AI Is Changing Marketing", "category": "Technology", "description": "An analysis of how AI tools are transforming digital marketing strategies in 2026."},
+        {"title": "Modern Web Development in 2026", "category": "Technology", "description": "The tools, frameworks, and practices I use for web development today."},
+        {"title": "E-Commerce Redesign Case Study", "category": "Case Study", "description": "How I redesigned an e-commerce platform for better UX and 40% higher conversion."}
+      ],
+      "cta": {
+        "heading": "Let's Work Together",
+        "subtitle": "Have a project in mind? Let's build something great.",
+        "button": "Get in Touch"
+      }
     },
     "stats": {
       "heading": "By the Numbers",
       "items": [
-        { "value": "50+", "label": "Projects Completed" },
-        { "value": "5+", "label": "Years of Experience" },
-        { "value": "100+", "label": "Tools & Technologies" },
-        { "value": "200+", "label": "Articles Written" }
+        {"value": "50+", "label": "Projects Completed"},
+        {"value": "5+", "label": "Years of Experience"},
+        {"value": "100+", "label": "Tools & Technologies"},
+        {"value": "200+", "label": "Articles Written"}
       ]
     }
   },
   "about": {
     "heading": "Who I Am",
-    "description": "A blend of engineering rigor and marketing intuition."
+    "description": "A blend of engineering rigor and marketing intuition. I build AI-native products, write code that matters, and help businesses find their voice in the digital space.",
+    "cta": "See my work",
+    "bio": {
+      "paragraphs": [
+        "I'm an interdisciplinary engineer, marketer and researcher helping founders, startups, SMEs and NGOs achieve their goals by bridging technology, philosophy, growth strategy and best communication practices. With my work, I transform ideas into scalable digital products and revenue-generating systems.",
+        "I don't just write code for web apps or manage social media and emails, I build holistic systems that generate measurable results. I treat a product's technical architecture and its go-to-market strategy as one problem, not two."
+      ]
+    },
+    "education": {
+      "heading": "Education",
+      "items": [
+        {"year": "2020 – Present", "institution": "freeCodeCamp, roadmaps.sh, YouTube", "degree": "Computer Software Engineering", "description": ""},
+        {"year": "2024 – 2025", "institution": "University of Nicosia", "degree": "Blockchain, Cryptocurrencies, NFTs and the Metaverse", "description": ""},
+        {"year": "2023 – 2024", "institution": "Knowcrunch", "degree": "Digital Marketing", "description": ""},
+        {"year": "2020 – 2024", "institution": "Queen Margaret University", "degree": "Marketing Management", "description": ""},
+        {"year": "2019 – 2023", "institution": "University of Patras", "degree": "Philosophy", "description": ""}
+      ]
+    },
+    "work": {
+      "heading": "Work Experience",
+      "items": [
+        {"year": "Jul 2025 – Present", "company": "Freelance", "role": "AI-Native Software Engineer & Marketing Specialist", "description": ""},
+        {"year": "Jul 2021 – Jul 2025", "company": "Corporate Roles & Freelance", "role": "Digital Marketer, UI/UX & Graphic Designer, Copywriter", "description": ""},
+        {"year": "Sep 2023 – May 2025", "company": "Volunteering", "role": "Tutor for Business & Marketing Students", "description": ""}
+      ]
+    },
+    "philosophy": {
+      "heading": "My Philosophy",
+      "items": [
+        {"title": "Less Is More", "description": "I believe the best solutions are the ones you barely notice. Clean architecture, intentional design, and code that reads like a conversation."},
+        {"title": "Technology Should Benefit Humanity", "description": "Every product I build starts with a single question: who does this help, and how?"},
+        {"title": "Continuous Learning", "description": "This field reinvents itself every few years. I stay sharp by building real things, not just reading about them."}
+      ]
+    }
+  },
+  "work": {
+    "heading": "What I do",
+    "description": "From full-stack web apps to go-to-market strategy — I deliver end-to-end solutions.",
+    "cta": "Read my articles",
+    "services": {
+      "heading": "What I Do",
+      "items": [
+        {"name": "Website Development", "description": "Custom websites tailored for your needs. Fast, responsive, and SEO-optimized."},
+        {"name": "Web App Development", "description": "Full-stack web applications with modern frameworks, databases, and cloud infrastructure."},
+        {"name": "Mobile App Development", "description": "Cross-platform mobile apps using React Native and Expo for iOS and Android."},
+        {"name": "Go-To-Market Strategy", "description": "Strategic planning for product launches — positioning, messaging, and go-to-market execution."},
+        {"name": "Marketing Automation", "description": "Automated marketing workflows, email sequences, and lead nurturing systems."},
+        {"name": "Marketing Consulting", "description": "Strategic marketing advisory for startups and small businesses — growth, retention, analytics."},
+        {"name": "Forward-Deployed Engineering", "description": "Embedded engineering solutions — I work alongside your team to solve technical challenges on site."},
+        {"name": "Workflow Automation", "description": "Custom automation solutions to streamline repetitive tasks and business processes."},
+        {"name": "AI & Tech Consulting", "description": "Advisory on AI integration, tooling, architecture, and scaling for modern businesses."},
+        {"name": "Copywriting", "description": "Persuasive, conversion-focused copy for landing pages, emails, ads, and product descriptions."},
+        {"name": "Content Writing", "description": "Articles, blog posts, and long-form content that educates and engages your audience."},
+        {"name": "Technical Documentation", "description": "Clear, comprehensive documentation for APIs, SDKs, and developer-facing products."}
+      ]
+    },
+    "process": {
+      "heading": "How I Work",
+      "steps": [
+        {"title": "Discovery", "description": "Understand your goals, audience, and what success looks like for your project."},
+        {"title": "Strategy", "description": "Plan the approach, choose the right tools, and map out the path to launch."},
+        {"title": "Execution", "description": "Build with precision. Clean code, thoughtful design, and regular check-ins."},
+        {"title": "Delivery", "description": "Launch, measure, and iterate. I stay involved to make sure everything works."}
+      ]
+    },
+    "completed": {
+      "heading": "Completed Projects",
+      "items": [
+        {"title": "How AI Is Changing Marketing", "date": "2026-06-15", "category": "Technology", "excerpt": "An analysis of how AI tools are transforming digital marketing.", "slug": "ai-marketing-2026"},
+        {"title": "Modern Web Development in 2026", "date": "2026-05-20", "category": "Technology", "excerpt": "The tools, frameworks, and practices I use for web development today.", "slug": "modern-web-dev"}
+      ]
+    }
+  },
+  "articles": {
+    "heading": "My Articles",
+    "description": "Thoughts on AI, software engineering, and modern marketing.",
+    "cta": "Get in touch",
+    "filter": {"all": "All", "label": "Category"},
+    "empty": "No articles in this category.",
+    "readMore": "Read more",
+    "readingTime": "{minutes} min read",
+    "backToList": "← Back to articles"
   },
   "contact": {
     "heading": "Contact",
@@ -95,6 +162,15 @@
     }
   },
   "footer": {
-    "copyright": "© {year} Alexandros Tsardoulias"
-  }
+    "copyright": "© {year} Alexandros Tsardoulias",
+    "builtWith": "Built with Next.js & Tailwind",
+    "backToTop": "Back to top"
+  },
+  "theme": {"light": "Light", "dark": "Dark", "toggle": "Toggle theme"},
+  "language": {
+    "label": "Language",
+    "el": "Ελληνικά", "en": "English", "ru": "Русский", "de": "Deutsch", "fr": "Français", "it": "Italiano", "es": "Español", "tr": "Türkçe", "pl": "Polski", "nl": "Nederlands", "ua": "Українська", "il": "עברית", "ae": "العربية"
+  },
+  "common": {"loading": "Loading…", "error": "Something went wrong.", "retry": "Try again", "back": "← Back", "readMore": "Read more"},
+  "404": {"title": "404 — Page not found", "message": "The page you're looking for doesn't exist.", "backHome": "← Back to home"}
 }
