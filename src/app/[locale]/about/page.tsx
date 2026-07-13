@@ -73,14 +73,14 @@ export default async function AboutPage() {
       </section>
 
       {/* Education timeline */}
-        <div className="pt-8 border-t border-border">
-          <EducationTimeline />
-        </div>
+      <section className="pt-8 border-t border-border mb-12">
+        <EducationTimeline />
+      </section>
 
-        {/* Work timeline */}
-        <div className="pt-8 border-t border-border">
+      {/* Work timeline */}
+      <section className="mt-12 pt-8 border-t border-border">
         <WorkTimeline />
-      </div>
+      </section>
 
       <ToolsFilter
         tools={t.raw('tools.items')}
