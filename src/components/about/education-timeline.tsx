@@ -14,7 +14,7 @@ export function EducationTimeline() {
   const items: EducationItem[] = t.raw('items') as EducationItem[];
 
   return (
-    <section>
+    <div>
       <h2 className="text-3xl font-semibold text-foreground mb-6">
         <GraduationCap size={20} className="inline me-2" aria-hidden="true" />
         {t('heading')}
@@ -43,6 +43,6 @@ export function EducationTimeline() {
           </div>
         ))}
       </div>
-    </section>
+    </div>
   );
 }

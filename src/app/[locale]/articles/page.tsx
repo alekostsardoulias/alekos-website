@@ -40,7 +40,7 @@ export default function ArticlesPage() {
         readingTimeLabel={t('readingTime')}
       />
 
-      <CtaSection className="mt-20" />
+      <CtaSection />
 
     </PageLayout>
   );

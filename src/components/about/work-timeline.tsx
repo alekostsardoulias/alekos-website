@@ -12,7 +12,7 @@ export function WorkTimeline() {
   }>;
 
   return (
-    <section>
+    <div>
       <h2 className="text-3xl font-semibold text-foreground mb-6">
         <BriefcaseBusiness size={20} className="inline me-2" aria-hidden="true" />
         {t('heading')}
@@ -41,6 +41,6 @@ export function WorkTimeline() {
           </div>
         ))}
       </div>
-    </section>
+    </div>
   );
 }

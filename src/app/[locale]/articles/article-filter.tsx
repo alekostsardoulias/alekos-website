@@ -28,7 +28,7 @@ export function ArticleFilter({
     : articles;
 
   return (
-    <div>
+    <section>
       {/* Category filter — glass pills */}
       <div className="flex flex-wrap gap-2 mb-8">
         <button
@@ -81,6 +81,6 @@ export function ArticleFilter({
           ))}
         </div>
       )}
-    </div>
+    </section>
   );
 }

@@ -302,7 +302,7 @@
     @apply my-32 md:my-40;
   }
   section:first-child {
-    @apply mt-0 mb-24 md:mb-32;
+    @apply mt-0;
   }
   section:last-child {
     @apply mb-0;

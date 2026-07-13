@@ -105,7 +105,7 @@ export function WorkContent({
       <HeroSection headingKey="heading" headingNamespace="work" hideImage />
 
       {/* ── Services ──────────────────────────────────────────────── */}
-      <section className="-mt-20 md:-mt-28">
+      <section>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
           {services.map((service, i) => {
             const config = SERVICE_CONFIG[i] ?? SERVICE_CONFIG[0];
@@ -171,7 +171,7 @@ export function WorkContent({
       <CtaSection />
 
       {/* ── Completed Projects ────────────────────────────────────── */}
-      <section className="pt-8 border-t border-white/[0.06]">
+      <section className="border-t border-white/[0.06]">
         <div className="flex items-center gap-2 mb-6">
           <CheckCircle size={20} className="text-green-400 shrink-0" />
           <h2 className="text-3xl font-semibold text-text-primary">

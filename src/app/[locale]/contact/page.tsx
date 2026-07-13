@@ -39,7 +39,8 @@ export default function ContactPage() {
     <PageLayout>
 
       {/* Email CTA Card */}
-      <div className="rounded-2xl border border-purple-400/10 bg-gradient-to-r from-purple-500/5 to-blue-500/5 backdrop-blur-sm p-8 text-center mb-8">
+      <section>
+      <div className="rounded-2xl border border-purple-400/10 bg-gradient-to-r from-purple-500/5 to-blue-500/5 backdrop-blur-sm p-8 text-center">
         <div className="inline-flex items-center justify-center w-14 h-14 rounded-xl bg-purple-500/10 text-purple-400 mb-4">
           <MailOpen size={28} />
         </div>
@@ -59,8 +60,10 @@ export default function ContactPage() {
           {t('emailCTA.responseTime')}
         </p>
       </div>
+      </section>
 
       {/* Social Links Grid */}
+      <section>
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 w-full">
         {links.map((link, i) => {
           const hoverClass = brandHover[link.platform] ?? defaultHover;
@@ -85,6 +88,7 @@ export default function ContactPage() {
           );
         })}
       </div>
+      </section>
     </PageLayout>
   );
 }

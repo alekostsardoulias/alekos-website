@@ -11,7 +11,7 @@ export function Hero() {
   const t = useTranslations('hero');
 
   return (
-    <section className="relative overflow-hidden min-h-[calc(100vh-5rem)] flex flex-col items-center justify-start pt-12 md:pt-20 md:py-0 mb-4 md:mb-8">
+    <section className="relative overflow-hidden min-h-[calc(100vh-5rem)] flex flex-col items-center justify-start pt-12 md:pt-20 md:py-0">
       {/* ── Background orbs ── */}
       <div className="absolute inset-0 pointer-events-none" aria-hidden="true">
         <div className="absolute top-1/4 -left-32 w-96 h-96 bg-purple-500/10 rounded-full blur-3xl" />

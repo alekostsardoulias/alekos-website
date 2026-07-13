@@ -49,6 +49,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
   return (
     <PageLayout>
+      <section>
       <article className="max-w-prose">
         <Link href="/articles" className="mb-8 inline-block">
           <Button variant="ghost" size="sm" className="text-muted hover:text-foreground">
@@ -77,8 +78,9 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
           <Content />
         </div>
       </article>
+      </section>
 
-      <CtaSection className="mt-16 md:mt-20" />
+      <CtaSection />
     </PageLayout>
   );
 }

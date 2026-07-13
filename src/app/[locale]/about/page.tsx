@@ -81,12 +81,12 @@ export default async function AboutPage() {
       </section>
 
       {/* Education timeline */}
-      <section className="pt-8 border-t border-border mb-12">
+      <section className="pt-8 border-t border-border">
         <EducationTimeline />
       </section>
 
       {/* Work timeline */}
-      <section className="mt-12 pt-8 border-t border-border">
+      <section className="pt-8 border-t border-border">
         <WorkTimeline />
       </section>
 

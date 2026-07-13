@@ -14,7 +14,7 @@ export function CtaSection({ className = '' }: CtaSectionProps) {
   const button = t('featured.cta.button');
 
   return (
-    <div className={`rounded-2xl border border-purple-400/10 bg-gradient-to-r from-purple-500/5 to-blue-500/5 backdrop-blur-sm p-8 md:p-12 text-center ${className}`}>
+    <section className={`rounded-2xl border border-purple-400/10 bg-gradient-to-r from-purple-500/5 to-blue-500/5 backdrop-blur-sm p-8 md:p-12 text-center ${className}`}>
       <h2 className="text-3xl md:text-4xl font-bold text-text-primary mb-3">
         {heading}
       </h2>
@@ -25,6 +25,6 @@ export function CtaSection({ className = '' }: CtaSectionProps) {
       >
         {button}
       </Link>
-    </div>
+    </section>
   );
 }
