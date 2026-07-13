@@ -1,6 +1,6 @@
 import { useTranslations } from 'next-intl';
 import { Link } from '@/i18n/navigation';
-import { CircleUser, BriefcaseBusiness, FileText, Mail } from 'lucide-react';
+import { CircleUser, BriefcaseBusiness, FileText, MailOpen } from 'lucide-react';
 import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card';
 
 const SUMMARIES = [
@@ -14,7 +14,7 @@ const ICON_MAP: Record<string, React.ComponentType<{ size?: number; className?: 
   about: CircleUser,
   work: BriefcaseBusiness,
   articles: FileText,
-  contact: Mail,
+  contact: MailOpen,
 };
 
 export function PageSummaries() {

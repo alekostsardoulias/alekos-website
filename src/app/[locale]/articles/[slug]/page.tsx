@@ -78,7 +78,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
         </div>
       </article>
 
-      <CtaSection />
+      <CtaSection className="mt-16 md:mt-20" />
     </PageLayout>
   );
 }

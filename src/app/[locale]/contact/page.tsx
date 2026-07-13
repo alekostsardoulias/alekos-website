@@ -1,5 +1,5 @@
 import { useTranslations } from 'next-intl';
-import { Mail } from 'lucide-react';
+import { MailOpen } from 'lucide-react';
 import { PageLayout } from '@/components/page-layout';
 import { BrandIcon } from '@/components/ui/brand-icon';
 import type { Metadata } from 'next';
@@ -41,7 +41,7 @@ export default function ContactPage() {
       {/* Email CTA Card */}
       <div className="rounded-2xl border border-purple-400/10 bg-gradient-to-r from-purple-500/5 to-blue-500/5 backdrop-blur-sm p-8 text-center mb-8">
         <div className="inline-flex items-center justify-center w-14 h-14 rounded-xl bg-purple-500/10 text-purple-400 mb-4">
-          <Mail size={28} />
+          <MailOpen size={28} />
         </div>
         <h2 className="text-3xl font-semibold text-text-primary mb-2">
           {t('emailCTA.heading')}
@@ -52,7 +52,7 @@ export default function ContactPage() {
           className="inline-flex items-center gap-2 rounded-lg border border-purple-400/20 bg-purple-500/10 px-5 py-2.5 text-lg font-medium text-purple-400
                      transition-all duration-200 hover:bg-purple-500/20 hover:border-purple-400/30 motion-safe:hover:scale-[1.02]"
         >
-          <Mail size={16} />
+          <MailOpen size={16} />
           {t('emailCTA.button')}
         </a>
         <p className="mt-4 text-lg text-text-tertiary">

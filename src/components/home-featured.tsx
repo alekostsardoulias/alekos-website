@@ -55,7 +55,7 @@ export function HomeFeatured() {
         ))}
       </div>
 
-      <CtaSection />
+      <CtaSection className="mt-20" />
     </section>
   );
 }
