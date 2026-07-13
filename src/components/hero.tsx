@@ -4,14 +4,10 @@ import Image from 'next/image';
 import { useTranslations } from 'next-intl';
 import { Link } from '@/i18n/navigation';
 import { ChevronDown } from 'lucide-react';
-import { Typewriter } from '@/components/typewriter';
+
 import { HERO_IMAGE } from '@/lib/config';
 
-interface HeroProps {
-  onTypewriterComplete?: () => void;
-}
-
-export function Hero({ onTypewriterComplete }: HeroProps) {
+export function Hero() {
   const t = useTranslations('hero');
 
   return (
@@ -35,10 +31,7 @@ export function Hero({ onTypewriterComplete }: HeroProps) {
           {/* Name */}
           <h1 className="text-5xl md:text-6xl lg:text-7xl xl:text-8xl font-bold tracking-tight text-balance">
             <span className="bg-gradient-to-r rtl:bg-gradient-to-l from-purple-400 via-pink-400 to-blue-400 bg-clip-text text-transparent">
-              <Typewriter
-                text={t('name')}
-                onComplete={onTypewriterComplete}
-              />
+              {t('name')}
             </span>
           </h1>
 

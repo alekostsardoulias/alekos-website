@@ -3,7 +3,7 @@
 import type { ReactNode } from 'react';
 import Image from 'next/image';
 import { useTranslations } from 'next-intl';
-import { Typewriter } from '@/components/typewriter';
+
 import { HERO_IMAGE } from '@/lib/config';
 
 interface HeroSectionProps {
@@ -36,8 +36,8 @@ export function HeroSection({
   const heading = t(headingKey);
 
   const sectionClasses = largeImage
-    ? 'flex flex-col-reverse md:flex-row items-stretch gap-8 md:gap-12 mb-12'
-    : 'flex flex-col-reverse md:flex-row items-start gap-8 md:gap-12 mb-12';
+    ? 'flex flex-col-reverse md:flex-row items-stretch gap-8 md:gap-12 mb-24'
+    : 'flex flex-col-reverse md:flex-row items-start gap-8 md:gap-12 mb-24';
 
   const imageWrapperClasses = largeImage
     ? 'shrink-0 w-4/5 mx-auto md:w-[380px] lg:w-[440px] flex items-center'
@@ -59,7 +59,7 @@ export function HeroSection({
             <span className="inline-flex items-center gap-2">
               {icon && <span aria-hidden="true">{icon}</span>}
               <span className="text-accent-warm">
-                <Typewriter text={heading} />
+                {heading}
               </span>
             </span>
           </h1>

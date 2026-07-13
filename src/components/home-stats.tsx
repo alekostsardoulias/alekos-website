@@ -8,7 +8,7 @@ export function HomeStats() {
   const t = useTranslations('home');
 
   return (
-    <section className="py-16">
+    <section className="py-24">
       <h2 className="text-3xl font-bold text-text-primary mb-8 text-center">
         {t('stats.heading')}
       </h2>

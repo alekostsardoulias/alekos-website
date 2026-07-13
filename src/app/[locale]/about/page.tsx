@@ -34,9 +34,9 @@ export default async function AboutPage() {
   return (
     <PageLayout>
       <HeroSection headingKey="heading" headingNamespace="about" largeImage hideTitle>
-        <div className="mt-4 space-y-5 rounded-xl border border-white/[0.06] bg-white/[0.02] backdrop-blur-sm p-6 md:p-8">
+          <div className="mt-4 space-y-4 rounded-xl border border-white/[0.06] bg-white/[0.02] backdrop-blur-sm p-5 md:p-6 max-h-full overflow-y-auto">
           {(t.raw('bio.paragraphs') as string[]).map((paragraph, i) => (
-            <p key={i} className="text-xl md:text-2xl lg:text-3xl leading-relaxed text-muted">
+            <p key={i} className="text-sm md:text-base leading-relaxed text-muted">
               {paragraph}
             </p>
           ))}
@@ -44,7 +44,7 @@ export default async function AboutPage() {
       </HeroSection>
 
       {/* Philosophy section */}
-      <section className="mb-12">
+      <section className="mb-20">
         <h2 className="text-2xl font-semibold text-foreground mb-6">
           {t('philosophy.heading')}
         </h2>
@@ -73,12 +73,12 @@ export default async function AboutPage() {
       </section>
 
       {/* Education timeline */}
-      <div className="mt-12 pt-8 border-t border-border">
-        <EducationTimeline />
-      </div>
+        <div className="mt-20 pt-8 border-t border-border">
+          <EducationTimeline />
+        </div>
 
-      {/* Work timeline */}
-      <div className="mt-12 pt-8 border-t border-border">
+        {/* Work timeline */}
+        <div className="mt-20 pt-8 border-t border-border">
         <WorkTimeline />
       </div>
 

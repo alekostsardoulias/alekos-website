@@ -131,7 +131,7 @@ export function WorkContent({
       </section>
 
       {/* ── How I Work ────────────────────────────────────────────── */}
-      <section className="mt-12">
+      <section className="mt-20">
         <h2 className="text-2xl font-semibold text-text-primary mb-8">
           {processHeading}
         </h2>
@@ -168,7 +168,7 @@ export function WorkContent({
       </section>
 
       {/* ── Completed Projects ────────────────────────────────────── */}
-      <section className="mt-12 pt-8 border-t border-white/[0.06]">
+      <section className="mt-20 pt-8 border-t border-white/[0.06]">
         <div className="flex items-center gap-2 mb-6">
           <CheckCircle size={20} className="text-green-400 shrink-0" />
           <h2 className="text-2xl font-semibold text-text-primary">
