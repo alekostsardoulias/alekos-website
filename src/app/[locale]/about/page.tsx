@@ -37,10 +37,10 @@ export default async function AboutPage() {
       <HeroSection headingKey="heading" headingNamespace="about" largeImage hideTitle>
           <div className="mt-4 space-y-4 rounded-xl border border-white/[0.06] bg-white/[0.02] backdrop-blur-sm p-5 md:p-6 max-h-full overflow-y-auto">
           <div className="flex items-center gap-3">
-            <h3 className="text-2xl md:text-3xl font-semibold text-foreground">{t('heading')}</h3>
             <span className="inline-flex items-center justify-center w-12 h-12 rounded-lg bg-purple-500/10 text-purple-400 border border-purple-500/20 shrink-0">
               <User size={24} aria-hidden="true" />
             </span>
+            <h3 className="text-2xl md:text-3xl font-semibold text-foreground">{t('heading')}</h3>
           </div>
           {(t.raw('bio.paragraphs') as string[]).map((paragraph, i) => (
             <p key={i} className="text-xl md:text-2xl leading-relaxed text-muted">
