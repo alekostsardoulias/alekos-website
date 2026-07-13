@@ -33,7 +33,7 @@ export default async function AboutPage() {
 
   return (
     <PageLayout>
-      <HeroSection headingKey="heading" headingNamespace="about" largeImage hideTitle>
+      <HeroSection headingKey="heading" headingNamespace="about" largeImage>
           <div className="mt-4 space-y-4 rounded-xl border border-white/[0.06] bg-white/[0.02] backdrop-blur-sm p-5 md:p-6 max-h-full overflow-y-auto">
           {(t.raw('bio.paragraphs') as string[]).map((paragraph, i) => (
             <p key={i} className="text-xl md:text-2xl leading-relaxed text-muted">

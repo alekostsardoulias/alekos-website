@@ -58,7 +58,7 @@ export function HeroSection({
           <h1 className="text-4xl md:text-5xl font-bold tracking-tight">
             <span className="inline-flex items-center gap-2">
               {icon && <span aria-hidden="true">{icon}</span>}
-              <span className="text-accent-warm">
+              <span className="text-foreground">
                 {heading}
               </span>
             </span>
