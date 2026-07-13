@@ -177,7 +177,7 @@ export function WorkContent({
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
           {completedItems.map((item, i) => (
-            <Link key={i} href={`/articles/${item.slug}`} className="block group">
+            <Link key={i} href={`/case-studies/${item.slug}`} className="block group">
               <div className={glassCard}>
                 {/* Top row: date + category badge */}
                 <div className="flex items-center gap-3 mb-3">
