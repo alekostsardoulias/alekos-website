@@ -1,6 +1,6 @@
 {
   "404": {
-    "title": "404 – Seite nicht gefunden",
+    "title": "404 — Seite nicht gefunden",
     "message": "Die gesuchte Seite existiert nicht.",
     "backHome": "← Zurück zur Startseite"
   },
@@ -114,7 +114,7 @@
     "bio": {
       "paragraphs": [
         "Ich bin ein interdisziplinärer Ingenieur, Marketer und Forscher, der Gründern, Startups, KMUs und NGOs hilft, ihre Ziele zu erreichen, indem ich Technologie, Philosophie, Wachstumsstrategie und beste Kommunikationspraktiken verbinde.",
-        "Ich schreibe nicht nur Code für Web-Apps oder verwalte soziale Medien und E-Mails – ich baue ganzheitliche Systeme, die messbare Ergebnisse liefern."
+        "Ich schreibe nicht nur Code für Web-Apps oder verwalte soziale Medien und E-Mails — ich baue ganzheitliche Systeme, die messbare Ergebnisse liefern."
       ]
     },
     "education": {
@@ -389,7 +389,7 @@
   },
   "work": {
     "heading": "Was ich mache",
-    "description": "Von Full-Stack-Web-Apps bis zur Go-to-Market-Strategie – ich liefere End-to-End-Lösungen.",
+    "description": "Von Full-Stack-Web-Apps bis zur Go-to-Market-Strategie — ich liefere End-to-End-Lösungen.",
     "cta": "Meine Artikel lesen",
     "services": {
       "heading": "Was ich mache",
@@ -492,7 +492,7 @@
   },
   "contact": {
     "heading": "Kontakt",
-    "description": "Lass uns reden. Ob du ein Projekt im Kopf hast, eine Frage, oder einfach nur connecten möchtest – ich bin hier.",
+    "description": "Lass uns reden. Ob du ein Projekt im Kopf hast, eine Frage, oder einfach nur connecten möchtest — ich bin hier.",
     "email": {
       "heading": "Email",
       "button": "Email senden",
