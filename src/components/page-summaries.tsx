@@ -1,13 +1,12 @@
-import { useTranslations } from 'next-intl';
-import { Link } from '@/i18n/navigation';
+import Link from 'next/link';
 import { CircleUser, BriefcaseBusiness, FileText, MailOpen } from 'lucide-react';
 import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card';
 
 const SUMMARIES = [
-  { href: '/about', key: 'about' },
-  { href: '/work', key: 'work' },
-  { href: '/articles', key: 'articles' },
-  { href: '/contact', key: 'contact' },
+  { href: '/about', key: 'about', heading: 'About me', description: "Who I am, what I've studied, where I've worked." },
+  { href: '/work', key: 'work', heading: 'What I do', description: 'Services and completed projects.' },
+  { href: '/articles', key: 'articles', heading: 'Articles', description: 'Thoughts on AI, marketing, and technology.' },
+  { href: '/contact', key: 'contact', heading: 'Contact', description: 'Find me on social media.' },
 ] as const;
 
 const ICON_MAP: Record<string, React.ComponentType<{ size?: number; className?: string; 'aria-hidden'?: boolean | 'true' | 'false' }>> = {
@@ -18,11 +17,9 @@ const ICON_MAP: Record<string, React.ComponentType<{ size?: number; className?: 
 };
 
 export function PageSummaries() {
-  const t = useTranslations('home.summaries');
-
   return (
     <section className="grid grid-cols-1 md:grid-cols-2 gap-4">
-      {SUMMARIES.map(({ href, key }, index) => {
+      {SUMMARIES.map(({ href, key, heading, description }, index) => {
         const Icon = ICON_MAP[key];
         return (
         <Link
@@ -35,12 +32,12 @@ export function PageSummaries() {
             <CardHeader>
               <CardTitle className="text-xl group-hover:text-accent transition-colors">
                 {Icon && <Icon size={16} className="inline-block me-1.5" aria-hidden="true" />}
-                {t(`${key}.heading`)}
+                {heading}
               </CardTitle>
             </CardHeader>
             <CardContent>
               <p className="text-lg text-muted leading-relaxed">
-                {t(`${key}.description`)}
+                {description}
               </p>
             </CardContent>
           </Card>

@@ -1,7 +1,7 @@
 'use client';
 
 import { createContext, useContext, useState, useEffect, useRef, type ReactNode } from 'react';
-import { usePathname } from '@/i18n/navigation';
+import { usePathname } from 'next/navigation';
 
 type Phase = 'loading' | 'fading' | 'complete' | 'entering';
 

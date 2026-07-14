@@ -1,6 +1,5 @@
 'use client';
 
-import { useTranslations, useLocale } from 'next-intl';
 import { BrandIcon } from '@/components/ui/brand-icon';
 
 const SOCIAL_LINKS = [
@@ -17,15 +16,9 @@ const SOCIAL_LINKS = [
 ];
 
 export function Footer() {
-  const t = useTranslations('footer');
-  const locale = useLocale();
   const year = new Date().getFullYear();
-
-  const name = locale === 'el' ? 'Αλέξανδρος Τσαρδούλιας' : 'Alexandros Tsardoulias';
-  const title =
-    locale === 'el'
-      ? 'Μηχανικός Λογισμικού ΤΝ & Ειδικός Marketing'
-      : 'AI-Native Software Engineer & Marketing Specialist';
+  const name = 'Alexandros Tsardoulias';
+  const title = 'AI-Native Software Engineer & Marketing Specialist';
 
   return (
     <footer className="border-t border-white/[0.04] bg-black/30 backdrop-blur-xl mt-auto">
@@ -38,7 +31,7 @@ export function Footer() {
             </span>
             <span className="text-lg text-text-secondary">{title}</span>
             <span className="text-lg text-text-tertiary mt-0.5">
-              {t('copyright', { year })}
+              &copy; {year} Alexandros Tsardoulias
             </span>
           </div>
 

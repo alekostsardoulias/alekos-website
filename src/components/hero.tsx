@@ -1,15 +1,12 @@
 'use client';
 
 import Image from 'next/image';
-import { useTranslations } from 'next-intl';
-import { Link } from '@/i18n/navigation';
+import Link from 'next/link';
 import { ChevronDown } from 'lucide-react';
 
 import { HERO_IMAGE } from '@/lib/config';
 
 export function Hero() {
-  const t = useTranslations('hero');
-
   return (
     <section className="relative overflow-hidden min-h-[calc(100vh-5rem)] flex flex-col items-center justify-start pt-12 md:pt-20 md:py-0">
       {/* ── Background orbs ── */}
@@ -25,24 +22,24 @@ export function Hero() {
         <div className="flex-1 text-center md:text-start space-y-5">
           {/* Greeting pill */}
           <span dir="ltr" className="inline-block px-4 py-1.5 rounded-full border border-white/[0.06] bg-white/[0.03] backdrop-blur-sm text-lg text-text-secondary">
-            {t('greeting')}
+            👋 Hello, World!
           </span>
 
           {/* Name */}
           <h1 className="text-5xl md:text-6xl lg:text-7xl xl:text-8xl font-bold tracking-tight text-balance">
             <span className="bg-gradient-to-r rtl:bg-gradient-to-l from-purple-400 via-pink-400 to-blue-400 bg-clip-text text-transparent">
-              {t('name')}
+              Alexandros Tsardoulias
             </span>
           </h1>
 
           {/* Title */}
           <p className="text-xl md:text-2xl text-text-secondary max-w-2xl">
-            {t('title')}
+            AI-Native Software Engineer & Marketing Specialist
           </p>
 
           {/* Description */}
           <p className="text-lg md:text-xl text-text-tertiary max-w-xl">
-            {t('description')}
+            I help Founders, Startups, SMEs and NGOs achieve their goals by bridging technology, philosophy, growth strategy and best communication practices.
           </p>
 
           {/* CTA buttons */}
@@ -51,13 +48,13 @@ export function Hero() {
               href="/work"
               className="inline-flex items-center px-6 py-3 rounded-xl bg-purple-500/20 border border-purple-400/30 text-purple-300 hover:bg-purple-500/30 hover:shadow-[0_0_20px_rgba(168,85,247,0.3)] transition-all font-medium text-lg"
             >
-              {t('cta')}
+              See my work
             </Link>
             <Link
               href="/contact"
               className="inline-flex items-center px-6 py-3 rounded-xl border border-white/[0.08] bg-white/[0.02] text-text-secondary hover:border-white/[0.15] hover:bg-white/[0.04] transition-all font-medium text-lg"
             >
-              {t('ctaSecondary')}
+              Get in touch
             </Link>
           </div>
         </div>
@@ -67,7 +64,7 @@ export function Hero() {
           <div className="relative w-64 h-64 md:w-80 md:h-80 lg:w-96 lg:h-96 rounded-full border-2 border-purple-400/20 shadow-[0_0_40px_rgba(168,85,247,0.2)] overflow-hidden bg-muted/20">
             <Image
               src={HERO_IMAGE}
-              alt={t('name')}
+              alt="Alexandros Tsardoulias"
               fill
               className="object-cover"
               priority

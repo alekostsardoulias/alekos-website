@@ -1,4 +1,3 @@
-import { useTranslations } from 'next-intl';
 import { PageLayout } from '@/components/page-layout';
 import { BrandIcon } from '@/components/ui/brand-icon';
 import { Share2 } from 'lucide-react';
@@ -56,8 +55,6 @@ const defaultPillHover =
   'hover:border-white/20 hover:bg-white/10 hover:text-white';
 
 export default function ContactPage() {
-  const t = useTranslations('contact');
-
   return (
     <PageLayout>
       <section className="flex flex-col gap-4">
@@ -68,7 +65,7 @@ export default function ContactPage() {
             <Share2 size={28} />
           </div>
           <h2 className="text-3xl font-semibold text-text-primary mb-6">
-            {t('social.heading')}
+            Social Media
           </h2>
           <div className="flex flex-wrap items-center justify-center gap-3 mb-2">
             {SOCIAL_LINKS.map((link) => {
@@ -99,7 +96,7 @@ export default function ContactPage() {
             <BrandIcon platform="Email" size={28} />
           </div>
           <h2 className="text-3xl font-semibold text-text-primary mb-2">
-            {t('email.heading')}
+            Email
           </h2>
           <p className="text-lg text-text-secondary mb-4">{EMAIL}</p>
           <a
@@ -108,10 +105,10 @@ export default function ContactPage() {
                        transition-all duration-200 hover:bg-blue-500/20 hover:border-blue-400/30 motion-safe:hover:scale-[1.02]"
           >
             <BrandIcon platform="Email" size={16} />
-            {t('email.button')}
+            Send Email
           </a>
           <p className="mt-4 text-lg text-text-tertiary">
-            {t('email.description')}
+            I read everything. You&apos;ll hear back within 24 hours.
           </p>
         </div>
 
@@ -121,7 +118,7 @@ export default function ContactPage() {
             <BrandIcon platform="Medium" size={28} />
           </div>
           <h2 className="text-3xl font-semibold text-text-primary mb-6">
-            {t('articles.heading')}
+            My Writing
           </h2>
           <div className="flex flex-wrap items-center justify-center gap-3 mb-2">
             {ARTICLE_LINKS.map((link) => {
@@ -162,7 +159,7 @@ export default function ContactPage() {
                        transition-all duration-200 hover:bg-purple-500/20 hover:border-purple-400/30 motion-safe:hover:scale-[1.02]"
           >
             <BrandIcon platform="Discord" size={16} />
-            {t('discord.button')}
+            Join Server
           </a>
           <p className="mt-4 text-lg text-text-tertiary">
             A new community for tech enthusiasts, developers, engineers, marketers, investors, business owners and digital nomads in Europe. First 100 members get VIP status, custom role and exclusive insights in a future project. Join us today!

@@ -1,23 +1,19 @@
 'use client';
 
-import { useTranslations, useLocale } from 'next-intl';
-import { usePathname } from '@/i18n/navigation';
-import { Link } from '@/i18n/navigation';
-import { LanguageSelector } from '@/components/language-selector';
+import { usePathname } from 'next/navigation';
+import Link from 'next/link';
 import { useState } from 'react';
 import { Menu, X } from 'lucide-react';
 
 const NAV_LINKS = [
-  { href: '/', key: 'home' },
-  { href: '/about', key: 'about' },
-  { href: '/work', key: 'work' },
-  { href: '/articles', key: 'articles' },
-  { href: '/contact', key: 'contact' },
+  { href: '/', label: 'Home' },
+  { href: '/about', label: 'About' },
+  { href: '/work', label: 'Work' },
+  { href: '/articles', label: 'Articles' },
+  { href: '/contact', label: 'Contact' },
 ] as const;
 
 export function Navigation() {
-  const t = useTranslations('nav');
-  const locale = useLocale();
   const pathname = usePathname();
   const [mobileOpen, setMobileOpen] = useState(false);
 
@@ -27,22 +23,22 @@ export function Navigation() {
   return (
     <header className="sticky top-0 z-40 bg-black/40 backdrop-blur-xl border-b border-white/[0.04]">
       <nav className="mx-auto flex max-w-[88rem] items-center justify-between px-4 py-4">
-        {/* Site name — locale-aware */}
+        {/* Site name */}
         <Link
           href="/"
           className="text-2xl font-semibold tracking-tight bg-gradient-to-r from-purple-400 to-blue-400 bg-clip-text text-transparent hover:opacity-80 transition-opacity"
           onClick={handleNavClick}
         >
-          {locale === 'el' ? 'Αλέξανδρος Τσαρδούλιας' : locale === 'ru' ? 'Александр Цардулиас' : locale === 'ua' ? 'Александрс Цардуліас' : 'Alexandros Tsardoulias'}
+          Alexandros Tsardoulias
         </Link>
 
         {/* Desktop navigation */}
         <div className="hidden md:flex items-center gap-6">
-          {NAV_LINKS.map(({ href, key }) => {
+          {NAV_LINKS.map(({ href, label }) => {
             const isActive = pathname === href || (href !== '/' && pathname.startsWith(href));
             return (
               <Link
-                key={key}
+                key={label}
                 href={href}
                 className={`text-lg transition-all duration-200 relative ${
                   isActive
@@ -51,15 +47,10 @@ export function Navigation() {
                 }`}
                 onClick={handleNavClick}
               >
-                {t(key)}
+                {label}
               </Link>
             );
           })}
-
-          <div className="flex items-center gap-3 ms-4 ps-4 border-s border-white/[0.08]">
-            {/* Language selector */}
-            <LanguageSelector />
-          </div>
         </div>
 
         {/* Mobile hamburger */}
@@ -77,11 +68,11 @@ export function Navigation() {
       {mobileOpen && (
         <div className="md:hidden bg-black/40 backdrop-blur-xl border-t border-white/[0.04]">
           <div className="flex flex-col px-4 py-3 gap-2">
-            {NAV_LINKS.map(({ href, key }) => {
+            {NAV_LINKS.map(({ href, label }) => {
               const isActive = pathname === href || (href !== '/' && pathname.startsWith(href));
               return (
                 <Link
-                  key={key}
+                  key={label}
                   href={href}
                   className={`text-lg py-2 transition-colors ${
                     isActive
@@ -90,14 +81,10 @@ export function Navigation() {
                   }`}
                   onClick={handleNavClick}
                 >
-                  {t(key)}
+                  {label}
                 </Link>
               );
             })}
-
-            <div className="flex items-center justify-between pt-3 mt-2 border-t border-white/[0.08]">
-              <LanguageSelector />
-            </div>
           </div>
         </div>
       )}

@@ -1,4 +1,3 @@
-import { useTranslations } from 'next-intl';
 import { PageLayout } from '@/components/page-layout';
 import { HeroSection } from '@/components/hero-section';
 import { CtaSection } from '@/components/cta-section';
@@ -22,22 +21,21 @@ export const metadata: Metadata = {
 };
 
 export default function ArticlesPage() {
-  const t = useTranslations('articles');
   const allArticles = getAllArticles();
 
   return (
     <PageLayout>
-      <HeroSection headingKey="heading" headingNamespace="articles" subtitleKey="description" hideImage />
+      <HeroSection heading="My Articles" subtitle="Thoughts on AI, software engineering, and modern marketing. I write about what I build, what I learn, and where technology is heading." hideImage />
 
       {/* Category filter + article list */}
-      <h2 className="sr-only">{t('heading')}</h2>
+      <h2 className="sr-only">My Articles</h2>
       <ArticleFilter
         articles={allArticles}
         categories={[...CATEGORIES]}
-        allLabel={t('filter.all')}
-        emptyMessage={t('empty')}
-        readMoreLabel={t('readMore')}
-        readingTimeLabel={t('readingTime')}
+        allLabel="All"
+        emptyMessage="No articles in this category."
+        readMoreLabel="Read more"
+        readingTimeLabel="{minutes} min read"
       />
 
       <CtaSection />

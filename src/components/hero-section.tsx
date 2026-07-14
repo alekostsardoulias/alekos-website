@@ -2,14 +2,12 @@
 
 import type { ReactNode } from 'react';
 import Image from 'next/image';
-import { useTranslations } from 'next-intl';
 
 import { HERO_IMAGE } from '@/lib/config';
 
 interface HeroSectionProps {
-  headingKey: string;
-  headingNamespace: string;
-  subtitleKey?: string;
+  heading?: string;
+  subtitle?: string;
   icon?: ReactNode;
   children?: ReactNode;
   largeImage?: boolean;
@@ -23,18 +21,14 @@ const baseImageContainer =
 const normalImageContainer = 'w-64 h-64 md:w-72 md:h-72';
 
 export function HeroSection({
-  headingKey,
-  headingNamespace,
-  subtitleKey,
+  heading,
+  subtitle,
   icon,
   children,
   largeImage = false,
   hideImage = false,
   hideTitle = false,
 }: HeroSectionProps) {
-  const t = useTranslations(headingNamespace);
-  const heading = t(headingKey);
-
   const sectionClasses = largeImage
     ? 'flex flex-col-reverse md:flex-row items-stretch gap-8 md:gap-12'
     : 'flex flex-col-reverse md:flex-row items-start gap-8 md:gap-12';
@@ -64,8 +58,8 @@ export function HeroSection({
             </span>
           </h1>
         )}
-        {subtitleKey && (
-          <p className="text-lg text-muted mt-3">{t(subtitleKey)}</p>
+        {subtitle && (
+          <p className="text-lg text-muted mt-3">{subtitle}</p>
         )}
         {children}
       </div>
@@ -74,7 +68,7 @@ export function HeroSection({
           <div className={imageContainerClasses}>
             <Image
               src={HERO_IMAGE}
-              alt={heading}
+              alt={heading ?? ''}
               fill
               className="object-cover"
               priority

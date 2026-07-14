@@ -1,7 +1,6 @@
 'use client';
 
 import { useEffect } from 'react';
-import { useTranslations } from 'next-intl';
 import { Button } from '@/components/ui/button';
 
 interface ErrorProps {
@@ -10,17 +9,15 @@ interface ErrorProps {
 }
 
 export default function Error({ error, reset }: ErrorProps) {
-  const t = useTranslations('common');
-
   useEffect(() => {
     console.error(error);
   }, [error]);
 
   return (
     <div className="min-h-[50vh] flex flex-col items-center justify-center gap-4 px-4">
-      <p className="text-muted text-lg">{t('error')}</p>
+      <p className="text-muted text-lg">Something went wrong.</p>
       <Button variant="outline" onClick={reset}>
-        {t('retry')}
+        Try again
       </Button>
     </div>
   );

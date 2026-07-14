@@ -1,7 +1,6 @@
 'use client';
 
-import { useTranslations } from 'next-intl';
-import { Link } from '@/i18n/navigation';
+import Link from 'next/link';
 import { PageLayout } from '@/components/page-layout';
 import { HeroSection } from '@/components/hero-section';
 import { CtaSection } from '@/components/cta-section';
@@ -50,7 +49,7 @@ interface WorkContentProps {
   readMoreLabel: string;
 }
 
-// ── Service config: icon + color per service (index 0–11 from translations) ─
+// ── Service config: icon + color per service (index 0–11) ─
 
 interface ServiceConfig {
   icon: LucideIcon;
@@ -58,7 +57,7 @@ interface ServiceConfig {
 }
 
 const SERVICE_CONFIG: ServiceConfig[] = [
-  { icon: Code2,      color: 'text-purple-400' },   // 0  Web Development
+  { icon: Code2,      color: 'text-purple-400' },   // 0  Website Development
   { icon: Monitor,    color: 'text-blue-400' },      // 1  Web App Development
   { icon: Smartphone, color: 'text-pink-400' },      // 2  Mobile App Development
   { icon: Target,     color: 'text-amber-400' },     // 3  Go-To-Market Strategy
@@ -75,10 +74,10 @@ const SERVICE_CONFIG: ServiceConfig[] = [
 // ── Process-step config ────────────────────────────────────────────────────
 
 const PROCESS_STEPS = [
-  { icon: Search,      color: 'text-blue-400' },
-  { icon: Compass,     color: 'text-amber-400' },
-  { icon: Rocket,      color: 'text-purple-400' },
-  { icon: CheckCircle, color: 'text-green-400' },
+  { title: "Discovery", description: "Understand your goals, audience, and what success looks like for your project.", icon: Search, color: 'text-blue-400' },
+  { title: "Strategy", description: "Plan the approach, choose the right tools, and map out the path to launch.", icon: Compass, color: 'text-amber-400' },
+  { title: "Execution", description: "Build with precision. Clean code, thoughtful design, and regular check-ins.", icon: Rocket, color: 'text-purple-400' },
+  { title: "Delivery", description: "Launch, measure, and iterate. I stay involved to make sure everything works.", icon: CheckCircle, color: 'text-green-400' },
 ] as const;
 
 // ── Shared glass-card classes ──────────────────────────────────────────────
@@ -99,13 +98,10 @@ export function WorkContent({
   completedItems,
   readMoreLabel,
 }: WorkContentProps) {
-  const t = useTranslations('work');
-  const tc = useTranslations('articles.categories');
-
   return (
     <PageLayout>
       {/* ── Hero ─────────────────────────────────────────────────── */}
-      <HeroSection headingKey="heading" headingNamespace="work" hideImage />
+      <HeroSection heading="What I do" hideImage />
 
       {/* ── Services ──────────────────────────────────────────────── */}
       <section>
@@ -141,7 +137,7 @@ export function WorkContent({
         </h2>
         <div className="relative">
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
-            {PROCESS_STEPS.map(({ icon: StepIcon, color }, i) => (
+            {PROCESS_STEPS.map(({ title, description, icon: StepIcon, color }, i) => (
               <div
                 key={i}
                 className={`${glassCard} relative group`}
@@ -155,10 +151,10 @@ export function WorkContent({
                   <StepIcon className={`w-5 h-5 ${color}`} />
                 </div>
                 <h3 className="text-xl font-semibold text-text-primary mb-1">
-                  {t(`process.steps.${i}.title`)}
+                  {title}
                 </h3>
                 <p className="text-lg text-text-secondary leading-relaxed">
-                  {t(`process.steps.${i}.description`)}
+                  {description}
                 </p>
 
                 {/* Arrow for mobile/tablet (not on last) */}
@@ -188,7 +184,7 @@ export function WorkContent({
                     {item.date}
                   </span>
                   <span className="text-lg px-2.5 py-0.5 rounded-full bg-purple-500/10 border border-purple-400/20 text-purple-300 font-medium">
-                    {tc(item.category)}
+                    {item.category}
                   </span>
                 </div>
 

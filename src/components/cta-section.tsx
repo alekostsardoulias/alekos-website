@@ -1,17 +1,15 @@
 'use client';
 
-import { useTranslations } from 'next-intl';
-import { Link } from '@/i18n/navigation';
+import Link from 'next/link';
 
 interface CtaSectionProps {
   className?: string;
 }
 
 export function CtaSection({ className = '' }: CtaSectionProps) {
-  const t = useTranslations('home');
-  const heading = t('featured.cta.heading');
-  const subtitle = t('featured.cta.subtitle');
-  const button = t('featured.cta.button');
+  const heading = "Let's Work Together";
+  const subtitle = "Have a project in mind? Let's build something great.";
+  const button = 'Get in Touch';
 
   return (
     <section className={`rounded-2xl border border-purple-400/10 bg-gradient-to-r from-purple-500/5 to-blue-500/5 backdrop-blur-sm p-8 md:p-12 text-center ${className}`}>

@@ -1,7 +1,6 @@
 'use client';
 
-import { useTranslations } from 'next-intl';
-import { Link } from '@/i18n/navigation';
+import Link from 'next/link';
 import { ArrowRight } from 'lucide-react';
 
 const badgeStyles = [
@@ -10,17 +9,15 @@ const badgeStyles = [
   'bg-pink-500/10 text-pink-400 border border-pink-400/20',
 ] as const;
 
-export function HomeFeatured() {
-  const t = useTranslations('home');
-  const heading = t('featured.heading');
-  const viewProject = t('featured.viewProject');
+const FEATURED = [
+  { title: 'How AI Is Changing Marketing', category: 'Technology', description: 'An analysis of how AI tools are transforming digital marketing strategies in 2026.', slug: 'ai-marketing-2026' },
+  { title: 'Modern Web Development in 2026', category: 'Technology', description: 'The tools, frameworks, and practices I use for web development today.', slug: 'modern-web-dev' },
+  { title: 'E-Commerce Redesign Case Study', category: 'Case Study', description: 'How I redesigned an e-commerce platform for better UX and 40% higher conversion.', slug: 'ecommerce-redesign' },
+];
 
-  const items = [0, 1, 2].map((i) => ({
-    title: t(`featured.items.${i}.title`),
-    category: t(`featured.items.${i}.category`),
-    description: t(`featured.items.${i}.description`),
-    badge: badgeStyles[i],
-  }));
+export function HomeFeatured() {
+  const heading = 'Featured Work';
+  const viewProject = 'View project';
 
   return (
     <section>
@@ -29,7 +26,7 @@ export function HomeFeatured() {
       </h2>
 
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-        {items.map((item) => (
+        {FEATURED.map((item, i) => (
           <Link
             key={item.title}
             href="/work"
@@ -37,7 +34,7 @@ export function HomeFeatured() {
           >
             <div className="flex flex-col gap-3 h-full p-6">
               <span
-                className={`inline-block px-2.5 py-0.5 rounded-full text-lg font-medium w-fit ${item.badge}`}
+                className={`inline-block px-2.5 py-0.5 rounded-full text-lg font-medium w-fit ${badgeStyles[i]}`}
               >
                 {item.category}
               </span>

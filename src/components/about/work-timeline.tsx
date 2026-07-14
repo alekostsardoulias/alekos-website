@@ -1,22 +1,24 @@
-import { useTranslations } from 'next-intl';
+interface WorkItem {
+  year: string;
+  company: string;
+  role: string;
+  description: string;
+}
+
+const ITEMS: WorkItem[] = [
+  { year: '2025 – Present', company: 'Freelance', role: 'AI-Native Software Engineer & Marketing Specialist', description: '' },
+  { year: '2021 – 2025', company: 'Corporate Roles & Freelance', role: 'Digital Marketer, UI/UX & Graphic Designer, Copywriter', description: '' },
+  { year: '2023 – 2025', company: 'Volunteering', role: 'Tutor for Business & Marketing Students', description: '' },
+];
 
 export function WorkTimeline() {
-  const t = useTranslations('about.work');
-
-  const items = t.raw('items') as Array<{
-    year: string;
-    company: string;
-    role: string;
-    description: string;
-  }>;
-
   return (
     <div>
       <h2 className="text-3xl font-semibold text-foreground mb-6">
-        {t('heading')}
+        Work Experience
       </h2>
       <div className="space-y-1">
-        {items.map((item, i) => (
+        {ITEMS.map((item, i) => (
           <div
             key={i}
             className="grid py-2 ps-3 border-s-2 border-purple-400/20 animate-fade-up"

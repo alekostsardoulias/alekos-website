@@ -1,5 +1,3 @@
-import { useTranslations } from 'next-intl';
-
 interface EducationItem {
   year: string;
   institution: string;
@@ -7,18 +5,22 @@ interface EducationItem {
   description: string;
 }
 
+const ITEMS: EducationItem[] = [
+  { year: '2020 – Present', institution: 'freeCodeCamp, roadmaps.sh, YouTube', degree: 'Computer Software Engineering', description: '' },
+  { year: '2024 – 2025', institution: 'University of Nicosia', degree: 'Blockchain, Cryptocurrencies, NFTs and the Metaverse', description: '' },
+  { year: '2023 – 2024', institution: 'Knowcrunch', degree: 'Digital Marketing', description: '' },
+  { year: '2020 – 2024', institution: 'Queen Margaret University', degree: 'Marketing Management', description: '' },
+  { year: '2019 – 2023', institution: 'University of Patras', degree: 'Philosophy', description: '' },
+];
+
 export function EducationTimeline() {
-  const t = useTranslations('about.education');
-
-  const items: EducationItem[] = t.raw('items') as EducationItem[];
-
   return (
     <div>
       <h2 className="text-3xl font-semibold text-foreground mb-6">
-        {t('heading')}
+        Education
       </h2>
       <div className="space-y-1">
-        {items.map((item, i) => (
+        {ITEMS.map((item, i) => (
           <div
             key={i}
             className="grid py-2 ps-3 border-s-2 border-purple-400/20 animate-fade-up"
