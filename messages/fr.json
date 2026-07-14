@@ -1,4 +1,9 @@
 {
+  "404": {
+    "title": "404 — Page introuvable",
+    "message": "La page que vous cherchez n'existe pas.",
+    "backHome": "← Retour à l'accueil"
+  },
   "nav": {
     "home": "Accueil",
     "about": "À propos",
@@ -1014,7 +1019,8 @@
     },
     "empty": "Aucun article dans cette catégorie.",
     "readMore": "Lire plus",
-    "backToList": "← Retour aux articles"
+    "backToList": "← Retour aux articles",
+    "readingTime": "{minutes} min de lecture"
   },
   "contact": {
     "heading": "Contact",
@@ -1110,10 +1116,5 @@
     "retry": "Réessayer",
     "back": "← Retour",
     "readMore": "Lire plus"
-  },
-  "404": {
-    "title": "404 — Page introuvable",
-    "message": "La page que vous cherchez n'existe pas.",
-    "backHome": "← Retour à l'accueil"
   }
 }

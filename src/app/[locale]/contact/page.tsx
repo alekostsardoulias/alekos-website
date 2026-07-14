@@ -7,7 +7,7 @@ import type { Metadata } from 'next';
 export const metadata: Metadata = {
   title: 'Contact',
   description:
-    'Contact Alexandros Tsardoulias — email, social media, articles, and Discord.',
+    'Contact Alexandros Tsardoulias — social media, email, articles, and Discord.',
 };
 
 const EMAIL = 'alexandrostsardoulias@protonmail.com';
@@ -21,9 +21,9 @@ const SOCIAL_LINKS: PlatformLink[] = [
   { platform: 'Instagram', url: 'https://www.instagram.com/alekostsardoulias/' },
   { platform: 'X (Twitter)', url: 'https://x.com/alextsardoulias' },
   { platform: 'LinkedIn', url: 'https://www.linkedin.com/in/alexandros-tsardoulias-02639841b/' },
-  { platform: 'Facebook', url: 'https://www.facebook.com/alekostsardoulias/' },
   { platform: 'Reddit', url: 'https://www.reddit.com/user/thenodearchitect_gr/' },
   { platform: 'Threads', url: 'https://www.threads.com/@alekostsardoulias' },
+  { platform: 'Facebook', url: 'https://www.facebook.com/alekostsardoulias/' },
 ];
 
 const ARTICLE_LINKS: PlatformLink[] = [
@@ -62,29 +62,7 @@ export default function ContactPage() {
     <PageLayout>
       <section className="flex flex-col gap-4">
 
-        {/* Email Box (blue) */}
-        <div className="rounded-2xl border border-blue-400/10 bg-gradient-to-r from-blue-500/5 to-cyan-500/5 backdrop-blur-sm p-8 text-center">
-          <div className="inline-flex items-center justify-center w-14 h-14 rounded-xl bg-blue-500/10 text-blue-400 mb-4">
-            <BrandIcon platform="Email" size={28} />
-          </div>
-          <h2 className="text-3xl font-semibold text-text-primary mb-2">
-            {t('email.heading')}
-          </h2>
-          <p className="text-lg text-text-secondary mb-4">{EMAIL}</p>
-          <a
-            href={`mailto:${EMAIL}`}
-            className="inline-flex items-center gap-2 rounded-lg border border-blue-400/20 bg-blue-500/10 px-5 py-2.5 text-lg font-medium text-blue-400
-                       transition-all duration-200 hover:bg-blue-500/20 hover:border-blue-400/30 motion-safe:hover:scale-[1.02]"
-          >
-            <BrandIcon platform="Email" size={16} />
-            {t('email.button')}
-          </a>
-          <p className="mt-4 text-lg text-text-tertiary">
-            {t('email.description')}
-          </p>
-        </div>
-
-        {/* Social Media Box (pink) */}
+        {/* Social Media Box (pink) — first */}
         <div className="rounded-2xl border border-pink-400/10 bg-gradient-to-r from-pink-500/5 to-rose-500/5 backdrop-blur-sm p-8 text-center">
           <div className="inline-flex items-center justify-center w-14 h-14 rounded-xl bg-pink-500/10 text-pink-400 mb-4">
             <Share2 size={28} />
@@ -105,13 +83,35 @@ export default function ContactPage() {
                               transition-all duration-200 ${hover} motion-safe:hover:scale-[1.02]`}
                 >
                   <BrandIcon platform={link.platform} size={16} />
-                  {link.platform === 'X (Twitter)' ? 'X' : link.platform}
+                  {link.platform === 'X (Twitter)' ? 'X.com' : link.platform}
                 </a>
               );
             })}
           </div>
           <p className="mt-4 text-lg text-text-tertiary">
-            {t('social.description')}
+            I reply faster there. Follow me for updates and insights. Let&apos;s connect!
+          </p>
+        </div>
+
+        {/* Email Box (blue) */}
+        <div className="rounded-2xl border border-blue-400/10 bg-gradient-to-r from-blue-500/5 to-cyan-500/5 backdrop-blur-sm p-8 text-center">
+          <div className="inline-flex items-center justify-center w-14 h-14 rounded-xl bg-blue-500/10 text-blue-400 mb-4">
+            <BrandIcon platform="Email" size={28} />
+          </div>
+          <h2 className="text-3xl font-semibold text-text-primary mb-2">
+            {t('email.heading')}
+          </h2>
+          <p className="text-lg text-text-secondary mb-4">{EMAIL}</p>
+          <a
+            href={`mailto:${EMAIL}`}
+            className="inline-flex items-center gap-2 rounded-lg border border-blue-400/20 bg-blue-500/10 px-5 py-2.5 text-lg font-medium text-blue-400
+                       transition-all duration-200 hover:bg-blue-500/20 hover:border-blue-400/30 motion-safe:hover:scale-[1.02]"
+          >
+            <BrandIcon platform="Email" size={16} />
+            {t('email.button')}
+          </a>
+          <p className="mt-4 text-lg text-text-tertiary">
+            {t('email.description')}
           </p>
         </div>
 
@@ -142,7 +142,7 @@ export default function ContactPage() {
             })}
           </div>
           <p className="mt-4 text-lg text-text-tertiary">
-            {t('articles.description')}
+            I also post my articles there. I&apos;ll appreciate your support.
           </p>
         </div>
 
@@ -152,9 +152,8 @@ export default function ContactPage() {
             <BrandIcon platform="Discord" size={28} />
           </div>
           <h2 className="text-3xl font-semibold text-text-primary mb-2">
-            {t('discord.heading')}
+            TechBizHub.EU Discord Community
           </h2>
-          <p className="text-lg text-text-secondary mb-4">TechBizHub.EU</p>
           <a
             href={DISCORD_URL}
             target="_blank"
@@ -166,7 +165,7 @@ export default function ContactPage() {
             {t('discord.button')}
           </a>
           <p className="mt-4 text-lg text-text-tertiary">
-            Tech & Business Community in Europe. We welcome tech enthusiasts, developers, engineers, marketers, investors, business owners and digital nomads in Europe.
+            Tech &amp; Business Community in Europe. We welcome tech enthusiasts, developers, engineers, marketers, investors, business owners and digital nomads in Europe.
           </p>
         </div>
 

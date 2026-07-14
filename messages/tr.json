@@ -1,4 +1,9 @@
 {
+  "404": {
+    "title": "404 — Sayfa bulunamadı",
+    "message": "Aradığınız sayfa mevcut değil.",
+    "backHome": "← Ana sayfaya dön"
+  },
   "nav": {
     "home": "Ana Sayfa",
     "about": "Hakkımda",
@@ -993,7 +998,8 @@
     },
     "empty": "Bu kategoride makale yok.",
     "readMore": "Devamını oku",
-    "backToList": "← Makalelere dön"
+    "backToList": "← Makalelere dön",
+    "readingTime": "{minutes} dk okuma"
   },
   "contact": {
     "heading": "İletişim",
@@ -1089,10 +1095,5 @@
     "retry": "Tekrar dene",
     "back": "← Geri",
     "readMore": "Devamını oku"
-  },
-  "404": {
-    "title": "404 — Sayfa bulunamadı",
-    "message": "Aradığınız sayfa mevcut değil.",
-    "backHome": "← Ana sayfaya dön"
   }
 }

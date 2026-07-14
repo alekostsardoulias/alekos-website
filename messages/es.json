@@ -1,4 +1,9 @@
 {
+  "404": {
+    "title": "404 — Página no encontrada",
+    "message": "La página que buscas no existe.",
+    "backHome": "← Volver al inicio"
+  },
   "nav": {
     "home": "Inicio",
     "about": "Sobre mí",
@@ -966,10 +971,22 @@
     "process": {
       "heading": "Cómo Trabajo",
       "steps": [
-        {"title": "Discovery", "description": "Comprendo tus objetivos, tu audiencia y qué significa el éxito para tu proyecto."},
-        {"title": "Strategy", "description": "Planifico el enfoque, elijo las herramientas adecuadas y trazo el camino hacia el lanzamiento."},
-        {"title": "Execution", "description": "Construyo con precisión. Código limpio, diseño cuidado y revisiones periódicas."},
-        {"title": "Delivery", "description": "Lanzo, mido e itero. Me mantengo involucrado para asegurarme de que todo funcione."}
+        {
+          "title": "Discovery",
+          "description": "Comprendo tus objetivos, tu audiencia y qué significa el éxito para tu proyecto."
+        },
+        {
+          "title": "Strategy",
+          "description": "Planifico el enfoque, elijo las herramientas adecuadas y trazo el camino hacia el lanzamiento."
+        },
+        {
+          "title": "Execution",
+          "description": "Construyo con precisión. Código limpio, diseño cuidado y revisiones periódicas."
+        },
+        {
+          "title": "Delivery",
+          "description": "Lanzo, mido e itero. Me mantengo involucrado para asegurarme de que todo funcione."
+        }
       ]
     },
     "completed": {
@@ -1002,7 +1019,8 @@
     },
     "empty": "No hay artículos en esta categoría.",
     "readMore": "Leer más",
-    "backToList": "← Volver a artículos"
+    "backToList": "← Volver a artículos",
+    "readingTime": "{minutes} min de lectura"
   },
   "contact": {
     "heading": "Contacto",
@@ -1098,10 +1116,5 @@
     "retry": "Intentar de nuevo",
     "back": "← Volver",
     "readMore": "Leer más"
-  },
-  "404": {
-    "title": "404 — Página no encontrada",
-    "message": "La página que buscas no existe.",
-    "backHome": "← Volver al inicio"
   }
 }

@@ -3,7 +3,6 @@
 import { useTranslations } from 'next-intl';
 import { Link } from '@/i18n/navigation';
 import { ArrowRight } from 'lucide-react';
-import { CtaSection } from '@/components/cta-section';
 
 const badgeStyles = [
   'bg-purple-500/10 text-purple-400 border border-purple-400/20',
@@ -54,8 +53,6 @@ export function HomeFeatured() {
           </div>
         ))}
       </div>
-
-      <CtaSection />
     </section>
   );
 }

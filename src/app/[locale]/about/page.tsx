@@ -122,6 +122,14 @@ export default async function AboutPage() {
         </div>
       </section>
 
+      <ToolsFilter
+        tools={t.raw('tools.items')}
+        categories={t.raw('tools.categories')}
+        heading={t('tools.heading')}
+        allLabel={t('tools.allLabel')}
+        emptyMessage={t('tools.empty')}
+      />
+
       {/* FAQ */}
       <section className="pt-8">
         <FaqSection
@@ -131,14 +139,6 @@ export default async function AboutPage() {
       </section>
 
       <CtaSection />
-
-      <ToolsFilter
-        tools={t.raw('tools.items')}
-        categories={t.raw('tools.categories')}
-        heading={t('tools.heading')}
-        allLabel={t('tools.allLabel')}
-        emptyMessage={t('tools.empty')}
-      />
     </PageLayout>
   );
 }

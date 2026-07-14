@@ -1,4 +1,9 @@
 {
+  "404": {
+    "title": "404 — Strona nie znaleziona",
+    "message": "Strona, której szukasz, nie istnieje.",
+    "backHome": "← Powrót na stronę główną"
+  },
   "nav": {
     "home": "Strona główna",
     "about": "O mnie",
@@ -993,7 +998,8 @@
     },
     "empty": "Brak artykułów w tej kategorii.",
     "readMore": "Czytaj więcej",
-    "backToList": "← Powrót do artykułów"
+    "backToList": "← Powrót do artykułów",
+    "readingTime": "{minutes} min czytania"
   },
   "contact": {
     "heading": "Kontakt",
@@ -1089,10 +1095,5 @@
     "retry": "Spróbuj ponownie",
     "back": "← Wstecz",
     "readMore": "Czytaj więcej"
-  },
-  "404": {
-    "title": "404 — Strona nie znaleziona",
-    "message": "Strona, której szukasz, nie istnieje.",
-    "backHome": "← Powrót na stronę główną"
   }
 }
