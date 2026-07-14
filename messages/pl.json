@@ -1,6 +1,6 @@
 {
   "404": {
-    "title": "404 — Strona nie znaleziona",
+    "title": "404 – Strona nie znaleziona",
     "message": "Strona, której szukasz, nie istnieje.",
     "backHome": "← Powrót na stronę główną"
   },
@@ -114,7 +114,7 @@
     "bio": {
       "paragraphs": [
         "Pomagam założycielom, startupom, MŚP i NGO osiągać ich cele, łącząc technologię, filozofię, strategię wzrostu i najlepsze praktyki komunikacyjne. Poprzez swoją pracę przekształcam pomysły w skalowalne produkty cyfrowe i systemy generujące przychody.",
-        "Każdy projekt, który prowadzę, łączy wymierne rezultaty techniczne z marketingiem wpływającym na przychody, zapewniając klientom zarówno solidną infrastrukturę cyfrową, jak i mierzalny wzrost biznesu. Nie tylko piszę kod do aplikacji webowych ani nie tylko zarządzam mediami społecznościowymi i mailingami — buduję holistyczne systemy, które generują wymierne rezultaty. Traktuję architekturę techniczną produktu i jego strategię go-to-market jako jeden problem, a nie dwa."
+        "Każdy projekt, który prowadzę, łączy wymierne rezultaty techniczne z marketingiem wpływającym na przychody, zapewniając klientom zarówno solidną infrastrukturę cyfrową, jak i mierzalny wzrost biznesu. Nie tylko piszę kod do aplikacji webowych ani nie tylko zarządzam mediami społecznościowymi i mailingami – buduję holistyczne systemy, które generują wymierne rezultaty. Traktuję architekturę techniczną produktu i jego strategię go-to-market jako jeden problem, a nie dwa."
       ]
     },
     "education": {
@@ -973,7 +973,7 @@
   },
   "work": {
     "heading": "Co robię",
-    "description": "Od full-stack aplikacji webowych po strategię go-to-market — dostarczam kompleksowe rozwiązania. Każdy projekt zaczyna się od zrozumienia Twoich celów i kończy się mierzalnymi wynikami.",
+    "description": "Od full-stack aplikacji webowych po strategię go-to-market – dostarczam kompleksowe rozwiązania. Każdy projekt zaczyna się od zrozumienia Twoich celów i kończy się mierzalnymi wynikami.",
     "cta": "Czytaj moje artykuły",
     "services": {
       "heading": "Usługi",
@@ -992,7 +992,7 @@
         },
         {
           "name": "Go-To-Market Strategy",
-          "description": "Strategic planning for product launches — positioning, messaging, and go-to-market execution."
+          "description": "Strategic planning for product launches – positioning, messaging, and go-to-market execution."
         },
         {
           "name": "Marketing Automation",
@@ -1000,11 +1000,11 @@
         },
         {
           "name": "Marketing Consulting",
-          "description": "Strategic marketing advisory for startups and small businesses — growth, retention, analytics."
+          "description": "Strategic marketing advisory for startups and small businesses – growth, retention, analytics."
         },
         {
           "name": "Forward-Deployed Engineering",
-          "description": "Embedded engineering solutions — I work alongside your team to solve technical challenges on site."
+          "description": "Embedded engineering solutions – I work alongside your team to solve technical challenges on site."
         },
         {
           "name": "Workflow Automation",
@@ -1063,63 +1063,63 @@
   },
   "contact": {
     "heading": "Kontakt",
-    "description": "Porozmawiajmy. Niezależnie czy masz projekt na myśli, pytanie, czy po prostu chcesz się połączyć — jestem tutaj.",
+    "description": "Porozmawiajmy. Niezależnie czy masz projekt na myśli, pytanie, czy po prostu chcesz się połączyć – jestem tutaj.",
     "subtitle": "Możesz mnie znaleźć na:",
     "links": [
       {
         "platform": "Instagram",
         "url": "https://www.instagram.com/alekostsardoulias/",
-        "label": "Instagram — @alekostsardoulias"
+        "label": "Instagram – @alekostsardoulias"
       },
       {
         "platform": "X (Twitter)",
         "url": "https://x.com/alextsardoulias",
-        "label": "X — @alextsardoulias"
+        "label": "X – @alextsardoulias"
       },
       {
         "platform": "LinkedIn",
         "url": "https://www.linkedin.com/in/alexandros-tsardoulias-02639841b/",
-        "label": "LinkedIn — /in/alexandros-tsardoulias-02639841b"
+        "label": "LinkedIn – /in/alexandros-tsardoulias-02639841b"
       },
       {
         "platform": "GitHub",
         "url": "https://github.com/alexistdev",
-        "label": "GitHub — @alexistdev"
+        "label": "GitHub – @alexistdev"
       },
       {
         "platform": "Substack",
         "url": "https://substack.com/@alexandrostsardoulias",
-        "label": "Substack — @alexandrostsardoulias"
+        "label": "Substack – @alexandrostsardoulias"
       },
       {
         "platform": "Facebook",
         "url": "https://www.facebook.com/alekostsardoulias/",
-        "label": "Facebook — @alekostsardoulias"
+        "label": "Facebook – @alekostsardoulias"
       },
       {
         "platform": "Threads",
         "url": "https://www.threads.com/@alekostsardoulias",
-        "label": "Threads — @alekostsardoulias"
+        "label": "Threads – @alekostsardoulias"
       },
       {
         "platform": "Reddit",
         "url": "https://www.reddit.com/user/thenodearchitect_gr/",
-        "label": "Reddit — u/thenodearchitect_gr"
+        "label": "Reddit – u/thenodearchitect_gr"
       },
       {
         "platform": "Medium",
         "url": "https://medium.com/@alexandrostsardoulias",
-        "label": "Medium — @alexandrostsardoulias"
+        "label": "Medium – @alexandrostsardoulias"
       },
       {
         "platform": "Email",
         "url": "mailto:alexandrostsardoulias@protonmail.com",
-        "label": "Email — alexandrostsardoulias@protonmail.com"
+        "label": "Email – alexandrostsardoulias@protonmail.com"
       },
       {
         "platform": "Discord",
         "url": "https://discord.gg/alexistdev",
-        "label": "Discord — @alexistdev"
+        "label": "Discord – @alexistdev"
       }
     ]
   },

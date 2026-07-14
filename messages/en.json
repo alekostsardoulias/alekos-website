@@ -1,6 +1,6 @@
 {
   "404": {
-    "title": "404 — Page not found",
+    "title": "404 – Page not found",
     "message": "The page you're looking for doesn't exist.",
     "backHome": "← Back to home"
   },
@@ -973,7 +973,7 @@
   },
   "work": {
     "heading": "What I do",
-    "description": "From full-stack web apps to go-to-market strategy — I deliver end-to-end solutions. Every project starts with understanding your goals and ends with measurable results.",
+    "description": "From full-stack web apps to go-to-market strategy – I deliver end-to-end solutions. Every project starts with understanding your goals and ends with measurable results.",
     "cta": "Read my articles",
     "services": {
       "heading": "What I Do",
@@ -992,7 +992,7 @@
         },
         {
           "name": "Go-To-Market Strategy",
-          "description": "Strategic planning for product launches — positioning, messaging, and go-to-market execution."
+          "description": "Strategic planning for product launches – positioning, messaging, and go-to-market execution."
         },
         {
           "name": "Marketing Automation",
@@ -1000,11 +1000,11 @@
         },
         {
           "name": "Marketing Consulting",
-          "description": "Strategic marketing advisory for startups and small businesses — growth, retention, analytics."
+          "description": "Strategic marketing advisory for startups and small businesses – growth, retention, analytics."
         },
         {
           "name": "Forward-Deployed Engineering",
-          "description": "Embedded engineering solutions — I work alongside your team to solve technical challenges on site."
+          "description": "Embedded engineering solutions – I work alongside your team to solve technical challenges on site."
         },
         {
           "name": "Workflow Automation",
@@ -1084,7 +1084,7 @@
   },
   "contact": {
     "heading": "Contact",
-    "description": "Let's talk. Whether you have a project in mind, a question, or just want to connect — I'm here.",
+    "description": "Let's talk. Whether you have a project in mind, a question, or just want to connect – I'm here.",
     "email": {
       "heading": "Email",
       "button": "Send Email",
