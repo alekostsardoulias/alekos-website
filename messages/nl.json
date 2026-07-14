@@ -1,6 +1,6 @@
 {
   "404": {
-    "title": "404 — Pagina niet gevonden",
+    "title": "404. Pagina niet gevonden",
     "message": "De pagina die u zoekt bestaat niet.",
     "backHome": "← Terug naar home"
   },
@@ -114,7 +114,7 @@
     "bio": {
       "paragraphs": [
         "Ik help oprichters, startups, MKB-bedrijven en NGO's hun doelen te bereiken door technologie, filosofie, groeistrategie en best practices op het gebied van communicatie te verbinden. Met mijn werk transformeer ik ideeën in schaalbare digitale producten en omzetgenererende systemen.",
-        "Elk project dat ik leid combineert meetbare technische resultaten met omzetgerichte marketing, zodat klanten zowel een robuuste digitale infrastructuur als meetbare bedrijfsgroei krijgen. Ik schrijf niet alleen code voor webapps of beheer sociale media en e-mails — ik bouw holistische systemen die meetbare resultaten genereren. Ik behandel de technische architectuur van een product en de go-to-marketstrategie als één probleem, niet als twee."
+        "Elk project dat ik leid combineert meetbare technische resultaten met omzetgerichte marketing, zodat klanten zowel een robuuste digitale infrastructuur als meetbare bedrijfsgroei krijgen. Ik schrijf niet alleen code voor webapps of beheer sociale media en e-mails. Ik bouw holistische systemen die meetbare resultaten genereren. Ik behandel de technische architectuur van een product en de go-to-marketstrategie als één probleem, niet als twee."
       ]
     },
     "education": {
@@ -973,7 +973,7 @@
   },
   "work": {
     "heading": "Wat ik doe",
-    "description": "Van full-stack webapps tot go-to-marketstrategie — ik lever end-to-end oplossingen. Elk project begint met het begrijpen van uw doelen en eindigt met meetbare resultaten.",
+    "description": "Van full-stack webapps tot go-to-marketstrategie. Ik lever end-to-end oplossingen. Elk project begint met het begrijpen van uw doelen en eindigt met meetbare resultaten.",
     "cta": "Lees mijn artikelen",
     "services": {
       "heading": "Diensten",
@@ -992,7 +992,7 @@
         },
         {
           "name": "Go-To-Market Strategy",
-          "description": "Strategic planning for product launches — positioning, messaging, and go-to-market execution."
+          "description": "Strategic planning for product launches. Positioning, messaging, and go-to-market execution."
         },
         {
           "name": "Marketing Automation",
@@ -1000,11 +1000,11 @@
         },
         {
           "name": "Marketing Consulting",
-          "description": "Strategic marketing advisory for startups and small businesses — growth, retention, analytics."
+          "description": "Strategic marketing advisory for startups and small businesses. Growth, retention, analytics."
         },
         {
           "name": "Forward-Deployed Engineering",
-          "description": "Embedded engineering solutions — I work alongside your team to solve technical challenges on site."
+          "description": "Embedded engineering solutions. I work alongside your team to solve technical challenges on site."
         },
         {
           "name": "Workflow Automation",
@@ -1063,63 +1063,63 @@
   },
   "contact": {
     "heading": "Contact",
-    "description": "Laten we praten. Of je nu een project in gedachten hebt, een vraag, of gewoon contact wilt maken — ik ben er.",
+    "description": "Laten we praten. Of je nu een project in gedachten hebt, een vraag, of gewoon contact wilt maken. Ik ben er.",
     "subtitle": "Je kunt me vinden op:",
     "links": [
       {
         "platform": "Instagram",
         "url": "https://www.instagram.com/alekostsardoulias/",
-        "label": "Instagram — @alekostsardoulias"
+        "label": "Instagram: @alekostsardoulias"
       },
       {
         "platform": "X (Twitter)",
         "url": "https://x.com/alextsardoulias",
-        "label": "X — @alextsardoulias"
+        "label": "X: @alextsardoulias"
       },
       {
         "platform": "LinkedIn",
         "url": "https://www.linkedin.com/in/alexandros-tsardoulias-02639841b/",
-        "label": "LinkedIn — /in/alexandros-tsardoulias-02639841b"
+        "label": "LinkedIn: /in/alexandros-tsardoulias-02639841b"
       },
       {
         "platform": "GitHub",
         "url": "https://github.com/alexistdev",
-        "label": "GitHub — @alexistdev"
+        "label": "GitHub: @alexistdev"
       },
       {
         "platform": "Substack",
         "url": "https://substack.com/@alexandrostsardoulias",
-        "label": "Substack — @alexandrostsardoulias"
+        "label": "Substack: @alexandrostsardoulias"
       },
       {
         "platform": "Facebook",
         "url": "https://www.facebook.com/alekostsardoulias/",
-        "label": "Facebook — @alekostsardoulias"
+        "label": "Facebook: @alekostsardoulias"
       },
       {
         "platform": "Threads",
         "url": "https://www.threads.com/@alekostsardoulias",
-        "label": "Threads — @alekostsardoulias"
+        "label": "Threads: @alekostsardoulias"
       },
       {
         "platform": "Reddit",
         "url": "https://www.reddit.com/user/thenodearchitect_gr/",
-        "label": "Reddit — u/thenodearchitect_gr"
+        "label": "Reddit: u/thenodearchitect_gr"
       },
       {
         "platform": "Medium",
         "url": "https://medium.com/@alexandrostsardoulias",
-        "label": "Medium — @alexandrostsardoulias"
+        "label": "Medium: @alexandrostsardoulias"
       },
       {
         "platform": "Email",
         "url": "mailto:alexandrostsardoulias@protonmail.com",
-        "label": "Email — alexandrostsardoulias@protonmail.com"
+        "label": "Email: alexandrostsardoulias@protonmail.com"
       },
       {
         "platform": "Discord",
         "url": "https://discord.gg/alexistdev",
-        "label": "Discord — @alexistdev"
+        "label": "Discord: @alexistdev"
       }
     ]
   },

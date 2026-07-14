@@ -1,6 +1,6 @@
 {
   "404": {
-    "title": "404 — Sayfa bulunamadı",
+    "title": "404. Sayfa bulunamadı",
     "message": "Aradığınız sayfa mevcut değil.",
     "backHome": "← Ana sayfaya dön"
   },
@@ -114,7 +114,7 @@
     "bio": {
       "paragraphs": [
         "Kuruculara, girişimlere, KOBİ'lere ve STK'lara teknoloji, felsefe, büyüme stratejisi ve en iyi iletişim uygulamalarını birleştirerek hedeflerine ulaşmalarında yardımcı oluyorum. Çalışmalarımla fikirleri ölçeklenebilir dijital ürünlere ve gelir getiren sistemlere dönüştürüyorum.",
-        "Liderlik ettiğim her proje, ölçülebilir teknik sonuçları gelir odaklı pazarlama ile birleştirerek müşterilerin hem sağlam dijital altyapı hem de ölçülebilir iş büyümesi elde etmesini sağlar. Sadece web uygulamaları için kod yazmıyor ya da sosyal medya ve e-postaları yönetmiyorum — ölçülebilir sonuçlar üreten bütünsel sistemler inşa ediyorum. Bir ürünün teknik mimarisini ve go-to-market stratejisini iki ayrı sorun olarak değil, tek bir sorun olarak ele alıyorum."
+        "Liderlik ettiğim her proje, ölçülebilir teknik sonuçları gelir odaklı pazarlama ile birleştirerek müşterilerin hem sağlam dijital altyapı hem de ölçülebilir iş büyümesi elde etmesini sağlar. Sadece web uygulamaları için kod yazmıyor ya da sosyal medya ve e-postaları yönetmiyorum. Ölçülebilir sonuçlar üreten bütünsel sistemler inşa ediyorum. Bir ürünün teknik mimarisini ve go-to-market stratejisini iki ayrı sorun olarak değil, tek bir sorun olarak ele alıyorum."
       ]
     },
     "education": {
@@ -973,7 +973,7 @@
   },
   "work": {
     "heading": "Ne yapıyorum",
-    "description": "Full-stack web uygulamalarından go-to-market stratejisine — uçtan uca çözümler sunuyorum. Her proje hedeflerinizi anlamakla başlar ve ölçülebilir sonuçlarla biter.",
+    "description": "Full-stack web uygulamalarından go-to-market stratejisine. Uçtan uca çözümler sunuyorum. Her proje hedeflerinizi anlamakla başlar ve ölçülebilir sonuçlarla biter.",
     "cta": "Makalelerimi oku",
     "services": {
       "heading": "Hizmetler",
@@ -992,7 +992,7 @@
         },
         {
           "name": "Go-To-Market Stratejisi",
-          "description": "Ürün lansmanları için stratejik planlama — konumlandırma, mesajlaşma ve go-to-market uygulaması."
+          "description": "Ürün lansmanları için stratejik planlama. Konumlandırma, mesajlaşma ve go-to-market uygulaması."
         },
         {
           "name": "Pazarlama Otomasyonu",
@@ -1000,11 +1000,11 @@
         },
         {
           "name": "Pazarlama Danışmanlığı",
-          "description": "Startup'lar ve küçük işletmeler için stratejik pazarlama danışmanlığı — büyüme, elde tutma, analitik."
+          "description": "Startup'lar ve küçük işletmeler için stratejik pazarlama danışmanlığı. Büyüme, elde tutma, analitik."
         },
         {
           "name": "Forward-Deployed Mühendislik",
-          "description": "Entegre mühendislik çözümleri — teknik zorlukları yerinde çözmek için ekibinizle yan yana çalışırım."
+          "description": "Entegre mühendislik çözümleri. Teknik zorlukları yerinde çözmek için ekibinizle yan yana çalışırım."
         },
         {
           "name": "İş Akışı Otomasyonu",
@@ -1063,63 +1063,63 @@
   },
   "contact": {
     "heading": "İletişim",
-    "description": "Konuşalım. Aklınızda bir proje, bir soru ya da sadece bağlantı kurmak istiyorsanız — buradayım.",
+    "description": "Konuşalım. Aklınızda bir proje, bir soru ya da sadece bağlantı kurmak istiyorsanız. Buradayım.",
     "subtitle": "Beni şurada bulabilirsiniz:",
     "links": [
       {
         "platform": "Instagram",
         "url": "https://www.instagram.com/alekostsardoulias/",
-        "label": "Instagram — @alekostsardoulias"
+        "label": "Instagram: @alekostsardoulias"
       },
       {
         "platform": "X (Twitter)",
         "url": "https://x.com/alextsardoulias",
-        "label": "X — @alextsardoulias"
+        "label": "X: @alextsardoulias"
       },
       {
         "platform": "LinkedIn",
         "url": "https://www.linkedin.com/in/alexandros-tsardoulias-02639841b/",
-        "label": "LinkedIn — /in/alexandros-tsardoulias-02639841b"
+        "label": "LinkedIn: /in/alexandros-tsardoulias-02639841b"
       },
       {
         "platform": "GitHub",
         "url": "https://github.com/alexistdev",
-        "label": "GitHub — @alexistdev"
+        "label": "GitHub: @alexistdev"
       },
       {
         "platform": "Substack",
         "url": "https://substack.com/@alexandrostsardoulias",
-        "label": "Substack — @alexandrostsardoulias"
+        "label": "Substack: @alexandrostsardoulias"
       },
       {
         "platform": "Facebook",
         "url": "https://www.facebook.com/alekostsardoulias/",
-        "label": "Facebook — @alekostsardoulias"
+        "label": "Facebook: @alekostsardoulias"
       },
       {
         "platform": "Threads",
         "url": "https://www.threads.com/@alekostsardoulias",
-        "label": "Threads — @alekostsardoulias"
+        "label": "Threads: @alekostsardoulias"
       },
       {
         "platform": "Reddit",
         "url": "https://www.reddit.com/user/thenodearchitect_gr/",
-        "label": "Reddit — u/thenodearchitect_gr"
+        "label": "Reddit: u/thenodearchitect_gr"
       },
       {
         "platform": "Medium",
         "url": "https://medium.com/@alexandrostsardoulias",
-        "label": "Medium — @alexandrostsardoulias"
+        "label": "Medium: @alexandrostsardoulias"
       },
       {
         "platform": "Email",
         "url": "mailto:alexandrostsardoulias@protonmail.com",
-        "label": "Email — alexandrostsardoulias@protonmail.com"
+        "label": "Email: alexandrostsardoulias@protonmail.com"
       },
       {
         "platform": "Discord",
         "url": "https://discord.gg/alexistdev",
-        "label": "Discord — @alexistdev"
+        "label": "Discord: @alexistdev"
       }
     ]
   },

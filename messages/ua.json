@@ -1,6 +1,6 @@
 {
   "404": {
-    "title": "404 — Сторінку не знайдено",
+    "title": "404. Сторінку не знайдено",
     "message": "Сторінка, яку ви шукаєте, не існує.",
     "backHome": "← На головну"
   },
@@ -114,7 +114,7 @@
     "bio": {
       "paragraphs": [
         "Я допомагаю засновникам, стартапам, МСП і НУО досягати своїх цілей, поєднуючи технології, філософію, стратегію зростання та найкращі комунікаційні практики. Своєю роботою я перетворюю ідеї на масштабовані цифрові продукти та системи, що генерують дохід.",
-        "Кожен проєкт, який я веду, поєднує вимірювані технічні результати з маркетингом, що впливає на дохід, — клієнти отримують і надійну цифрову інфраструктуру, і вимірюване зростання бізнесу. Я не просто пишу код для веб-додатків і не просто керую соцмережами та розсилками — я будую цілісні системи, що дають вимірювані результати. Я ставлюся до технічної архітектури продукту та його go-to-market стратегії як до однієї задачі, а не двох."
+        "Кожен проєкт, який я веду, поєднує вимірювані технічні результати з маркетингом, що впливає на дохід,. Клієнти отримують і надійну цифрову інфраструктуру, і вимірюване зростання бізнесу. Я не просто пишу код для веб-додатків і не просто керую соцмережами та розсилками. Я будую цілісні системи, що дають вимірювані результати. Я ставлюся до технічної архітектури продукту та його go-to-market стратегії як до однієї задачі, а не двох."
       ]
     },
     "education": {
@@ -958,7 +958,7 @@
       "items": [
         {
           "title": "Краще менше, та краще",
-          "description": "Я вірю, що найкращі рішення — ті, які ви ледь помічаєте. Чиста архітектура, осмислений дизайн і код, що читається як розмова. Складність — це легко. Ясність вимагає дисципліни."
+          "description": "Я вірю, що найкращі рішення. Ті, які ви ледь помічаєте. Чиста архітектура, осмислений дизайн і код, що читається як розмова. Складність. Це легко. Ясність вимагає дисципліни."
         },
         {
           "title": "Технології повинні приносити користь людству",
@@ -973,7 +973,7 @@
   },
   "work": {
     "heading": "Що я роблю",
-    "description": "Від full-stack веб-додатків до стратегії go-to-market — я надаю комплексні рішення. Кожен проєкт починається з розуміння ваших цілей і закінчується вимірюваними результатами.",
+    "description": "Від full-stack веб-додатків до стратегії go-to-market. Я надаю комплексні рішення. Кожен проєкт починається з розуміння ваших цілей і закінчується вимірюваними результатами.",
     "cta": "Читати мої статті",
     "services": {
       "heading": "Послуги",
@@ -992,7 +992,7 @@
         },
         {
           "name": "Go-To-Market Strategy",
-          "description": "Strategic planning for product launches — positioning, messaging, and go-to-market execution."
+          "description": "Strategic planning for product launches. Positioning, messaging, and go-to-market execution."
         },
         {
           "name": "Marketing Automation",
@@ -1000,11 +1000,11 @@
         },
         {
           "name": "Marketing Consulting",
-          "description": "Strategic marketing advisory for startups and small businesses — growth, retention, analytics."
+          "description": "Strategic marketing advisory for startups and small businesses. Growth, retention, analytics."
         },
         {
           "name": "Forward-Deployed Engineering",
-          "description": "Embedded engineering solutions — I work alongside your team to solve technical challenges on site."
+          "description": "Embedded engineering solutions. I work alongside your team to solve technical challenges on site."
         },
         {
           "name": "Workflow Automation",
@@ -1063,63 +1063,63 @@
   },
   "contact": {
     "heading": "Контакти",
-    "description": "Давайте поговоримо. Чи то у вас є проєкт, питання, чи просто бажання зв'язатися — я тут.",
+    "description": "Давайте поговоримо. Чи то у вас є проєкт, питання, чи просто бажання зв'язатися. Я тут.",
     "subtitle": "Мене можна знайти на:",
     "links": [
       {
         "platform": "Instagram",
         "url": "https://www.instagram.com/alekostsardoulias/",
-        "label": "Instagram — @alekostsardoulias"
+        "label": "Instagram: @alekostsardoulias"
       },
       {
         "platform": "X (Twitter)",
         "url": "https://x.com/alextsardoulias",
-        "label": "X — @alextsardoulias"
+        "label": "X: @alextsardoulias"
       },
       {
         "platform": "LinkedIn",
         "url": "https://www.linkedin.com/in/alexandros-tsardoulias-02639841b/",
-        "label": "LinkedIn — /in/alexandros-tsardoulias-02639841b"
+        "label": "LinkedIn: /in/alexandros-tsardoulias-02639841b"
       },
       {
         "platform": "GitHub",
         "url": "https://github.com/alexistdev",
-        "label": "GitHub — @alexistdev"
+        "label": "GitHub: @alexistdev"
       },
       {
         "platform": "Substack",
         "url": "https://substack.com/@alexandrostsardoulias",
-        "label": "Substack — @alexandrostsardoulias"
+        "label": "Substack: @alexandrostsardoulias"
       },
       {
         "platform": "Facebook",
         "url": "https://www.facebook.com/alekostsardoulias/",
-        "label": "Facebook — @alekostsardoulias"
+        "label": "Facebook: @alekostsardoulias"
       },
       {
         "platform": "Threads",
         "url": "https://www.threads.com/@alekostsardoulias",
-        "label": "Threads — @alekostsardoulias"
+        "label": "Threads: @alekostsardoulias"
       },
       {
         "platform": "Reddit",
         "url": "https://www.reddit.com/user/thenodearchitect_gr/",
-        "label": "Reddit — u/thenodearchitect_gr"
+        "label": "Reddit: u/thenodearchitect_gr"
       },
       {
         "platform": "Medium",
         "url": "https://medium.com/@alexandrostsardoulias",
-        "label": "Medium — @alexandrostsardoulias"
+        "label": "Medium: @alexandrostsardoulias"
       },
       {
         "platform": "Email",
         "url": "mailto:alexandrostsardoulias@protonmail.com",
-        "label": "Email — alexandrostsardoulias@protonmail.com"
+        "label": "Email: alexandrostsardoulias@protonmail.com"
       },
       {
         "platform": "Discord",
         "url": "https://discord.gg/alexistdev",
-        "label": "Discord — @alexistdev"
+        "label": "Discord: @alexistdev"
       }
     ]
   },

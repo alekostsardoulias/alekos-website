@@ -1,6 +1,6 @@
 {
   "404": {
-    "title": "404 — الصفحة غير موجودة",
+    "title": "404. الصفحة غير موجودة",
     "message": "الصفحة التي تبحث عنها غير موجودة.",
     "backHome": "← العودة للرئيسية"
   },
@@ -114,7 +114,7 @@
     "bio": {
       "paragraphs": [
         "أساعد المؤسسين والشركات الناشئة والشركات الصغيرة والمتوسطة والمنظمات غير الحكومية على تحقيق أهدافهم من خلال الربط بين التكنولوجيا والفلسفة واستراتيجية النمو وأفضل ممارسات التواصل. من خلال عملي، أحوّل الأفكار إلى منتجات رقمية قابلة للتوسع وأنظمة مولّدة للإيرادات.",
-        "كل مشروع أقوده يجمع بين نتائج تقنية قابلة للقياس وتسويق مؤثر على الإيرادات، مما يضمن للعملاء الحصول على بنية تحتية رقمية متينة ونمو تجاري قابل للقياس. أنا لا أكتب فقط كودًا لتطبيقات الويب أو أدير وسائل التواصل الاجتماعي والبريد الإلكتروني — بل أبني أنظمة شمولية تحقق نتائج قابلة للقياس. أتعامل مع البنية التقنية للمنتج واستراتيجية الذهاب إلى السوق كمسألة واحدة، لا مسألتين."
+        "كل مشروع أقوده يجمع بين نتائج تقنية قابلة للقياس وتسويق مؤثر على الإيرادات، مما يضمن للعملاء الحصول على بنية تحتية رقمية متينة ونمو تجاري قابل للقياس. أنا لا أكتب فقط كودًا لتطبيقات الويب أو أدير وسائل التواصل الاجتماعي والبريد الإلكتروني. بل أبني أنظمة شمولية تحقق نتائج قابلة للقياس. أتعامل مع البنية التقنية للمنتج واستراتيجية الذهاب إلى السوق كمسألة واحدة، لا مسألتين."
       ]
     },
     "education": {
@@ -973,7 +973,7 @@
   },
   "work": {
     "heading": "ماذا أفعل",
-    "description": "من تطبيقات الويب الشاملة إلى استراتيجية الذهاب إلى السوق — أقدم حلولاً متكاملة. كل مشروع يبدأ بفهم أهدافك وينتهي بنتائج قابلة للقياس.",
+    "description": "من تطبيقات الويب الشاملة إلى استراتيجية الذهاب إلى السوق. أقدم حلولاً متكاملة. كل مشروع يبدأ بفهم أهدافك وينتهي بنتائج قابلة للقياس.",
     "cta": "اقرأ مقالاتي",
     "services": {
       "heading": "الخدمات",
@@ -992,7 +992,7 @@
         },
         {
           "name": "استراتيجية الذهاب إلى السوق",
-          "description": "تخطيط استراتيجي لإطلاق المنتجات — التموضع، الرسائل، وتنفيذ استراتيجية الذهاب إلى السوق."
+          "description": "تخطيط استراتيجي لإطلاق المنتجات. التموضع، الرسائل، وتنفيذ استراتيجية الذهاب إلى السوق."
         },
         {
           "name": "أتمتة التسويق",
@@ -1000,11 +1000,11 @@
         },
         {
           "name": "استشارات تسويقية",
-          "description": "استشارات تسويقية استراتيجية للشركات الناشئة والصغيرة — النمو، الاحتفاظ بالعملاء، التحليلات."
+          "description": "استشارات تسويقية استراتيجية للشركات الناشئة والصغيرة. النمو، الاحتفاظ بالعملاء، التحليلات."
         },
         {
           "name": "الهندسة الميدانية",
-          "description": "حلول هندسية مدمجة — أعمل جنبًا إلى جنب مع فريقك لحل التحديات التقنية في الموقع."
+          "description": "حلول هندسية مدمجة. أعمل جنبًا إلى جنب مع فريقك لحل التحديات التقنية في الموقع."
         },
         {
           "name": "أتمتة سير العمل",
@@ -1041,7 +1041,7 @@
         },
         {
           "title": "التنفيذ",
-          "description": "البناء بدقة — كود نظيف، تصميم مدروس، ومتابعات منتظمة."
+          "description": "البناء بدقة. كود نظيف، تصميم مدروس، ومتابعات منتظمة."
         },
         {
           "title": "التسليم",
@@ -1084,7 +1084,7 @@
   },
   "contact": {
     "heading": "اتصل بي",
-    "description": "لنتحدث. سواء كان لديك مشروع في ذهنك، أو سؤال، أو تريد فقط التواصل — أنا هنا.",
+    "description": "لنتحدث. سواء كان لديك مشروع في ذهنك، أو سؤال، أو تريد فقط التواصل. أنا هنا.",
     "subtitle": "يمكنك أن تجدني على:",
     "mediumCTA": {
       "heading": "اقرأ مقالاتي",
@@ -1095,57 +1095,57 @@
       {
         "platform": "Instagram",
         "url": "https://www.instagram.com/alekostsardoulias/",
-        "label": "Instagram — @alekostsardoulias"
+        "label": "Instagram: @alekostsardoulias"
       },
       {
         "platform": "X (Twitter)",
         "url": "https://x.com/alextsardoulias",
-        "label": "X — @alextsardoulias"
+        "label": "X: @alextsardoulias"
       },
       {
         "platform": "LinkedIn",
         "url": "https://www.linkedin.com/in/alexandros-tsardoulias-02639841b/",
-        "label": "LinkedIn — /in/alexandros-tsardoulias-02639841b"
+        "label": "LinkedIn: /in/alexandros-tsardoulias-02639841b"
       },
       {
         "platform": "GitHub",
         "url": "https://github.com/alexistdev",
-        "label": "GitHub — @alexistdev"
+        "label": "GitHub: @alexistdev"
       },
       {
         "platform": "Substack",
         "url": "https://substack.com/@alexandrostsardoulias",
-        "label": "Substack — @alexandrostsardoulias"
+        "label": "Substack: @alexandrostsardoulias"
       },
       {
         "platform": "Facebook",
         "url": "https://www.facebook.com/alekostsardoulias/",
-        "label": "Facebook — @alekostsardoulias"
+        "label": "Facebook: @alekostsardoulias"
       },
       {
         "platform": "Threads",
         "url": "https://www.threads.com/@alekostsardoulias",
-        "label": "Threads — @alekostsardoulias"
+        "label": "Threads: @alekostsardoulias"
       },
       {
         "platform": "Reddit",
         "url": "https://www.reddit.com/user/thenodearchitect_gr/",
-        "label": "Reddit — u/thenodearchitect_gr"
+        "label": "Reddit: u/thenodearchitect_gr"
       },
       {
         "platform": "Medium",
         "url": "https://medium.com/@alexandrostsardoulias",
-        "label": "Medium — @alexandrostsardoulias"
+        "label": "Medium: @alexandrostsardoulias"
       },
       {
         "platform": "Email",
         "url": "mailto:alexandrostsardoulias@protonmail.com",
-        "label": "Email — alexandrostsardoulias@protonmail.com"
+        "label": "Email: alexandrostsardoulias@protonmail.com"
       },
       {
         "platform": "Discord",
         "url": "https://discord.gg/alexistdev",
-        "label": "Discord — @alexistdev"
+        "label": "Discord: @alexistdev"
       }
     ]
   },
