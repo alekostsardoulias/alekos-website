@@ -1085,69 +1085,24 @@
   "contact": {
     "heading": "اتصل بي",
     "description": "لنتحدث. سواء كان لديك مشروع في ذهنك، أو سؤال، أو تريد فقط التواصل. أنا هنا.",
-    "subtitle": "يمكنك أن تجدني على:",
-    "mediumCTA": {
-      "heading": "اقرأ مقالاتي",
-      "button": "زر Medium",
-      "description": "مقالات جديدة كل بضعة أسابيع"
+    "email": {
+      "heading": "البريد الإلكتروني",
+      "button": "إرسال بريد إلكتروني",
+      "description": "أقرأ كل شيء. ستصلك رد خلال 24 ساعة."
     },
-    "links": [
-      {
-        "platform": "Instagram",
-        "url": "https://www.instagram.com/alekostsardoulias/",
-        "label": "Instagram: @alekostsardoulias"
-      },
-      {
-        "platform": "X (Twitter)",
-        "url": "https://x.com/alextsardoulias",
-        "label": "X: @alextsardoulias"
-      },
-      {
-        "platform": "LinkedIn",
-        "url": "https://www.linkedin.com/in/alexandros-tsardoulias-02639841b/",
-        "label": "LinkedIn: /in/alexandros-tsardoulias-02639841b"
-      },
-      {
-        "platform": "GitHub",
-        "url": "https://github.com/alexistdev",
-        "label": "GitHub: @alexistdev"
-      },
-      {
-        "platform": "Substack",
-        "url": "https://substack.com/@alexandrostsardoulias",
-        "label": "Substack: @alexandrostsardoulias"
-      },
-      {
-        "platform": "Facebook",
-        "url": "https://www.facebook.com/alekostsardoulias/",
-        "label": "Facebook: @alekostsardoulias"
-      },
-      {
-        "platform": "Threads",
-        "url": "https://www.threads.com/@alekostsardoulias",
-        "label": "Threads: @alekostsardoulias"
-      },
-      {
-        "platform": "Reddit",
-        "url": "https://www.reddit.com/user/thenodearchitect_gr/",
-        "label": "Reddit: u/thenodearchitect_gr"
-      },
-      {
-        "platform": "Medium",
-        "url": "https://medium.com/@alexandrostsardoulias",
-        "label": "Medium: @alexandrostsardoulias"
-      },
-      {
-        "platform": "Email",
-        "url": "mailto:alexandrostsardoulias@protonmail.com",
-        "label": "Email: alexandrostsardoulias@protonmail.com"
-      },
-      {
-        "platform": "Discord",
-        "url": "https://discord.gg/alexistdev",
-        "label": "Discord: @alexistdev"
-      }
-    ]
+    "social": {
+      "heading": "وسائل التواصل الاجتماعي",
+      "description": "تابعني للحصول على التحديثات والرؤى وما وراء الكواليس."
+    },
+    "articles": {
+      "heading": "كتاباتي",
+      "description": "مقالات جديدة كل بضعة أسابيع حول التكنولوجيا والذكاء الاصطناعي والتسويق."
+    },
+    "discord": {
+      "heading": "سيرفر Discord",
+      "button": "انضم إلى السيرفر",
+      "description": "تحدث مع المجتمع، اطرح الأسئلة، شارك الأفكار."
+    }
   },
   "footer": {
     "copyright": "© {year} Alexandros Tsardoulias",

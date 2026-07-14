@@ -1084,65 +1084,25 @@
   },
   "contact": {
     "heading": "Contacto",
-    "description": "Hablemos. Ya sea que tengas un proyecto en mente, una pregunta o simplemente quieras conectar. Estoy aquí.",
-    "subtitle": "Puedes encontrarme en:",
-    "links": [
-      {
-        "platform": "Instagram",
-        "url": "https://www.instagram.com/alekostsardoulias/",
-        "label": "Instagram: @alekostsardoulias"
-      },
-      {
-        "platform": "X (Twitter)",
-        "url": "https://x.com/alextsardoulias",
-        "label": "X: @alextsardoulias"
-      },
-      {
-        "platform": "LinkedIn",
-        "url": "https://www.linkedin.com/in/alexandros-tsardoulias-02639841b/",
-        "label": "LinkedIn: /in/alexandros-tsardoulias-02639841b"
-      },
-      {
-        "platform": "GitHub",
-        "url": "https://github.com/alexistdev",
-        "label": "GitHub: @alexistdev"
-      },
-      {
-        "platform": "Substack",
-        "url": "https://substack.com/@alexandrostsardoulias",
-        "label": "Substack: @alexandrostsardoulias"
-      },
-      {
-        "platform": "Facebook",
-        "url": "https://www.facebook.com/alekostsardoulias/",
-        "label": "Facebook: @alekostsardoulias"
-      },
-      {
-        "platform": "Threads",
-        "url": "https://www.threads.com/@alekostsardoulias",
-        "label": "Threads: @alekostsardoulias"
-      },
-      {
-        "platform": "Reddit",
-        "url": "https://www.reddit.com/user/thenodearchitect_gr/",
-        "label": "Reddit: u/thenodearchitect_gr"
-      },
-      {
-        "platform": "Medium",
-        "url": "https://medium.com/@alexandrostsardoulias",
-        "label": "Medium: @alexandrostsardoulias"
-      },
-      {
-        "platform": "Email",
-        "url": "mailto:alexandrostsardoulias@protonmail.com",
-        "label": "Email: alexandrostsardoulias@protonmail.com"
-      },
-      {
-        "platform": "Discord",
-        "url": "https://discord.gg/alexistdev",
-        "label": "Discord: @alexistdev"
-      }
-    ]
+    "description": "Hablemos. Si tienes un proyecto en mente, una pregunta o solo quieres conectar. Estoy aquí.",
+    "email": {
+      "heading": "Correo Electrónico",
+      "button": "Enviar Correo",
+      "description": "Leo todo. Recibirás respuesta en 24 horas."
+    },
+    "social": {
+      "heading": "Redes Sociales",
+      "description": "Sígueme para actualizaciones, ideas y contenido exclusivo."
+    },
+    "articles": {
+      "heading": "Mis Escritos",
+      "description": "Nuevos artículos cada pocas semanas sobre tecnología, IA y marketing."
+    },
+    "discord": {
+      "heading": "Servidor de Discord",
+      "button": "Unirse al Servidor",
+      "description": "Chatea con la comunidad, haz preguntas, comparte ideas."
+    }
   },
   "footer": {
     "copyright": "© {year} Alexandros Tsardoulias",

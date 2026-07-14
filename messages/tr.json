@@ -1063,65 +1063,25 @@
   },
   "contact": {
     "heading": "İletişim",
-    "description": "Konuşalım. Aklınızda bir proje, bir soru ya da sadece bağlantı kurmak istiyorsanız. Buradayım.",
-    "subtitle": "Beni şurada bulabilirsiniz:",
-    "links": [
-      {
-        "platform": "Instagram",
-        "url": "https://www.instagram.com/alekostsardoulias/",
-        "label": "Instagram: @alekostsardoulias"
-      },
-      {
-        "platform": "X (Twitter)",
-        "url": "https://x.com/alextsardoulias",
-        "label": "X: @alextsardoulias"
-      },
-      {
-        "platform": "LinkedIn",
-        "url": "https://www.linkedin.com/in/alexandros-tsardoulias-02639841b/",
-        "label": "LinkedIn: /in/alexandros-tsardoulias-02639841b"
-      },
-      {
-        "platform": "GitHub",
-        "url": "https://github.com/alexistdev",
-        "label": "GitHub: @alexistdev"
-      },
-      {
-        "platform": "Substack",
-        "url": "https://substack.com/@alexandrostsardoulias",
-        "label": "Substack: @alexandrostsardoulias"
-      },
-      {
-        "platform": "Facebook",
-        "url": "https://www.facebook.com/alekostsardoulias/",
-        "label": "Facebook: @alekostsardoulias"
-      },
-      {
-        "platform": "Threads",
-        "url": "https://www.threads.com/@alekostsardoulias",
-        "label": "Threads: @alekostsardoulias"
-      },
-      {
-        "platform": "Reddit",
-        "url": "https://www.reddit.com/user/thenodearchitect_gr/",
-        "label": "Reddit: u/thenodearchitect_gr"
-      },
-      {
-        "platform": "Medium",
-        "url": "https://medium.com/@alexandrostsardoulias",
-        "label": "Medium: @alexandrostsardoulias"
-      },
-      {
-        "platform": "Email",
-        "url": "mailto:alexandrostsardoulias@protonmail.com",
-        "label": "Email: alexandrostsardoulias@protonmail.com"
-      },
-      {
-        "platform": "Discord",
-        "url": "https://discord.gg/alexistdev",
-        "label": "Discord: @alexistdev"
-      }
-    ]
+    "description": "Konuşalım. İster aklınızda bir proje, ister bir soru, ister sadece bağlantı kurmak isteyin. Buradayım.",
+    "email": {
+      "heading": "E-posta",
+      "button": "E-posta Gönder",
+      "description": "Her şeyi okurum. 24 saat içinde yanıt alırsınız."
+    },
+    "social": {
+      "heading": "Sosyal Medya",
+      "description": "Güncellemeler, içgörüler ve perde arkası için beni takip edin."
+    },
+    "articles": {
+      "heading": "Yazılarım",
+      "description": "Teknoloji, AI ve pazarlama hakkında birkaç haftada bir yeni makaleler."
+    },
+    "discord": {
+      "heading": "Discord Sunucusu",
+      "button": "Sunucuya Katıl",
+      "description": "Toplulukla sohbet edin, soru sorun, fikir paylaşın."
+    }
   },
   "footer": {
     "copyright": "© {year} Alexandros Tsardoulias",

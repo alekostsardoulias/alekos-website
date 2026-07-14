@@ -1085,64 +1085,24 @@
   "contact": {
     "heading": "Contatti",
     "description": "Parliamone. Che tu abbia un progetto in mente, una domanda o voglia solo connetterti. Sono qui.",
-    "subtitle": "Puoi trovarmi su:",
-    "links": [
-      {
-        "platform": "Instagram",
-        "url": "https://www.instagram.com/alekostsardoulias/",
-        "label": "Instagram: @alekostsardoulias"
-      },
-      {
-        "platform": "X (Twitter)",
-        "url": "https://x.com/alextsardoulias",
-        "label": "X: @alextsardoulias"
-      },
-      {
-        "platform": "LinkedIn",
-        "url": "https://www.linkedin.com/in/alexandros-tsardoulias-02639841b/",
-        "label": "LinkedIn: /in/alexandros-tsardoulias-02639841b"
-      },
-      {
-        "platform": "GitHub",
-        "url": "https://github.com/alexistdev",
-        "label": "GitHub: @alexistdev"
-      },
-      {
-        "platform": "Substack",
-        "url": "https://substack.com/@alexandrostsardoulias",
-        "label": "Substack: @alexandrostsardoulias"
-      },
-      {
-        "platform": "Facebook",
-        "url": "https://www.facebook.com/alekostsardoulias/",
-        "label": "Facebook: @alekostsardoulias"
-      },
-      {
-        "platform": "Threads",
-        "url": "https://www.threads.com/@alekostsardoulias",
-        "label": "Threads: @alekostsardoulias"
-      },
-      {
-        "platform": "Reddit",
-        "url": "https://www.reddit.com/user/thenodearchitect_gr/",
-        "label": "Reddit: u/thenodearchitect_gr"
-      },
-      {
-        "platform": "Medium",
-        "url": "https://medium.com/@alexandrostsardoulias",
-        "label": "Medium: @alexandrostsardoulias"
-      },
-      {
-        "platform": "Email",
-        "url": "mailto:alexandrostsardoulias@protonmail.com",
-        "label": "Email: alexandrostsardoulias@protonmail.com"
-      },
-      {
-        "platform": "Discord",
-        "url": "https://discord.gg/alexistdev",
-        "label": "Discord: @alexistdev"
-      }
-    ]
+    "email": {
+      "heading": "Email",
+      "button": "Invia Email",
+      "description": "Leggo tutto. Riceverai risposta entro 24 ore."
+    },
+    "social": {
+      "heading": "Social Media",
+      "description": "Seguimi per aggiornamenti, approfondimenti e dietro le quinte."
+    },
+    "articles": {
+      "heading": "I Miei Articoli",
+      "description": "Nuovi articoli ogni poche settimane su tecnologia, IA e marketing."
+    },
+    "discord": {
+      "heading": "Server Discord",
+      "button": "Unisciti al Server",
+      "description": "Chatta con la community, fai domande, condividi idee."
+    }
   },
   "footer": {
     "copyright": "© {year} Alexandros Tsardoulias",

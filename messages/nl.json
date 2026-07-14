@@ -1064,64 +1064,24 @@
   "contact": {
     "heading": "Contact",
     "description": "Laten we praten. Of je nu een project in gedachten hebt, een vraag, of gewoon contact wilt maken. Ik ben er.",
-    "subtitle": "Je kunt me vinden op:",
-    "links": [
-      {
-        "platform": "Instagram",
-        "url": "https://www.instagram.com/alekostsardoulias/",
-        "label": "Instagram: @alekostsardoulias"
-      },
-      {
-        "platform": "X (Twitter)",
-        "url": "https://x.com/alextsardoulias",
-        "label": "X: @alextsardoulias"
-      },
-      {
-        "platform": "LinkedIn",
-        "url": "https://www.linkedin.com/in/alexandros-tsardoulias-02639841b/",
-        "label": "LinkedIn: /in/alexandros-tsardoulias-02639841b"
-      },
-      {
-        "platform": "GitHub",
-        "url": "https://github.com/alexistdev",
-        "label": "GitHub: @alexistdev"
-      },
-      {
-        "platform": "Substack",
-        "url": "https://substack.com/@alexandrostsardoulias",
-        "label": "Substack: @alexandrostsardoulias"
-      },
-      {
-        "platform": "Facebook",
-        "url": "https://www.facebook.com/alekostsardoulias/",
-        "label": "Facebook: @alekostsardoulias"
-      },
-      {
-        "platform": "Threads",
-        "url": "https://www.threads.com/@alekostsardoulias",
-        "label": "Threads: @alekostsardoulias"
-      },
-      {
-        "platform": "Reddit",
-        "url": "https://www.reddit.com/user/thenodearchitect_gr/",
-        "label": "Reddit: u/thenodearchitect_gr"
-      },
-      {
-        "platform": "Medium",
-        "url": "https://medium.com/@alexandrostsardoulias",
-        "label": "Medium: @alexandrostsardoulias"
-      },
-      {
-        "platform": "Email",
-        "url": "mailto:alexandrostsardoulias@protonmail.com",
-        "label": "Email: alexandrostsardoulias@protonmail.com"
-      },
-      {
-        "platform": "Discord",
-        "url": "https://discord.gg/alexistdev",
-        "label": "Discord: @alexistdev"
-      }
-    ]
+    "email": {
+      "heading": "E-mail",
+      "button": "E-mail Versturen",
+      "description": "Ik lees alles. Je hoort binnen 24 uur van me."
+    },
+    "social": {
+      "heading": "Sociale Media",
+      "description": "Volg me voor updates, inzichten en behind-the-scenes."
+    },
+    "articles": {
+      "heading": "Mijn Artikelen",
+      "description": "Om de paar weken nieuwe artikelen over tech, AI en marketing."
+    },
+    "discord": {
+      "heading": "Discord Server",
+      "button": "Word Lid",
+      "description": "Chat met de community, stel vragen, deel ideeën."
+    }
   },
   "footer": {
     "copyright": "© {year} Alexandros Tsardoulias",

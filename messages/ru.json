@@ -1085,64 +1085,24 @@
   "contact": {
     "heading": "Контакты",
     "description": "Давайте поговорим. Будь то проект, вопрос или просто желание связаться. Я здесь.",
-    "subtitle": "Меня можно найти на:",
-    "links": [
-      {
-        "platform": "Instagram",
-        "url": "https://www.instagram.com/alekostsardoulias/",
-        "label": "Instagram: @alekostsardoulias"
-      },
-      {
-        "platform": "X (Twitter)",
-        "url": "https://x.com/alextsardoulias",
-        "label": "X: @alextsardoulias"
-      },
-      {
-        "platform": "LinkedIn",
-        "url": "https://www.linkedin.com/in/alexandros-tsardoulias-02639841b/",
-        "label": "LinkedIn: /in/alexandros-tsardoulias-02639841b"
-      },
-      {
-        "platform": "GitHub",
-        "url": "https://github.com/alexistdev",
-        "label": "GitHub: @alexistdev"
-      },
-      {
-        "platform": "Substack",
-        "url": "https://substack.com/@alexandrostsardoulias",
-        "label": "Substack: @alexandrostsardoulias"
-      },
-      {
-        "platform": "Facebook",
-        "url": "https://www.facebook.com/alekostsardoulias/",
-        "label": "Facebook: @alekostsardoulias"
-      },
-      {
-        "platform": "Threads",
-        "url": "https://www.threads.com/@alekostsardoulias",
-        "label": "Threads: @alekostsardoulias"
-      },
-      {
-        "platform": "Reddit",
-        "url": "https://www.reddit.com/user/thenodearchitect_gr/",
-        "label": "Reddit: u/thenodearchitect_gr"
-      },
-      {
-        "platform": "Medium",
-        "url": "https://medium.com/@alexandrostsardoulias",
-        "label": "Medium: @alexandrostsardoulias"
-      },
-      {
-        "platform": "Email",
-        "url": "mailto:alexandrostsardoulias@protonmail.com",
-        "label": "Email: alexandrostsardoulias@protonmail.com"
-      },
-      {
-        "platform": "Discord",
-        "url": "https://discord.gg/alexistdev",
-        "label": "Discord: @alexistdev"
-      }
-    ]
+    "email": {
+      "heading": "Электронная почта",
+      "button": "Отправить Письмо",
+      "description": "Я читаю всё. Вы получите ответ в течение 24 часов."
+    },
+    "social": {
+      "heading": "Социальные Сети",
+      "description": "Следите за обновлениями, инсайтами и закулисьем."
+    },
+    "articles": {
+      "heading": "Мои Статьи",
+      "description": "Новые статьи каждые несколько недель о технологиях, AI и маркетинге."
+    },
+    "discord": {
+      "heading": "Сервер Discord",
+      "button": "Присоединиться",
+      "description": "Общайтесь с сообществом, задавайте вопросы, делитесь идеями."
+    }
   },
   "footer": {
     "copyright": "© {year} Александр Цардулиас",

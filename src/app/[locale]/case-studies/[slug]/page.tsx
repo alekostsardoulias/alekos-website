@@ -68,7 +68,7 @@ export default async function CaseStudyPage({ params }: CaseStudyPageProps) {
             </span>
             {isCompletedWork && (
               <span className="text-lg px-2 py-0.5 rounded-full bg-accent/10 text-accent border border-accent/20">
-                Completed Work
+                {t('about.completedWork.heading')}
               </span>
             )}
           </div>
