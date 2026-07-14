@@ -175,13 +175,10 @@ export function WorkContent({
           {completedItems.map((item, i) => (
             <Link key={i} href={`/case-studies/${item.slug}`} className="block group">
               <div className={glassCard}>
-                {/* Top row: date + category badge */}
+                {/* Top row: date */}
                 <div className="flex items-center gap-3 mb-3">
                   <span className="text-lg text-text-secondary font-mono">
                     {item.date}
-                  </span>
-                  <span className="text-lg px-2.5 py-0.5 rounded-full bg-purple-500/10 border border-purple-400/20 text-purple-300 font-medium">
-                    {item.category}
                   </span>
                 </div>
 

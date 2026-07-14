@@ -59,9 +59,6 @@ export default async function CaseStudyPage({ params }: CaseStudyPageProps) {
           </h1>
           <div className="flex items-center gap-3">
             <span className="text-lg text-muted">{formattedDate}</span>
-            <span className="text-lg px-2 py-0.5 rounded-full border border-border text-muted">
-              {article.category}
-            </span>
             {isCompletedWork && (
               <span className="text-lg px-2 py-0.5 rounded-full bg-accent/10 text-accent border border-accent/20">
                 Completed Work
