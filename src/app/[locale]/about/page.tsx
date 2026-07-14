@@ -93,35 +93,6 @@ export default async function AboutPage() {
         <WorkTimeline />
       </section>
 
-      {/* Completed Work */}
-      <section className="pt-8">
-        <h2 className="text-3xl font-semibold text-foreground mb-6">
-          {t('completedWork.heading')}
-        </h2>
-        <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-          {(t.raw('completedWork.items') as Array<{ title: string; date: string; category: string; excerpt: string; slug: string }>).map((item, i) => (
-            <Link key={i} href={`/case-studies/${item.slug}`} className="block group">
-              <div className="rounded-xl border border-white/[0.06] bg-white/[0.02] backdrop-blur-sm p-5 hover:border-purple-400/20 hover:bg-white/[0.04] transition-all duration-300">
-                <div className="flex items-center gap-3 mb-3">
-                  <span className="text-lg text-text-secondary font-mono">{item.date}</span>
-                  <span className="text-lg px-2.5 py-0.5 rounded-full bg-purple-500/10 border border-purple-400/20 text-purple-300 font-medium">
-                    {t(`articles.categories.${item.category}`)}
-                  </span>
-                </div>
-                <h3 className="text-xl font-semibold text-text-primary mb-2 group-hover:text-purple-300 transition-colors">
-                  {item.title}
-                </h3>
-                <p className="text-lg text-text-secondary leading-relaxed line-clamp-2">{item.excerpt}</p>
-                <div className="flex items-center gap-1 mt-3 text-lg text-purple-400/60 group-hover:text-purple-400 transition-colors">
-                  <span>Read more</span>
-                  <ExternalLink size={12} />
-                </div>
-              </div>
-            </Link>
-          ))}
-        </div>
-      </section>
-
       <ToolsFilter
         tools={t.raw('tools.items')}
         categories={t.raw('tools.categories')}

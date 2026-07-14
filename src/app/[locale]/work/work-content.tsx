@@ -169,8 +169,6 @@ export function WorkContent({
         </div>
       </section>
 
-      <CtaSection />
-
       {/* ── Completed Projects ────────────────────────────────────── */}
       <section>
         <div className="flex items-center gap-2 mb-6">
@@ -208,6 +206,8 @@ export function WorkContent({
           ))}
         </div>
       </section>
+
+      <CtaSection />
     </PageLayout>
   );
 }
