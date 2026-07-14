@@ -32,7 +32,7 @@ export default function HomePage() {
       {latestArticle && (
         <section>
           <h2 className="text-3xl font-bold text-text-primary mb-8 text-center">
-            Read my Latest Article
+            Latest Article
           </h2>
           <Link
             href={`/articles/${latestArticle.slug}`}
