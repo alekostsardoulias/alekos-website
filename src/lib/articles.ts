@@ -13,7 +13,7 @@ function parseMetadata(raw: string): Partial<ArticleMeta> {
     // Convert JS object literal to parseable JSON
     const objStr = match[1]
       .replace(/'/g, '"')               // single quotes → double
-      .replace(/(\w+):/g, '"$1":')      // unquoted keys → quoted
+      .replace(/^(\s*)(\w+):/gm, '$1"$2":') // unquoted keys → quoted (line-start only)
       .replace(/,\s*\}/g, '}')          // trailing commas
       .replace(/,\s*\]/g, ']');          // trailing commas in arrays
     return JSON.parse(objStr) as Partial<ArticleMeta>;

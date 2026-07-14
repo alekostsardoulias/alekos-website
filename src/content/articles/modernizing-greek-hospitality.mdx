@@ -1,0 +1,62 @@
+export const metadata = {
+  title: 'Modernizing a Greek Hospitality Business Without Losing Its Soul: A Technical Case Study',
+  date: '2026-07-15',
+  category: 'Technology',
+  excerpt: 'A family-run Greek hospitality business — hotel, restaurant, and rent-a-car fleet — was drowning in manual workflows and OTA commissions. This case study details how a headless Next.js website, AI chatbot, 3D virtual tours, serverless booking middleware, and generative AI-powered social media transformed the operation into a unified digital ecosystem.',
+  type: 'completed-work',
+};
+
+When a family-run hospitality business in Greece reached out, their operation was a hidden gem stifled by disconnected manual workflows and an aging digital presence. The enterprise encompassed a 25-room hotel, a popular restaurant and bar, and a small rent-a-car fleet, yet the guest experience online did not mirror the warmth and quality delivered on site. Bookings came overwhelmingly through third-party Online Travel Agencies, or OTAs, which squeezed margins with steep commissions. All reservation data, including restaurant tables and vehicle hires, lived in disconnected spreadsheets and paper diaries, leading to occasional overbookings and constant administrative drain. The website was static, non-responsive, and offered no interactive way to explore the property. Social media output was erratic, with no cohesive narrative, while guest reviews often waited days for a reply. The core problem was not a lack of hospitality but an absence of integrated digital infrastructure that could tell the brand's story, convert curiosity into direct bookings, and automate repetitive tasks so the team could focus on human connection.
+
+The solution needed to bridge cutting-edge development with strategic marketing under one cohesive ecosystem. I designed a system built around three interconnected pillars: a modern, immersive website with an artificial intelligence assistant and 3D virtual tour; a real-time booking automation layer unifying multiple OTA channels and the property's direct engine; and a fully automated social media marketing machine supported by generative content tools. The entire architecture was implemented over ten weeks across three distinct phases to ensure stability and knowledge transfer.
+
+## Digital Storefront: Headless Website, AI Chatbot, and 3D Virtual Tour
+
+The public-facing core of the project was a completely rebuilt website. For maximum speed, flexibility, and multichannel content delivery, the frontend was constructed with Next.js, while content management was decoupled through a headless CMS built on Strapi. This separation allowed the same content to feed the website, the chatbot's knowledge base, and even social media templates via REST APIs. The design emphasized Core Web Vitals scores, mobile-first responsiveness, and full multilingual support for Greek, English, and German to serve the international guest profile.
+
+The most transformative element was the custom AI chatbot. I used an open-source natural language processing framework and fine-tuned a conversational model specifically for hospitality contexts. The model was trained on years of historical guest queries collected from emails and call logs, teaching it to handle questions about room availability, restaurant hours, dietary options, vehicle specifications, and local excursions. The chatbot was given transactional capabilities: through a secure integration with the booking engine's API, it could check live inventory, create provisional reservations, and send a payment completion link directly in the chat window. It was also deployed on the hotel's Facebook page via Messenger, ensuring the same automated, instant service across both the website and social platforms.
+
+To address purchase hesitation caused by uncertainty, I produced a fully interactive 3D virtual tour. Using a 360-degree camera and panoramic stitching software, I captured all guest-facing spaces: multiple room categories, the reception, the restaurant interior, the bar, and the outdoor parking area displaying the rentable vehicles. The spherical panoramas were optimized and embedded into the site using WebGL with progressive loading, so the immersive experience did not degrade page speed. Visitors could virtually walk from a bedroom to the terrace, open doors, or step inside a compact SUV. Clickable hotspots allowed them to jump directly from viewing a room to checking its availability, collapsing the gap between exploration and conversion.
+
+## Operational Engine: Multi-Platform Booking Automation and Fleet Integration
+
+The technical foundation that unified the entire booking lifecycle was a custom middleware layer. The property used a cloud-based Property Management System, and the goal was two-way, near-real-time synchronization with major OTAs including Booking.com, Expedia, and Airbnb, as well as the direct website booking engine. I developed a suite of serverless Node.js functions running on a cloud provider, triggered by webhooks and API calls. A normalized data model was designed to translate the hotel's inventory, rate plans, minimum stay restrictions, and cancellation policies into each OTA's specific format, preventing parity errors.
+
+When a booking was created, modified, or canceled on any channel, the middleware instantly pushed updates to all other connected platforms, eliminating double bookings and enabling dynamic rate adjustments. This system gave the owners a single source of truth and significantly reduced the reliance on OTA extranets. The direct booking engine on the website was given priority, with lower rates and exclusive packages to incentivize guests to book outside the commission-heavy channels.
+
+Because the rent-a-car service was a distinct profit center, I built a standalone micro-application for fleet management. This lightweight dashboard allowed the owner to update vehicle availability, log maintenance windows, and set seasonal pricing. A server-side integration connected the fleet's real-time inventory to the website's checkout flow. When a guest reserved a room, the system dynamically presented available cars for the same dates, complete with the 3D interior views. This cross-selling mechanism operated seamlessly without manual intervention, transforming the booking path into a unified travel planning tool.
+
+## Content at Scale: Social Media Strategy and Generative Automation
+
+Marketing automation was treated with the same technical rigor as the software development. The starting point was a thorough audience and competitor analysis, followed by the creation of a detailed content strategy matrix. Thematic pillars were defined: authentic guest stories, gastronomic highlights and cocktail recipes from the bar, road-trip itineraries featuring the rental cars, and behind-the-scenes glimpses of daily life at the property. The tone was kept warm, conversational, and highly visual.
+
+To execute this plan sustainably, I assembled a stack of tools that automated repetitive creative tasks. For copywriting, I connected a large language model via its API and prompted it with the brand's voice guidelines and post objectives. It generated platform-specific captions, which were then refined through a human-in-the-loop approval flow. Visual assets were produced semi-automatically: Canva's API rendered on-brand templates for static posts, while short-form videos for Reels and Shorts were cut from the 3D tour footage and staff-captured clips. Scheduling was managed through the Buffer API, allowing the entire weekly content batch to be pre-programmed.
+
+I set up a mobile-friendly approval workflow where the owner received a digest of proposed posts. With one tap, content could be approved, edited, or sent back, giving the business full editorial control with minimal time investment. Social listening was configured with destination and brand keywords, and the existing chatbot was linked to social inboxes. First-level replies were automated, and complex inquiries were escalated as push notifications to the reception team, ensuring that response times on platforms like Google Business Profile and TripAdvisor shrank dramatically.
+
+## Tools and Methods at a Glance
+
+To offer a complete technical picture, the core toolkit and methods deployed included:
+
+- **Next.js** for a static-generated, SEO-optimized frontend.
+- **Strapi headless CMS** with role-based access and REST/GraphQL endpoints.
+- **Open-source NLP framework** (fine-tuned transformer model) for the AI chatbot, trained on proprietary hospitality dialog data.
+- **Node.js serverless functions** (cloud-based) for the booking middleware, using webhooks and OTA REST APIs.
+- **Cloud PMS integration** via API for live inventory synchronization.
+- **360-degree camera and panoramic stitching software** for capture; WebGL (Three.js) for interactive rendering with progressive texture loading.
+- **Generative AI** (LLM API) for automated caption drafts and content ideation.
+- **Canva API** for dynamic visual template generation.
+- **Buffer API** for cross-platform scheduling and publishing.
+- **Custom fleet management dashboard** (Node.js, MongoDB) connected to the booking engine via internal APIs.
+- **Social listening and review monitoring tools** with keyword tracking, integrated with a notification relay to the front desk.
+- **GDPR-compliant tokenization and SSL** across all transactional touchpoints.
+
+## Measurable Impact Without Metrics
+
+The results after the launch were a step change across every layer of the business, and while specific figures are kept confidential, the growth trajectory was striking. Direct bookings through the website rose sharply, cutting the property's dependence on OTAs from a commanding majority down to just over half of total reservations. This shift in channel mix restored a substantial portion of revenue that had previously been lost to commissions. The AI chatbot fielded the bulk of all incoming inquiries across the website and social media, freeing the front desk team to focus on in-person service and complex guest requests rather than repetitive questions.
+
+The website's conversion rate experienced a near-doubling, with a corresponding leap in average session duration. Guests spent considerably longer exploring the property, driven by the virtual walkthroughs, and that deepened engagement translated directly into higher booking intent. The rent-a-car cross-sell integration succeeded in meaningfully lifting the number of reservations that included a vehicle, adding a healthy new revenue stream that had previously been underpromoted. On social platforms, engagement rates soared to more than twice their previous level, and organic follower growth entered a period of consistent, strong monthly gains. Review response times dropped from a multi-day delay to a couple of hours, a change that noticeably improved the business's online reputation scores and guest sentiment.
+
+## Conclusion
+
+This project demonstrates that the digital modernization of a small or medium-sized tourism business is not about deploying isolated tools; it is about weaving technology and storytelling into a single, unified experience. A headless website combined with an AI assistant and 3D immersion reduced booking anxiety and captured direct demand. Serverless middleware synchronized a fragmented channel landscape into a coherent revenue engine. And by applying generative AI and API-driven design to social media, the brand could maintain a compelling, human voice at scale without exhausting its team. The result was a property that retained its intimate, family-run soul while operating with the efficiency of a much larger enterprise. For hospitality businesses in Greece and beyond, this approach offers a replicable path: a digital ecosystem where automation handles the mundane, and the magic of genuine hospitality takes center stage.

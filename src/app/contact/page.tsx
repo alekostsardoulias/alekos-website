@@ -57,7 +57,7 @@ const defaultPillHover =
 export default function ContactPage() {
   return (
     <PageLayout>
-      <section className="flex flex-col gap-4">
+      <section className="flex flex-col gap-4 -mt-6 md:-mt-10">
 
         {/* Social Media Box (pink) — first */}
         <div className="rounded-2xl border border-pink-400/10 bg-gradient-to-r from-pink-500/5 to-rose-500/5 backdrop-blur-sm p-8 text-center">

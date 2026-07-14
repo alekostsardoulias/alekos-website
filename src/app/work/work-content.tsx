@@ -2,7 +2,6 @@
 
 import Link from 'next/link';
 import { PageLayout } from '@/components/page-layout';
-import { HeroSection } from '@/components/hero-section';
 import { CtaSection } from '@/components/cta-section';
 import {
   Code2,
@@ -100,11 +99,9 @@ export function WorkContent({
 }: WorkContentProps) {
   return (
     <PageLayout>
-      {/* ── Hero ─────────────────────────────────────────────────── */}
-      <HeroSection heading="What I do" hideImage />
-
       {/* ── Services ──────────────────────────────────────────────── */}
       <section>
+        <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-foreground mb-6">What I do</h1>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
           {services.map((service, i) => {
             const config = SERVICE_CONFIG[i] ?? SERVICE_CONFIG[0];
