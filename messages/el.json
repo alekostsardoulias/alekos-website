@@ -1080,6 +1080,14 @@
     "empty": "Δεν υπάρχουν άρθρα σε αυτή την κατηγορία.",
     "readMore": "Διάβασε περισσότερα",
     "readingTime": "{minutes} λεπτά ανάγνωσης",
+    "categories": {
+      "Arts & Culture": "Τέχνες & Πολιτισμός",
+      "Business": "Business",
+      "Finance": "Οικονομικά",
+      "Philosophy": "Φιλοσοφία",
+      "Politics": "Πολιτική",
+      "Technology": "Technology"
+    },
     "backToList": "← Πίσω στα άρθρα"
   },
   "contact": {

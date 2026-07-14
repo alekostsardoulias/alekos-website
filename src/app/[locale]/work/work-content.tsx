@@ -98,6 +98,7 @@ export function WorkContent({
   completedItems,
 }: WorkContentProps) {
   const t = useTranslations('work');
+  const tc = useTranslations('articles.categories');
 
   return (
     <PageLayout>
@@ -187,7 +188,7 @@ export function WorkContent({
                     {item.date}
                   </span>
                   <span className="text-lg px-2.5 py-0.5 rounded-full bg-purple-500/10 border border-purple-400/20 text-purple-300 font-medium">
-                    {item.category}
+                    {tc(item.category)}
                   </span>
                 </div>
 

@@ -488,6 +488,14 @@
     "empty": "Keine Artikel in dieser Kategorie.",
     "readMore": "Weiterlesen",
     "readingTime": "{minutes} Min. Lesezeit",
+    "categories": {
+      "Arts & Culture": "Kunst & Kultur",
+      "Business": "Business",
+      "Finance": "Finanzen",
+      "Philosophy": "Philosophie",
+      "Politics": "Politik",
+      "Technology": "Technology"
+    },
     "backToList": "← Zurück zu den Artikeln"
   },
   "contact": {

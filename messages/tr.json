@@ -1059,7 +1059,15 @@
     "empty": "Bu kategoride makale yok.",
     "readMore": "Devamını oku",
     "backToList": "← Makalelere dön",
-    "readingTime": "{minutes} dk okuma"
+    "readingTime": "{minutes} dk okuma",
+    "categories": {
+      "Arts & Culture": "Sanat ve Kültür",
+      "Business": "İş Dünyası",
+      "Finance": "Finans",
+      "Philosophy": "Felsefe",
+      "Politics": "Politika",
+      "Technology": "Teknoloji"
+    }
   },
   "contact": {
     "heading": "İletişim",

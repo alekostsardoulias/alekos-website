@@ -1059,7 +1059,15 @@
     "empty": "Немає статей у цій категорії.",
     "readMore": "Читати далі",
     "backToList": "← Назад до статей",
-    "readingTime": "{minutes} хв читання"
+    "readingTime": "{minutes} хв читання",
+    "categories": {
+      "Arts & Culture": "Мистецтво та культура",
+      "Business": "Бізнес",
+      "Finance": "Фінанси",
+      "Philosophy": "Філософія",
+      "Politics": "Політика",
+      "Technology": "Технології"
+    }
   },
   "contact": {
     "heading": "Контакти",

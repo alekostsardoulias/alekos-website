@@ -1080,6 +1080,14 @@
     "empty": "لا توجد مقالات في هذا التصنيف.",
     "readMore": "اقرأ المزيد",
     "readingTime": "{minutes} دقائق قراءة",
+    "categories": {
+      "Arts & Culture": "الفنون والثقافة",
+      "Business": "الأعمال",
+      "Finance": "المالية",
+      "Philosophy": "الفلسفة",
+      "Politics": "السياسة",
+      "Technology": "التكنولوجيا"
+    },
     "backToList": "← العودة للمقالات"
   },
   "contact": {

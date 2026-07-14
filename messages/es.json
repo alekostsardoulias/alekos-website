@@ -1080,7 +1080,15 @@
     "empty": "No hay artículos en esta categoría.",
     "readMore": "Leer más",
     "backToList": "← Volver a artículos",
-    "readingTime": "{minutes} min de lectura"
+    "readingTime": "{minutes} min de lectura",
+    "categories": {
+      "Arts & Culture": "Arte y Cultura",
+      "Business": "Negocios",
+      "Finance": "Finanzas",
+      "Philosophy": "Filosofía",
+      "Politics": "Política",
+      "Technology": "Tecnología"
+    }
   },
   "contact": {
     "heading": "Contacto",

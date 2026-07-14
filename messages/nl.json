@@ -1059,7 +1059,15 @@
     "empty": "Geen artikelen in deze categorie.",
     "readMore": "Lees meer",
     "backToList": "← Terug naar artikelen",
-    "readingTime": "{minutes} min lezen"
+    "readingTime": "{minutes} min lezen",
+    "categories": {
+      "Arts & Culture": "Kunst & Cultuur",
+      "Business": "Zakelijk",
+      "Finance": "Financiën",
+      "Philosophy": "Filosofie",
+      "Politics": "Politiek",
+      "Technology": "Technologie"
+    }
   },
   "contact": {
     "heading": "Contact",

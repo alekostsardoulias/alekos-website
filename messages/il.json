@@ -1080,6 +1080,14 @@
     "empty": "אין מאמרים בקטגוריה זו.",
     "readMore": "קרא עוד",
     "readingTime": "{minutes} דקות קריאה",
+    "categories": {
+      "Arts & Culture": "אמנות ותרבות",
+      "Business": "עסקים",
+      "Finance": "פיננסים",
+      "Philosophy": "פילוסופיה",
+      "Politics": "פוליטיקה",
+      "Technology": "טכנולוגיה"
+    },
     "backToList": "← חזרה למאמרים"
   },
   "contact": {

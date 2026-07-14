@@ -1,6 +1,7 @@
 'use client';
 
 import { useState } from 'react';
+import { useTranslations } from 'next-intl';
 import { ArticleCard } from '@/components/articles/article-card';
 import type { Article } from '@/lib/types';
 
@@ -22,6 +23,7 @@ export function ArticleFilter({
   readingTimeLabel,
 }: ArticleFilterProps) {
   const [activeCategory, setActiveCategory] = useState<string | null>(null);
+  const t = useTranslations('articles.categories');
 
   const filtered = activeCategory
     ? articles.filter((a) => a.category === activeCategory)
@@ -51,7 +53,7 @@ export function ArticleFilter({
                 : 'border-white/[0.06] bg-white/[0.02] text-text-secondary hover:border-white/[0.12]'
             }`}
           >
-            {cat}
+            {t(cat)}
           </button>
         ))}
       </div>
@@ -70,7 +72,7 @@ export function ArticleFilter({
               <ArticleCard
                 title={article.title}
                 date={article.date}
-                category={article.category}
+                category={t(article.category)}
                 excerpt={article.excerpt}
                 slug={article.slug}
                 featured={index === 0}

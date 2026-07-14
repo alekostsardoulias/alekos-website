@@ -105,7 +105,7 @@ export default async function AboutPage() {
                 <div className="flex items-center gap-3 mb-3">
                   <span className="text-lg text-text-secondary font-mono">{item.date}</span>
                   <span className="text-lg px-2.5 py-0.5 rounded-full bg-purple-500/10 border border-purple-400/20 text-purple-300 font-medium">
-                    {item.category}
+                    {t(`articles.categories.${item.category}`)}
                   </span>
                 </div>
                 <h3 className="text-xl font-semibold text-text-primary mb-2 group-hover:text-purple-300 transition-colors">

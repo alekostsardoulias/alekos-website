@@ -1080,7 +1080,15 @@
     "empty": "Нет статей в этой категории.",
     "readMore": "Читать далее",
     "backToList": "← Назад к статьям",
-    "readingTime": "{minutes} мин чтения"
+    "readingTime": "{minutes} мин чтения",
+    "categories": {
+      "Arts & Culture": "Искусство и культура",
+      "Business": "Бизнес",
+      "Finance": "Финансы",
+      "Philosophy": "Философия",
+      "Politics": "Политика",
+      "Technology": "Технологии"
+    }
   },
   "contact": {
     "heading": "Контакты",
