@@ -2,9 +2,11 @@ import { PageLayout } from '@/components/page-layout';
 import { Hero } from '@/components/hero';
 import { HomeStats } from '@/components/home-stats';
 import { HomeServices } from '@/components/home-services';
-import { HomeFeatured } from '@/components/home-featured';
 import { FaqSection } from '@/components/about/faq-section';
 import { CtaSection } from '@/components/cta-section';
+import { getArticleBySlug } from '@/lib/articles';
+import Link from 'next/link';
+import { ArrowRight } from 'lucide-react';
 
 const FAQ_ITEMS = [
   { question: "What exact services do you offer?", answer: "I build custom websites, applications and custom software solutions, handle marketing, workflow automation and strategy. Basically the full stack from code to go-to-market strategy and scaling. If your product or business lives on the web or needs AI integration, I can probably help." },
@@ -19,12 +21,51 @@ const FAQ_ITEMS = [
 ];
 
 export default function HomePage() {
+  const latestArticle = getArticleBySlug('fourth-industrial-revolution');
+
   return (
     <PageLayout>
       <Hero />
       <HomeStats />
       <HomeServices />
-      <HomeFeatured />
+
+      {latestArticle && (
+        <section>
+          <h2 className="text-3xl font-bold text-text-primary mb-8 text-center">
+            Latest Article
+          </h2>
+          <Link
+            href={`/articles/${latestArticle.slug}`}
+            className="block group rounded-2xl border border-white/[0.06] bg-white/[0.02] backdrop-blur-sm hover:border-purple-400/20 hover:bg-white/[0.04] hover:shadow-[0_0_30px_rgba(168,85,247,0.1)] transition-all max-w-2xl mx-auto"
+          >
+            <div className="flex flex-col gap-3 p-8">
+              <span className="inline-block px-2.5 py-0.5 rounded-full text-lg font-medium w-fit bg-purple-500/10 text-purple-400 border border-purple-400/20">
+                {latestArticle.category}
+              </span>
+              <h3 className="text-2xl font-semibold text-text-primary group-hover:text-purple-300 transition-colors">
+                {latestArticle.title}
+              </h3>
+              <p className="text-lg text-text-secondary leading-relaxed line-clamp-3">
+                {latestArticle.excerpt}
+              </p>
+              <div className="flex items-center justify-between mt-2">
+                <span className="text-lg text-text-tertiary">
+                  {new Date(latestArticle.date).toLocaleDateString('en-US', {
+                    year: 'numeric',
+                    month: 'long',
+                    day: 'numeric',
+                  })}
+                </span>
+                <span className="text-purple-400 group-hover:text-purple-300 text-lg font-medium transition-colors inline-flex items-center gap-1">
+                  Read more
+                  <ArrowRight className="w-4 h-4" />
+                </span>
+              </div>
+            </div>
+          </Link>
+        </section>
+      )}
+
       <section className="pt-8">
         <FaqSection
           heading="Frequently Asked Questions"
