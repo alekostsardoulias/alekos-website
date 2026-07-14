@@ -22,9 +22,9 @@ export function HomeServices() {
         </h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 md:gap-6">
           {services.map(({ icon: Icon, color }, i) => (
-            <Link key={i} href="/work" className="block group">
+            <Link key={i} href="/work" className="block group h-full">
               <div
-                className="rounded-2xl border border-white/[0.06] bg-white/[0.02] backdrop-blur-sm p-6 hover:border-purple-400/20 hover:bg-white/[0.04] hover:shadow-[0_0_30px_rgba(168,85,247,0.1)] transition-all"
+                className="rounded-2xl border border-white/[0.06] bg-white/[0.02] backdrop-blur-sm p-6 hover:border-purple-400/20 hover:bg-white/[0.04] hover:shadow-[0_0_30px_rgba(168,85,247,0.1)] transition-all h-full"
               >
                 <div className="w-12 h-12 rounded-xl bg-white/[0.04] flex items-center justify-center mb-4">
                   <Icon className={`w-8 h-8 ${color}`} />

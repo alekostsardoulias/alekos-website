@@ -43,7 +43,7 @@
       "items": [
         {
           "title": "Software Development",
-          "description": "Custom web and mobile apps tailored for your needs. Fast, responsive, cost-optimized, SEO-ready."
+          "description": "Custom websites, web apps, mobile apps and internal tools tailored for your needs. Fast, responsive, cost-optimized, SEO-ready, AI-Native."
         },
         {
           "title": "Marketing & Growth",
@@ -51,11 +51,11 @@
         },
         {
           "title": "AI & Automation",
-          "description": "AI integration, workflow automation, and intelligent systems that scale your business."
+          "description": "AI integration, workflow automation, marketing automation, and intelligent systems that scale your product or business."
         },
         {
           "title": "Strategy & Consulting",
-          "description": "Technical advisory, architecture decisions, and product strategy for modern businesses."
+          "description": "Technical advisory, architecture decisions, and product strategy for founders, modern businesses and organizations."
         }
       ]
     },
@@ -156,19 +156,19 @@
       "heading": "Work Experience",
       "items": [
         {
-          "year": "Jul 2025 – Present",
+          "year": "2025 – Present",
           "company": "Freelance",
           "role": "AI-Native Software Engineer & Marketing Specialist",
           "description": ""
         },
         {
-          "year": "Jul 2021 – Jul 2025",
+          "year": "2021 – 2025",
           "company": "Corporate Roles & Freelance",
           "role": "Digital Marketer, UI/UX & Graphic Designer, Copywriter",
           "description": ""
         },
         {
-          "year": "Sep 2023 – May 2025",
+          "year": "2023 – 2025",
           "company": "Volunteering",
           "role": "Tutor for Business & Marketing Students",
           "description": ""
@@ -199,7 +199,7 @@
       "items": [
         {
           "question": "What exact services do you offer?",
-          "answer": "I build custom websites and web apps, mobile apps with React Native, and handle marketing automation and strategy. Basically the full stack from code to go-to-market. If it lives on the web or needs AI integration, I can probably help."
+          "answer": "I build custom websites, applications and custom software solutions, handle marketing, workflow automation and strategy. Basically the full stack from code to go-to-market strategy and scaling. If your product or business lives on the web or needs AI integration, I can probably help."
         },
         {
           "question": "What does your onboarding and project timeline look like?",
@@ -207,11 +207,11 @@
         },
         {
           "question": "Can you work with existing codebases or business projects?",
-          "answer": "Yes. I've jumped into codebases I didn't write plenty of times. It takes a day or two to get oriented, then I'm productive. I'm comfortable with legacy systems, messy code, and projects where the original developer vanished."
+          "answer": "Yes. I've jumped into codebases and docs I didn't write plenty of times. It takes a day or two to get oriented, then I'm productive. I'm comfortable with legacy systems, messy code, and projects where the original developer or writer vanished."
         },
         {
           "question": "Can you work with our team or join our organization?",
-          "answer": "I can embed with your team on a contract basis. Slack, Notion, Linear, whatever tools you use. I've done forward-deployed engineering and I'm comfortable joining existing workflows without disrupting them."
+          "answer": "I can embed with your team on a contract basis or formal recruitment. I've done forward-deployed engineering and I'm comfortable with teams, cooperation and joining existing workflows without disrupting them."
         },
         {
           "question": "Do you collab with other freelancers to work together?",

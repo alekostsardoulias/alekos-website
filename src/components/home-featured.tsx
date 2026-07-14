@@ -30,27 +30,27 @@ export function HomeFeatured() {
 
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
         {items.map((item) => (
-          <div
+          <Link
             key={item.title}
-            className="rounded-2xl border border-white/[0.06] bg-white/[0.02] backdrop-blur-sm p-6 flex flex-col gap-3 hover:border-purple-400/20 hover:bg-white/[0.04] hover:shadow-[0_0_30px_rgba(168,85,247,0.1)] transition-all"
+            href="/work"
+            className="block group rounded-2xl border border-white/[0.06] bg-white/[0.02] backdrop-blur-sm hover:border-purple-400/20 hover:bg-white/[0.04] hover:shadow-[0_0_30px_rgba(168,85,247,0.1)] transition-all"
           >
-            <span
-              className={`inline-block px-2.5 py-0.5 rounded-full text-lg font-medium w-fit ${item.badge}`}
-            >
-              {item.category}
-            </span>
-            <h3 className="text-xl font-semibold text-text-primary">
-              {item.title}
-            </h3>
-            <p className="text-lg text-text-secondary">{item.description}</p>
-            <Link
-              href="/work"
-              className="text-purple-400 hover:text-purple-300 text-lg font-medium transition-colors inline-flex items-center gap-1 mt-auto"
-            >
-              {viewProject}
-              <ArrowRight className="w-4 h-4" />
-            </Link>
-          </div>
+            <div className="flex flex-col gap-3 h-full p-6">
+              <span
+                className={`inline-block px-2.5 py-0.5 rounded-full text-lg font-medium w-fit ${item.badge}`}
+              >
+                {item.category}
+              </span>
+              <h3 className="text-xl font-semibold text-text-primary group-hover:text-purple-300 transition-colors">
+                {item.title}
+              </h3>
+              <p className="text-lg text-text-secondary">{item.description}</p>
+              <span className="text-purple-400 group-hover:text-purple-300 text-lg font-medium transition-colors inline-flex items-center gap-1 mt-auto">
+                {viewProject}
+                <ArrowRight className="w-4 h-4" />
+              </span>
+            </div>
+          </Link>
         ))}
       </div>
     </section>

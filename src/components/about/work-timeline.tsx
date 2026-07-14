@@ -20,9 +20,9 @@ export function WorkTimeline() {
           <div
             key={i}
             className="grid py-2 ps-3 border-s-2 border-purple-400/20 animate-fade-up"
-            style={{ gridTemplateColumns: '160px 1fr', columnGap: '1rem' }}
+            style={{ gridTemplateColumns: '180px 1fr', columnGap: '1rem' }}
           >
-            <span className="inline-block px-2 py-0.5 rounded-full text-lg font-medium bg-purple-500/10 text-purple-300 border border-purple-500/20 shrink-0 h-fit mt-0.5 min-w-[160px] text-center">
+            <span className="inline-block px-2 py-0.5 rounded-full text-lg font-medium bg-purple-500/10 text-purple-300 border border-purple-500/20 shrink-0 h-fit mt-0.5 min-w-[180px] whitespace-nowrap text-center">
               {item.year}
             </span>
             <div className="min-w-0">

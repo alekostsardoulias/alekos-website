@@ -165,7 +165,7 @@ export default function ContactPage() {
             {t('discord.button')}
           </a>
           <p className="mt-4 text-lg text-text-tertiary">
-            Tech &amp; Business Community in Europe. We welcome tech enthusiasts, developers, engineers, marketers, investors, business owners and digital nomads in Europe.
+            A new community for tech enthusiasts, developers, engineers, marketers, investors, business owners and digital nomads in Europe. First 100 members get VIP status, custom role and exclusive insights in a future project. Join us today!
           </p>
         </div>
 
