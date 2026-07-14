@@ -43,7 +43,7 @@
       "items": [
         {
           "title": "Ανάπτυξη Λογισμικού",
-          "description": "Custom web και mobile εφαρμογές προσαρμοσμένες στις ανάγκες σου. Γρήγορες, responsive, cost-optimized, SEO-ready."
+          "description": "Custom websites, web apps, mobile apps και εσωτερικά εργαλεία προσαρμοσμένα στις ανάγκες σου. Γρήγορα, responsive, cost-optimized, SEO-ready, AI-Native."
         },
         {
           "title": "Marketing & Ανάπτυξη",
@@ -51,11 +51,11 @@
         },
         {
           "title": "AI & Αυτοματοποίηση",
-          "description": "Ενσωμάτωση AI, workflow automation και ευφυή συστήματα που κλιμακώνουν την επιχείρησή σου."
+          "description": "Ενσωμάτωση AI, workflow automation, marketing automation και ευφυή συστήματα που κλιμακώνουν το προϊόν ή την επιχείρησή σου."
         },
         {
           "title": "Στρατηγική & Consulting",
-          "description": "Τεχνική συμβουλευτική, αρχιτεκτονικές αποφάσεις και product strategy για σύγχρονες επιχειρήσεις."
+          "description": "Τεχνική συμβουλευτική, αρχιτεκτονικές αποφάσεις και product strategy για founders, σύγχρονες επιχειρήσεις και οργανισμούς."
         }
       ]
     },
@@ -156,19 +156,19 @@
       "heading": "Επαγγελματική Εμπειρία",
       "items": [
         {
-          "year": "Ιουλ 2025 – Σήμερα",
+          "year": "2025 – Σήμερα",
           "company": "Freelance",
           "role": "AI-Native Μηχανικός Λογισμικού & Ειδικός Marketing",
           "description": ""
         },
         {
-          "year": "Ιουλ 2021 – Ιουλ 2025",
+          "year": "2021 – 2025",
           "company": "Εταιρικοί Ρόλοι & Freelance",
           "role": "Digital Marketer, UI/UX & Graphic Designer, Copywriter",
           "description": ""
         },
         {
-          "year": "Σεπ 2023 – Μάιος 2025",
+          "year": "2023 – 2025",
           "company": "Εθελοντισμός",
           "role": "Tutor για Φοιτητές Διοίκησης Επιχειρήσεων & Marketing",
           "description": ""
@@ -199,7 +199,7 @@
       "items": [
         {
           "question": "Τι υπηρεσίες προσφέρεις ακριβώς;",
-          "answer": "Φτιάχνω custom ιστοσελίδες και web εφαρμογές, mobile apps με React Native, και αναλαμβάνω marketing automation και στρατηγική. Ουσιαστικά όλο το stack από τον κώδικα μέχρι το go-to-market. Αν κάτι ζει στο web ή χρειάζεται ενσωμάτωση AI, κατά πάσα πιθανότητα μπορώ να βοηθήσω."
+          "answer": "Φτιάχνω custom websites, εφαρμογές και custom λύσεις λογισμικού, αναλαμβάνω marketing, workflow automation και στρατηγική. Ουσιαστικά ολόκληρο το stack από τον κώδικα μέχρι το go-to-market strategy και το scaling. Αν το προϊόν ή η επιχείρησή σου ζει στο web ή χρειάζεται ενσωμάτωση AI, κατά πάσα πιθανότητα μπορώ να βοηθήσω."
         },
         {
           "question": "Πώς είναι η διαδικασία onboarding και το χρονοδιάγραμμα ενός project;",
@@ -207,11 +207,11 @@
         },
         {
           "question": "Μπορείς να δουλέψεις με υπάρχοντα codebases ή επαγγελματικά projects;",
-          "answer": "Ναι. Έχω μπει σε codebases που δεν έγραψα εγώ αμέτρητες φορές. Χρειάζομαι μία με δύο μέρες για να προσανατολιστώ και μετά είμαι παραγωγικός. Είμαι άνετος με legacy συστήματα, ακατάστατο κώδικα και projects όπου ο αρχικός developer έχει εξαφανιστεί."
+          "answer": "Ναι. Έχω μπει σε codebases και docs που δεν έγραψα εγώ αμέτρητες φορές. Χρειάζομαι μία με δύο μέρες για να προσανατολιστώ και μετά είμαι παραγωγικός. Είμαι άνετος με legacy systems, ακατάστατο κώδικα και projects όπου ο αρχικός developer ή writer έχει εξαφανιστεί."
         },
         {
           "question": "Μπορείς να δουλέψεις με την ομάδα μας ή να ενταχθείς στον οργανισμό μας;",
-          "answer": "Μπορώ να ενσωματωθώ στην ομάδα σου με συμβόλαιο. Slack, Notion, Linear, ό,τι εργαλεία χρησιμοποιείτε. Έχω κάνει forward-deployed engineering και είμαι άνετος στο να μπαίνω σε υπάρχουσες ροές εργασίας χωρίς να τις διαταράσσω."
+          "answer": "Μπορώ να ενσωματωθώ στην ομάδα σου με συμβόλαιο ή μέσω επίσημης πρόσληψης. Έχω κάνει forward-deployed engineering και είμαι άνετος με ομάδες, συνεργασία και την ένταξη σε υπάρχοντα workflows χωρίς να τα διαταράσσω."
         },
         {
           "question": "Συνεργάζεσαι με άλλους freelancers για projects;",

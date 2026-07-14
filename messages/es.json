@@ -43,7 +43,7 @@
       "items": [
         {
           "title": "Desarrollo de Software",
-          "description": "Aplicaciones web y móviles a medida para tus necesidades. Rápidas, responsivas, optimizadas en costes y preparadas para SEO."
+          "description": "Sitios web personalizados, aplicaciones web, aplicaciones móviles y internal tools adaptadas a tus necesidades. Rápidas, responsivas, optimizadas en costes, preparadas para SEO, AI-Native."
         },
         {
           "title": "Marketing & Growth",
@@ -51,11 +51,11 @@
         },
         {
           "title": "IA & Automatización",
-          "description": "Integración de IA, automatización de flujos de trabajo y sistemas inteligentes que escalan tu negocio."
+          "description": "Integración de AI, workflow automation, marketing automation y sistemas inteligentes que escalan tu producto o negocio."
         },
         {
           "title": "Estrategia y Consultoría",
-          "description": "Asesoría técnica, decisiones de arquitectura y estrategia de producto para empresas modernas."
+          "description": "Asesoría técnica, decisiones de arquitectura y estrategia de producto para founders, empresas modernas y organizaciones."
         }
       ]
     },
@@ -156,22 +156,82 @@
       "heading": "Experiencia Laboral",
       "items": [
         {
-          "year": "Jul 2025 – Presente",
+          "year": "2025 – Presente",
           "company": "Freelance",
           "role": "AI-Native Software Engineer & Marketing Specialist",
           "description": ""
         },
         {
-          "year": "Jul 2021 – Jul 2025",
+          "year": "2021 – 2025",
           "company": "Corporate Roles & Freelance",
           "role": "Digital Marketer, UI/UX & Graphic Designer, Copywriter",
           "description": ""
         },
         {
-          "year": "Sep 2023 – May 2025",
+          "year": "2023 – 2025",
           "company": "Volunteering",
           "role": "Tutor para Estudiantes de Negocios & Marketing",
           "description": ""
+        }
+      ]
+    },
+    "completedWork": {
+      "heading": "Trabajo Completado",
+      "items": [
+        {
+          "title": "Cómo la IA está cambiando el marketing",
+          "date": "2026-06-15",
+          "category": "Tecnología",
+          "excerpt": "Un análisis de cómo las herramientas de IA están transformando el marketing digital.",
+          "slug": "ai-marketing-2026"
+        },
+        {
+          "title": "Desarrollo web moderno en 2026",
+          "date": "2026-05-20",
+          "category": "Tecnología",
+          "excerpt": "Las herramientas, frameworks y prácticas que utilizo para el desarrollo web hoy.",
+          "slug": "modern-web-dev"
+        }
+      ]
+    },
+    "faq": {
+      "heading": "Preguntas Frecuentes",
+      "items": [
+        {
+          "question": "¿Qué servicios exactos ofreces?",
+          "answer": "Construyo sitios web personalizados, aplicaciones y custom software solutions, gestiono marketing, workflow automation y estrategia. Básicamente el stack completo desde código hasta estrategia go-to-market y escalado. Si tu producto o negocio vive en la web o necesita integración de AI, probablemente puedo ayudar."
+        },
+        {
+          "question": "¿Cómo es tu proceso de onboarding y el cronograma de un proyecto?",
+          "answer": "Comenzamos con una llamada gratuita de 30 minutos para entender qué necesitas realmente. Después envío una propuesta con cronograma y precios. Los proyectos típicos duran de 2 a 8 semanas según el alcance. Hago check-ins semanales y tienes acceso a un shared workspace para que siempre sepas cómo van las cosas."
+        },
+        {
+          "question": "¿Puedes trabajar con codebases existentes o proyectos empresariales?",
+          "answer": "Sí. He entrado en codebases y documentación que no escribí muchas veces. Me toma uno o dos días orientarme, luego soy productivo. Me siento cómodo con legacy systems, código desordenado y proyectos donde el desarrollador o escritor original desapareció."
+        },
+        {
+          "question": "¿Puedes trabajar con nuestro equipo o unirte a nuestra organización?",
+          "answer": "Puedo integrarme con tu equipo mediante contrato o reclutamiento formal. He hecho forward-deployed engineering y me siento cómodo con equipos, cooperación e integrarme en flujos de trabajo existentes sin interrumpirlos."
+        },
+        {
+          "question": "¿Colaboras con otros freelancers para trabajar juntos?",
+          "answer": "Tengo una red de developers, designers y marketers con los que he trabajado. Si tu proyecto necesita habilidades fuera de mi alcance, puedo traer a personas de confianza. Tú tienes un solo punto de contacto y yo me encargo de la coordinación."
+        },
+        {
+          "question": "¿Puedes integrar AI en nuestro negocio/proyecto y automatizar nuestros workflows?",
+          "answer": "Esto es literalmente la mitad de lo que hago. LLM APIs, RAG pipelines, agentic workflows, automatizaciones con Zapier y n8n. He construido chatbots impulsados por AI, sistemas de content generation, lead qualification automatizada y internal tools que ahorran horas a los equipos cada semana."
+        },
+        {
+          "question": "¿Tienes experiencia en lo que haces? ¿Por qué no tienes proyectos públicos en tu portafolio?",
+          "answer": "Llevo más de 5 años haciendo esto entre roles freelance y corporativos. La mayor parte de mi mejor trabajo está bajo NDA o fue construido para uso interno de empresas. Lo que puedo mostrar públicamente está en mi página de case studies. Priorizo entregar resultados a mis clientes sobre mantener un portafolio llamativo."
+        },
+        {
+          "question": "¿Estás disponible para tomar nuevos proyectos ahora mismo?",
+          "answer": "Normalmente sí. Tomo de 2 a 3 proyectos activos a la vez para poder dar a cada uno verdadera atención. Si estoy lleno, te lo diré y te ofreceré programar una fecha de inicio o referirte a alguien de mi red."
+        },
+        {
+          "question": "¿Por qué escribes artículos sobre filosofía, política, arte y temas no relacionados con la industria?",
+          "answer": "Porque el software no existe en el vacío. Los mejores ingenieros que conozco leen ampliamente. La filosofía te enseña a pensar con claridad sobre problemas ambiguos. La política moldea los sistemas sobre los que construimos. El arte entrena tu gusto. Escribir sobre estas cosas me hace mejor en mi trabajo real, no me distrae de él."
         }
       ]
     },

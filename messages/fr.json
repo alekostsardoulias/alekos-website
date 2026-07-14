@@ -43,7 +43,7 @@
       "items": [
         {
           "title": "Développement Logiciel",
-          "description": "Applications web et mobiles sur mesure adaptées à vos besoins. Rapides, responsives, optimisées en coûts, prêtes pour le SEO."
+          "description": "Sites web, applications web, applications mobiles et outils internes sur mesure adaptés à vos besoins. Rapides, responsives, optimisés en coûts, prêts pour le SEO, AI-Native."
         },
         {
           "title": "Marketing & Growth",
@@ -51,11 +51,11 @@
         },
         {
           "title": "IA & Automatisation",
-          "description": "Intégration IA, automatisation des workflows et systèmes intelligents qui font évoluer votre entreprise."
+          "description": "Intégration IA, automatisation des workflows, automatisation marketing et systèmes intelligents qui font évoluer votre produit ou entreprise."
         },
         {
           "title": "Stratégie & Conseil",
-          "description": "Conseil technique, décisions architecturales et stratégie produit pour les entreprises modernes."
+          "description": "Conseil technique, décisions architecturales et stratégie produit pour les fondateurs, entreprises modernes et organisations."
         }
       ]
     },
@@ -156,22 +156,82 @@
       "heading": "Expérience professionnelle",
       "items": [
         {
-          "year": "Jul 2025 – Present",
+          "year": "2025 – Présent",
           "company": "Freelance",
           "role": "AI-Native Software Engineer & Marketing Specialist",
           "description": ""
         },
         {
-          "year": "Jul 2021 – Jul 2025",
+          "year": "2021 – 2025",
           "company": "Corporate Roles & Freelance",
           "role": "Digital Marketer, UI/UX & Graphic Designer, Copywriter",
           "description": ""
         },
         {
-          "year": "Sep 2023 – May 2025",
+          "year": "2023 – 2025",
           "company": "Volunteering",
           "role": "Tuteur pour Étudiants en Commerce & Marketing",
           "description": ""
+        }
+      ]
+    },
+    "completedWork": {
+      "heading": "Travaux Réalisés",
+      "items": [
+        {
+          "title": "How AI Is Changing Marketing",
+          "date": "2026-06-15",
+          "category": "Technologie",
+          "excerpt": "Une analyse de la façon dont les outils d'IA transforment le marketing numérique.",
+          "slug": "ai-marketing-2026"
+        },
+        {
+          "title": "Modern Web Development in 2026",
+          "date": "2026-05-20",
+          "category": "Technologie",
+          "excerpt": "Les outils, frameworks et pratiques que j'utilise pour le développement web aujourd'hui.",
+          "slug": "modern-web-dev"
+        }
+      ]
+    },
+    "faq": {
+      "heading": "Foire Aux Questions",
+      "items": [
+        {
+          "question": "Quels services proposez-vous exactement ?",
+          "answer": "Je crée des sites web, applications et solutions logicielles sur mesure, je gère le marketing, l'automatisation des workflows et la stratégie. En gros, l'ensemble du stack, du code à la stratégie go-to-market et au scaling. Si votre produit ou entreprise vit sur le web ou a besoin d'intégration IA, je peux probablement vous aider."
+        },
+        {
+          "question": "À quoi ressemblent votre onboarding et votre calendrier de projet ?",
+          "answer": "Nous commençons par un appel gratuit de 30 minutes pour déterminer ce dont vous avez réellement besoin. Ensuite, je vous envoie une proposition avec le calendrier et les tarifs. Les projets typiques durent de 2 à 8 semaines selon la portée. Je fais un check-in hebdomadaire et vous avez accès à un Shared Workspace pour toujours savoir où en sont les choses."
+        },
+        {
+          "question": "Pouvez-vous travailler avec des codebases existantes ou des projets professionnels ?",
+          "answer": "Oui. J'ai intégré des codebases et des docs que je n'ai pas écrites de nombreuses fois. Il me faut un jour ou deux pour m'orienter, puis je suis productif. Je suis à l'aise avec les Legacy Systems, le code désordonné et les projets où le Developer ou Writer original a disparu."
+        },
+        {
+          "question": "Pouvez-vous travailler avec notre équipe ou rejoindre notre organisation ?",
+          "answer": "Je peux m'intégrer à votre équipe sur une base contractuelle ou par recrutement formel. J'ai fait du Forward-Deployed Engineering et je suis à l'aise avec les équipes, la coopération et l'intégration dans les workflows existants sans les perturber."
+        },
+        {
+          "question": "Collaborez-vous avec d'autres freelancers ?",
+          "answer": "J'ai un réseau de Developers, Designers et Marketers avec lesquels j'ai travaillé. Si votre projet nécessite des compétences en dehors de mon domaine, je peux faire appel à des personnes de confiance. Vous avez un seul point de contact et je gère la coordination."
+        },
+        {
+          "question": "Pouvez-vous intégrer l'IA à notre entreprise/projet et automatiser nos workflows ?",
+          "answer": "C'est littéralement la moitié de ce que je fais. LLM APIs, RAG Pipelines, workflows agentiques, automatisations Zapier et n8n. J'ai créé des chatbots alimentés par l'IA, des systèmes de génération de contenu, la qualification automatisée des leads et des outils internes qui font gagner des heures aux équipes chaque semaine."
+        },
+        {
+          "question": "Avez-vous de l'expérience dans ce que vous faites ? Pourquoi n'avez-vous pas de projets de portfolio publics ?",
+          "answer": "Je fais cela depuis plus de 5 ans, en freelance et en entreprise. La plupart de mes meilleurs travaux sont sous NDA ou réalisés pour un usage interne en entreprise. Ce que je peux montrer publiquement se trouve sur ma page Case Studies. Je privilégie la livraison pour les clients plutôt que l'entretien d'un portfolio tape-à-l'œil."
+        },
+        {
+          "question": "Êtes-vous disponible pour prendre de nouveaux projets en ce moment ?",
+          "answer": "Généralement oui. Je prends 2 à 3 projets actifs à la fois pour pouvoir accorder une réelle attention à chacun. Si je suis complet, je vous le dirai et vous proposerai de planifier une date de début ou de vous orienter vers quelqu'un de mon réseau."
+        },
+        {
+          "question": "Pourquoi écrivez-vous des articles sur la philosophie, la politique, les arts et des sujets hors de votre secteur ?",
+          "answer": "Parce que le logiciel n'existe pas dans le vide. Les meilleurs ingénieurs que je connais lisent largement. La philosophie vous apprend à penser clairement aux problèmes ambigus. La politique façonne les systèmes sur lesquels nous construisons. L'art éduque votre goût. Écrire sur ces sujets me rend meilleur dans mon travail réel, pas distrait de celui-ci."
         }
       ]
     },

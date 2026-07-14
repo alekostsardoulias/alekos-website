@@ -43,7 +43,7 @@
       "items": [
         {
           "title": "Yazılım Geliştirme",
-          "description": "İhtiyaçlarınıza özel web ve mobil uygulamalar. Hızlı, duyarlı, maliyet optimize edilmiş, SEO'ya hazır."
+          "description": "İhtiyaçlarınıza özel web siteleri, web uygulamaları, mobil uygulamalar ve dahili araçlar. Hızlı, duyarlı, maliyet optimize edilmiş, SEO hazır, AI-Native."
         },
         {
           "title": "Marketing & Growth",
@@ -51,11 +51,11 @@
         },
         {
           "title": "YZ & Otomasyon",
-          "description": "YZ entegrasyonu, iş akışı otomasyonu ve işletmenizi ölçeklendiren akıllı sistemler."
+          "description": "YZ entegrasyonu, iş akışı otomasyonu, pazarlama otomasyonu ve ürününüzü veya işletmenizi ölçeklendiren akıllı sistemler."
         },
         {
           "title": "Strateji ve Danışmanlık",
-          "description": "Modern işletmeler için teknik danışmanlık, mimari kararlar ve ürün stratejisi."
+          "description": "Kurucular, modern işletmeler ve organizasyonlar için teknik danışmanlık, mimari kararlar ve ürün stratejisi."
         }
       ]
     },
@@ -156,22 +156,82 @@
       "heading": "İş Deneyimi",
       "items": [
         {
-          "year": "Tem 2025 – günümüz",
+          "year": "2025 – günümüz",
           "company": "Freelance",
           "role": "AI-Native Software Engineer & Marketing Specialist",
           "description": ""
         },
         {
-          "year": "Tem 2021 – Tem 2025",
+          "year": "2021 – 2025",
           "company": "Kurumsal Roller & Freelance",
           "role": "Dijital Pazarlamacı, UI/UX ve Grafik Tasarımcı, Metin Yazarı",
           "description": ""
         },
         {
-          "year": "Sep 2023 – May 2025",
+          "year": "2023 – 2025",
           "company": "Gönüllülük",
           "role": "İşletme ve Pazarlama Öğrencileri için Öğretmen",
           "description": ""
+        }
+      ]
+    },
+    "completedWork": {
+      "heading": "Tamamlanan Çalışmalar",
+      "items": [
+        {
+          "title": "How AI Is Changing Marketing",
+          "date": "2026-06-15",
+          "category": "Teknoloji",
+          "excerpt": "YZ araçlarının dijital pazarlamayı nasıl dönüştürdüğüne dair bir analiz.",
+          "slug": "ai-marketing-2026"
+        },
+        {
+          "title": "Modern Web Development in 2026",
+          "date": "2026-05-20",
+          "category": "Teknoloji",
+          "excerpt": "Bugün web geliştirme için kullandığım araçlar, framework'ler ve uygulamalar.",
+          "slug": "modern-web-dev"
+        }
+      ]
+    },
+    "faq": {
+      "heading": "Sıkça Sorulan Sorular",
+      "items": [
+        {
+          "question": "Tam olarak hangi hizmetleri sunuyorsunuz?",
+          "answer": "Custom websites, uygulamalar ve custom software solutions geliştiriyor, pazarlama, workflow automation ve strateji hizmetleri veriyorum. Temelde koddan go-to-market stratejisine ve ölçeklendirmeye kadar tüm yelpaze. Ürününüz veya işletmeniz web'de yaşıyorsa ya da AI entegrasyonuna ihtiyaç duyuyorsa, muhtemelen yardımcı olabilirim."
+        },
+        {
+          "question": "Onboarding ve proje zaman çizelgeniz nasıl görünüyor?",
+          "answer": "Gerçekten neye ihtiyacınız olduğunu anlamak için ücretsiz 30 dakikalık bir görüşmeyle başlıyoruz. Ardından zaman çizelgesi ve fiyatlandırma içeren bir teklif gönderiyorum. Tipik projeler kapsama bağlı olarak 2 ila 8 hafta sürer. Haftalık olarak bilgi veriyorum ve shared workspace'e erişiminiz oluyor, böylece her zaman işlerin nerede olduğunu bilirsiniz."
+        },
+        {
+          "question": "Mevcut codebase'ler veya iş projeleriyle çalışabilir misiniz?",
+          "answer": "Evet. Kendi yazmadığım codebase'lere ve dokümantasyonlara birçok kez dahil oldum. Oryantasyon bir iki gün sürer, sonra üretken olurum. Legacy systems, messy code ve orijinal geliştiricinin veya yazarın kaybolduğu projelerle rahat çalışırım."
+        },
+        {
+          "question": "Ekibimizle çalışabilir veya organizasyonumuza katılabilir misiniz?",
+          "answer": "Ekibinize sözleşmeli olarak veya resmi işe alım yoluyla dahil olabilirim. Forward-deployed engineering deneyimim var ve ekiplerle, iş birliğiyle ve mevcut workflows'lara onları bozmadan katılmakta rahatım."
+        },
+        {
+          "question": "Diğer freelancer'larla birlikte çalışmak için iş birliği yapar mısınız?",
+          "answer": "Birlikte çalıştığım geliştiriciler, tasarımcılar ve pazarlamacılardan oluşan bir ağım var. Projeniz benim uzmanlık alanımın dışında beceriler gerektiriyorsa, güvendiğim insanları dahil edebilirim. Siz tek bir iletişim noktasına sahip olursunuz ve koordinasyonu ben hallederim."
+        },
+        {
+          "question": "AI'ı işletmemize/projemize entegre edebilir ve workflows'larımızı otomatikleştirebilir misiniz?",
+          "answer": "Bu tam anlamıyla yaptığım işin yarısı. LLM APIs, RAG pipelines, agentic workflows, Zapier ve n8n otomasyonları. AI destekli chatbot'lar, content generation sistemleri, automated lead qualification ve ekiplere her hafta saatler kazandıran internal tools geliştirdim."
+        },
+        {
+          "question": "Yaptığınız işte deneyimli misiniz? Neden herkese açık portföy projeleriniz yok?",
+          "answer": "Bunu 5 yılı aşkın süredir freelance ve kurumsal rollerde yapıyorum. En iyi işlerimin çoğu NDA kapsamında veya şirket içi kullanım için geliştirildi. Herkese açık gösterebileceklerim case studies sayfamda. Müşterilere sonuç teslim etmeye, gösterişli bir portföy sürdürmekten daha fazla öncelik veriyorum."
+        },
+        {
+          "question": "Şu anda yeni projeler almak için müsait misiniz?",
+          "answer": "Genellikle evet. Her birine gerçek ilgi gösterebilmek için aynı anda 2 ila 3 aktif proje alıyorum. Eğer tamamen doluysam, size söyler ve bir başlangıç tarihi planlamayı ya da ağımdan birini önermeyi teklif ederim."
+        },
+        {
+          "question": "Neden felsefe, politika, sanat ve sektör dışı konular hakkında makaleler yazıyorsunuz?",
+          "answer": "Çünkü yazılım bir boşlukta var olmaz. Tanıdığım en iyi mühendisler geniş okuma yapar. Felsefe, belirsiz problemler hakkında net düşünmeyi öğretir. Politika, üzerine inşa ettiğimiz sistemleri şekillendirir. Sanat, zevkinizi eğitir. Bu şeyler hakkında yazmak beni asıl işimde daha iyi yapar, ondan uzaklaştırmaz."
         }
       ]
     },

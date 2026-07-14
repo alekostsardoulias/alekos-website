@@ -43,7 +43,7 @@
       "items": [
         {
           "title": "Softwareontwikkeling",
-          "description": "Web- en mobiele apps op maat voor jouw behoeften. Snel, responsief, kosten geoptimaliseerd, SEO-klaar."
+          "description": "Custom websites, webapps, mobiele apps en internal tools op maat voor jouw behoeften. Snel, responsief, kosten geoptimaliseerd, SEO-klaar, AI-Native."
         },
         {
           "title": "Marketing & Growth",
@@ -51,11 +51,11 @@
         },
         {
           "title": "AI & Automatisering",
-          "description": "AI-integratie, workflow-automatisering en intelligente systemen die uw bedrijf laten groeien."
+          "description": "AI-integratie, workflow automation, marketing automation en intelligente systemen die jouw product of bedrijf laten schalen."
         },
         {
           "title": "Strategie & Consultancy",
-          "description": "Technisch advies, architectuurbeslissingen en productstrategie voor moderne bedrijven."
+          "description": "Technisch advies, architectuurbeslissingen en product strategie voor founders, moderne bedrijven en organisaties."
         }
       ]
     },
@@ -156,22 +156,82 @@
       "heading": "Werkervaring",
       "items": [
         {
-          "year": "Jul 2025 – Heden",
+          "year": "2025 – Heden",
           "company": "Freelance",
           "role": "AI-Native Software Engineer & Marketing Specialist",
           "description": ""
         },
         {
-          "year": "Jul 2021 – Jul 2025",
+          "year": "2021 – 2025",
           "company": "Bedrijfsfuncties & Freelance",
           "role": "Digitaal Marketeer, UI/UX & Grafisch Ontwerper, Copywriter",
           "description": ""
         },
         {
-          "year": "Sep 2023 – May 2025",
+          "year": "2023 – 2025",
           "company": "Vrijwilligerswerk",
           "role": "Tutor voor Bedrijfs- & Marketingstudenten",
           "description": ""
+        }
+      ]
+    },
+    "completedWork": {
+      "heading": "Voltooid Werk",
+      "items": [
+        {
+          "title": "Hoe AI marketing verandert",
+          "date": "2026-06-15",
+          "category": "Technologie",
+          "excerpt": "Een analyse van hoe AI-tools digitale marketing transformeren.",
+          "slug": "ai-marketing-2026"
+        },
+        {
+          "title": "Moderne webontwikkeling in 2026",
+          "date": "2026-05-20",
+          "category": "Technologie",
+          "excerpt": "De tools, frameworks en werkwijzen die ik vandaag gebruik voor webontwikkeling.",
+          "slug": "modern-web-dev"
+        }
+      ]
+    },
+    "faq": {
+      "heading": "Veelgestelde Vragen",
+      "items": [
+        {
+          "question": "Welke diensten bied je precies aan?",
+          "answer": "Ik bouw custom websites, applicaties en custom software solutions, verzorg marketing, workflow automation en strategie. Eigenlijk de volledige stack van code tot go-to-market strategie en schaling. Als jouw product of bedrijf op het web leeft of AI integratie nodig heeft, kan ik waarschijnlijk helpen."
+        },
+        {
+          "question": "Hoe ziet jouw onboarding en projecttijdlijn eruit?",
+          "answer": "We beginnen met een gratis gesprek van 30 minuten om te achterhalen wat je echt nodig hebt. Daarna stuur ik een voorstel met tijdlijn en prijzen. Typische projecten duren 2 tot 8 weken, afhankelijk van de scope. Ik doe wekelijkse check-ins en je krijgt toegang tot een shared workspace zodat je altijd weet waar we staan."
+        },
+        {
+          "question": "Kun je werken met bestaande codebases of bedrijfsprojecten?",
+          "answer": "Ja. Ik ben vaak genoeg in codebases en documentatie gesprongen die ik niet zelf heb geschreven. Het duurt een dag of twee om me te oriënteren, daarna ben ik productief. Ik ben vertrouwd met legacy systems, rommelige code en projecten waar de oorspronkelijke ontwikkelaar of schrijver is verdwenen."
+        },
+        {
+          "question": "Kun je met ons team werken of je bij onze organisatie aansluiten?",
+          "answer": "Ik kan op contractbasis of via formele aanstelling met je team meedraaien. Ik heb ervaring met forward-deployed engineering en voel me thuis bij teams, samenwerking en het aansluiten bij bestaande workflows zonder ze te verstoren."
+        },
+        {
+          "question": "Werk je samen met andere freelancers?",
+          "answer": "Ik heb een netwerk van developers, designers en marketers met wie ik heb samengewerkt. Als jouw project vaardigheden nodig heeft buiten mijn expertise, kan ik mensen inschakelen die ik vertrouw. Jij hebt één aanspreekpunt en ik regel de coördinatie."
+        },
+        {
+          "question": "Kun je AI integreren in ons bedrijf/project en onze workflows automatiseren?",
+          "answer": "Dit is letterlijk de helft van wat ik doe. LLM APIs, RAG pipelines, agentic workflows, Zapier en n8n automatiseringen. Ik heb AI-gestuurde chatbots gebouwd, content generation systemen, geautomatiseerde lead qualification en internal tools die teams elke week uren besparen."
+        },
+        {
+          "question": "Ben je ervaren in wat je doet? Waarom heb je geen openbare portfolioprojecten?",
+          "answer": "Ik doe dit al meer dan 5 jaar, zowel freelance als in bedrijfsfuncties. Het grootste deel van mijn beste werk valt onder NDA of is gebouwd voor intern bedrijfsgebruik. Wat ik openbaar kan tonen staat op mijn case studies pagina. Ik geef prioriteit aan het leveren van resultaten voor klanten boven het onderhouden van een opvallend portfolio."
+        },
+        {
+          "question": "Ben je op dit moment beschikbaar voor nieuwe projecten?",
+          "answer": "Meestal wel. Ik neem 2 tot 3 actieve projecten tegelijk aan zodat ik elk project echte aandacht kan geven. Als ik vol zit, vertel ik je dat en bied ik aan om een startdatum in te plannen of je door te verwijzen naar iemand in mijn netwerk."
+        },
+        {
+          "question": "Waarom schrijf je artikelen over filosofie, politiek, kunst en niet-vakgerelateerde onderwerpen?",
+          "answer": "Omdat software niet in een vacuüm bestaat. De beste engineers die ik ken lezen breed. Filosofie leert je helder denken over ambigue problemen. Politiek vormt de systemen waarop we bouwen. Kunst traint je smaak. Schrijven over deze dingen maakt me beter in mijn echte werk, niet afgeleid ervan."
         }
       ]
     },
