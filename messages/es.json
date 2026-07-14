@@ -1050,23 +1050,7 @@
       ]
     },
     "completed": {
-      "heading": "Proyectos Completados",
-      "items": [
-        {
-          "title": "Cómo la IA está cambiando el marketing",
-          "date": "2026-06-15",
-          "category": "Tecnología",
-          "excerpt": "Un análisis de cómo las herramientas de IA están transformando el marketing digital.",
-          "slug": "ai-marketing-2026"
-        },
-        {
-          "title": "Desarrollo Web Moderno en 2026",
-          "date": "2026-05-20",
-          "category": "Tecnología",
-          "excerpt": "Las herramientas, frameworks y prácticas que utilizo para el desarrollo web hoy.",
-          "slug": "modern-web-dev"
-        }
-      ]
+      "heading": "Proyectos Completados"
     }
   },
   "articles": {
@@ -1144,5 +1128,27 @@
     "retry": "Intentar de nuevo",
     "back": "← Volver",
     "readMore": "Leer más"
+  },
+  "caseStudies": {
+    "project-alpha": {
+      "title": "Plataforma de Automatización de Marketing. Entrega Integral",
+      "excerpt": "Diseñé, construí y desplegué una plataforma completa de automatización de marketing para un cliente B2B. Desde la recopilación de requisitos y la arquitectura hasta el lanzamiento y el soporte posterior. Un proyecto de ciclo completo que abarcó seis meses de colaboración estrecha.",
+      "body": "Este proyecto consistió en llevar al cliente desde cero hasta un sistema de automatización de marketing completamente operativo. Comenzamos con talleres de descubrimiento, mapeamos sus flujos de trabajo manuales existentes y diseñamos una solución que automatizaba secuencias de correo electrónico, puntuación de leads y sincronización con el CRM. La plataforma se lanzó según lo previsto y procesa miles de leads al día."
+    },
+    "project-beta": {
+      "title": "Migración de Plataforma de E-Commerce. De Stack Legacy a Moderno",
+      "excerpt": "Migré una plataforma de e-commerce legacy a un stack moderno con Next.js, Supabase y Stripe. Gestioné la migración de datos, la preservación del SEO y un rediseño completo de la interfaz. Todo mientras la tienda existente permanecía operativa durante la transición.",
+      "body": "El cliente operaba en una plataforma anticuada, lenta, difícil de mantener y que limitaba el crecimiento. Migramos toda la tienda a una arquitectura JAMstack moderna, trasladando cuidadosamente los datos de productos, registros de clientes e historial de pedidos. La nueva plataforma carga en menos de dos segundos y ha experimentado una mejora del 40% en las tasas de conversión desde su lanzamiento."
+    },
+    "project-gamma": {
+      "title": "Panel de Analíticas Impulsado por IA. De Hojas de Cálculo a Inteligencia",
+      "excerpt": "Construí un panel de analíticas personalizado con IA para una empresa B2B mediana que se ahogaba en informes de hojas de cálculo. La ingesta automatizada de datos, la detección de anomalías mediante machine learning y las consultas en lenguaje natural reemplazaron más de 40 horas semanales de trabajo manual con información instantánea.",
+      "body": "Una empresa B2B mediana gestionaba sus informes en hojas de Excel y Google Docs separadas entre marketing, ventas y finanzas. Cada semana los equipos dedicaban más de 40 horas a consolidar manualmente los datos de su CRM, plataformas publicitarias y software contable. Construimos un panel interno personalizado que ingiere todas las fuentes de datos automáticamente. Los modelos de machine learning detectan anomalías de gasto y pronostican ingresos por canal en tiempo real. Los gerentes hacen preguntas en lenguaje natural, como «muéstrame los ingresos del tercer trimestre por región», y obtienen respuestas visuales al instante. El proyecto pasó del inicio al despliegue en ocho semanas. El tiempo de elaboración de informes se redujo un 90%. En su primera semana, la detección de anomalías señaló un exceso de gasto del 30% que habría pasado desapercibido hasta fin de mes."
+    },
+    "project-delta": {
+      "title": "Rebranding Completo y Transformación Digital. De la Estrategia a la Ejecución",
+      "excerpt": "Una renovación completa de marca para una empresa B2B en crecimiento. De una identidad visual inconsistente y un sitio WordPress anticuado a un sistema de marca cohesionado, un sitio web moderno y responsive, y una estrategia de marketing unificada que triplicó el tráfico y mejoró la percepción de marca.",
+      "body": "Una empresa tecnológica B2B en crecimiento se acercó a nosotros con un problema habitual. Su marca había evolucionado de forma fragmentada a lo largo de los años. Tres variaciones diferentes del logotipo estaban en uso activo. Las paletas de colores entraban en conflicto entre su sitio web, presentaciones comerciales y redes sociales. Su sitio WordPress era lento y estaba desactualizado. Lideramos un proyecto de 10 semanas para renovarlo todo. El equipo diseñó un nuevo logotipo y un sistema completo de identidad visual con directrices de marca que abarcaban tipografía, color, tono de voz y normas de aplicación. Reconstruimos el sitio web desde cero con Next.js y Tailwind CSS, ofreciendo una experiencia rápida y responsive. Una estrategia unificada de contenido y redes sociales aportó coherencia en todos los canales. La consistencia de marca mejoró en todos los puntos de contacto. El tráfico del sitio web se triplicó. Las encuestas a clientes mostraron mejoras medibles en la percepción de marca. Toda la transición se realizó sin interrumpir sus operaciones diarias."
+    }
   }
 }

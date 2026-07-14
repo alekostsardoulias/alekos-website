@@ -15,6 +15,8 @@ interface ServiceItem {
 
 export default async function WorkPage() {
   const t = await getTranslations('work');
+  const tCase = await getTranslations('caseStudies');
+  const tCommon = await getTranslations('common');
 
   const services: ServiceItem[] = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11].map((i) => ({
     name: t(`services.items.${i}.name`),
@@ -22,10 +24,10 @@ export default async function WorkPage() {
   }));
 
   const completedItems = getCompletedWork().map((article) => ({
-    title: article.title,
+    title: tCase(`${article.slug}.title`),
     date: article.date,
     category: article.category,
-    excerpt: article.excerpt,
+    excerpt: tCase(`${article.slug}.excerpt`),
     slug: article.slug,
   }));
 
@@ -36,6 +38,7 @@ export default async function WorkPage() {
       processHeading={t('process.heading')}
       completedHeading={t('completed.heading')}
       completedItems={completedItems}
+      readMoreLabel={tCommon('readMore')}
     />
   );
 }

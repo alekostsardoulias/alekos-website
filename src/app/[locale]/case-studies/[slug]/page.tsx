@@ -35,12 +35,20 @@ export default async function CaseStudyPage({ params }: CaseStudyPageProps) {
 
   if (!article) notFound();
 
-  const { default: Content } = await import(
-    `@/content/articles/${slug}.mdx`
-  );
-
   const t = await getTranslations();
+  const tCase = await getTranslations('caseStudies');
   const isCompletedWork = (article as { type?: string }).type === 'completed-work';
+  const isEnglish = locale === 'en';
+
+  const translatedTitle = isEnglish ? article.title : tCase(`${slug}.title`);
+  const translatedExcerpt = isEnglish ? article.excerpt : tCase(`${slug}.excerpt`);
+  const translatedBody = isEnglish ? null : tCase(`${slug}.body`);
+
+  let Content: React.ComponentType | null = null;
+  if (isEnglish) {
+    const mod = await import(`@/content/articles/${slug}.mdx`);
+    Content = mod.default;
+  }
 
   const formattedDate = new Date(article.date).toLocaleDateString(
     locale === 'el' ? 'el-GR' : 'en-US',
@@ -59,7 +67,7 @@ export default async function CaseStudyPage({ params }: CaseStudyPageProps) {
 
         <header className="mb-8">
           <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-foreground mb-3">
-            {article.title}
+            {translatedTitle}
           </h1>
           <div className="flex items-center gap-3">
             <span className="text-lg text-muted">{formattedDate}</span>
@@ -75,7 +83,7 @@ export default async function CaseStudyPage({ params }: CaseStudyPageProps) {
         </header>
 
         <div className="prose-custom">
-          <Content />
+          {Content ? <Content /> : <p>{translatedBody}</p>}
         </div>
       </article>
       </section>

@@ -1029,23 +1029,7 @@
       ]
     },
     "completed": {
-      "heading": "Tamamlanan Projeler",
-      "items": [
-        {
-          "title": "Yapay Zeka Pazarlamayı Nasıl Değiştiriyor",
-          "date": "2026-06-15",
-          "category": "Teknoloji",
-          "excerpt": "YZ araçlarının dijital pazarlamayı nasıl dönüştürdüğüne dair bir analiz.",
-          "slug": "ai-marketing-2026"
-        },
-        {
-          "title": "2026'da Modern Web Geliştirme",
-          "date": "2026-05-20",
-          "category": "Teknoloji",
-          "excerpt": "Bugün web geliştirme için kullandığım araçlar, framework'ler ve uygulamalar.",
-          "slug": "modern-web-dev"
-        }
-      ]
+      "heading": "Tamamlanan Projeler"
     }
   },
   "articles": {
@@ -1123,5 +1107,27 @@
     "retry": "Tekrar dene",
     "back": "← Geri",
     "readMore": "Devamını oku"
+  },
+  "caseStudies": {
+    "project-alpha": {
+      "title": "Pazarlama Otomasyonu Platformu. Uçtan Uca Teslimat",
+      "excerpt": "Bir B2B müşteri için eksiksiz bir pazarlama otomasyonu platformu tasarlandı, geliştirildi ve devreye alındı. Gereksinim toplama ve mimariden lansmana ve yayın sonrası desteğe kadar. Altı ay süren yakın iş birliğiyle tamamlanan kapsamlı bir proje.",
+      "body": "Bu proje, bir müşteriyi sıfırdan tamamen operasyonel bir pazarlama otomasyonu sistemine taşımayı içeriyordu. Keşif atölyeleriyle başladık, mevcut manuel iş akışlarını haritaladık ve e-posta dizilerini, potansiyel müşteri puanlamasını ve CRM senkronizasyonunu otomatikleştiren bir çözüm tasarladık. Platform planlanan zamanda yayına alındı ve günde binlerce potansiyel müşteriyi işliyor."
+    },
+    "project-beta": {
+      "title": "E-Ticaret Platform Geçişi. Eski Altyapıdan Modern Teknoloji Yığınına",
+      "excerpt": "Eski bir e-ticaret platformu Next.js, Supabase ve Stripe ile modern bir teknoloji yığınına taşındı. Veri geçişi, SEO koruması ve kapsamlı bir arayüz yeniden tasarımı yapıldı. Tüm bunlar mevcut mağaza geçiş süresince kesintisiz çalışır halde tutularak gerçekleştirildi.",
+      "body": "Müşteri yavaş, bakımı zor ve büyümeyi sınırlayan eski bir platformda faaliyet gösteriyordu. Tüm mağazayı modern bir JAMstack mimarisine taşıdık; ürün verilerini, müşteri kayıtlarını ve sipariş geçmişini titizlikle aktardık. Yeni platform iki saniyenin altında yükleniyor ve lansmandan bu yana dönüşüm oranlarında %40 iyileşme sağladı."
+    },
+    "project-gamma": {
+      "title": "YZ Destekli Analitik Paneli. E-Tablolardan Akıllı İçgörülere",
+      "excerpt": "E-tablo raporları arasında boğulan orta ölçekli bir B2B şirketi için özel bir YZ analitik paneli geliştirildi. Otomatik veri alımı, makine öğrenmesi tabanlı anomali tespiti ve doğal dil sorgulama, haftalık 40 saati aşan manuel çalışmayı anlık içgörülerle değiştirdi.",
+      "body": "Orta ölçekli bir B2B şirketi raporlamalarını pazarlama, satış ve finans departmanlarında ayrı Excel dosyaları ve Google Dokümanları üzerinden yürütüyordu. Her hafta ekipler CRM, reklam platformları ve muhasebe yazılımlarından gelen verileri manuel olarak birleştirmek için 40 saatten fazla zaman harcıyordu. Tüm veri kaynaklarını otomatik olarak işleyen özel bir dahili panel geliştirdik. Makine öğrenmesi modelleri harcama anomalilerini tespit ediyor ve gelirleri kanal bazında gerçek zamanlı olarak tahmin ediyor. Yöneticiler \"üçüncü çeyrek gelirlerini bölgeye göre göster\" gibi soruları doğal dille soruyor ve anında görsel yanıtlar alıyor. Proje başlangıçtan devreye alımaya sekiz haftada tamamlandı. Raporlama süresi yüzde 90 azaldı. İlk haftasında anomali tespiti, ay sonuna kadar fark edilmeyecek yüzde 30'luk bir bütçe aşımını işaretledi."
+    },
+    "project-delta": {
+      "title": "Kapsamlı Marka Yenileme ve Dijital Dönüşüm. Stratejiden Uygulamaya",
+      "excerpt": "Büyüyen bir B2B şirketi için kapsamlı bir marka yenilemesi. Tutarsız bir görsel kimlik ve güncelliğini yitirmiş bir WordPress sitesinden, tutarlı bir marka sistemi, modern bir responsive web sitesi ve trafiği üçe katlayıp marka algısını yükselten bütünleşik bir pazarlama stratejisine geçiş.",
+      "body": "Büyüyen bir B2B teknoloji şirketi tanıdık bir sorunla bize geldi. Markaları yıllar içinde parça parça evrilmişti. Aktif kullanımda üç farklı logo varyasyonu vardı. Web siteleri, satış sunumları ve sosyal medya arasında renk paletleri çelişiyordu. WordPress siteleri yavaş ve güncelliğini yitirmişti. Her şeyi baştan ele almak için 10 haftalık bir çalışma yürüttük. Ekip yeni bir logo ve tipografi, renk, ses tonu ile uygulama kurallarını kapsayan eksiksiz marka kılavuzuna sahip bütünsel bir görsel kimlik sistemi tasarladı. Web sitesini Next.js ve Tailwind CSS ile sıfırdan yeniden inşa ederek hızlı ve duyarlı bir deneyim sunduk. Bütünleşik bir içerik ve sosyal medya stratejisi her kanalda tutarlılık sağladı. Marka tutarlılığı tüm temas noktalarında iyileşti. Web sitesi trafiği üç katına çıktı. Müşteri anketleri marka algısında ölçülebilir iyileşmeler gösterdi. Tüm bu geçiş süreci günlük operasyonlarını aksatmadan gerçekleşti."
+    }
   }
 }

@@ -47,6 +47,7 @@ interface WorkContentProps {
   processHeading: string;
   completedHeading: string;
   completedItems: CompletedItem[];
+  readMoreLabel: string;
 }
 
 // ── Service config: icon + color per service (index 0–11 from translations) ─
@@ -96,6 +97,7 @@ export function WorkContent({
   processHeading,
   completedHeading,
   completedItems,
+  readMoreLabel,
 }: WorkContentProps) {
   const t = useTranslations('work');
   const tc = useTranslations('articles.categories');
@@ -198,7 +200,7 @@ export function WorkContent({
                 </p>
 
                 <div className="flex items-center gap-1 mt-3 text-lg text-purple-400/60 group-hover:text-purple-400 transition-colors">
-                  <span>Read more</span>
+                  <span>{readMoreLabel}</span>
                   <ExternalLink size={12} />
                 </div>
               </div>

@@ -1029,23 +1029,7 @@
       ]
     },
     "completed": {
-      "heading": "Completed Projects",
-      "items": [
-        {
-          "title": "How AI Is Changing Marketing",
-          "date": "2026-06-15",
-          "category": "Technology",
-          "excerpt": "An analysis of how AI tools are transforming digital marketing.",
-          "slug": "ai-marketing-2026"
-        },
-        {
-          "title": "Modern Web Development in 2026",
-          "date": "2026-05-20",
-          "category": "Technology",
-          "excerpt": "The tools, frameworks, and practices I use for web development today.",
-          "slug": "modern-web-dev"
-        }
-      ]
+      "heading": "Afgeronde Projecten"
     }
   },
   "articles": {
@@ -1123,5 +1107,27 @@
     "retry": "Probeer opnieuw",
     "back": "← Terug",
     "readMore": "Lees meer"
+  },
+  "caseStudies": {
+    "project-alpha": {
+      "title": "Marketingautomatiseringsplatform. End-to-End Oplevering",
+      "excerpt": "Ontworpen, gebouwd en uitgerold: een compleet marketingautomatiseringsplatform voor een B2B-klant. Van behoefteanalyse en architectuur tot lancering en ondersteuning na de release. Een volledige opdracht van zes maanden intensieve samenwerking.",
+      "body": "Dit project bracht een klant van nul naar een volledig operationeel marketingautomatiseringssysteem. We begonnen met ontdekkingsworkshops, brachten hun bestaande handmatige workflows in kaart en ontwierpen een oplossing die e-mailreeksen, lead scoring en CRM-synchronisatie automatiseerde. Het platform werd op tijd gelanceerd en verwerkt dagelijks duizenden leads."
+    },
+    "project-beta": {
+      "title": "E-Commerce Herplatformering. Van Legacy naar Moderne Stack",
+      "excerpt": "Een legacy e-commerceplatform gemigreerd naar een moderne stack met Next.js, Supabase en Stripe. Datamigratie, SEO-behoud en een volledig UI-herontwerp. Dit alles terwijl de bestaande winkel operationeel bleef tijdens de overgang.",
+      "body": "De klant draaide op een verouderd platform dat traag was, moeilijk te onderhouden en groei belemmerde. We herbouwden de volledige winkel op een moderne JAMstack-architectuur, waarbij we productgegevens, klantrecords en orderhistorie zorgvuldig migreerden. Het nieuwe platform laadt in minder dan twee seconden en laat sinds de lancering een conversiestijging van 40% zien."
+    },
+    "project-gamma": {
+      "title": "AI-gestuurd Analytics Dashboard. Van Spreadsheets naar Intelligentie",
+      "excerpt": "Een AI-analyticsdashboard op maat gebouwd voor een middelgroot B2B-bedrijf dat verdronk in spreadsheetrapportages. Geautomatiseerde data-invoer, ML-gestuurde anomaliedetectie en natuurlijke-taalquery's vervingen 40+ uur wekelijks handwerk door directe inzichten.",
+      "body": "Een middelgroot B2B-bedrijf voerde hun rapportage uit op losse Excel-sheets en Google Docs verspreid over marketing, sales en finance. Teams besteedden wekelijks meer dan 40 uur aan het handmatig samenvoegen van data uit hun CRM, advertentieplatforms en boekhoudsoftware. We bouwden een intern dashboard op maat dat alle databronnen automatisch verwerkt. Machine learning-modellen detecteren uitgavenafwijkingen en voorspellen omzet per kanaal in realtime. Managers stellen vragen in gewone taal, zoals \"toon Q3-omzet per regio,\" en krijgen direct visuele antwoorden. Het project ging van kick-off naar livegang in acht weken. De rapportagetijd daalde met 90%. In de eerste week signaleerde de anomaliedetectie een budgetoverschrijding van 30% die anders pas aan het einde van de maand zou zijn opgemerkt."
+    },
+    "project-delta": {
+      "title": "Volledige Rebranding & Digitale Transformatie. Van Strategie tot Uitvoering",
+      "excerpt": "Een complete merkvernieuwing voor een groeiend B2B-bedrijf. Van een inconsistente visuele identiteit en verouderde WordPress-site naar een samenhangend merksysteem, een moderne responsive website en een eengemaakte marketingstrategie die het verkeer verdrievoudigde en de merkperceptie versterkte.",
+      "body": "Een groeiend B2B-technologiebedrijf kwam bij ons met een bekend probleem. Hun merk was in de loop der jaren stukje bij beetje gegroeid. Drie verschillende logovarianten waren actief in gebruik. Kleurenpaletten botsten op hun website, verkoopdecks en sociale media. Hun WordPress-site was traag en verouderd. We leidden een project van 10 weken om alles te vernieuwen. Het team ontwierp een nieuw logo en een compleet visueel identiteitssysteem met volledige merkrichtlijnen rond typografie, kleur, tone of voice en toepassingsregels. We herbouwden de website vanaf nul op Next.js en Tailwind CSS, wat een snelle, responsive ervaring opleverde. Een eengemaakte content- en socialemediastrategie bracht consistentie in elk kanaal. De merkconsistentie verbeterde op alle contactpunten. Het websiteverkeer verdrievoudigde. Klantonderzoeken lieten meetbare verbeteringen in merkperceptie zien. De volledige overgang vond plaats zonder de dagelijkse bedrijfsvoering te verstoren."
+    }
   }
 }

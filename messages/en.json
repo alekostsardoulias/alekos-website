@@ -1050,23 +1050,7 @@
       ]
     },
     "completed": {
-      "heading": "Completed Projects",
-      "items": [
-        {
-          "title": "How AI Is Changing Marketing",
-          "date": "2026-06-15",
-          "category": "Technology",
-          "excerpt": "An analysis of how AI tools are transforming digital marketing.",
-          "slug": "ai-marketing-2026"
-        },
-        {
-          "title": "Modern Web Development in 2026",
-          "date": "2026-05-20",
-          "category": "Technology",
-          "excerpt": "The tools, frameworks, and practices I use for web development today.",
-          "slug": "modern-web-dev"
-        }
-      ]
+      "heading": "Completed Projects"
     }
   },
   "articles": {
@@ -1144,5 +1128,27 @@
     "retry": "Try again",
     "back": "← Back",
     "readMore": "Read more"
+  },
+  "caseStudies": {
+    "project-alpha": {
+      "title": "Marketing Automation Platform. End-to-End Delivery",
+      "excerpt": "Designed, built, and deployed a complete marketing automation platform for a B2B client. From requirement gathering and architecture to launch and post-release support. A full-cycle engagement spanning six months of close collaboration.",
+      "body": "This project involved taking a client from zero to a fully operational marketing automation system. We started with discovery workshops, mapped their existing manual workflows, and designed a solution that automated email sequences, lead scoring, and CRM synchronization. The platform launched on schedule and processes thousands of leads daily."
+    },
+    "project-beta": {
+      "title": "E-Commerce Replatform. Legacy to Modern Stack",
+      "excerpt": "Migrated a legacy e-commerce platform to a modern stack with Next.js, Supabase, and Stripe. Handled data migration, SEO preservation, and a complete UI redesign. All while keeping the existing store operational throughout the transition.",
+      "body": "The client was running on an aging platform that was slow, hard to maintain, and limiting growth. We replatformed the entire store to a modern JAMstack architecture, carefully migrating product data, customer records, and order history. The new platform loads in under two seconds and has seen a 40% improvement in conversion rates since launch."
+    },
+    "project-gamma": {
+      "title": "AI-Powered Analytics Dashboard. From Spreadsheets to Intelligence.",
+      "excerpt": "Built a custom AI analytics dashboard for a mid-sized B2B company drowning in spreadsheet reports. Automated data ingestion, ML-driven anomaly detection, and natural language querying replaced 40+ hours of weekly manual work with instant insights.",
+      "body": "A mid-sized B2B company was running their reporting on separate Excel sheets and Google Docs across marketing, sales, and finance. Each week teams spent over 40 hours manually consolidating data from their CRM, ad platforms, and accounting software. We built a custom internal dashboard that ingests all data sources automatically. Machine learning models detect spend anomalies and forecast revenue by channel in real time. Managers ask questions in plain English, like \"show me Q3 revenue by region,\" and get instant visual answers. The project went from kickoff to deployment in eight weeks. Reporting time dropped by 90%. In its first week, the anomaly detection flagged a 30% budget overspend that would have gone unnoticed until month-end."
+    },
+    "project-delta": {
+      "title": "Full Rebrand & Digital Transformation. Strategy to Execution.",
+      "excerpt": "A complete brand overhaul for a growing B2B company. From an inconsistent visual identity and outdated WordPress site to a cohesive brand system, modern responsive website, and unified marketing strategy that tripled traffic and lifted brand perception.",
+      "body": "A growing B2B technology company came to us with a familiar problem. Their brand had evolved piecemeal over the years. Three different logo variations were in active use. Color palettes conflicted across their website, sales decks, and social media. Their WordPress site was slow and outdated. We led a 10-week engagement to overhaul everything. The team designed a new logo and a complete visual identity system with full brand guidelines covering typography, color, voice, and application rules. We rebuilt the website from scratch on Next.js and Tailwind CSS, delivering a fast, responsive experience. A unified content and social media strategy brought consistency across every channel. Brand consistency improved across all touchpoints. Website traffic tripled. Customer surveys showed measurable gains in brand perception. The entire transition happened without disrupting their day-to-day operations."
+    }
   }
 }

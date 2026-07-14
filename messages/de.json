@@ -458,23 +458,7 @@
       ]
     },
     "completed": {
-      "heading": "Abgeschlossene Projekte",
-      "items": [
-        {
-          "title": "Wie KI das Marketing verändert",
-          "date": "2026-06-15",
-          "category": "Technologie",
-          "excerpt": "Eine Analyse, wie KI-Tools das digitale Marketing verändern.",
-          "slug": "ai-marketing-2026"
-        },
-        {
-          "title": "Moderne Webentwicklung 2026",
-          "date": "2026-05-20",
-          "category": "Technologie",
-          "excerpt": "Die Tools und Frameworks, die ich heute für Webentwicklung verwende.",
-          "slug": "modern-web-dev"
-        }
-      ]
+      "heading": "Abgeschlossene Projekte"
     }
   },
   "articles": {
@@ -552,5 +536,27 @@
     "retry": "Erneut versuchen",
     "back": "← Zurück",
     "readMore": "Weiterlesen"
+  },
+  "caseStudies": {
+    "project-alpha": {
+      "title": "Marketing-Automatisierungsplattform. Von der Konzeption bis zum Live-Betrieb.",
+      "excerpt": "Konzipiert, entwickelt und bereitgestellt: eine vollständige Marketing-Automatisierungsplattform für einen B2B-Kunden. Von der Anforderungserhebung und Architekturplanung über den Launch bis zur fortlaufenden Betreuung. Ein Projekt über sechs Monate in enger Zusammenarbeit mit dem Kunden.",
+      "body": "Dieses Projekt führte einen Kunden vom Nullpunkt zu einem voll funktionsfähigen Marketing-Automatisierungssystem. Wir begannen mit Discovery-Workshops, kartierten die bestehenden manuellen Arbeitsabläufe und entwarfen eine Lösung, die E-Mail-Sequenzen, Lead-Scoring und CRM-Synchronisation automatisierte. Die Plattform ging planmäßig live und verarbeitet heute tausende Leads täglich."
+    },
+    "project-beta": {
+      "title": "E-Commerce-Replatforming. Vom Legacy-System zum modernen Tech-Stack.",
+      "excerpt": "Migration einer veralteten E-Commerce-Plattform auf einen modernen Stack mit Next.js, Supabase und Stripe. Inklusive Datenmigration, SEO-Erhalt und einem vollständigen UI-Redesign. Der bestehende Shop blieb während der gesamten Umstellung durchgehend in Betrieb.",
+      "body": "Der Kunde betrieb eine in die Jahre gekommene Plattform, die langsam, wartungsintensiv und wachstumshemmend war. Wir migrierten den gesamten Shop auf eine moderne JAMstack-Architektur und übertrugen dabei sorgfältig Produktdaten, Kundendatensätze und die Bestellhistorie. Die neue Plattform lädt in unter zwei Sekunden und verzeichnet seit dem Launch eine 40-prozentige Verbesserung der Conversion-Rate."
+    },
+    "project-gamma": {
+      "title": "KI-gestütztes Analyse-Dashboard. Von Tabellenchaos zu datenbasierten Entscheidungen.",
+      "excerpt": "Entwicklung eines maßgeschneiderten KI-Analyse-Dashboards für ein mittelständisches B2B-Unternehmen, das in endlosen Tabellenkalkulationen zu versinken drohte. Automatisierte Datenaufnahme, ML-basierte Anomalieerkennung und Abfragen in natürlicher Sprache ersetzten über 40 Stunden manuelle Wochenarbeit durch sofortige Erkenntnisse.",
+      "body": "Ein mittelständisches B2B-Unternehmen führte sein Reporting über separate Excel-Tabellen und Google Docs aus Marketing, Vertrieb und Finanzen. Wöchentlich verbrachten die Teams über 40 Stunden damit, Daten aus CRM, Werbeplattformen und Buchhaltungssoftware manuell zusammenzuführen. Wir entwickelten ein maßgeschneidertes internes Dashboard, das alle Datenquellen automatisch einliest. Machine-Learning-Modelle erkennen Ausgabenanomalien und prognostizieren Umsätze pro Kanal in Echtzeit. Führungskräfte stellen Fragen in natürlicher Sprache, etwa 'Zeig mir den Q3-Umsatz nach Region', und erhalten sofort visuelle Antworten. Das Projekt ging innerhalb von acht Wochen vom Kickoff bis zur Bereitstellung. Der Zeitaufwand für das Reporting sank um 90 Prozent. Bereits in der ersten Woche erkannte die Anomalieerkennung eine 30-prozentige Budgetüberschreitung, die sonst bis zum Monatsende unbemerkt geblieben wäre."
+    },
+    "project-delta": {
+      "title": "Komplettes Rebranding und digitale Transformation. Von der Strategie zur Umsetzung.",
+      "excerpt": "Eine vollständige Markenüberholung für ein wachsendes B2B-Unternehmen. Von einer inkonsistenten visuellen Identität und einer veralteten WordPress-Seite zu einem kohärenten Markensystem, einer modernen responsiven Website und einer vereinheitlichten Marketingstrategie, die den Traffic verdreifachte und die Markenwahrnehmung deutlich verbesserte.",
+      "body": "Ein wachsendes B2B-Technologieunternehmen kam mit einem typischen Problem zu uns. Seine Marke war über die Jahre stückweise gewachsen. Drei verschiedene Logovarianten waren gleichzeitig im Einsatz. Farbschemata widersprachen sich auf der Website, in Verkaufsdecks und in sozialen Medien. Die WordPress-Seite war langsam und veraltet. Wir führten ein zehnwöchiges Projekt zur vollständigen Überarbeitung durch. Das Team entwarf ein neues Logo und ein vollständiges visuelles Identitätssystem mit umfassenden Markenrichtlinien zu Typografie, Farbe, Tonalität und Anwendungsregeln. Die Website wurde von Grund auf mit Next.js und Tailwind CSS neu erstellt und liefert ein schnelles, responsives Erlebnis. Eine vereinheitlichte Content- und Social-Media-Strategie brachte Konsistenz über alle Kanäle. Die Markenkonsistenz verbesserte sich über sämtliche Berührungspunkte. Der Website-Traffic verdreifachte sich. Kundenbefragungen zeigten messbare Verbesserungen in der Markenwahrnehmung. Der gesamte Übergang erfolgte ohne Unterbrechung des laufenden Betriebs."
+    }
   }
 }

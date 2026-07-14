@@ -1050,23 +1050,7 @@
       ]
     },
     "completed": {
-      "heading": "Projets Réalisés",
-      "items": [
-        {
-          "title": "How AI Is Changing Marketing",
-          "date": "2026-06-15",
-          "category": "Technology",
-          "excerpt": "An analysis of how AI tools are transforming digital marketing.",
-          "slug": "ai-marketing-2026"
-        },
-        {
-          "title": "Modern Web Development in 2026",
-          "date": "2026-05-20",
-          "category": "Technology",
-          "excerpt": "The tools, frameworks, and practices I use for web development today.",
-          "slug": "modern-web-dev"
-        }
-      ]
+      "heading": "Projets Réalisés"
     }
   },
   "articles": {
@@ -1144,5 +1128,27 @@
     "retry": "Réessayer",
     "back": "← Retour",
     "readMore": "Lire plus"
+  },
+  "caseStudies": {
+    "project-alpha": {
+      "title": "Plateforme d'Automatisation Marketing. Livraison de Bout en Bout",
+      "excerpt": "Conception, développement et déploiement d'une plateforme complète d'automatisation marketing pour un client B2B. De la collecte des besoins et de l'architecture jusqu'au lancement et au support post-livraison. Un engagement complet de six mois en étroite collaboration.",
+      "body": "Ce projet a consisté à amener un client de zéro à un système d'automatisation marketing pleinement opérationnel. Nous avons commencé par des ateliers de découverte, cartographié leurs flux de travail manuels existants, et conçu une solution qui automatise les séquences d'emails, le scoring des leads et la synchronisation CRM. La plateforme a été lancée dans les délais et traite des milliers de leads par jour."
+    },
+    "project-beta": {
+      "title": "Migration E-Commerce. Passage d'un Système Legacy à une Stack Moderne",
+      "excerpt": "Migration d'une plateforme e-commerce legacy vers une stack moderne avec Next.js, Supabase et Stripe. Gestion de la migration des données, préservation du SEO et refonte complète de l'interface utilisateur. Le tout sans interrompre la boutique existante pendant la transition.",
+      "body": "Le client utilisait une plateforme vieillissante, lente, difficile à maintenir et qui freinait sa croissance. Nous avons migré l'ensemble de la boutique vers une architecture JAMstack moderne, en transférant soigneusement les données produits, les dossiers clients et l'historique des commandes. La nouvelle plateforme se charge en moins de deux secondes et a enregistré une amélioration de 40 % du taux de conversion depuis le lancement."
+    },
+    "project-gamma": {
+      "title": "Tableau de Bord Analytique IA. Des Feuilles de Calcul à l'Intelligence",
+      "excerpt": "Création d'un tableau de bord analytique IA sur mesure pour une PME B2B submergée par les rapports sur feuilles de calcul. L'ingestion automatisée des données, la détection d'anomalies par machine learning et les requêtes en langage naturel ont remplacé plus de 40 heures de travail manuel hebdomadaire par des insights instantanés.",
+      "body": "Une PME B2B gérait ses rapports sur des fichiers Excel et Google Docs séparés entre les départements marketing, ventes et finance. Chaque semaine, les équipes passaient plus de 40 heures à consolider manuellement les données de leur CRM, des plateformes publicitaires et du logiciel comptable. Nous avons construit un tableau de bord interne sur mesure qui ingère automatiquement toutes les sources de données. Des modèles de machine learning détectent les anomalies de dépenses et prévoient les revenus par canal en temps réel. Les managers posent des questions en langage naturel, comme « montre-moi le revenu du T3 par région », et obtiennent des réponses visuelles instantanées. Le projet est passé du lancement au déploiement en huit semaines. Le temps de reporting a chuté de 90 %. Dès la première semaine, la détection d'anomalies a signalé un dépassement budgétaire de 30 % qui serait passé inaperçu jusqu'à la fin du mois."
+    },
+    "project-delta": {
+      "title": "Refonte Complète de Marque & Transformation Numérique. De la Stratégie à l'Exécution",
+      "excerpt": "Une refonte complète de marque pour une entreprise B2B en croissance. D'une identité visuelle incohérente et d'un site WordPress obsolète à un système de marque cohérent, un site web moderne et responsive, et une stratégie marketing unifiée qui a triplé le trafic et amélioré la perception de la marque.",
+      "body": "Une entreprise technologique B2B en croissance est venue nous voir avec un problème familier. Leur marque avait évolué de manière fragmentaire au fil des ans. Trois variantes différentes du logo étaient utilisées simultanément. Les palettes de couleurs étaient en conflit entre leur site web, leurs présentations commerciales et leurs réseaux sociaux. Leur site WordPress était lent et obsolète. Nous avons mené un engagement de 10 semaines pour tout repenser. L'équipe a conçu un nouveau logo et un système d'identité visuelle complet avec des guidelines de marque détaillées couvrant la typographie, la couleur, le ton et les règles d'application. Nous avons reconstruit le site web de zéro avec Next.js et Tailwind CSS, offrant une expérience rapide et responsive. Une stratégie unifiée de contenu et de médias sociaux a apporté de la cohérence sur tous les canaux. La cohérence de la marque s'est améliorée sur tous les points de contact. Le trafic du site a triplé. Les enquêtes clients ont montré des gains mesurables dans la perception de la marque. L'ensemble de la transition s'est déroulé sans perturber leurs opérations quotidiennes."
+    }
   }
 }
