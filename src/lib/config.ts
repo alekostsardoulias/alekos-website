@@ -7,7 +7,7 @@
 export const HERO_IMAGE = '/images/profile.webp';
 
 /** Site URL for metadata and sitemap */
-export const SITE_URL = 'https://alexist.dev';
+export const SITE_URL = 'https://alekostsardoulias.eu';
 
 /** Site owner name */
 export const SITE_OWNER = 'Αλέξανδρος Τσαρδούλιας';
